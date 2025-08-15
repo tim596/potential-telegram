@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} | A Bedder World - Nationwide Mattress Recycling</title>
+    <meta name="description" content="{{ description or 'Professional mattress removal and eco-friendly recycling service starting at $125. Next-day pickup, licensed & insured, serving all major US cities.' }}">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:url" content="https://abedderworld.com{{ page.url }}">
+    <meta property="og:image" content="https://abedderworld.com/images/og-image.jpg">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://abedderworld.com{{ page.url }}">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    
+    <!-- Preconnect to external domains -->
+    <link rel="preconnect" href="https://cdn.zenbooker.com">
+    <link rel="dns-prefetch" href="https://cdn.zenbooker.com">
+    
+    <!-- Zenbooker CSS -->
+    <link href="https://cdn.zenbooker.com/widget/latest/zenbooker.css" rel="stylesheet">
+    
+    <!-- Main CSS -->
+    <style>
+        {% include "css/main.css" %}
+    </style>
+    
+    <!-- Schema.org JSON-LD -->
+    {% if schema %}
+    <script type="application/ld+json">
+    {{ schema | safe }}
+    </script>
+    {% endif %}
+    
+    <!-- Global Schema for Organization -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "A Bedder World",
+      "url": "https://abedderworld.com",
+      "logo": "https://abedderworld.com/images/logo-2.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+1-720-263-6094",
+        "contactType": "customer service",
+        "availableLanguage": "English",
+        "areaServed": "US"
+      },
+      "sameAs": [
+        "https://www.facebook.com/abedderworld",
+        "https://twitter.com/abedderworld",
+        "https://www.instagram.com/abedderworld"
+      ]
+    }
+    </script>
+</head>
+<body>
+    <!-- Top Bar -->
+    <div class="top-bar">
+        <div class="container">
+            <div class="top-bar-content">
+                <div class="top-bar-left">
+                    <span class="top-bar-item">
+                        <img src="/images/icons/location-icon.png" alt="Location" width="18" height="18" loading="lazy"> 
+                        Serving All 50 States
+                    </span>
+                    <span class="top-bar-item">
+                        <img src="/images/icons/check-mark-icon.png" alt="Check" width="18" height="18" loading="lazy"> 
+                        Starting at ${{ pricing.startingPrice }}
+                    </span>
+                    <span class="top-bar-item">
+                        <img src="/images/icons/recycle-mattress-icon-1.png" alt="Recycle" width="18" height="18" loading="lazy"> 
+                        1M+ Mattresses Recycled
+                    </span>
+                </div>
+                <div class="top-bar-right">
+                    <a href="tel:7202636094" class="top-bar-phone">
+                        <img src="/images/icons/phone-icon.png" alt="Phone" width="18" height="18" loading="lazy">
+                        (720) 263-6094
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="main-header">
+        <div class="container">
+            <nav class="nav-container">
+                <div class="logo">
+                    <a href="/">
+                        <img src="/images/logo-2.png" alt="A Bedder World" class="logo-image" width="240" height="72">
+                    </a>
+                </div>
+                
+                <button class="mobile-menu-toggle" aria-label="Toggle menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                
+                <div class="nav-menu">
+                    <a href="/how-it-works/" class="nav-link">How It Works</a>
+                    <a href="/what-we-take/" class="nav-link">What We Take</a>
+                    <a href="/pricing/" class="nav-link">Pricing</a>
+                    <a href="/mattress-removal/" class="nav-link">Service Areas</a>
+                    <a href="/commercial/" class="nav-link">Commercial</a>
+                    <a href="/about/" class="nav-link">About</a>
+                    <a href="/contact/" class="nav-link">Contact</a>
+                    <a href="#" class="btn btn-primary zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">Book Online</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        {{ content | safe }}
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-top">
+                <div class="footer-column">
+                    <img src="/images/logo-2.png" alt="A Bedder World" class="footer-logo" width="180" height="54" loading="lazy">
+                    <p class="footer-description">
+                        Professional mattress removal and eco-friendly recycling service. 
+                        Licensed, insured, and committed to environmental responsibility.
+                    </p>
+                    <div class="footer-pricing">
+                        <strong>Starting at ${{ pricing.startingPrice }}</strong> for mattress removal
+                    </div>
+                    <div class="footer-social">
+                        <a href="#" aria-label="Facebook">FB</a>
+                        <a href="#" aria-label="Twitter">TW</a>
+                        <a href="#" aria-label="Instagram">IG</a>
+                    </div>
+                </div>
+                
+                <div class="footer-column">
+                    <h3>Services</h3>
+                    <ul>
+                        <li><a href="/how-it-works/">How It Works</a></li>
+                        <li><a href="/what-we-take/">What We Take</a></li>
+                        <li><a href="/pricing/">Pricing</a></li>
+                        <li><a href="/mattress-removal/">Mattress Removal</a></li>
+                        <li><a href="/commercial/">Commercial Services</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-column">
+                    <h3>Popular Cities</h3>
+                    <ul>
+                        <li><a href="/mattress-removal/california/los-angeles/">Los Angeles, CA</a></li>
+                        <li><a href="/mattress-removal/texas/houston/">Houston, TX</a></li>
+                        <li><a href="/mattress-removal/new-york/new-york-city/">New York, NY</a></li>
+                        <li><a href="/mattress-removal/illinois/chicago/">Chicago, IL</a></li>
+                        <li><a href="/mattress-removal/arizona/phoenix/">Phoenix, AZ</a></li>
+                        <li><a href="/mattress-removal/">View All Cities</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-column">
+                    <h3>Company</h3>
+                    <ul>
+                        <li><a href="/about/">About Us</a></li>
+                        <li><a href="/blog/">Blog</a></li>
+                        <li><a href="/contact/">Contact</a></li>
+                        <li><a href="/faqs/">FAQs</a></li>
+                        <li><a href="/cancellation-policy/">Cancellation Policy</a></li>
+                        <li><a href="/privacy/">Privacy Policy</a></li>
+                        <li><a href="/terms/">Terms of Service</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; {% currentYear %} A Bedder World. All rights reserved. | Professional Mattress Removal Starting at ${{ pricing.startingPrice }}</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Zenbooker Script -->
+    <script src="https://cdn.zenbooker.com/widget/latest/zenbooker.js" async></script>
+    
+    <!-- Main JavaScript -->
+    <script>
+        // Mobile menu toggle
+        document.querySelector('.mobile-menu-toggle').addEventListener('click', function() {
+            document.querySelector('.nav-menu').classList.toggle('active');
+            this.classList.toggle('active');
+        });
+        
+        // Lazy load images
+        if ('loading' in HTMLImageElement.prototype) {
+            const images = document.querySelectorAll('img[loading="lazy"]');
+            images.forEach(img => {
+                img.src = img.src;
+            });
+        } else {
+            // Fallback for browsers that don't support lazy loading
+            const script = document.createElement('script');
+            script.src = 'https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.3.2/lazysizes.min.js';
+            document.body.appendChild(script);
+        }
+    </script>
+</body>
+</html>

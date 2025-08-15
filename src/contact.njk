@@ -1,0 +1,883 @@
+---
+layout: base.njk
+title: Contact Us - Get Help with Mattress Removal
+description: Contact A Bedder World for mattress removal questions, support, or to schedule service. Multiple ways to reach us including phone, email, and contact form.
+---
+
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+    <div class="container">
+        <a href="/">Home</a>
+        <span>›</span>
+        <span>Contact</span>
+    </div>
+</div>
+
+<!-- Hero Section -->
+<section class="hero hero-with-image" style="background-image: url('/images/lifestyle/customer-service-1.png')">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title">Contact Us</h1>
+            <p class="hero-subtitle">Get help with your mattress removal needs</p>
+            <p class="hero-description">
+                Have questions about our service? Need help with scheduling or special requests? 
+                Our friendly customer service team is here to help you every step of the way. 
+                Multiple contact options available for your convenience.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Methods -->
+<section class="contact-methods-section section">
+    <div class="container">
+        <h2 class="section-title">Ways to Reach Us</h2>
+        <div class="contact-methods-grid">
+            <div class="contact-method-card">
+                <div class="contact-method-icon">
+                    <img src="/images/icons/book-online-icon.png" alt="Phone" width="48" height="48">
+                </div>
+                <h3>Call Us</h3>
+                <p class="contact-method-description">Speak directly with our customer service team</p>
+                <div class="contact-method-details">
+                    <a href="tel:7202636094" class="contact-detail-link">(720) 263-6094</a>
+                    <p class="contact-hours">Mon-Sun: 7am-7pm</p>
+                    <p class="contact-note">Average wait time: Under 2 minutes</p>
+                </div>
+                <a href="tel:7202636094" class="btn btn-primary">Call Now</a>
+            </div>
+
+            <div class="contact-method-card">
+                <div class="contact-method-icon">
+                    <img src="/images/icons/book-online-icon.png" alt="Book Online" width="48" height="48">
+                </div>
+                <h3>Book Online</h3>
+                <p class="contact-method-description">Schedule your pickup instantly</p>
+                <div class="contact-method-details">
+                    <p class="contact-detail-link">Available 24/7</p>
+                    <p class="contact-hours">Instant confirmation</p>
+                    <p class="contact-note">Complete in 60 seconds</p>
+                </div>
+                <button class="btn btn-primary zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                    Book Now
+                </button>
+            </div>
+
+            <div class="contact-method-card">
+                <div class="contact-method-icon">
+                    <img src="/images/icons/location-icon.png" alt="Email" width="48" height="48">
+                </div>
+                <h3>Email Support</h3>
+                <p class="contact-method-description">Send detailed questions or requests</p>
+                <div class="contact-method-details">
+                    <a href="mailto:support@abedderworld.com" class="contact-detail-link">support@abedderworld.com</a>
+                    <p class="contact-hours">24/7 submission</p>
+                    <p class="contact-note">Response time: Under 4 hours</p>
+                </div>
+                <a href="mailto:support@abedderworld.com" class="btn btn-primary">Send Email</a>
+            </div>
+
+            <div class="contact-method-card">
+                <div class="contact-method-icon">
+                    <img src="/images/icons/home-icon.png" alt="Form" width="48" height="48">
+                </div>
+                <h3>Contact Form</h3>
+                <p class="contact-method-description">Submit detailed inquiries online</p>
+                <div class="contact-method-details">
+                    <p class="contact-detail-link">Secure online form below</p>
+                    <p class="contact-hours">24/7 submission</p>
+                    <p class="contact-note">Response time: Under 2 hours</p>
+                </div>
+                <a href="#contact-form" class="btn btn-primary" onclick="document.getElementById('contact-form').scrollIntoView({behavior: 'smooth'});">
+                    Use Form
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Service Area Lookup -->
+<section class="service-area-section section" style="background-color: var(--gray-50);">
+    <div class="container">
+        <div class="service-area-content">
+            <div class="service-area-text">
+                <h2>Check Service Availability</h2>
+                <p class="lead">Enter your zip code to confirm service in your area and see local pricing.</p>
+                <div class="service-area-features">
+                    <div class="service-area-feature">
+                        <span class="feature-icon">🗺️</span>
+                        <div>
+                            <strong>275+ Cities Served</strong>
+                            <p>Coverage across all 50 states</p>
+                        </div>
+                    </div>
+                    <div class="service-area-feature">
+                        <span class="feature-icon">📍</span>
+                        <div>
+                            <strong>Local Pricing</strong>
+                            <p>Regional rates and availability</p>
+                        </div>
+                    </div>
+                    <div class="service-area-feature">
+                        <span class="feature-icon">⚡</span>
+                        <div>
+                            <strong>Same-Day Service</strong>
+                            <p>Available in most areas</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="service-area-lookup">
+                <div class="lookup-form">
+                    <h3>Service Area Lookup</h3>
+                    <form class="zip-lookup-form">
+                        <div class="form-group">
+                            <label for="zip-code">ZIP Code</label>
+                            <input type="text" id="zip-code" name="zip-code" placeholder="Enter your ZIP code" maxlength="5" pattern="[0-9]{5}" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-lg">Check Availability</button>
+                    </form>
+                    <div class="lookup-result" id="lookup-result" style="display: none;">
+                        <div class="result-success">
+                            <h4>✓ Service Available!</h4>
+                            <p>We provide service in your area. Same-day pickup available.</p>
+                            <button class="btn btn-secondary zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                                Book Now
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact Form -->
+<section id="contact-form" class="contact-form-section section">
+    <div class="container">
+        <div class="contact-form-content">
+            <div class="contact-form-text">
+                <h2>Send Us a Message</h2>
+                <p class="lead">Have a specific question or special request? Fill out the form and we'll get back to you quickly.</p>
+                
+                <div class="contact-form-info">
+                    <h4>Common Inquiries</h4>
+                    <ul>
+                        <li><strong>Bulk/Commercial Requests:</strong> Volume pricing and scheduling</li>
+                        <li><strong>Special Access:</strong> High-rise, narrow spaces, difficult locations</li>
+                        <li><strong>Custom Items:</strong> Unusual mattresses or furniture items</li>
+                        <li><strong>Scheduling:</strong> Specific time windows or coordination</li>
+                        <li><strong>Billing:</strong> Invoice requests or payment questions</li>
+                    </ul>
+                </div>
+                
+                <div class="contact-guarantee">
+                    <h4>Our Response Guarantee</h4>
+                    <p>We respond to all inquiries within 2 hours during business hours, and within 4 hours on weekends. Urgent requests get priority handling.</p>
+                </div>
+            </div>
+            
+            <div class="contact-form-container">
+                <form class="contact-form" id="main-contact-form">
+                    <h3>Contact Form</h3>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="first-name">First Name *</label>
+                            <input type="text" id="first-name" name="first-name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="last-name">Last Name *</label>
+                            <input type="text" id="last-name" name="last-name" required>
+                        </div>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="email">Email Address *</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone Number</label>
+                            <input type="tel" id="phone" name="phone" placeholder="(555) 123-4567">
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="location">City, State</label>
+                        <input type="text" id="location" name="location" placeholder="e.g., Denver, CO">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="inquiry-type">Inquiry Type</label>
+                        <select id="inquiry-type" name="inquiry-type">
+                            <option value="general">General Question</option>
+                            <option value="booking">Booking Assistance</option>
+                            <option value="commercial">Commercial/Bulk Service</option>
+                            <option value="special-request">Special Request</option>
+                            <option value="complaint">Service Complaint</option>
+                            <option value="compliment">Compliment/Feedback</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="subject">Subject *</label>
+                        <input type="text" id="subject" name="subject" placeholder="Brief description of your inquiry" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message">Message *</label>
+                        <textarea id="message" name="message" rows="6" placeholder="Please provide details about your inquiry, including any specific requirements or questions you have." required></textarea>
+                    </div>
+                    
+                    <div class="form-group checkbox-group">
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="newsletter" name="newsletter">
+                            <span class="checkmark"></span>
+                            Subscribe to occasional service updates and tips
+                        </label>
+                    </div>
+                    
+                    <button type="submit" class="btn btn-primary btn-lg">Send Message</button>
+                    
+                    <div class="form-note">
+                        <small>* Required fields. We typically respond within 2 hours. Your information is kept confidential and never shared.</small>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Emergency Contact -->
+<section class="emergency-contact-section section" style="background-color: var(--gray-50);">
+    <div class="container">
+        <div class="emergency-contact-content">
+            <h2>Need Urgent Assistance?</h2>
+            <p>For time-sensitive requests or same-day service needs:</p>
+            <div class="emergency-contact-actions">
+                <a href="tel:7202636094" class="btn btn-primary btn-lg">
+                    📞 Call (720) 263-6094
+                </a>
+                <button class="btn btn-secondary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                    📅 Book Online
+                </button>
+            </div>
+            <p class="emergency-note">Available 7 days a week • Next-day service in most areas</p>
+        </div>
+    </div>
+</section>
+
+<!-- Business Information -->
+<section class="business-info-section section">
+    <div class="container">
+        <div class="business-info-grid">
+            <div class="business-info-card">
+                <h3>Business Hours</h3>
+                <div class="hours-list">
+                    <div class="hours-row">
+                        <span>Monday - Friday</span>
+                        <span>7:00 AM - 7:00 PM</span>
+                    </div>
+                    <div class="hours-row">
+                        <span>Saturday</span>
+                        <span>8:00 AM - 6:00 PM</span>
+                    </div>
+                    <div class="hours-row">
+                        <span>Sunday</span>
+                        <span>9:00 AM - 5:00 PM</span>
+                    </div>
+                </div>
+                <p class="hours-note">Holiday hours may vary. Service available 7 days a week.</p>
+            </div>
+            
+            <div class="business-info-card">
+                <h3>Service Coverage</h3>
+                <div class="coverage-stats">
+                    <div class="coverage-stat">
+                        <span class="stat-number">275+</span>
+                        <span class="stat-label">Cities Served</span>
+                    </div>
+                    <div class="coverage-stat">
+                        <span class="stat-number">50</span>
+                        <span class="stat-label">States Covered</span>
+                    </div>
+                    <div class="coverage-stat">
+                        <span class="stat-number">1M+</span>
+                        <span class="stat-label">Customers Served</span>
+                    </div>
+                </div>
+                <a href="/mattress-removal/" class="btn btn-secondary">View All Locations</a>
+            </div>
+            
+            <div class="business-info-card">
+                <h3>Company Information</h3>
+                <div class="company-details">
+                    <p><strong>A Bedder World LLC</strong></p>
+                    <p>Nationwide Mattress Recycling Service</p>
+                    <p>Licensed • Bonded • Insured</p>
+                    <p>Founded: 2015</p>
+                    <p>1M+ Mattresses Recycled</p>
+                </div>
+                <a href="/about/" class="btn btn-secondary">About Our Company</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+/* Contact Page Styles */
+
+/* Contact Methods Grid */
+.contact-methods-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 32px;
+    margin-top: 48px;
+}
+
+.contact-method-card {
+    background: white;
+    border-radius: 20px;
+    padding: 2.5rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    border: 1px solid rgba(171, 195, 57, 0.1);
+    transition: all 0.3s ease;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.contact-method-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--primary-green) 0%, #8fa52e 100%);
+}
+
+.contact-method-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+    border-color: var(--primary-green);
+}
+
+.contact-method-icon {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(135deg, rgba(171, 195, 57, 0.1) 0%, rgba(171, 195, 57, 0.05) 100%);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.contact-method-card:hover .contact-method-icon {
+    background: linear-gradient(135deg, rgba(171, 195, 57, 0.2) 0%, rgba(171, 195, 57, 0.1) 100%);
+    transform: scale(1.05);
+}
+
+.contact-method-icon img {
+    filter: brightness(0) saturate(100%) invert(68%) sepia(56%) saturate(434%) hue-rotate(66deg) brightness(91%) contrast(88%);
+}
+
+.contact-method-card h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--gray-800);
+    margin-bottom: 1rem;
+}
+
+.contact-method-description {
+    color: var(--gray-600);
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.contact-method-details {
+    margin-bottom: 2rem;
+}
+
+.contact-detail-link {
+    color: var(--primary-green);
+    font-weight: 700;
+    font-size: 1.125rem;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.contact-detail-link:hover {
+    color: var(--primary-green-dark);
+}
+
+.contact-hours {
+    color: var(--gray-700);
+    margin: 8px 0;
+    font-weight: 600;
+}
+
+.contact-note {
+    color: var(--gray-500);
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+/* Service Area Section */
+.service-area-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+    align-items: start;
+}
+
+.service-area-text h2 {
+    font-size: 2.5rem;
+    margin-bottom: 24px;
+    color: var(--gray-900);
+}
+
+.service-area-text .lead {
+    font-size: 1.25rem;
+    color: var(--gray-600);
+    margin-bottom: 32px;
+    line-height: 1.6;
+}
+
+.service-area-features {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.service-area-feature {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    padding: 16px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.feature-icon {
+    font-size: 2rem;
+    flex-shrink: 0;
+}
+
+.service-area-feature strong {
+    color: var(--gray-800);
+    display: block;
+    margin-bottom: 4px;
+}
+
+.service-area-feature p {
+    color: var(--gray-600);
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.lookup-form {
+    background: white;
+    border-radius: 20px;
+    padding: 2.5rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    border: 1px solid rgba(171, 195, 57, 0.1);
+}
+
+.lookup-form h3 {
+    font-size: 1.5rem;
+    margin-bottom: 24px;
+    color: var(--gray-800);
+    text-align: center;
+}
+
+.lookup-result {
+    margin-top: 24px;
+    padding: 20px;
+    background: rgba(171, 195, 57, 0.1);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.result-success h4 {
+    color: var(--primary-green);
+    margin-bottom: 12px;
+}
+
+.result-success p {
+    color: var(--gray-700);
+    margin-bottom: 16px;
+}
+
+/* Contact Form */
+.contact-form-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+    align-items: start;
+}
+
+.contact-form-text h2 {
+    font-size: 2.5rem;
+    margin-bottom: 24px;
+    color: var(--gray-900);
+}
+
+.contact-form-text .lead {
+    font-size: 1.25rem;
+    color: var(--gray-600);
+    margin-bottom: 32px;
+    line-height: 1.6;
+}
+
+.contact-form-info {
+    margin-bottom: 32px;
+}
+
+.contact-form-info h4 {
+    color: var(--gray-800);
+    margin-bottom: 16px;
+}
+
+.contact-form-info ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-form-info li {
+    padding: 8px 0;
+    color: var(--gray-700);
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.contact-guarantee {
+    background: rgba(171, 195, 57, 0.05);
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 4px solid var(--primary-green);
+}
+
+.contact-guarantee h4 {
+    color: var(--gray-800);
+    margin-bottom: 12px;
+}
+
+.contact-guarantee p {
+    color: var(--gray-700);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.contact-form-container {
+    background: white;
+    border-radius: 20px;
+    padding: 2.5rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    border: 1px solid rgba(171, 195, 57, 0.1);
+}
+
+.contact-form h3 {
+    font-size: 1.5rem;
+    margin-bottom: 24px;
+    color: var(--gray-800);
+    text-align: center;
+}
+
+.form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: var(--gray-700);
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid var(--gray-200);
+    border-radius: 8px;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--primary-green);
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+
+.checkbox-label input[type="checkbox"] {
+    width: auto;
+    margin: 0;
+}
+
+.form-note {
+    margin-top: 16px;
+    text-align: center;
+}
+
+.form-note small {
+    color: var(--gray-500);
+    line-height: 1.4;
+}
+
+/* Emergency Contact */
+.emergency-contact-content {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.emergency-contact-content h2 {
+    color: var(--gray-900);
+    margin-bottom: 16px;
+    font-size: 2rem;
+}
+
+.emergency-contact-content p {
+    color: var(--gray-700);
+    margin-bottom: 32px;
+    font-size: 1.125rem;
+}
+
+.emergency-contact-actions {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+}
+
+.emergency-note {
+    color: var(--gray-600);
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+/* Business Info Grid */
+.business-info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 32px;
+    margin-top: 48px;
+}
+
+.business-info-card {
+    background: white;
+    border-radius: 16px;
+    padding: 32px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    border: 1px solid rgba(171, 195, 57, 0.1);
+    transition: all 0.3s ease;
+}
+
+.business-info-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 32px rgba(0,0,0,0.15);
+    border-color: var(--primary-green);
+}
+
+.business-info-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 24px;
+    color: var(--gray-800);
+    text-align: center;
+}
+
+.hours-list {
+    margin-bottom: 20px;
+}
+
+.hours-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid var(--gray-100);
+}
+
+.hours-row:last-child {
+    border-bottom: none;
+}
+
+.hours-note {
+    color: var(--gray-600);
+    font-size: 0.9rem;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.coverage-stats {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.coverage-stat {
+    text-align: center;
+    padding: 16px;
+    background: rgba(171, 195, 57, 0.05);
+    border-radius: 8px;
+}
+
+.coverage-stat .stat-number {
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--primary-green);
+    display: block;
+    margin-bottom: 4px;
+}
+
+.coverage-stat .stat-label {
+    font-size: 0.9rem;
+    color: var(--gray-600);
+    font-weight: 600;
+}
+
+.company-details {
+    margin-bottom: 24px;
+}
+
+.company-details p {
+    margin-bottom: 8px;
+    color: var(--gray-700);
+}
+
+.business-info-card .btn {
+    width: 100%;
+    justify-content: center;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .contact-methods-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .service-area-content {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+    
+    .contact-form-content {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+    
+    .form-row {
+        grid-template-columns: 1fr;
+    }
+    
+    .emergency-contact-actions {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .emergency-contact-actions .btn {
+        width: 100%;
+        max-width: 300px;
+    }
+    
+    .business-info-grid {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
+
+<script>
+// ZIP Code Lookup Functionality
+document.querySelector('.zip-lookup-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    
+    const zipCode = document.getElementById('zip-code').value;
+    const resultDiv = document.getElementById('lookup-result');
+    
+    if (zipCode && zipCode.length === 5) {
+        // Simulate lookup (in real implementation, this would call an API)
+        setTimeout(() => {
+            resultDiv.style.display = 'block';
+            resultDiv.scrollIntoView({ behavior: 'smooth' });
+        }, 500);
+    } else {
+        alert('Please enter a valid 5-digit ZIP code.');
+    }
+});
+
+// Contact Form Handling
+document.getElementById('main-contact-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    
+    // Get form data
+    const formData = new FormData(this);
+    const data = {};
+    for (let [key, value] of formData.entries()) {
+        data[key] = value;
+    }
+    
+    // Simulate form submission
+    const submitButton = this.querySelector('button[type="submit"]');
+    const originalText = submitButton.textContent;
+    
+    submitButton.textContent = 'Sending...';
+    submitButton.disabled = true;
+    
+    setTimeout(() => {
+        alert('Thank you for your message! We\'ll respond within 2 hours during business hours.');
+        this.reset();
+        submitButton.textContent = originalText;
+        submitButton.disabled = false;
+    }, 1500);
+});
+
+// Auto-format phone number
+document.getElementById('phone').addEventListener('input', function(e) {
+    let value = e.target.value.replace(/\D/g, '');
+    if (value.length >= 6) {
+        value = `(${value.slice(0,3)}) ${value.slice(3,6)}-${value.slice(6,10)}`;
+    } else if (value.length >= 3) {
+        value = `(${value.slice(0,3)}) ${value.slice(3)}`;
+    }
+    e.target.value = value;
+});
+
+// ZIP code validation
+document.getElementById('zip-code').addEventListener('input', function(e) {
+    e.target.value = e.target.value.replace(/\D/g, '').slice(0, 5);
+});
+</script>
