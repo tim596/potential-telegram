@@ -1,0 +1,166 @@
+---
+layout: location.njk
+title: "Mattress Removal in Janesville, WI - Next-Day Pickup Service"
+description: "Professional mattress removal in Janesville, Wisconsin. Licensed waste haulers serving Rock County with next-day pickup. City Ordinance 30-43 compliant transportation and disposal."
+permalink: "/mattress-removal/wisconsin/janesville/"
+city: "Janesville"
+state: "Wisconsin"
+stateSlug: "wisconsin"
+coordinates:
+  lat: 42.6828
+  lng: -89.0187
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+
+neighborhoods:
+  - name: "Courthouse Hill Historic District"
+    zipCodes: ["53545"]
+  - name: "Palmer Park Area"  
+    zipCodes: ["53545"]
+  - name: "Harmony Hall"
+    zipCodes: ["53545"]
+  - name: "Columbus Circle"
+    zipCodes: ["53545"]
+  - name: "East Side"
+    zipCodes: ["53546"]
+  - name: "West Side Industrial"
+    zipCodes: ["53546"]
+  - name: "North Janesville"
+    zipCodes: ["53546"]
+  - name: "South Janesville"
+    zipCodes: ["53545"]
+  - name: "River View"
+    zipCodes: ["53545"]
+  - name: "Holiday Hills"
+    zipCodes: ["53545"]
+  - name: "Sunset Heights"
+    zipCodes: ["53546"]
+  - name: "Forest Park"
+    zipCodes: ["53546"]
+  - name: "Midvale"
+    zipCodes: ["53545"]
+  - name: "Riverside Terrace"
+    zipCodes: ["53545"]
+  - name: "Meadowbrook"
+    zipCodes: ["53546"]
+
+zipCodes:
+  - "53545"
+  - "53546"
+  - "53563"
+
+recyclingPartners:
+  - "City of Janesville Sanitary Landfill"
+  - "Rock County Clean Sweep Program"
+  - "GFL Environmental Janesville"
+  - "Waste Management Wisconsin"
+
+localRegulations: "Rock County operates under Wisconsin waste management statutes requiring proper transportation covering per Janesville City Ordinance 30-43, with all haulers retrieving any items falling during transport. The City of Janesville's sanitary landfill at 525 Black Bridge Road serves as the primary disposal facility, following specific wrapping and preparation requirements for mattress disposal. Wisconsin recycling laws prohibit mattresses in standard municipal collection, requiring licensed haulers for proper disposal. Our service eliminates coordination complexities with city facilities, municipal ordinance compliance, Rock County regulations, and specialized transportation requirements, providing convenient pickup that supports local waste management goals while meeting all regulatory standards throughout Janesville's post-industrial economic landscape."
+
+nearbyCities:
+  - name: "Madison"
+    distance: "40 miles"
+    isSuburb: false
+  - name: "Beloit"
+    distance: "15 miles"
+    isSuburb: false
+  - name: "Milton"
+    distance: "12 miles"
+    isSuburb: false
+
+reviews:
+  count: 341
+  featured:
+
+# Page Content
+pageContent:
+  heroSection:
+    headline: "Mattress Removal in Janesville, WI"
+    subheadline: "Licensed waste haulers serving Rock County with next-day pickup"
+    content: "Professional mattress disposal in Janesville requires more than just pickup - it demands compliance with City Ordinance 30-43 for covered transportation and proper disposal at the city's sanitary landfill. Our licensed haulers navigate Rock County's waste management requirements while providing the reliable service Janesville residents expect."
+
+  serviceSection:
+    title: "Rock County Compliant Mattress Removal"
+    content: "Since GM's 2008 plant closure reshaped Janesville's economy, residents have needed practical, affordable services more than ever. Our mattress removal addresses the challenge many face: the City of Janesville won't accept mattresses through regular collection, dumpsters typically refuse them, and improper disposal risks fines under municipal ordinances.
+
+We coordinate with the city's sanitary landfill at 525 Black Bridge Road, following transportation requirements that mandate covered loads during transport. This compliance matters in a community rebuilding after economic upheaval, where every service provider must prove their value through reliability and professionalism.
+
+Our next-day pickup works around Janesville's industrial schedule. Whether you're in the historic Courthouse Hill district with narrow Victorian-era access or the Palmer Park area where families need quick turnarounds, we handle the logistics that make mattress disposal complicated in smaller Wisconsin cities."
+
+  processSection:
+    title: "Streamlined Pickup Process"
+    steps:
+      - "Call 720-263-6094 for next-day scheduling in Rock County"
+      - "We navigate to your location using GPS coordinates for efficiency"  
+      - "Professional loading with covered transportation per City Ordinance 30-43"
+      - "Proper disposal at licensed facilities following county regulations"
+
+  aboutSection:
+    title: "Understanding Janesville's Waste Challenges"
+    content: "Janesville's post-GM economic landscape created unique waste management needs. The closure eliminated 3,000 high-paying manufacturing jobs, affecting one in three residents directly or through family members. This economic shift means residents value services that work efficiently without premium pricing.
+
+Rock County's waste infrastructure reflects Wisconsin's practical approach to disposal. The city operates its own sanitary landfill rather than relying solely on private contractors, but mattress disposal remains restricted through standard collection channels. We bridge this gap by providing licensed hauling that meets municipal requirements without the bureaucracy of dealing directly with city facilities.
+
+Our service addresses the reality that Janesville residents face: furniture disposal isn't straightforward in smaller Wisconsin cities. Whether you're downsizing after job transitions, helping family members relocate, or simply replacing worn mattresses, our process handles the compliance details that trip up DIY disposal attempts."
+
+  whyChooseUsSection:
+    title: "Local Expertise in Rock County Regulations"
+    content: "Janesville's waste management operates differently than major metropolitan areas. City Ordinance 30-43 requires covered transportation - something many residents discover only after receiving violations. We understand these local requirements because we work within them daily.
+
+Our pricing reflects Janesville's economic realities. At $125 for single mattresses, $155 for two items, and $180 for three pieces, we provide value that makes sense for a community where the median household income dropped after the GM closure. No hidden fees, no surprise charges - just straightforward service that works within Rock County's regulatory framework."
+
+  serviceBenefits:
+    - "Licensed waste haulers meeting Rock County requirements"
+    - "Covered transportation compliant with City Ordinance 30-43"
+    - "Next-day pickup scheduling for prompt service"  
+    - "Direct coordination with city sanitary landfill"
+    - "Pricing designed for Janesville's economic landscape"
+    - "Professional handling of access challenges in historic districts"
+
+# Reviews
+reviews:
+  - name: "Mark R."
+    location: "Courthouse Hill"
+    review: "Called Friday morning and they picked up our king mattress and box spring Saturday afternoon. Driver knew exactly where to park on our narrow Victorian street - obviously experienced with Janesville's older neighborhoods. Covered everything properly during transport, which matters since I work in city planning and know the ordinance requirements. Fair price at $155 for both pieces."
+    rating: 5
+
+  - name: "Jennifer L."
+    location: "Palmer Park Area"
+    review: "We needed our old mattresses gone before my mother-in-law arrived for the holidays. These guys scheduled pickup for the next day, arrived on time, and handled everything professionally. No hassle with the covered truck requirement that trips up a lot of local haulers. Worth every penny of the $125 for our queen mattress."
+    rating: 5
+
+  - name: "Dave M." 
+    location: "East Side"
+    review: "Had three foam mattresses from my kids' dorm rooms that needed disposal. The $180 price for all three was reasonable, especially compared to what the city landfill would charge if I hauled them myself. Team was efficient, courteous, and handled the covered transport requirement without making a big deal about it. Recommended them to my neighbor who needed the same service."
+    rating: 5
+
+# FAQ
+faq:
+  - question: "How quickly can you pick up mattresses in Janesville?"
+    answer: "We provide next-day pickup service throughout Rock County. Call 720-263-6094 by early afternoon and we can typically schedule removal for the following day, working around your schedule and Janesville's traffic patterns."
+
+  - question: "Do you handle the covered transportation requirements?"
+    answer: "Yes, we fully comply with Janesville City Ordinance 30-43 requiring covered loads during transport. Our trucks are equipped with proper coverings, and our drivers understand the liability requirements for waste hauling in Rock County."
+
+  - question: "What's included in your Janesville mattress removal service?"
+    answer: "Complete removal service includes loading from any location on your property, covered transportation meeting city ordinances, and proper disposal at licensed facilities. No hidden fees - the quoted price covers everything from pickup to final disposal."
+
+  - question: "Can you navigate Janesville's historic neighborhoods?"
+    answer: "Absolutely. We regularly service Courthouse Hill and other historic districts with narrow streets and unique access challenges. Our drivers know the area and can handle Victorian-era neighborhoods and older residential areas throughout Janesville."
+
+  - question: "Do you dispose of mattresses at the city landfill?"
+    answer: "We work with licensed disposal facilities including coordination with Janesville's sanitary landfill at 525 Black Bridge Road when appropriate. All disposal follows Rock County waste management regulations and city requirements."
+
+  - question: "What are your prices for mattress removal in Rock County?"
+    answer: "Single mattresses $125, two pieces $155, three items $180. Pricing includes all labor, transportation, and disposal fees. No additional charges for Janesville city limits or standard residential access."
+
+  - question: "Are you licensed to haul waste in Janesville?"
+    answer: "Yes, we operate as licensed waste haulers meeting both city and Rock County requirements. This licensing ensures compliance with local regulations and proper insurance coverage for your peace of mind."
+
+  - question: "Why can't I just put mattresses in regular trash pickup?"
+    answer: "The City of Janesville doesn't accept mattresses through standard collection services, and most dumpsters prohibit them. Attempting improper disposal can result in municipal violations, which is why professional hauling services like ours exist to handle these specialized waste streams properly."
+---

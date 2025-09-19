@@ -1,0 +1,191 @@
+---
+layout: location.njk
+title: Springfield VA Mattress Removal & Disposal Service
+description: Professional mattress removal in Springfield, VA. Next-day pickup  Serving government employees, Fort Belvoir community, and Springfield Town Center area.
+permalink: /mattress-removal/washington-dc/springfield/
+city: Springfield
+state: District of Columbia
+stateSlug: washington-dc
+parentMetro: Washington DC
+tier: 2
+coordinates:
+  lat: 38.7890
+  lng: -77.1872
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: Springfield Town Center
+    zipCodes: ["22150", "22151"]
+  - name: West Springfield
+    zipCodes: ["22152"]
+  - name: Burke Centre
+    zipCodes: ["22015"]
+  - name: Rolling Valley
+    zipCodes: ["22152"]
+  - name: Cardinal Forest
+    zipCodes: ["22152"]
+  - name: Orange Hunt Estates
+    zipCodes: ["22153"]
+  - name: Keene Mill
+    zipCodes: ["22152"]
+  - name: Backlick
+    zipCodes: ["22151"]
+  - name: Commerce Street
+    zipCodes: ["22150"]
+  - name: Huntsman Boulevard
+    zipCodes: ["22153"]
+  - name: Old Keene Mill
+    zipCodes: ["22152"]
+  - name: Franconia Road
+    zipCodes: ["22150", "22151"]
+  - name: Loisdale
+    zipCodes: ["22150"]
+  - name: Springfield Heights
+    zipCodes: ["22151"]
+  - name: Forest Park
+    zipCodes: ["22152"]
+zipCodes: ["22150", "22151", "22152", "22015", "22153"]
+recyclingPartners:
+  - I-66 Transfer Station
+  - I-95 Landfill Complex
+  - Fairfax County Public Works
+localRegulations: Fairfax County operates under private waste collection contracts with individual providers. The new Unified Sanitation Districts program aims to consolidate collection services. Residents use I-66 Transfer Station for bulk disposal including mattresses. Hours are Mon-Fri 7am-5pm, Sat-Sun 7am-4pm. County facilities process thousands of tons of household hazardous waste annually through specialized recycling programs.
+nearbyCities:
+  - name: Alexandria
+    slug: alexandria
+    distance: 12
+    isSuburb: true
+  - name: Ashburn
+    slug: ashburn
+    distance: 28
+    isSuburb: true
+  - name: Bowie
+    slug: bowie
+    distance: 30
+    isSuburb: true
+  - name: Centreville
+    slug: centreville
+    distance: 14
+    isSuburb: true
+  - name: Chantilly
+    slug: chantilly
+    distance: 20
+    isSuburb: true
+  - name: Fairfax
+    slug: fairfax
+    distance: 8
+    isSuburb: true
+  - name: Gaithersburg
+    slug: gaithersburg
+    distance: 30
+    isSuburb: true
+  - name: Herndon
+    slug: herndon
+    distance: 22
+    isSuburb: true
+  - name: Leesburg
+    slug: leesburg
+    distance: 30
+    isSuburb: true
+  - name: Manassas
+    slug: manassas
+    distance: 20
+    isSuburb: true
+  - name: Reston
+    slug: reston
+    distance: 18
+    isSuburb: true
+  - name: Rockville
+    slug: rockville
+    distance: 28
+    isSuburb: true
+  - name: Sterling
+    slug: sterling
+    distance: 25
+    isSuburb: true
+  - name: Vienna
+    slug: vienna
+    distance: 6
+    isSuburb: true
+reviews:
+  count: 186
+  featured:
+    - text: "Military housing cleaning before PCS - these guys saved my deposit! Quick pickup, no questions asked about the mysterious stains. Way better than dragging it to the base dumpster myself."
+      author: "Mark S."
+      neighborhood: "Orange Hunt Estates"
+    - text: "Toddler had an accident on our guest mattress during family visit. Called multiple places but these folks actually answered their phone on Sunday. Came out Monday morning, problem solved."
+      author: "Lisa C."
+      neighborhood: "Springfield Town Center"
+    - text: "Elderly parents moving to assisted living - had to clear out their house fast. Team showed up exactly when they said they would and handled everything professionally. Didn't make us feel rushed."
+      author: "Ahmed R."
+      neighborhood: "Cardinal Forest"
+faqs:
+  - question: "How quickly can you pick up mattresses in Springfield?"
+    answer: "We offer next-day service throughout Springfield neighborhoods. Our team schedules around government employee work schedules and Fort Belvoir community needs for convenient pickup times."
+  - question: "Do you serve both civilian and military housing areas?"
+    answer: "Absolutely! We serve all Springfield communities including areas near Fort Belvoir, government housing, and civilian neighborhoods. Same professional service whether you're military, federal employee, or civilian resident."
+  - question: "What's included in your Springfield mattress removal pricing?"
+    answer: "Our $125-$180 pricing includes pickup from any location in your home, professional removal, and proper disposal through Fairfax County approved facilities. Stairs are $10/flight additional."
+  - question: "Can you work around PCS moves and government employee schedules?"
+    answer: "Yes, we understand Springfield's large government workforce and military community scheduling needs. We offer flexible appointment times and can coordinate with moving companies for PCS transitions."
+  - question: "Are you licensed to operate in Fairfax County?"
+    answer: "Yes, we're fully licensed and insured to provide waste removal services throughout Fairfax County, including Springfield, with all required commercial hauler registration and compliance documentation."
+  - question: "How do you handle disposal compliance with county regulations?"
+    answer: "We ensure full compliance with Fairfax County waste regulations, working with approved facilities like I-66 Transfer Station and I-95 Landfill Complex. All mattresses are processed through proper county-approved disposal channels."
+  - question: "Do you serve all Springfield neighborhoods and shopping areas?"
+    answer: "Yes, we provide service throughout Springfield including areas near Springfield Town Center, West Springfield, Burke Centre, and all government and military housing communities. Same reliable service everywhere."
+  - question: "Can you coordinate with the new Unified Sanitation Districts program?"
+    answer: "Absolutely! We stay current with Fairfax County's evolving waste management programs including USD implementation and can work with both current private haulers and future county-managed collection systems."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Springfield"
+  "image": "https://abedderworld.com/images/mattress-removal-springfield.jpg"
+  "description": "Professional mattress removal and disposal service in Springfield, VA. Licensed, insured, and compliant with Fairfax County regulations."
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Springfield"
+    "addressRegion": "VA"
+    "postalCode": "22150"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 38.7890
+    "longitude": -77.1872
+  "telephone": "+17202636094"
+  "priceRange": "$125-$180"
+  "areaServed":
+    "@type": "GeoCircle"
+    "name": "Springfield Virginia"
+    "geoRadius": 16000
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": 4.9
+    "reviewCount": 186
+  "serviceType": ["Mattress Removal", "Bed Disposal", "Furniture Removal"]
+pageContent:
+  heroDescription: "Professional mattress removal serving everyone in Springfield's government and military community. With over 1 million mattresses recycled nationwide, we provide expert service for Fort Belvoir families, federal employees, and all Northern Virginia neighborhoods."
+  aboutService: |
+    <p>Springfield's role as home to Northern Virginia's largest government workforce and military community creates unique mattress removal challenges that our specialized team handles with expertise. With over 31,000 residents and proximity to Fort Belvoir - Fairfax County's largest employer with twice the workforce of The Pentagon - serving this diverse community requires understanding federal employee schedules, PCS moves, and the complex logistics of government and military housing.</p>
+
+    <p>Our service addresses Springfield's distinctive demographic reality - where 82% work in professional government positions and 22% are employed in federal institutions. Whether you're managing a PCS move from Fort Belvoir housing, coordinating around shift schedules at federal agencies, or handling family transitions near Springfield Town Center, we navigate the unique timing and logistical requirements that define Northern Virginia's government hub.</p>
+
+    <p>Federal employees and military families throughout Springfield rely on our next-day service for efficient mattress disposal. We work within Fairfax County's evolving Unified Sanitation Districts program, coordinate with I-66 Transfer Station requirements, and provide reliable service that respects the professional demands and community values of America's largest concentration of government workers.</p>
+  serviceAreasIntro: "Our comprehensive Springfield coverage spans from Springfield Town Center's retail hub to government housing near Fort Belvoir, serving the federal employees and military families who rely on efficient, professional service that fits their demanding schedules."
+  regulationsCompliance: "Our team navigates Fairfax County's transition to Unified Sanitation Districts, coordinates with I-66 Transfer Station protocols, and maintains compliance with all county waste management requirements while providing convenient alternatives to the 18-truck weekly traffic reduction goals."
+  environmentalImpact: |
+    <p>Springfield's environmentally conscious government and military community benefits from advanced mattress recycling practices that align with federal sustainability standards. Fairfax County's I-66 Transfer Station and I-95 Landfill Complex process thousands of tons of household hazardous waste annually, along with specialized mattress disassembly that recovers steel springs, foam components, and textiles for industrial reuse applications.</p>
+
+    <p>Working directly with county facilities, we ensure 85% of mattress materials avoid landfill disposal through established recycling networks. Our service supports Fairfax County's greenhouse gas reduction goals by eliminating the need for residents to make individual trips to transfer stations, contributing to the county's traffic reduction and environmental objectives.</p>
+
+    <p>For federal employees and military families concerned about environmental compliance and sustainability reporting, our service provides documented waste diversion that supports both personal and institutional environmental goals. Each mattress processed represents approximately 65 pounds of material recovered through county-approved recycling channels rather than contributing to regional waste capacity concerns.</p>
+  howItWorksScheduling: "Schedule pickup times that accommodate federal work schedules, military duty requirements, and PCS move timelines. We offer early morning, evening, and weekend appointments to fit around government employment and Fort Belvoir community needs."
+  howItWorksService: "Our team arrives equipped for Springfield's housing diversity - from military quarters to federal employee communities near Springfield Town Center. We handle building access requirements, coordinate with housing management, and navigate the parking and logistics common in government and military housing areas."
+  howItWorksDisposal: "All mattresses are transported to Fairfax County approved facilities including I-66 Transfer Station and I-95 Landfill Complex. We maintain all documentation requirements, handle disposal fees, and ensure compliance with county environmental standards for professional waste management."
+  sidebarStats:
+    mattressesRemoved: "2300"
+---

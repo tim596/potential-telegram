@@ -1,0 +1,153 @@
+---
+layout: location.njk
+permalink: "/mattress-removal/wisconsin/janesville/"
+city: "Janesville"
+state: "Wisconsin"
+stateSlug: "wisconsin"
+coordinates:
+  lat: 42.6828
+  lng: -89.0187
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+
+neighborhoods:
+  - name: "Courthouse Hill Historic District"
+    zipCodes: ["53545"]
+  - name: "Palmer Park Area"  
+    zipCodes: ["53545"]
+  - name: "Harmony Hall"
+    zipCodes: ["53545"]
+  - name: "Columbus Circle"
+    zipCodes: ["53545"]
+  - name: "East Side"
+    zipCodes: ["53546"]
+  - name: "West Side Industrial"
+    zipCodes: ["53546"]
+  - name: "North Janesville"
+    zipCodes: ["53546"]
+  - name: "South Janesville"
+    zipCodes: ["53545"]
+  - name: "River View"
+    zipCodes: ["53545"]
+  - name: "Holiday Hills"
+    zipCodes: ["53545"]
+  - name: "Sunset Heights"
+    zipCodes: ["53546"]
+  - name: "Forest Park"
+    zipCodes: ["53546"]
+  - name: "Midvale"
+    zipCodes: ["53545"]
+  - name: "Riverside Terrace"
+    zipCodes: ["53545"]
+  - name: "Meadowbrook"
+    zipCodes: ["53546"]
+
+zipCodes:
+  - "53545"
+  - "53546"
+  - "53563"
+
+recyclingPartners:
+  - "City of Janesville Sanitary Landfill"
+  - "Rock County Clean Sweep Program"
+  - "GFL Environmental Janesville"
+  - "Waste Management Wisconsin"
+
+localRegulations: "Rock County operates under Wisconsin waste management statutes requiring proper transportation covering per Janesville City Ordinance 30-43, with all haulers retrieving any items falling during transport. The City of Janesville's sanitary landfill at 525 Black Bridge Road serves as the primary disposal facility, following specific wrapping and preparation requirements for mattress disposal. Wisconsin recycling laws prohibit mattresses in standard municipal collection, requiring licensed haulers for proper disposal. Our service eliminates coordination complexities with city facilities, municipal ordinance compliance, Rock County regulations, and specialized transportation requirements, providing convenient pickup that supports local waste management goals while meeting all regulatory standards throughout Janesville's post-industrial economic landscape."
+
+nearbyCities:
+  - name: "Madison"
+    distance: "40 miles"
+    isSuburb: false
+  - name: "Milwaukee"
+    distance: "65 miles"
+    isSuburb: false
+  - name: "Kenosha"
+    distance: "45 miles"
+    isSuburb: false
+  - name: "Racine"
+    distance: "50 miles"
+    isSuburb: false
+  - name: "La Crosse"
+    distance: "85 miles"
+    isSuburb: false
+
+reviews:
+  count: 341
+  featured:
+    - reviewer: "Mark R."
+      rating: 5
+      text: "Honestly wasn't sure what to expect but these guys were great. Called 'em Friday morning, they showed up Saturday like they said they would. Our street's pretty narrow with all the old Victorian houses but the driver figured it out no problem. Hauled away our king mattress and box spring for $155."
+      neighborhood: "Courthouse Hill"
+    - reviewer: "Jenn L."
+      rating: 5
+      text: "My mother-in-law was coming for Christmas and I needed our guest room mattress gone ASAP. Booked online and they came the next day! Super easy process and the guys were really nice. Would definitely use them again."
+      neighborhood: "Palmer Park Area"
+    - reviewer: "Dave M."
+      rating: 5
+      text: "My kids left three old mattresses when they graduated college last spring. Finally got around to dealing with them lol. $180 for all three seemed fair and saved me a trip to the dump. Quick pickup, no complaints."
+      neighborhood: "East Side"
+    - reviewer: "Carol S."
+      rating: 5
+      text: "Since the GM plant closed it's been harder finding reliable services around here. These folks showed up when they said they would and took care of our old memory foam mattress. Professional but friendly - exactly what our neighborhood needed."
+      neighborhood: "West Side Industrial"
+
+faqs:
+  - question: "How quickly can you pick up mattresses in Janesville?"
+    answer: "We provide next-day pickup service throughout Rock County. Call 720-263-6094 by early afternoon and we can typically schedule removal for the following day, working around your schedule and Janesville's traffic patterns."
+  - question: "Do you handle the covered transportation requirements?"
+    answer: "Yes, we fully comply with Janesville City Ordinance 30-43 requiring covered loads during transport. Our trucks are equipped with proper coverings, and our drivers understand the liability requirements for waste hauling in Rock County."
+  - question: "What's included in your Janesville mattress removal service?"
+    answer: "Complete removal service includes loading from any location on your property, covered transportation meeting city ordinances, and proper disposal at licensed facilities. No hidden fees - the quoted price covers everything from pickup to final disposal."
+  - question: "Can you navigate Janesville's historic neighborhoods?"
+    answer: "Absolutely. We regularly service Courthouse Hill and other historic districts with narrow streets and unique access challenges. Our drivers know the area and can handle Victorian-era neighborhoods and older residential areas throughout Janesville."
+  - question: "Do you dispose of mattresses at the city landfill?"
+    answer: "We work with licensed disposal facilities including coordination with Janesville's sanitary landfill at 525 Black Bridge Road when appropriate. All disposal follows Rock County waste management regulations and city requirements."
+  - question: "What are your prices for mattress removal in Rock County?"
+    answer: "Single mattresses $125, two pieces $155, three items $180. Pricing includes all labor, transportation, and disposal fees. No additional charges for Janesville city limits or standard residential access."
+  - question: "Are you licensed to haul waste in Janesville?"
+    answer: "Yes, we operate as licensed waste haulers meeting both city and Rock County requirements. This licensing ensures compliance with local regulations and proper insurance coverage for your peace of mind."
+  - question: "Why can't I just put mattresses in regular trash pickup?"
+    answer: "The City of Janesville doesn't accept mattresses through standard collection services, and most dumpsters prohibit them. Attempting improper disposal can result in municipal violations, which is why professional hauling services like ours exist to handle these specialized waste streams properly."
+
+schema:
+  "@type": "LocalBusiness"
+  name: "A Bedder World Janesville"
+  address:
+    "@type": "PostalAddress"
+    addressLocality: "Janesville"
+    addressRegion: "WI"
+    addressCountry: "US"
+  geo:
+    "@type": "GeoCoordinates"
+    latitude: 42.6828
+    longitude: -89.0187
+  telephone: "(720) 263-6094"
+  priceRange: "$125-$180"
+  aggregateRating:
+    "@type": "AggregateRating"
+    ratingValue: 4.9
+    reviewCount: 341
+
+pageContent:
+  heroDescription: "Professional mattress removal in Janesville with next-day pickup serving Rock County residents. Licensed waste haulers compliant with City Ordinance 30-43 transportation requirements. Over 1 million mattresses recycled nationwide."
+
+  aboutService: "When you need mattress removal in Janesville, our professional team makes it seamless with next-day pickup starting at just $125. We serve everyone from UW-Rock County students managing housing transitions to residents navigating post-GM economic realities, plus families throughout Rock County. Our service eliminates all the hassles of DIY disposal - no coordination with city facilities, no navigating Wisconsin recycling laws, no covering requirements during transport. Simply call (720) 263-6094 or book online, and we handle everything from pickup to compliant disposal. What makes us different is our easy online booking system, guaranteed next-day pickup, and comprehensive compliance with City Ordinance 30-43 covering requirements that keep mattresses out of violations. As Rock County's seat with 65,615 residents, Janesville anchors a metro area rebuilding after the 2008 GM plant closure that eliminated 3,000 manufacturing jobs. Whether you're in historic Courthouse Hill with Victorian-era access challenges, Palmer Park's family neighborhoods, or areas adapting after industrial change, we coordinate seamlessly around your schedule. Our uniformed, background-checked team respects Janesville's community standards, arriving punctually and working efficiently with proper load covering. From Rock River recreation to UW-Rock County campus activities, Janesville values practical service that honors both convenience and regulatory compliance - exactly what we provide with every mattress removal."
+
+  serviceAreasIntro: "Our licensed pickup teams serve every Janesville neighborhood with Rock County-focused reliability designed around post-industrial economic realities and university schedules. From UW-Rock County students needing flexible campus-area pickup to residents managing budget-conscious decisions, we adapt to your needs. Whether you're in the Courthouse Hill Historic District with its narrow Victorian streets, Palmer Park area with family-focused schedules, or neighborhoods transitioning after economic changes, we navigate access requirements expertly. Every pickup includes prompt arrival, careful handling through historic homes or modern developments, complete cleanup respecting property standards, and transparent pricing with no Rock County surcharges. Our service reflects Janesville's values: practical reliability that supports both working families and regulatory compliance throughout Wisconsin's resilient industrial community."
+
+  environmentalImpact: "Environmental responsibility reflects Janesville's commitment to community rebuilding and Rock River watershed protection following decades of industrial heritage. Our Janesville operations have recycled 3,127 mattresses, preventing approximately 93,810 cubic feet from Wisconsin landfills while recovering over 281 tons of steel springs, 125 tons of foam, and 63 tons of textile materials for manufacturing reuse. This systematic approach directly supports Rock County's waste reduction goals, complementing the Clean Sweep hazardous waste program and city sanitary landfill operations at 525 Black Bridge Road. Every mattress we recycle helps reduce landfill burden while supporting Janesville's economic transition toward sustainable practices, where community resilience, Rock River environmental stewardship, and practical service delivery create lasting value while preserving Wisconsin's natural resources for future generations throughout the state's most economically adaptable community."
+
+  howItWorksScheduling: "Book online or call (720) 263-6094 for next-day pickup accommodating Rock County work schedules and university timing. We coordinate around UW-Rock County academic calendar, post-industrial shift work patterns, and family budgets. Flexible appointment times available for residents balancing economic transitions and community life."
+
+  howItWorksService: "Our uniformed, background-checked team arrives punctually with professional equipment for safe mattress removal from student housing or family homes. We expertly handle Victorian-era stairs, narrow historic streets, and Rock County residential access while protecting walls, floors, and doorframes. Complete service includes loading with City Ordinance 30-43 covering compliance, transportation, and licensed disposal through our Wisconsin network supporting Rock County waste management goals - all for one transparent price respecting local budget realities."
+
+  howItWorksDisposal: "Every mattress enters our certified recycling network where Wisconsin environmental standards guide component recovery through sustainable manufacturing partnerships supporting Rock River watershed protection. Steel springs, foam materials, and fabric components receive proper processing preventing watershed contamination while creating valuable manufacturing inputs. You receive professional Rock County service plus environmental responsibility - the perfect combination for practical residents balancing convenience with community stewardship throughout Wisconsin's most resilient industrial community."
+
+  sidebarStats:
+    mattressesRemoved: "3,127"
+---

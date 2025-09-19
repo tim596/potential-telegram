@@ -1,0 +1,363 @@
+---
+layout: base.njk
+---
+
+<!-- Service Post Content -->
+<article class="service-post">
+    <div class="container">
+        <div class="service-content-wrapper">
+            <div class="service-main">
+                <header class="service-header">
+                    <h1 class="service-title">{{ title }}</h1>
+                    {% if date %}
+                    <div class="service-meta">
+                        <time class="service-date" datetime="{{ date }}">
+                            Updated: {{ date | dateFormat }}
+                        </time>
+                    </div>
+                    {% endif %}
+                </header>
+
+                <div class="service-content prose">
+                    {{ content | safe }}
+                </div>
+
+                <!-- Service CTA Footer -->
+                <div class="service-cta-footer">
+                    <div class="service-cta">
+                        <h3>Ready to Schedule Your Pickup?</h3>
+                        <p>Fast, professional removal service with next-day availability. Eco-friendly disposal guaranteed.</p>
+                        <a href="#" class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                            Book Your Pickup Now →
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sidebar -->
+            <aside class="service-sidebar">
+                <div class="sidebar-widget">
+                    <h3>Our Services</h3>
+                    <ul class="service-links">
+                        <li><a href="/mattress-removal/">Mattress Removal</a></li>
+                        <li><a href="/how-to-get-rid-of-a-couch/">Couch Removal</a></li>
+                        <li><a href="/bed-frame-disposal/">Bed Frame Disposal</a></li>
+                        <li><a href="/how-to-get-rid-of-a-box-spring/">Box Spring Removal</a></li>
+                        <li><a href="/commercial/">Commercial Services</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-widget">
+                    <h3>Quick Info</h3>
+                    <div class="quick-info">
+                        <div class="info-item">
+                            <strong>Starting Price:</strong> ${{ pricing.startingPrice }}
+                        </div>
+                        <div class="info-item">
+                            <strong>Service:</strong> Next-day pickup
+                        </div>
+                        <div class="info-item">
+                            <strong>Coverage:</strong> All 50 states
+                        </div>
+                        <div class="info-item">
+                            <strong>Phone:</strong> <a href="tel:7202636094">(720) 263-6094</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sidebar-cta">
+                    <h3>Get Quote</h3>
+                    <p>Professional pickup service with upfront pricing.</p>
+                    <a href="#" class="btn btn-primary zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                        Get Price →
+                    </a>
+                </div>
+            </aside>
+        </div>
+    </div>
+</article>
+
+<style>
+/* Service Post Styles */
+.service-post {
+    padding: 60px 0;
+    background: var(--white);
+}
+
+.service-content-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 60px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.service-main {
+    min-width: 0;
+}
+
+.service-header {
+    margin-bottom: 40px;
+    padding-bottom: 24px;
+    border-bottom: 2px solid var(--gray-200);
+}
+
+.service-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 1.2;
+    color: var(--gray-900);
+    margin-bottom: 16px;
+    letter-spacing: -0.02em;
+}
+
+.service-meta {
+    color: var(--gray-600);
+    font-size: 14px;
+}
+
+.service-date {
+    font-weight: 500;
+}
+
+.service-content {
+    color: var(--gray-800);
+    line-height: 1.7;
+    font-size: 16px;
+}
+
+.service-content h1, .service-content h2, .service-content h3,
+.service-content h4, .service-content h5, .service-content h6 {
+    color: var(--gray-900);
+    font-weight: 700;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    line-height: 1.3;
+}
+
+.service-content h1 { font-size: 2.25rem; }
+.service-content h2 { font-size: 1.875rem; }
+.service-content h3 { font-size: 1.5rem; }
+.service-content h4 { font-size: 1.25rem; }
+.service-content h5 { font-size: 1.125rem; }
+.service-content h6 { font-size: 1rem; }
+
+.service-content p {
+    margin-bottom: 1.5em;
+}
+
+.service-content ul, .service-content ol {
+    margin-bottom: 1.5em;
+    padding-left: 1.5em;
+}
+
+.service-content li {
+    margin-bottom: 0.5em;
+}
+
+.service-content a {
+    color: var(--primary-green);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.service-content a:hover {
+    color: var(--primary-green-dark);
+    text-decoration-thickness: 2px;
+}
+
+.service-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--border-radius);
+    margin: 2em 0;
+    box-shadow: var(--shadow-sm);
+}
+
+.service-content blockquote {
+    border-left: 4px solid var(--primary-green);
+    padding-left: 1.5em;
+    margin: 2em 0;
+    font-style: italic;
+    color: var(--gray-700);
+}
+
+.service-content code {
+    background: var(--gray-100);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.9em;
+}
+
+.service-content pre {
+    background: var(--gray-100);
+    padding: 1.5em;
+    border-radius: var(--border-radius);
+    overflow-x: auto;
+    margin: 2em 0;
+}
+
+.service-cta-footer {
+    margin-top: 60px;
+    padding-top: 40px;
+    border-top: 2px solid var(--gray-200);
+}
+
+.service-cta {
+    background: var(--gray-50);
+    padding: 40px;
+    border-radius: var(--border-radius-lg);
+    text-align: center;
+    border: 2px solid var(--gray-200);
+}
+
+.service-cta h3 {
+    margin-bottom: 16px;
+    color: var(--gray-900);
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.service-cta p {
+    margin-bottom: 24px;
+    color: var(--gray-600);
+}
+
+.service-sidebar {
+    position: sticky;
+    top: 40px;
+    height: fit-content;
+}
+
+.sidebar-widget {
+    background: var(--white);
+    border: 2px solid var(--gray-200);
+    border-radius: var(--border-radius-lg);
+    padding: 32px;
+    margin-bottom: 32px;
+}
+
+.sidebar-widget h3 {
+    margin-bottom: 24px;
+    color: var(--gray-900);
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.service-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.service-links li {
+    margin-bottom: 12px;
+}
+
+.service-links a {
+    color: var(--gray-700);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.service-links a:hover {
+    color: var(--primary-green);
+}
+
+.quick-info {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.info-item {
+    font-size: 14px;
+    color: var(--gray-700);
+}
+
+.info-item strong {
+    color: var(--gray-900);
+    font-weight: 600;
+}
+
+.info-item a {
+    color: var(--primary-green);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.info-item a:hover {
+    text-decoration: underline;
+}
+
+.sidebar-cta {
+    background: var(--gray-50);
+    border: 2px solid var(--gray-200);
+    border-radius: var(--border-radius-lg);
+    padding: 32px;
+    text-align: center;
+}
+
+.sidebar-cta h3 {
+    margin-bottom: 12px;
+    color: var(--gray-900);
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.sidebar-cta p {
+    margin-bottom: 20px;
+    color: var(--gray-600);
+    font-size: 14px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 1024px) {
+    .service-content-wrapper {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .service-sidebar {
+        order: -1;
+        position: static;
+    }
+}
+
+@media (max-width: 768px) {
+    .service-post {
+        padding: 40px 0;
+    }
+
+    .service-title {
+        font-size: 2rem;
+    }
+
+    .service-content {
+        font-size: 15px;
+    }
+
+    .service-content h1 { font-size: 1.875rem; }
+    .service-content h2 { font-size: 1.5rem; }
+    .service-content h3 { font-size: 1.25rem; }
+
+    .sidebar-widget, .sidebar-cta {
+        padding: 24px;
+    }
+
+    .service-cta {
+        padding: 32px 24px;
+    }
+}
+
+@media (max-width: 480px) {
+    .service-title {
+        font-size: 1.75rem;
+    }
+
+    .service-cta {
+        padding: 24px 16px;
+    }
+}
+</style>

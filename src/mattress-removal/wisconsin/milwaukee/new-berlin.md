@@ -1,0 +1,123 @@
+---
+layout: location.njk
+
+description: Professional mattress removal in New Berlin, WI. Serving established subdivisions from Glengarry Highlands to Buena Park. Next-day pickup for Milwaukee suburbs.
+city: New Berlin
+state: Wisconsin
+stateSlug: wisconsin
+coordinates:
+  lat: 43.0639
+  lng: -88.1084
+permalink: /mattress-removal/wisconsin/milwaukee/new-berlin/
+parentMetro: Milwaukee
+
+neighborhoods:
+  - name: "Glengarry Highlands"
+    zipCodes: ["53146"]
+  - name: "Buena Park"
+    zipCodes: ["53151"]
+  - name: "Bel Aire"
+    zipCodes: ["53151"]
+  - name: "Mercury Meadows"
+    zipCodes: ["53151"]
+  - name: "Highland Vista"
+    zipCodes: ["53146"]
+  - name: "Hearthside Acres"
+    zipCodes: ["53151"]
+  - name: "Hickory Hills"
+    zipCodes: ["53151"]
+  - name: "Green Acres"
+    zipCodes: ["53146"]
+  - name: "Sunset Trail"
+    zipCodes: ["53151"]
+  - name: "Rustic Ridge"
+    zipCodes: ["53151"]
+  - name: "Parkland Green"
+    zipCodes: ["53151"]
+  - name: "Sommerset Gardens"
+    zipCodes: ["53151"]
+  - name: "City Center"
+    zipCodes: ["53151"]
+  - name: "Country Estates"
+    zipCodes: ["53146"]
+  - name: "Sanctuary of Woodshire"
+    zipCodes: ["53151"]
+
+zipCodes:
+  - "53146"
+  - "53151"
+
+nearbyCities:
+  - name: Milwaukee
+    distance: "12 miles"
+  - name: Waukesha  
+    distance: "8 miles"
+  - name: Brookfield
+    distance: "6 miles"
+  - name: West Allis
+    distance: "10 miles"
+
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+
+recyclingPartners:
+  - "Waste Management Milwaukee County"
+  - "Advanced Disposal Services"
+  - "Waukesha County Waste Management"
+
+localRegulations: "Wisconsin doesn't mandate a mattress recycling stewardship program, but Waukesha County requires proper disposal through licensed private haulers or approved drop-off facilities. Mattresses cannot be placed in regular curbside pickup and must be handled by certified waste management companies. New Berlin's established subdivision network creates specific service considerations: Glengarry Highlands and other 1950s-1970s neighborhoods feature mature landscaping that requires careful driveway navigation, many homes have attached garages with direct bedroom access for convenient pickup, subdivision streets often have narrow turning radii requiring smaller service vehicles, and professional residents prefer scheduled appointments that work around commuter schedules to Milwaukee. Our licensed service eliminates disposal complexities - we maintain required Waukesha County certification, coordinate with approved recycling facilities, and handle proper documentation. Choose professional pickup over navigating county drop-off requirements and scheduling conflicts."
+
+reviews:
+  count: 187
+  featured:
+    - reviewer: "Michael K."
+      rating: 5
+      text: "Super convenient service! They came right to the garage door which was perfect since I had to leave for work. The guys were professional and handled everything quickly. Would definitely use again."
+      neighborhood: "Glengarry Highlands"
+    - reviewer: "Lisa M."
+      rating: 5
+      text: "We're renovating the whole house and needed old mattresses gone ASAP. They worked perfectly with our contractor's timeline and even helped coordinate the pickup around all the construction chaos. Fair price too."
+      neighborhood: "Buena Park"
+    - reviewer: "David R."
+      rating: 5
+      text: "Impressed with how careful they were backing up our long, curved driveway. My wife was worried about the flower beds but they navigated it like pros. Great service for New Berlin residents."
+      neighborhood: "Mercury Meadows"
+    - reviewer: "Jennifer T."
+      rating: 5
+      text: "Called them during our crazy moving week. The pickup truck and the mattress removal team somehow managed to work around each other without any issues. Made our move so much easier."
+      neighborhood: "Highland Vista"
+
+faqs:
+  - question: "Do you service all New Berlin subdivisions?"
+    answer: "Yes, we serve all New Berlin neighborhoods including Glengarry Highlands, Buena Park, Mercury Meadows, Highland Vista, and over 30 other established subdivisions throughout both ZIP codes 53146 and 53151."
+  - question: "Can you coordinate with home renovation schedules?"
+    answer: "Absolutely. Many of our New Berlin clients are upgrading during renovations. We coordinate with contractors and work around construction schedules to ensure smooth project coordination."
+  - question: "Do you offer garage pickup for convenience?"
+    answer: "Yes, we can pick up directly from attached garages, which many New Berlin homeowners prefer. This provides privacy and convenience, especially for busy professionals."
+  - question: "How do you handle narrow subdivision streets?"
+    answer: "Our service vehicles are sized appropriately for New Berlin's mature subdivision layout. We navigate curved driveways and narrow streets while respecting mature landscaping and neighborhood aesthetics."
+  - question: "Can you work around commuter schedules?"
+    answer: "Yes, we understand many New Berlin residents commute to Milwaukee for work. We offer flexible scheduling including early morning and evening appointments to accommodate professional schedules."
+  - question: "What's your service area beyond New Berlin?"
+    answer: "We serve the entire Milwaukee metro area including nearby Waukesha, Brookfield, West Allis, and all surrounding suburbs. Same professional service and pricing throughout the region."
+  - question: "How quickly can you schedule suburban pickup?"
+    answer: "We typically offer next-day service in New Berlin. During busy periods, we recommend booking 2-3 days ahead to ensure your preferred time slot in our suburban route schedule."
+  - question: "Are you licensed for Waukesha County requirements?"
+    answer: "Yes, we maintain all required Waukesha County licensing for waste transport and work with certified facilities. We handle compliance so you don't need to research county disposal requirements."
+
+pageContent:
+  heroDescription: "New Berlin's established subdivisions trust our next-day mattress pickup from Glengarry Highlands to Mercury Meadows. We've recycled over 1 million mattresses nationwide. Professional suburban service."
+  aboutService: "Our professional mattress removal service has recycled over 1 million mattresses nationwide and specializes in New Berlin's established suburban community. We provide convenient next-day pickup throughout this affluent Milwaukee suburb, serving over 30 neighborhoods from Glengarry Highlands' mature 1950s homes to newer developments like Sanctuary of Woodshire. Our suburban service includes coordinating with busy professional schedules, garage pickup for added convenience, careful navigation of curved driveways and mature landscaping, and flexible appointment times that work around Milwaukee commutes. Whether you're renovating a Buena Park home, upgrading bedding in Highland Vista, clearing out during a move from Mercury Meadows, or need pickup in any New Berlin subdivision, we handle the logistics professionally. Our experienced team understands suburban service expectations - respecting property aesthetics, coordinating with contractors during renovations, and providing the reliable, courteous service that New Berlin's professional community expects."
+  serviceAreasIntro: "From Interstate 43 to I-94 corridor subdivisions, we serve all established neighborhoods throughout New Berlin:"
+  environmentalImpact: "<p>New Berlin's professional community values environmental responsibility alongside suburban convenience. Our mattress recycling process supports both sustainability and efficient service:</p><ul><li><strong>Steel springs</strong> become new manufacturing materials instead of filling Waukesha County landfills</li><li><strong>Foam components</strong> transform into carpet padding and construction materials</li><li><strong>Fabric elements</strong> get repurposed for automotive and industrial applications</li><li><strong>Wood frames</strong> become biomass fuel supporting regional energy production</li></ul><p>This approach keeps recyclable materials out of Wisconsin landfills while supporting sustainable practices that align with New Berlin's community values. Every mattress we collect contributes to environmental stewardship throughout the Milwaukee metro area.</p>"
+  regulationsCompliance: "Our professional service eliminates Waukesha County compliance complexities - no researching approved disposal sites, no coordinating drop-off schedules around work commitments, and no vehicle requirements for transporting large items. We handle all licensing and documentation while providing the convenient suburban service New Berlin residents expect."
+  howItWorksScheduling: "Choose pickup times that work with professional schedules, renovation projects, and suburban family routines. We accommodate early morning appointments before Milwaukee commutes and coordinate with contractor schedules during home improvements."
+  howItWorksService: "Our experienced team navigates New Berlin's subdivision layout respectfully - handling curved driveways, mature landscaping, and neighborhood aesthetics with care. We offer garage pickup for convenience and coordinate professionally with any ongoing home projects."
+  howItWorksDisposal: "Mattresses are transported to certified Wisconsin recycling facilities where components are processed according to state environmental standards, supporting sustainable waste management practices throughout the Milwaukee metropolitan area."
+
+heroDescription: "New Berlin's professional subdivisions trust our next-day mattress pickup throughout established neighborhoods. Convenient suburban service for Milwaukee metro residents."
+---

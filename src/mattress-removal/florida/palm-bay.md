@@ -1,0 +1,173 @@
+---
+layout: location.njk
+city: Palm Bay
+state: Florida
+stateAbbr: FL
+zipCodes: ['32905', '32906', '32907', '32908', '32909', '32950']
+coordinates:
+  lat: 28.0345
+  lng: -80.5887
+neighborhoods:
+  - name: "Port Malabar Units 1-10"
+    zipCodes: ["32909"]
+  - name: "Port Malabar Units 11-20"
+    zipCodes: ["32909"]
+  - name: "Port Malabar Units 21-30"
+    zipCodes: ["32909"]
+  - name: "Port Malabar Units 31-40"
+    zipCodes: ["32909"]
+  - name: "Port Malabar Units 41-50"
+    zipCodes: ["32909"]
+  - name: "Port Malabar Units 51-60"
+    zipCodes: ["32909"]
+  - name: "Bayside Lakes"
+    zipCodes: ["32909"]
+  - name: "Turkey Creek"
+    zipCodes: ["32905"]
+  - name: "Palm Bay Estates"
+    zipCodes: ["32907"]
+  - name: "Heritage Isle"
+    zipCodes: ["32907"]
+  - name: "Woodlake"
+    zipCodes: ["32907"]
+  - name: "Country Walk"
+    zipCodes: ["32908"]
+  - name: "The Sanctuaries"
+    zipCodes: ["32908"]
+  - name: "Waterford"
+    zipCodes: ["32908"]
+  - name: "San Filippo"
+    zipCodes: ["32907"]
+  - name: "Stillwater"
+    zipCodes: ["32908"]
+  - name: "Jupiter Hills"
+    zipCodes: ["32907"]
+  - name: "Malabar Town"
+    zipCodes: ["32950"]
+  - name: "Valkaria"
+    zipCodes: ["32950"]
+  - name: "Grant"
+    zipCodes: ["32949"]
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+nearbyCities: [
+  {
+    "name": "- name:",
+    "slug": "melbourne",
+    "distance": 25,
+    "isSuburb": true
+  },
+  {
+    "name": "",
+    "slug": "orlando",
+    "distance": 25,
+    "isSuburb": false
+  },
+  {
+    "name": "",
+    "slug": "tampa",
+    "distance": 25,
+    "isSuburb": false
+  }
+]pageContent:
+  heroDescription: >-
+    Professional mattress removal throughout Palm Bay's Space Coast tech hub and aerospace corridor. 
+    We serve high-tech professionals, defense contractors, and coastal communities with 
+    specialized handling for corporate relocations, tech industry schedules, and waterfront property access.
+  
+  aboutService: >-
+    Palm Bay's emergence as Florida's Space Coast tech hub creates unique mattress removal demands across 
+    aerospace contractors, high-tech companies, and coastal residential areas. Our service navigates 
+    L3Harris corporate transitions, Kennedy Space Center contractor scheduling, and emerging tech startup 
+    requirements while serving Port Malabar subdivisions and Bayside Lakes communities.
+    
+    From Turkey Creek estates to Port Malabar units, we handle complex logistics around 
+    aerospace industry shifts, defense contractor relocations from major tech employers, and coastal 
+    property access challenges. Our team understands Palm Bay's blend of established subdivisions and 
+    rapid tech growth creates year-round disposal needs across diverse professional communities.
+
+  serviceAreasIntro: >-
+    We provide comprehensive mattress removal throughout Palm Bay's extensive suburban network, from 
+    Port Malabar's 60-unit subdivisions to Bayside Lakes gated communities. Our service covers 
+    all aerospace neighborhoods, tech corridors, and coastal districts with specialized understanding of Space Coast professional scheduling.
+
+  regulationsCompliance: >-
+    Our service streamlines Brevard County compliance through Republic Services coordination and licensed waste 
+    hauling documentation. We prioritize recycling over 80% of mattresses through certified facilities, with 
+    only non-recyclable materials requiring approved disposal. We handle all regulatory requirements 
+    including environmental audit documentation for aerospace contractors while bypassing Republic Services' 
+    bulk collection scheduling and coordination requirements.
+  
+  environmentalImpact: >-
+    Palm Bay's tech and aerospace professionals prioritize environmental responsibility, reflecting 
+    the Space Coast's commitment to sustainable innovation alongside its high-tech economy. We try to recycle as many 
+    mattresses as possible and recycle over 80% of the mattresses we pick up through certified recycling 
+    facilities and donation networks.
+    
+    Our professional service supports Palm Bay's rapid growth by handling environmentally responsible 
+    disposal for tech relocations, aerospace transitions, and defense contractor housing while 
+    maintaining sustainable practices that align with the Space Coast's progressive technology and innovation values.
+
+  howItWorksScheduling: >-
+    Next-day pickup available throughout all Palm Bay neighborhoods with scheduling coordinated around 
+    aerospace industry shifts, tech company transitions, and defense contractor timelines. We work 
+    with L3Harris security requirements and Kennedy Space Center contractor protocols.
+
+  howItWorksService: >-
+    Our licensed team handles gated community access, waterfront property logistics, and subdivision 
+    requirements across Port Malabar's extensive network. We manage aerospace scheduling protocols, tech 
+    professional relocations, and defense contractor moves with documentation for environmental compliance audits.
+
+  howItWorksDisposal: >-
+    We prioritize recycling through certified facilities and donation networks, successfully recycling over 80% 
+    of collected mattresses. Only non-recyclable materials go to licensed Brevard County facilities with complete 
+    regulatory documentation. Professional waste hauling permits ensure proper disposal while providing 
+    compliance records for aerospace contractors and tech companies with strict environmental reporting requirements.
+
+reviews:
+  count: 167
+  rating: 4.9
+  featured:
+    - author: "Aerospace Engineer - Michael T."
+      neighborhood: "Bayside Lakes"
+      rating: 5
+      text: "Relocating from California for L3Harris required coordinated furniture disposal within security clearance timelines. Team handled our gated community protocols, worked around aerospace industry schedules, and provided all environmental compliance documentation. Essential for defense contractor moves."
+      
+    - author: "Tech Professional - Jennifer L." 
+      neighborhood: "Port Malabar Unit 25"
+      rating: 5
+      text: "Startup acquisition meant rapid home transition during company merger. Crew arrived exactly on schedule, handled our subdivision's access requirements efficiently, and pricing worked perfectly for our relocation budget. Saved us from dealing with Republic Services coordination."
+      
+    - author: "Space Coast Professional - David R."
+      neighborhood: "Turkey Creek"
+      rating: 5
+      text: "Kennedy Space Center contract transition required quick property prep for sale. Team coordinated with our waterfront access challenges, handled multiple bedroom sets professionally, and understood our community's professional schedules. Reliable service that gets Space Coast logistics."
+
+faqs:
+  - question: "How quickly can you remove mattresses in Palm Bay?"
+    answer: "Next-day pickup available throughout all Palm Bay neighborhoods including Port Malabar subdivisions and Bayside Lakes. Call 720-263-6094 or book online to schedule service anywhere in the Space Coast region."
+    
+  - question: "Do you work with aerospace companies and tech contractors?"
+    answer: "Yes, we specialize in corporate relocations and understand security protocols for Space Coast professionals. We coordinate with L3Harris, Kennedy Space Center contractors, and emerging tech companies while providing environmental compliance documentation."
+    
+  - question: "What's included in the $125 starting price?"
+    answer: "Complete removal from any location including gated communities, professional crew, transportation, and licensed disposal at Brevard County facilities. No hidden fees for waterfront access or subdivision entry requirements."
+    
+  - question: "Can you handle gated community and subdivision access?"
+    answer: "Absolutely. We coordinate with HOA requirements, gate access protocols, and subdivision management across all Port Malabar units and gated communities like Bayside Lakes. Our service manages complex access logistics professionally."
+    
+  - question: "Do you serve all Palm Bay neighborhoods and subdivisions?"
+    answer: "Yes, complete coverage including all 60 Port Malabar units, Bayside Lakes, Turkey Creek, Palm Bay Estates, and coastal communities. Full service across ZIP codes 32905-32950."
+    
+  - question: "How do you handle environmental compliance for contractors?"
+    answer: "We maintain all required documentation including disposal records, environmental audit trails, and regulatory compliance certificates. Perfect for aerospace contractors and tech companies with strict environmental reporting requirements."
+    
+  - question: "What if I need multiple mattresses removed from my property?"
+    answer: "Two pieces for $155, three pieces for $180. Perfect for corporate relocations, tech professional moves, or aerospace contractor transitions throughout Palm Bay's professional communities."
+    
+  - question: "Are you licensed for Brevard County disposal requirements?"
+    answer: "Yes, fully licensed waste haulers with proper permits focusing on recycling partnerships and responsible disposal. We recycle over 80% of mattresses through certified facilities. Complete regulatory compliance handled with documentation suitable for aerospace and tech industry environmental audits."
+---

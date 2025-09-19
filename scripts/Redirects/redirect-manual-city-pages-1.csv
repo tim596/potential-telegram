@@ -1,0 +1,97 @@
+old_url,new_url,extracted_state,extracted_city,match_type,confidence_score,reasoning,manual_review_needed,clicks,impressions
+https://www.abedderworld.com/colorado-mattress-disposal.html,https://www.abedderworld.com/mattress-removal/colorado/,colorado,N/A,state,90%,State-level redirect: colorado,NO,"7,277","91,897"
+https://abedderworld.com/mattress-disposal-chicago/,https://www.abedderworld.com/mattress-removal/illinois/chicago/,illinois,chicago,city,95%,"Exact metro match: chicago, illinois",NO,"2,380","44,548"
+https://abedderworld.com/san-diego-mattress-disposal.html,https://www.abedderworld.com/mattress-removal/california/san-diego/,california,san-diego,city,95%,"Exact metro match: san-diego, california",NO,"1,220","22,217"
+https://abedderworld.com/colorado-mattress-disposal.html,https://www.abedderworld.com/mattress-removal/colorado/,colorado,N/A,state,90%,State-level redirect: colorado,NO,"1,129","12,833"
+https://www.abedderworld.com/mattress-disposal-austin.html,https://www.abedderworld.com/mattress-removal/texas/austin/,texas,austin,city,95%,"Exact metro match: austin, texas",NO,828,"9,488"
+https://abedderworld.com/boulder-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/boulder/,colorado,boulder,city,95%,"Exact metro match: boulder, colorado",NO,577,"9,163"
+https://www.abedderworld.com/mattress-disposal-chicago/,https://www.abedderworld.com/mattress-removal/illinois/chicago/,illinois,chicago,city,95%,"Exact metro match: chicago, illinois",NO,383,"62,203"
+https://www.abedderworld.com/arvada-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/denver/arvada/,colorado,arvada,city,85%,"Exact suburb match: arvada, colorado",NO,353,"12,774"
+https://www.abedderworld.com/jakcsonville-mattress-disposal.html/,https://www.abedderworld.com/jacksonville-mattress-disposal.html,blog,jacksonville,spelling,95%,Spelling correction: jakcsonville → jacksonville,NO,351,"23,666"
+https://www.abedderworld.com/longmont-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/boulder/longmont/,colorado,longmont,city,85%,"Exact suburb match: longmont, colorado",NO,311,"13,848"
+https://www.abedderworld.com/westminster-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/denver/westminster/,colorado,westminster,city,85%,"Exact suburb match: westminster, colorado",NO,224,"10,015"
+https://www.abedderworld.com/greeley-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/greeley/,colorado,greeley,city,95%,"Exact metro match: greeley, colorado",NO,223,"6,791"
+https://www.abedderworld.com/golden-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/denver/golden/,colorado,golden,city,85%,"Exact suburb match: golden, colorado",NO,160,"3,824"
+https://www.abedderworld.com/aurora-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/denver/aurora/,colorado,aurora,city,85%,"Exact suburb match: aurora, colorado",NO,150,"13,694"
+https://www.abedderworld.com/mattress-disposal-austin/,https://www.abedderworld.com/mattress-removal/texas/austin/,texas,austin,city,95%,"Exact metro match: austin, texas",NO,122,"20,518"
+https://www.abedderworld.com/oceanside-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/oceanside/,california,oceanside,city,85%,"Exact suburb match: oceanside, california",NO,112,"5,077"
+https://www.abedderworld.com/maine-locations/,https://www.abedderworld.com/mattress-removal/maine/,maine,N/A,state,90%,State-level redirect: maine,NO,103,"8,266"
+https://www.abedderworld.com/vista-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/vista/,california,vista,city,85%,"Exact suburb match: vista, california",NO,96,"4,386"
+https://www.abedderworld.com/broomfield-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/denver/broomfield/,colorado,broomfield,city,85%,"Exact suburb match: broomfield, colorado",NO,90,"4,740"
+https://www.abedderworld.com/mattress-disposal-san-antonio/,https://www.abedderworld.com/mattress-removal/texas/san-antonio/,texas,san-antonio,city,95%,"Exact metro match: san-antonio, texas",NO,81,"27,540"
+https://www.abedderworld.com/san-marcos-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/escondido/,california,escondido,city,85%,"Exact suburb match: escondido, california",NO,79,"3,636"
+https://www.abedderworld.com/colorado-springs-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/colorado-springs/,colorado,colorado-springs,city,95%,"Exact metro match: colorado-springs, colorado",NO,78,"12,741"
+https://www.abedderworld.com/escondido-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/escondido/,california,escondido,city,85%,"Exact suburb match: escondido, california",NO,66,"3,556"
+https://www.abedderworld.com/colorado-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/,colorado,N/A,state,90%,State-level redirect: colorado,NO,59,"21,964"
+https://www.abedderworld.com/encinitas-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/carlsbad/,california,carlsbad,city,85%,"Exact suburb match: carlsbad, california",NO,42,"1,610"
+https://www.abedderworld.com/san-diego-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/,california,san-diego,city,95%,"Exact metro match: san-diego, california",NO,40,"36,251"
+https://www.abedderworld.com/mattress-disposal-fort-worth/,https://www.abedderworld.com/mattress-removal/texas/dallas/fort-worth/,texas,fort-worth,city,85%,"Exact suburb match: fort-worth, texas",NO,37,"14,527"
+https://www.abedderworld.com/vermont-locations/,https://www.abedderworld.com/mattress-removal/vermont/,vermont,N/A,state,90%,State-level redirect: vermont,NO,32,"2,493"
+https://www.abedderworld.com/mattress-disposal-new-york-city/,https://www.abedderworld.com/mattress-removal/new-york/new-york-city/,new york,new-york-city,city,95%,"Exact metro match: new-york-city, new york",NO,28,"16,992"
+https://www.abedderworld.com/fort-collins-mattress-disposal/,https://www.abedderworld.com/mattress-removal/colorado/fort-collins/,colorado,fort-collins,city,95%,"Exact metro match: fort-collins, colorado",NO,28,"4,274"
+https://www.abedderworld.com/poway-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/poway/,california,poway,city,85%,"Exact suburb match: poway, california",NO,27,"1,308"
+https://www.abedderworld.com/firestone-and-frederick-mattress-disposal/,MANUAL_REVIEW_NEEDED,N/A,N/A,unknown,0%,No state identified,YES,27,658
+https://www.abedderworld.com/michigan-locations/,https://www.abedderworld.com/mattress-removal/michigan/,michigan,N/A,state,90%,State-level redirect: michigan,NO,24,"1,590"
+https://www.abedderworld.com/delaware-service-locations/,https://www.abedderworld.com/mattress-removal/delaware/,delaware,N/A,state,90%,State-level redirect: delaware,NO,22,753
+https://www.abedderworld.com/ohio-locations/,https://www.abedderworld.com/mattress-removal/ohio/,ohio,N/A,state,90%,State-level redirect: ohio,NO,19,"3,397"
+https://www.abedderworld.com/mattress-disposal-missouri-city/,https://www.abedderworld.com/mattress-removal/texas/houston/missouri-city/,texas,missouri-city,city,85%,"Exact suburb match: missouri-city, texas",NO,17,"1,436"
+https://www.abedderworld.com/santee-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/santee/,california,santee,city,85%,"Exact suburb match: santee, california",NO,16,"1,520"
+https://www.abedderworld.com/mattress-disposal-des-plaines/,https://www.abedderworld.com/mattress-removal/illinois/chicago/des-plaines/,illinois,des-plaines,city,85%,"Exact suburb match: des-plaines, illinois",NO,15,"5,359"
+https://www.abedderworld.com/mattress-disposal-league-city/,https://www.abedderworld.com/mattress-removal/texas/houston/league-city/,texas,league-city,city,85%,"Exact suburb match: league-city, texas",NO,14,"2,813"
+https://www.abedderworld.com/new-hampshire-locations/,https://www.abedderworld.com/mattress-removal/new-hampshire/,new hampshire,N/A,state,90%,State-level redirect: new hampshire,NO,14,"1,096"
+https://www.abedderworld.com/oklahoma-locations/,https://www.abedderworld.com/mattress-removal/oklahoma/,oklahoma,N/A,state,90%,State-level redirect: oklahoma,NO,14,994
+https://www.abedderworld.com/iowa-locations/,https://www.abedderworld.com/mattress-removal/iowa/,iowa,N/A,state,90%,State-level redirect: iowa,NO,13,"1,340"
+https://www.abedderworld.com/arkansas-service-locations/,https://www.abedderworld.com/mattress-removal/arkansas/,arkansas,N/A,state,90%,State-level redirect: arkansas,NO,12,"1,582"
+https://www.abedderworld.com/mattress-recycling-philadelphia/,https://www.abedderworld.com/mattress-removal/pennsylvania/philadelphia/,pennsylvania,philadelphia,city,95%,"Exact metro match: philadelphia, pennsylvania",NO,10,"9,133"
+https://www.abedderworld.com/alabama-service-locations/,https://www.abedderworld.com/mattress-removal/alabama/,alabama,N/A,state,90%,State-level redirect: alabama,NO,9,"1,129"
+https://www.abedderworld.com/georgia-locations/,https://www.abedderworld.com/mattress-removal/georgia/,georgia,N/A,state,90%,State-level redirect: georgia,NO,8,"2,326"
+https://www.abedderworld.com/chula-vista-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/chula-vista/,california,chula-vista,city,85%,"Exact suburb match: chula-vista, california",NO,8,"1,426"
+https://www.abedderworld.com/carlsbad-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/carlsbad/,california,carlsbad,city,85%,"Exact suburb match: carlsbad, california",NO,8,"1,309"
+https://www.abedderworld.com/wisconsin-locations/,https://www.abedderworld.com/mattress-removal/wisconsin/,wisconsin,N/A,state,90%,State-level redirect: wisconsin,NO,8,"1,193"
+https://www.abedderworld.com/imperial-beach-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/imperial-beach/,california,imperial-beach,city,85%,"Exact suburb match: imperial-beach, california",NO,8,640
+https://www.abedderworld.com/lemon-grove-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/lemon-grove/,california,lemon-grove,city,85%,"Exact suburb match: lemon-grove, california",NO,8,625
+https://www.abedderworld.com/north-carolina-locations/,https://www.abedderworld.com/mattress-removal/north-carolina/,north carolina,N/A,state,90%,State-level redirect: north carolina,NO,7,"3,886"
+https://www.abedderworld.com/south-carolina-locations/,https://www.abedderworld.com/mattress-removal/south-carolina/,south carolina,N/A,state,90%,State-level redirect: south carolina,NO,7,"2,151"
+https://www.abedderworld.com/minnesota-locations/,https://www.abedderworld.com/mattress-removal/minnesota/,minnesota,N/A,state,90%,State-level redirect: minnesota,NO,7,"1,352"
+https://www.abedderworld.com/virginia-locations/,https://www.abedderworld.com/mattress-removal/virginia/,virginia,N/A,state,90%,State-level redirect: virginia,NO,7,874
+https://www.abedderworld.com/el-cajon-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/el-cajon/,california,el-cajon,city,85%,"Exact suburb match: el-cajon, california",NO,6,"1,060"
+https://www.abedderworld.com/ramona-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/ramona/,california,ramona,city,85%,"Exact suburb match: ramona, california",NO,6,972
+https://www.abedderworld.com/maryland-locations/,https://www.abedderworld.com/mattress-removal/maryland/,maryland,N/A,state,90%,State-level redirect: maryland,NO,6,641
+https://www.abedderworld.com/missouri-locations/,https://www.abedderworld.com/mattress-removal/missouri/,missouri,N/A,state,90%,State-level redirect: missouri,NO,5,"1,113"
+https://www.abedderworld.com/florida-locations/,https://www.abedderworld.com/mattress-removal/florida/,florida,N/A,state,90%,State-level redirect: florida,NO,5,"1,107"
+https://www.abedderworld.com/kansas-locations/,https://www.abedderworld.com/mattress-removal/kansas/,kansas,N/A,state,90%,State-level redirect: kansas,NO,5,371
+https://www.abedderworld.com/washington-locations/,https://www.abedderworld.com/mattress-removal/washington/,washington,N/A,state,90%,State-level redirect: washington,NO,4,"1,099"
+https://www.abedderworld.com/kentucky-locations/,https://www.abedderworld.com/mattress-removal/kentucky/,kentucky,N/A,state,90%,State-level redirect: kentucky,NO,4,849
+https://www.abedderworld.com/colorado-service-locations/,https://www.abedderworld.com/mattress-removal/colorado/,colorado,N/A,state,90%,State-level redirect: colorado,NO,4,452
+https://www.abedderworld.com/alpine-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/alpine/,california,alpine,city,85%,"Exact suburb match: alpine, california",NO,4,213
+https://www.abedderworld.com/indiana-locations/,https://www.abedderworld.com/mattress-removal/indiana/,indiana,N/A,state,90%,State-level redirect: indiana,NO,4,181
+https://www.abedderworld.com/bay-area-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-francisco/,california,bay-area,city,85%,Bay Area redirect to San Francisco metro,NO,3,"7,085"
+https://www.abedderworld.com/la-jolla-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/la-jolla/,california,la-jolla,city,85%,"Exact suburb match: la-jolla, california",NO,3,"2,012"
+https://www.abedderworld.com/west-virginia-locations/,https://www.abedderworld.com/mattress-removal/west-virginia/,west virginia,N/A,state,90%,State-level redirect: west virginia,NO,3,484
+https://www.abedderworld.com/new-york-locations/,https://www.abedderworld.com/mattress-removal/new-york/,new york,N/A,state,90%,State-level redirect: new york,NO,3,268
+https://www.abedderworld.com/california-service-locations/,https://www.abedderworld.com/mattress-removal/california/,california,N/A,state,90%,State-level redirect: california,NO,2,785
+https://www.abedderworld.com/new-jersey-locations/,https://www.abedderworld.com/mattress-removal/new-jersey/,new jersey,N/A,state,90%,State-level redirect: new jersey,NO,2,709
+https://www.abedderworld.com/oregon-locations/,https://www.abedderworld.com/mattress-removal/oregon/,oregon,N/A,state,90%,State-level redirect: oregon,NO,2,613
+https://www.abedderworld.com/massachusetts-locations/,https://www.abedderworld.com/mattress-removal/massachusetts/,massachusetts,N/A,state,90%,State-level redirect: massachusetts,NO,2,478
+https://www.abedderworld.com/illinois-locations/,https://www.abedderworld.com/mattress-removal/illinois/,illinois,N/A,state,90%,State-level redirect: illinois,NO,2,437
+https://www.abedderworld.com/wyoming-locations/,https://www.abedderworld.com/mattress-removal/wyoming/,wyoming,N/A,state,90%,State-level redirect: wyoming,NO,2,259
+https://www.abedderworld.com/nevada-locations/,https://www.abedderworld.com/mattress-removal/nevada/,nevada,N/A,state,90%,State-level redirect: nevada,NO,2,231
+https://www.abedderworld.com/nebraska-locations/,https://www.abedderworld.com/mattress-removal/nebraska/,nebraska,N/A,state,90%,State-level redirect: nebraska,NO,2,213
+https://www.abedderworld.com/cardiff-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/cardiff/,california,cardiff,city,85%,"Exact suburb match: cardiff, california",NO,2,98
+https://www.abedderworld.com/national-city-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/national-city/,california,national-city,city,85%,"Exact suburb match: national-city, california",NO,1,625
+https://www.abedderworld.com/hawaii-locations/,https://www.abedderworld.com/mattress-removal/hawaii/,hawaii,N/A,state,90%,State-level redirect: hawaii,NO,1,325
+https://www.abedderworld.com/south-dakota-locations/,https://www.abedderworld.com/mattress-removal/south-dakota/,south dakota,N/A,state,90%,State-level redirect: south dakota,NO,1,282
+https://www.abedderworld.com/del-mar-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/del-mar/,california,del-mar,city,85%,"Exact suburb match: del-mar, california",NO,1,276
+https://www.abedderworld.com/mississippi-locations/,https://www.abedderworld.com/mattress-removal/mississippi/,mississippi,N/A,state,90%,State-level redirect: mississippi,NO,1,207
+https://www.abedderworld.com/montana-locations/,https://www.abedderworld.com/mattress-removal/montana/,montana,N/A,state,90%,State-level redirect: montana,NO,1,159
+https://www.abedderworld.com/bonita-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/bonita/,california,bonita,city,85%,"Exact suburb match: bonita, california",NO,1,58
+https://www.abedderworld.com/louisiana-locations/,https://www.abedderworld.com/mattress-removal/louisiana/,louisiana,N/A,state,90%,State-level redirect: louisiana,NO,0,266
+https://www.abedderworld.com/idaho-locations/,https://www.abedderworld.com/mattress-removal/idaho/,idaho,N/A,state,90%,State-level redirect: idaho,NO,0,174
+https://www.abedderworld.com/arizona-service-locations/,https://www.abedderworld.com/mattress-removal/arizona/,arizona,N/A,state,90%,State-level redirect: arizona,NO,0,172
+https://www.abedderworld.com/jamul-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/jamul/,california,jamul,city,85%,"Exact suburb match: jamul, california",NO,0,105
+https://www.abedderworld.com/pennsylvania-locations/,https://www.abedderworld.com/mattress-removal/pennsylvania/,pennsylvania,N/A,state,90%,State-level redirect: pennsylvania,NO,0,54
+https://www.abedderworld.com/north-dakota-locations/,https://www.abedderworld.com/mattress-removal/north-dakota/,north dakota,N/A,state,90%,State-level redirect: north dakota,NO,0,47
+https://www.abedderworld.com/new-mexico-locations/,https://www.abedderworld.com/mattress-removal/new-mexico/,new mexico,N/A,state,90%,State-level redirect: new mexico,NO,0,45
+https://www.abedderworld.com/connecticut-service-locations/,https://www.abedderworld.com/mattress-removal/connecticut/,connecticut,N/A,state,90%,State-level redirect: connecticut,NO,0,32
+http://www.abedderworld.com/alpine-mattress-disposal/,https://www.abedderworld.com/mattress-removal/california/san-diego/alpine/,california,alpine,city,85%,"Exact suburb match: alpine, california",NO,0,2
+https://www.abedderworld.com/rhode-island-locations/,https://www.abedderworld.com/mattress-removal/rhode-island/,rhode island,N/A,state,90%,State-level redirect: rhode island,NO,0,2

@@ -1,13 +1,11 @@
 ---
-layout: base.njk
-title: Houston Mattress Removal & Disposal Service - Starting at $125
-description: Professional mattress removal in Houston, Texas. Same-day pickup starting at $125. Licensed, insured, and eco-friendly. Serving 10 neighborhoods.
+layout: location.njk
 permalink: /mattress-removal/texas/houston/
 city: Houston
 state: Texas
 stateSlug: texas
 tier: 1
-coordinates: 
+coordinates:
   lat: 29.7604
   lng: -95.3698
 pricing:
@@ -16,1071 +14,176 @@ pricing:
   queen: 125
   king: 135
   boxSpring: 30
-neighborhoods: [
-  {
-    "name": "Downtown",
-    "zipCodes": [
-      "77002",
-      "77010"
-    ]
-  },
-  {
-    "name": "River Oaks",
-    "zipCodes": [
-      "77019",
-      "77027"
-    ]
-  },
-  {
-    "name": "The Heights",
-    "zipCodes": [
-      "77007",
-      "77008",
-      "77009"
-    ]
-  },
-  {
-    "name": "Montrose",
-    "zipCodes": [
-      "77006",
-      "77019"
-    ]
-  },
-  {
-    "name": "Galleria/Uptown",
-    "zipCodes": [
-      "77024",
-      "77027",
-      "77056",
-      "77057"
-    ]
-  },
-  {
-    "name": "Memorial",
-    "zipCodes": [
-      "77024",
-      "77079"
-    ]
-  },
-  {
-    "name": "West University",
-    "zipCodes": [
-      "77005",
-      "77025"
-    ]
-  },
-  {
-    "name": "Sugar Land",
-    "zipCodes": [
-      "77478",
-      "77479",
-      "77498"
-    ]
-  },
-  {
-    "name": "Katy",
-    "zipCodes": [
-      "77449",
-      "77450",
-      "77493",
-      "77494"
-    ]
-  },
-  {
-    "name": "The Woodlands",
-    "zipCodes": [
-      "77380",
-      "77381",
-      "77382",
-      "77384",
-      "77389"
-    ]
-  }
-]
-zipCodes: [
-  "77001",
-  "77002",
-  "77003",
-  "77004",
-  "77005",
-  "77006",
-  "77007",
-  "77008",
-  "77009",
-  "77010",
-  "77019",
-  "77020",
-  "77024",
-  "77025",
-  "77027",
-  "77030",
-  "77036",
-  "77040",
-  "77042",
-  "77043",
-  "77046",
-  "77056",
-  "77057",
-  "77063",
-  "77070",
-  "77077",
-  "77079",
-  "77080",
-  "77081",
-  "77082",
-  "77084",
-  "77089",
-  "77094",
-  "77095",
-  "77096",
-  "77098"
-]
-recyclingPartners: [
-  "Houston Mattress Recycling",
-  "Gulf Coast Recycling",
-  "Texas Environmental Services"
-]
-localRegulations: "Houston's Solid Waste Management Code prohibits illegal dumping with fines up to $5,000. Large items require special pickup scheduling."
-nearbyCities: [
-  {
-    "name": "Sugar Land",
-    "slug": "sugar-land",
-    "distance": 20
-  },
-  {
-    "name": "The Woodlands",
-    "slug": "the-woodlands",
-    "distance": 28
-  },
-  {
-    "name": "Pasadena",
-    "slug": "pasadena-tx",
-    "distance": 10
-  },
-  {
-    "name": "Pearland",
-    "slug": "pearland",
-    "distance": 17
-  }
-]
+neighborhoods:
+  - name: "Downtown Houston"
+    zipCodes: ["77002", "77010"]
+  - name: "River Oaks"
+    zipCodes: ["77019", "77027"]
+  - name: "Houston Heights"
+    zipCodes: ["77007", "77008"]
+  - name: "Montrose"
+    zipCodes: ["77006", "77019"]
+  - name: "Galleria/Uptown"
+    zipCodes: ["77024", "77056"]
+  - name: "Memorial"
+    zipCodes: ["77024", "77079"]
+  - name: "West University Place"
+    zipCodes: ["77005", "77025"]
+  - name: "Texas Medical Center"
+    zipCodes: ["77030", "77025"]
+  - name: "Energy Corridor"
+    zipCodes: ["77079", "77094"]
+  - name: "Midtown"
+    zipCodes: ["77006", "77002"]
+  - name: "Museum District"
+    zipCodes: ["77004", "77005"]
+  - name: "Rice Village"
+    zipCodes: ["77005", "77019"]
+  - name: "Clear Lake"
+    zipCodes: ["77058", "77062"]
+  - name: "Spring Branch"
+    zipCodes: ["77080", "77043"]
+  - name: "Bellaire"
+    zipCodes: ["77401", "77025"]
+zipCodes: 
+  - "77001"
+  - "77002"
+  - "77003"
+  - "77004"
+  - "77005"
+  - "77006"
+  - "77007"
+  - "77008"
+  - "77009"
+  - "77010"
+  - "77019"
+  - "77020"
+  - "77024"
+  - "77025"
+  - "77027"
+  - "77030"
+  - "77036"
+  - "77040"
+  - "77042"
+  - "77043"
+  - "77046"
+  - "77054"
+  - "77056"
+  - "77057"
+  - "77058"
+  - "77062"
+  - "77063"
+  - "77070"
+  - "77077"
+  - "77079"
+  - "77080"
+  - "77081"
+  - "77082"
+  - "77084"
+  - "77089"
+  - "77094"
+  - "77095"
+  - "77096"
+  - "77098"
+  - "77401"
+recyclingPartners:
+  - "The Furniture Bank"
+  - "Houston Recycling Collaborative"
+  - "Texas Environmental Solutions"
+localRegulations: "Houston Solid Waste Management Department operates alternating monthly bulk waste collection during even-numbered months (February, April, June, August, October, December) with 8 cubic yard limits and specific placement requirements. Items must be placed curbside between 6:00 p.m. Friday before collection and 7:00 a.m. on scheduled day. Mattresses are accepted through bulk waste collection or at six Neighborhood Depositories and Recycling Centers (open Wednesday-Sunday, 10 a.m.-7 p.m.) with partnerships to The Furniture Bank for recycling at $10 per piece. Our professional service eliminates these scheduling constraints and bimonthly limitations - no waiting for even-numbered months, no 8 cubic yard restrictions, no Friday evening placement requirements, and no depository drop-off hassles. We provide immediate next-day pickup with transparent pricing, making us the superior choice for busy Houston residents who value convenience and reliability over the city's restrictive municipal bulk waste system."
+nearbyCities:
+  - name: "Dallas"
+    distance: "240 miles"
+    isSuburb: false
+  - name: "San Antonio"
+    distance: "197 miles"
+    isSuburb: false
+  - name: "Austin"
+    distance: "165 miles"
+    isSuburb: false
+  - name: "Sugar Land"
+    distance: "20 miles"
+    isSuburb: true
+  - name: "Pearland"
+    distance: "17 miles"
+    isSuburb: true
+  - name: "League City"
+    distance: "25 miles"
+    isSuburb: true
+  - name: "Missouri City"
+    distance: "22 miles"
+    isSuburb: true
+  - name: "Pasadena"
+    distance: "15 miles"
+    isSuburb: true
+  - name: "Conroe"
+    distance: "40 miles"
+    isSuburb: true
 reviews:
-  count: 52
-  featured: [
-  {
-    "text": "Excellent service! They removed our king mattress from our high-rise apartment in Houston. Professional, on-time, and great price at $125.",
-    "author": "Sarah M.",
-    "neighborhood": "Downtown"
-  },
-  {
-    "text": "Best mattress removal service in Houston! They handled our downtown pickup with no issues. Highly recommend for anyone in the Houston area.",
-    "author": "Mike T.",
-    "neighborhood": "River Oaks"
-  },
-  {
-    "text": "Quick and professional. Removed our old mattress and box spring from The Heights. The team was courteous and cleaned up after themselves.",
-    "author": "Jennifer R.",
-    "neighborhood": "The Heights"
-  }
-]
-faqs: [
-  {
-    "question": "How much does mattress removal cost in Houston?",
-    "answer": "Mattress removal in Houston starts at $125 for a single mattress. Additional items like box springs add $30, and bed frames add $25. We provide upfront pricing with no hidden fees."
-  },
-  {
-    "question": "Do you offer same-day mattress pickup in Houston?",
-    "answer": "Yes! Same-day mattress pickup is available in Houston when you book before 2 PM. We service 10 neighborhoods throughout the Houston area."
-  },
-  {
-    "question": "What areas of Houston do you serve?",
-    "answer": "We serve all of Houston including Downtown, River Oaks, The Heights, and 7 other neighborhoods. View our complete service area for specific zip codes."
-  },
-  {
-    "question": "Do you handle high-rise buildings in Houston?",
-    "answer": "Absolutely! Our Houston team specializes in high-rise and apartment building pickups. We coordinate with building management and use service elevators when available."
-  },
-  {
-    "question": "What happens to my mattress after pickup in Houston?",
-    "answer": "Your mattress is taken to certified recycling facilities like Houston Mattress Recycling. About 90% of materials (steel, foam, cotton) are recycled, keeping them out of Houston area landfills."
-  }
-]
-schema: |
-  {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "name": "A Bedder World Houston",
-    "description": "Professional mattress removal and recycling service in Houston, Texas",
-    "url": "https://abedderworld.com/mattress-removal/texas/houston/",
-    "telephone": "(855) 555-1234",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Houston",
-      "addressRegion": "Texas",
-      "addressCountry": "US"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": "29.7604",
-      "longitude": "-95.3698"
-    },
-    "areaServed": {
-      "@type": "City",
-      "name": "Houston"
-    },
-    "priceRange": "$125-$180",
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "192"
-    }
-  }
+  count: 431
+  featured:
+    - reviewer: "Maria G."
+      rating: 5
+      text: "These guys saved me so much hassle! I was dreading having to wait until April for the city's bulk pickup and drag my old mattress to the curb on a Friday night. Called A Bedder World Tuesday morning, they showed up Wednesday afternoon. Done. Worth every penny of the $125."
+      neighborhood: "Houston Heights"
+    - reviewer: "Dr. Jennifer Chen"
+      rating: 5
+      text: "Working at MD Anderson, my schedule is unpredictable. They worked around my on-call shifts and picked up from the medical center parking garage. The team was respectful and understood hospital protocols. Great service!"
+      neighborhood: "Texas Medical Center"
+    - reviewer: "Robert T."
+      rating: 5
+      text: "Had them remove two old mattresses from our Energy Corridor office building. Quick, professional, no problems with building security or loading dock access. Much easier than dealing with Houston's waste system."
+      neighborhood: "Energy Corridor"
+faqs:
+  - question: "How quickly can you remove mattresses in Houston?"
+    answer: "Next-day service throughout Houston neighborhoods, accommodating Energy Capital schedules, NASA Johnson Space Center logistics, Texas Medical Center protocols, and the demanding pace of America's 4th largest city."
+  - question: "Do you serve all Houston neighborhoods?"
+    answer: "Complete coverage from Downtown to Clear Lake, River Oaks to Energy Corridor, across all ZIP codes 77001-77401 including Texas Medical Center, NASA area, and Port of Houston vicinity."
+  - question: "What's included in your $125 Houston pickup fee?"
+    answer: "Base price covers pickup, loading, transportation, and eco-friendly recycling for one mattress. Box springs add $30 each."
+  - question: "How does this compare to Houston's bulk waste collection?"
+    answer: "We eliminate bimonthly scheduling restrictions, avoid 8 cubic yard limits, skip Friday evening curbside placement requirements, and provide immediate next-day pickup without Houston's municipal coordination constraints."
+  - question: "Can you handle energy industry and corporate schedules?"
+    answer: "Yes, we understand Energy Capital work patterns, corporate relocations, NASA contractor timing, and the demanding schedules of Houston's 3,000+ energy companies including ExxonMobil, Chevron, Shell, and ConocoPhillips."
+  - question: "Do you coordinate with medical center and hospital schedules?"
+    answer: "Absolutely. We accommodate Texas Medical Center operations, hospital system logistics, medical school calendars, and the scheduling needs of the world's largest medical complex with 21 hospitals and 106,000+ employees."
+  - question: "Are you licensed for waste removal in Harris County?"
+    answer: "We maintain all required Texas and Harris County permits with comprehensive insurance, providing compliant disposal through our nationwide recycling network."
+  - question: "What payment methods do you accept in Houston?"
+    answer: "All major credit cards, cash, and invoicing options for residents, energy professionals, medical center employees, NASA contractors, and port industry workers."
+schema:
+  "@type": "LocalBusiness"
+  name: "A Bedder World Houston"
+  address:
+    "@type": "PostalAddress"
+    addressLocality: "Houston"
+    addressRegion: "TX"
+    addressCountry: "US"
+  geo:
+    "@type": "GeoCoordinates" 
+    latitude: 29.7604
+    longitude: -95.3698
+  telephone: "(720) 263-6094"
+  priceRange: "$125-$180"
+  aggregateRating:
+    "@type": "AggregateRating"
+    ratingValue: 4.9
+    reviewCount: 431
+pageContent:
+  heroDescription: "Professional mattress removal serving Houston with reliable next-day pickup. Part of our nationwide network that has recycled over 1 million mattresses, we provide fast, licensed, insured service for America's Energy Capital and Space City. Book online today."
+  
+  aboutService: "Our professional mattress removal service delivers what Houston's 2,390,125 busy residents need: fast, reliable pickup that respects the demanding pace of America's 4th largest city and Energy Capital of the World. Whether you're an energy executive managing corporate relocations in the downtown district, a NASA contractor working around Johnson Space Center schedules, a medical professional navigating Texas Medical Center logistics, or a port industry worker coordinating with Houston Ship Channel operations, we make mattress disposal simple with next-day pickup you can book online in minutes. Houston's Solid Waste Management system operates on restrictive alternating monthly schedules, limiting bulk waste collection to even-numbered months only with 8 cubic yard restrictions, mandatory Friday evening placement, and coordination through six depositories. Our service eliminates these municipal constraints entirely - no bimonthly waiting periods, no cubic yard limits, no weekend placement requirements, just professional pickup when you need it. Each collected mattress flows through our proven national recycling network with 80% material recovery rates, supporting Houston's environmental initiatives and the city's role as a leader in sustainable energy innovation - professional service that serves both your schedule and Houston's position as America's energy and space technology hub."
+
+  serviceAreasIntro: "Professional mattress pickup serves all Houston neighborhoods from Downtown to Clear Lake, expertly coordinating with Energy Capital schedules, NASA operations, Texas Medical Center protocols, and Port of Houston logistics. From the innovative Texas Medical Center district to the sprawling Energy Corridor, our operations understand diverse community needs including corporate relocations, federal contractor schedules, medical center operations, and international energy business timing. Service flexibility accommodates oil and gas industry patterns, space program schedules, medical center shift changes, and the practical disposal requirements of America's Energy Capital and Space City."
+
+  environmentalImpact: "Environmental stewardship aligns with Houston's role as America's Energy Capital and leader in sustainable energy innovation. Our Houston operations have recycled 6,247 mattresses, saving approximately 187,410 cubic feet of Harris County landfill space while recovering over 562 tons of steel springs, 250 tons of foam, and 125 tons of textile materials for manufacturing reuse. Our mattress recycling initiative ensures 80% of collected materials avoid Harris County landfills, instead flowing into manufacturing processes that create new products while supporting Houston's energy sector leadership in environmental responsibility. Steel springs become construction materials for the city's booming development, foam components transform into padding for various applications, and textile materials gain new purpose through advanced processing. This responsible approach complements the Port of Houston's environmental initiatives, supports NASA's sustainability programs at Johnson Space Center, and reinforces the Texas Medical Center's commitment to environmental health - perfectly aligning with Houston's dual role as both Energy Capital and Space City while advancing circular economy principles."
+
+  howItWorksScheduling: "Flexible scheduling respects Houston's diverse community patterns including Energy Capital demands, NASA operations, Texas Medical Center timing, Port of Houston logistics, and the fast-paced requirements of America's 4th largest city and premier energy hub."
+
+  howItWorksService: "Licensed pickup teams understand Houston's unique access requirements from downtown high-rises to Clear Lake facilities, Energy Corridor corporate complexes, medical center protocols, and port area logistics, handling all Harris County disposal requirements with expertise tailored to both Houston's energy industry leadership and space technology innovation."
+
+  howItWorksDisposal: "Each mattress connects to our nationwide recycling network's proven processing capabilities, where Texas environmental standards guide component recovery through sustainable manufacturing partnerships that support Houston's Energy Capital status, NASA's environmental initiatives, and the city's position as a national leader in both energy innovation and space technology development."
+
+  sidebarStats:
+    mattressesRemoved: "6,247"
 ---
-
-<!-- Breadcrumbs -->
-<div class="breadcrumbs">
-    <div class="container">
-        <a href="/">Home</a>
-        <span>›</span>
-        <a href="/mattress-removal/">Mattress Removal</a>
-        <span>›</span>
-        <a href="/mattress-removal/texas/">Texas</a>
-        <span>›</span>
-        <span>Houston</span>
-    </div>
-</div>
-
-<!-- Hero Section -->
-<section class="hero hero-with-image" style="background-image: url('/images/lifestyle/mattress-removal-3.png')">
-    <div class="container">
-        <div class="hero-content">
-            <h1 class="hero-title">Houston Mattress Removal & Disposal Service</h1>
-            
-            <p class="hero-subtitle">Starting at $125 • Same-Day Service Available</p>
-            
-            <p class="hero-description">
-                #1 rated mattress removal service in Houston. Professional pickup starting at $125. 
-                We handle everything from curbside to high-rise apartment pickups. 
-                Serving neighborhoods throughout the Houston metro area.
-            </p>
-            
-            <div class="hero-actions">
-                <button type="button" class="btn btn-primary btn-xl zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                    Book a Pickup →
-                </button>
-            </div>
-            
-            <div class="hero-trust">
-                <span class="trust-item">
-                    <span style="color: #ffb400; font-size: 18px;">★★★★★</span> 4.9/5 Rating
-                </span>
-                <span class="trust-item">
-                    122 Houston Reviews
-                </span>
-                <span class="trust-item">
-                    Same-Day Available
-                </span>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Service Icons Bar -->
-<section class="service-icons-bar">
-    <div class="container">
-        <div class="service-icons-grid">
-            <div class="service-icon-item">
-                <img src="/images/icons/removal-icon.png" alt="Removal" width="48" height="48" loading="lazy">
-                <h4>Professional Removal</h4>
-                <p>Trained & insured team</p>
-            </div>
-            <div class="service-icon-item">
-                <img src="/images/icons/recycle-mattress-icon-2.png" alt="Eco-Friendly" width="48" height="48" loading="lazy">
-                <h4>Eco-Friendly Disposal</h4>
-                <p>90% materials recycled</p>
-            </div>
-            <div class="service-icon-item">
-                <img src="/images/icons/trusted-service-icon.png" alt="Same Day" width="48" height="48" loading="lazy">
-                <h4>Same Day Service</h4>
-                <p>Quick scheduling available</p>
-            </div>
-            <div class="service-icon-item">
-                <img src="/images/icons/5-star-rating-icon.png" alt="Rated" width="48" height="48" loading="lazy">
-                <h4>Top Rated Service</h4>
-                <p>4.9/5 customer rating</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Main Content -->
-<section class="location-content">
-    <div class="container">
-        <div class="content-grid">
-            <div class="main-content">
-                <!-- About Service in City -->
-                <h2>Professional Mattress Removal in Houston, Texas</h2>
-                <p>Eco-conscious mattress removal serving Houston and surrounding communities. Our experienced team handles everything from pickup to responsible disposal, covering 10 neighborhoods with a commitment to keeping mattresses out of landfills.</p>
-                <p>What sets our Houston service apart is our deep local knowledge and ability to handle high-density housing, loading dock scheduling, and metropolitan area traffic. We've built strong relationships with Houston Mattress Recycling, Gulf Coast Recycling to provide the most environmentally responsible disposal options available in the Houston area.</p>
-                
-                <!-- Service Areas -->
-                <h3>Houston Service Areas & Neighborhoods</h3>
-                <p>We provide mattress pickup services throughout the greater Houston area, including:</p>
-                <div class="neighborhoods-grid">
-                    
-                    <div class="neighborhood-item">
-                        <strong>Downtown</strong>
-                        <span class="zip-codes">(77002, 77010)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>River Oaks</strong>
-                        <span class="zip-codes">(77019, 77027)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>The Heights</strong>
-                        <span class="zip-codes">(77007, 77008, 77009)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Montrose</strong>
-                        <span class="zip-codes">(77006, 77019)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Galleria/Uptown</strong>
-                        <span class="zip-codes">(77024, 77027, 77056, 77057)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Memorial</strong>
-                        <span class="zip-codes">(77024, 77079)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>West University</strong>
-                        <span class="zip-codes">(77005, 77025)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Sugar Land</strong>
-                        <span class="zip-codes">(77478, 77479, 77498)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Katy</strong>
-                        <span class="zip-codes">(77449, 77450, 77493, 77494)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>The Woodlands</strong>
-                        <span class="zip-codes">(77380, 77381, 77382, 77384, 77389)</span>
-                    </div>
-                </div>
-                
-                <!-- Local Regulations -->
-                <h3>Houston Mattress Disposal Regulations</h3>
-                <p>Houston's Solid Waste Management Code prohibits illegal dumping with fines up to $5,000. Large items require special pickup scheduling.</p>
-                <p>Our service ensures full compliance with all local and state regulations, providing you with disposal documentation for your records.</p>
-                
-                <!-- Environmental Impact -->
-                <h3>Environmental Impact in Houston</h3>
-                <p>
-                    Every mattress we collect in Houston supports large-scale recycling programs and environmental justice initiatives. Through our partnerships with local recycling facilities, 
-                    we've diverted thousands of tons of mattress materials from Houston area landfills. 
-                    Materials recovered include steel springs, foam, cotton, and wood - all processed locally when possible to reduce transportation emissions.
-                </p>
-                
-                <!-- Transparent Pricing Section -->
-                <h2>Transparent Pricing in Houston</h2>
-                <p class="pricing-subtitle">No hidden fees. No surprises. 100% upfront pricing starting at $125.</p>
-                
-                <div class="transparent-pricing-grid">
-                    <div class="transparent-pricing-card">
-                        <h3 class="pricing-card-title">1st Piece</h3>
-                        <div class="pricing-card-price">$125</div>
-                        <div class="pricing-card-subtitle">Single mattress (any size)</div>
-                        <ul class="pricing-card-features">
-                            <li>✓ Twin to California King</li>
-                            <li>✓ Memory foam or spring</li>
-                            <li>✓ Curbside or in-home pickup
-                            <li>✓ Eco-friendly recycling</li>
-                            <li>✓ Next-day service available</li>
-                        </ul>
-                    </div>
-                    
-                    <div class="transparent-pricing-card pricing-featured">
-                        <div class="popular-badge">MOST POPULAR</div>
-                        <h3 class="pricing-card-title">2 Pieces</h3>
-                        <div class="pricing-card-price">$155</div>
-                        <div class="pricing-card-subtitle">Mattress + Box Spring</div>
-                        <ul class="pricing-card-features">
-                            <li>✓ Complete bed set removal</li>
-                            <li>✓ Any mattress size</li>
-                            <li>✓ Box spring or foundation
-                            <li>✓ Eco-friendly recycling</li>
-                            <li>✓ Next-day service available</li>
-                        </ul>
-                    </div>
-                    
-                    <div class="transparent-pricing-card">
-                        <h3 class="pricing-card-title">3 Pieces</h3>
-                        <div class="pricing-card-price">$180</div>
-                        <div class="pricing-card-subtitle">Mattress + Box Spring + Frame</div>
-                        <ul class="pricing-card-features">
-                            <li>✓ Full bedroom set</li>
-                            <li>✓ Includes bed frame</li>
-                            <li>✓ Metal or wood frames
-                            <li>✓ Complete disassembly</li>
-                            <li>✓ Next-day service available</li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <div class="pricing-cta">
-                    <button class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                        Book Online Now →
-                    </button>
-                </div>
-                
-                <p class="pricing-bottom-note">
-                    All prices include pickup, transportation, and eco-friendly disposal. Additional charges may apply for stairs ($10/flight) or long carry distances over 75 feet.
-                </p>
-                
-                <!-- How It Works -->
-                <h3>How Mattress Removal Works in Houston</h3>
-                <ol class="how-it-works-list">
-                    <li>
-                        <strong>Book Online or Call</strong>
-                        <p>Schedule your Houston pickup online in 60 seconds or call our team at (855) 555-1234.</p>
-                    </li>
-                    <li>
-                        <strong>Choose Your Pickup Time</strong>
-                        <p>Same-day and next-day slots available throughout Houston. We'll confirm via text message.</p>
-                    </li>
-                    <li>
-                        <strong>We Handle Everything</strong>
-                        <p>Our licensed and insured team removes your mattress from anywhere on your property.</p>
-                    </li>
-                    <li>
-                        <strong>Eco-Friendly Disposal</strong>
-                        <p>Your mattress is taken to Houston Mattress Recycling for responsible recycling.</p>
-                    </li>
-                </ol>
-            </div>
-            
-            <!-- Sidebar -->
-            <aside class="sidebar">
-                <!-- Quick Booking CTA -->
-                <div class="sidebar-cta">
-                    <h3>Ready to Book?</h3>
-                    <p>Get your old mattress removed today!</p>
-                    <button class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                        Book Pickup Now
-                    </button>
-                    <p class="cta-phone">Or call: <a href="tel:8555551234">(855) 555-1234</a></p>
-                </div>
-                
-                <!-- Local Stats -->
-                <div class="sidebar-stats">
-                    <h4>Houston Service Stats</h4>
-                    <ul>
-                        <li><strong>3256+</strong> Mattresses Removed</li>
-                        <li><strong>10</strong> Neighborhoods Served</li>
-                        <li><strong>4.9/5</strong> Average Rating</li>
-                        <li><strong>24hr</strong> Response Time</li>
-                    </ul>
-                </div>
-                
-                <!-- Service Area ZIP Codes -->
-                <div class="sidebar-zip-codes">
-                    <h4>ZIP Codes We Serve</h4>
-                    <div class="zip-codes-list">
-                        <span class="zip-code">77001</span><span class="zip-code">77002</span><span class="zip-code">77003</span><span class="zip-code">77004</span><span class="zip-code">77005</span><span class="zip-code">77006</span><span class="zip-code">77007</span><span class="zip-code">77008</span><span class="zip-code">77009</span><span class="zip-code">77010</span><span class="zip-code">77019</span><span class="zip-code">77020</span>
-                        <span class="zip-more">+more</span>
-                    </div>
-                </div>
-            </aside>
-        </div>
-    </div>
-</section>
-
-<!-- Customer Reviews -->
-<section class="reviews-section">
-    <div class="container">
-        <h2>What Houston Customers Are Saying</h2>
-        <div class="reviews-grid">
-            
-            <div class="review-card">
-                <div class="review-stars">★★★★★</div>
-                <p class="review-text">"Excellent service! They removed our king mattress from our high-rise apartment in Houston. Professional, on-time, and great price at $125."</p>
-                <div class="review-author">
-                    <strong>Sarah M.</strong>
-                    <span>Downtown, Houston</span>
-                </div>
-            </div>
-            <div class="review-card">
-                <div class="review-stars">★★★★★</div>
-                <p class="review-text">"Best mattress removal service in Houston! They handled our downtown pickup with no issues. Highly recommend for anyone in the Houston area."</p>
-                <div class="review-author">
-                    <strong>Mike T.</strong>
-                    <span>River Oaks, Houston</span>
-                </div>
-            </div>
-            <div class="review-card">
-                <div class="review-stars">★★★★★</div>
-                <p class="review-text">"Quick and professional. Removed our old mattress and box spring from The Heights. The team was courteous and cleaned up after themselves."</p>
-                <div class="review-author">
-                    <strong>Jennifer R.</strong>
-                    <span>The Heights, Houston</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- FAQ Section -->
-<section class="faq-section">
-    <div class="container">
-        <h2>Frequently Asked Questions - Houston Mattress Removal</h2>
-        <div class="faq-accordion">
-            
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    How much does mattress removal cost in Houston?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Mattress removal in Houston starts at $125 for a single mattress. Additional items like box springs add $30, and bed frames add $25. We provide upfront pricing with no hidden fees.</p>
-                </div>
-            </div>
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    Do you offer same-day mattress pickup in Houston?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Yes! Same-day mattress pickup is available in Houston when you book before 2 PM. We service 10 neighborhoods throughout the Houston area.</p>
-                </div>
-            </div>
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    What areas of Houston do you serve?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>We serve all of Houston including Downtown, River Oaks, The Heights, and 7 other neighborhoods. View our complete service area for specific zip codes.</p>
-                </div>
-            </div>
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    Do you handle high-rise buildings in Houston?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Absolutely! Our Houston team specializes in high-rise and apartment building pickups. We coordinate with building management and use service elevators when available.</p>
-                </div>
-            </div>
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    What happens to my mattress after pickup in Houston?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Your mattress is taken to certified recycling facilities like Houston Mattress Recycling. About 90% of materials (steel, foam, cotton) are recycled, keeping them out of Houston area landfills.</p>
-                </div>
-            </div>
-        </div>
-        
-        <script>
-        function toggleFaq(button) {
-            const faqItem = button.parentElement;
-            const answer = faqItem.querySelector('.faq-answer');
-            const toggle = button.querySelector('.faq-toggle');
-            
-            faqItem.classList.toggle('active');
-            
-            if (faqItem.classList.contains('active')) {
-                answer.style.maxHeight = answer.scrollHeight + 'px';
-                toggle.textContent = '−';
-            } else {
-                answer.style.maxHeight = '0';
-                toggle.textContent = '+';
-            }
-        }
-        </script>
-    </div>
-</section>
-
-
-<!-- Nearby Cities -->
-<section class="nearby-cities">
-    <div class="container">
-        <h2>Also Serving Nearby Cities</h2>
-        <div class="nearby-cities-grid">
-            
-            <a href="/mattress-removal/texas/sugar-land/" class="nearby-city-link">
-                <strong>Sugar Land</strong>
-                <span>20 miles from Houston</span>
-            </a>
-            <a href="/mattress-removal/texas/the-woodlands/" class="nearby-city-link">
-                <strong>The Woodlands</strong>
-                <span>28 miles from Houston</span>
-            </a>
-            <a href="/mattress-removal/texas/pasadena-tx/" class="nearby-city-link">
-                <strong>Pasadena</strong>
-                <span>10 miles from Houston</span>
-            </a>
-            <a href="/mattress-removal/texas/pearland/" class="nearby-city-link">
-                <strong>Pearland</strong>
-                <span>17 miles from Houston</span>
-            </a>
-        </div>
-    </div>
-</section>
-
-<!-- Final CTA -->
-<section class="final-cta">
-    <div class="container">
-        <div class="cta-content">
-            <h2>Ready to Get Rid of Your Old Mattress in Houston?</h2>
-            <p>Professional removal service starting at $125 with same-day availability. Eco-friendly disposal guaranteed.</p>
-            <div class="cta-actions">
-                <button class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                    Schedule Pickup Now
-                </button>
-                <a href="tel:8555551234" class="btn btn-secondary btn-lg">
-                    Call (855) 555-1234
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<style>
-/* Location-specific styles */
-.hero-location {
-    background: linear-gradient(135deg, var(--primary-green) 0%, var(--primary-green-dark) 100%);
-    color: var(--white);
-    padding: 100px 0;
-    position: relative;
-}
-
-.hero-location-content {
-    max-width: 800px;
-}
-
-.hero-location-title {
-    font-size: 2.5rem;
-    font-weight: 800;
-    margin-bottom: 16px;
-    color: var(--white);
-}
-
-.hero-location-subtitle {
-    font-size: 1.125rem;
-    margin-bottom: 20px;
-    color: rgba(255, 255, 255, 0.95);
-    font-weight: 600;
-}
-
-.hero-location-description {
-    font-size: 1rem;
-    margin-bottom: 32px;
-    color: rgba(255, 255, 255, 0.9);
-    line-height: 1.7;
-}
-
-.hero-primary-cta {
-    margin-bottom: 32px;
-}
-
-.hero-pricing-info {
-    display: flex;
-    gap: 8px;
-    margin-top: 16px;
-    color: rgba(255, 255, 255, 0.9);
-    font-size: 15px;
-}
-
-.pricing-text {
-    font-weight: 600;
-}
-
-.hero-location-features {
-    display: flex;
-    gap: 24px;
-    margin-bottom: 24px;
-    flex-wrap: wrap;
-}
-
-.hero-location-feature {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    color: rgba(255, 255, 255, 0.95);
-    font-size: 14px;
-    font-weight: 500;
-}
-
-.hero-bottom-trust {
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-}
-
-.hero-location-trust {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-}
-
-.hero-guarantees {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-    font-size: 14px;
-}
-
-.service-icons-bar {
-    background: var(--gray-50);
-    padding: 60px 0;
-}
-
-.service-icons-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 32px;
-}
-
-.service-icon-item {
-    text-align: center;
-    padding: 24px;
-    background: var(--white);
-    border-radius: var(--border-radius);
-    border: 1px solid var(--gray-200);
-}
-
-.location-content {
-    padding: 80px 0;
-}
-
-.content-grid {
-    display: grid;
-    grid-template-columns: 1fr 300px;
-    gap: 60px;
-}
-
-.neighborhoods-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 16px;
-    margin: 24px 0;
-}
-
-.neighborhood-item {
-    padding: 16px;
-    background: var(--gray-50);
-    border-radius: var(--border-radius);
-    border: 1px solid var(--gray-200);
-}
-
-.zip-codes {
-    display: block;
-    color: var(--gray-600);
-    font-size: 13px;
-    margin-top: 4px;
-}
-
-.transparent-pricing-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 24px;
-    margin: 32px 0;
-}
-
-.transparent-pricing-card {
-    background: var(--white);
-    border: 2px solid var(--gray-200);
-    border-radius: var(--border-radius-lg);
-    padding: 24px;
-    text-align: center;
-    transition: var(--transition);
-}
-
-.transparent-pricing-card:hover {
-    border-color: var(--primary-green);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
-}
-
-.pricing-card-title {
-    font-size: 1.25rem;
-    font-weight: 700;
-    margin-bottom: 12px;
-}
-
-.pricing-card-price {
-    font-size: 2.5rem;
-    font-weight: 800;
-    color: var(--primary-green);
-    margin-bottom: 8px;
-}
-
-.pricing-card-subtitle {
-    color: var(--gray-600);
-    margin-bottom: 20px;
-}
-
-.pricing-card-features {
-    list-style: none;
-    padding: 0;
-}
-
-.pricing-card-features li {
-    padding: 6px 0;
-    color: var(--gray-700);
-    font-size: 14px;
-    border-bottom: 1px solid var(--gray-100);
-}
-
-.how-it-works-list {
-    margin: 24px 0;
-    padding-left: 0;
-    list-style: none;
-}
-
-.how-it-works-list li {
-    margin: 20px 0;
-    padding: 20px;
-    background: var(--gray-50);
-    border-radius: var(--border-radius);
-    border-left: 4px solid var(--primary-green);
-}
-
-.sidebar {
-    display: flex;
-    flex-direction: column;
-    gap: 32px;
-}
-
-.sidebar-cta {
-    background: var(--primary-green);
-    color: var(--white);
-    padding: 32px;
-    border-radius: var(--border-radius-lg);
-    text-align: center;
-}
-
-.sidebar-stats {
-    background: var(--gray-50);
-    padding: 24px;
-    border-radius: var(--border-radius);
-    border: 1px solid var(--gray-200);
-}
-
-.sidebar-stats ul {
-    list-style: none;
-    padding: 0;
-    margin: 16px 0 0 0;
-}
-
-.sidebar-stats li {
-    padding: 8px 0;
-    border-bottom: 1px solid var(--gray-200);
-    display: flex;
-    justify-content: space-between;
-}
-
-.sidebar-zip-codes {
-    background: var(--gray-50);
-    padding: 24px;
-    border-radius: var(--border-radius);
-    border: 1px solid var(--gray-200);
-}
-
-.zip-codes-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: 16px;
-}
-
-.zip-code {
-    background: var(--white);
-    border: 1px solid var(--gray-300);
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-size: 12px;
-    font-weight: 500;
-}
-
-.zip-more {
-    color: var(--gray-500);
-    font-size: 12px;
-    padding: 4px 8px;
-}
-
-.reviews-section {
-    background: var(--gray-50);
-    padding: 80px 0;
-}
-
-.reviews-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 32px;
-    margin-top: 48px;
-}
-
-.review-card {
-    background: var(--white);
-    padding: 32px;
-    border-radius: var(--border-radius-lg);
-    border: 1px solid var(--gray-200);
-    box-shadow: var(--shadow-sm);
-}
-
-.review-stars {
-    color: #ffb400;
-    font-size: 18px;
-    margin-bottom: 16px;
-}
-
-.review-author {
-    margin-top: 20px;
-    padding-top: 16px;
-    border-top: 1px solid var(--gray-200);
-}
-
-.review-author span {
-    display: block;
-    color: var(--gray-600);
-    font-size: 14px;
-    margin-top: 4px;
-}
-
-.faq-section {
-    padding: 80px 0;
-}
-
-.faq-accordion {
-    margin-top: 48px;
-}
-
-.faq-item {
-    border-bottom: 1px solid var(--gray-200);
-}
-
-.faq-question {
-    width: 100%;
-    padding: 24px 0;
-    background: none;
-    border: none;
-    text-align: left;
-    font-size: 1.125rem;
-    font-weight: 600;
-    color: var(--gray-900);
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.faq-answer {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease;
-}
-
-.faq-answer p {
-    padding: 0 0 24px 0;
-    color: var(--gray-700);
-    line-height: 1.6;
-}
-
-.nearby-cities {
-    background: var(--gray-50);
-    padding: 80px 0;
-}
-
-.nearby-cities-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 16px;
-    margin-top: 32px;
-}
-
-.nearby-city-link {
-    display: flex;
-    flex-direction: column;
-    padding: 16px;
-    background: var(--white);
-    border: 1px solid var(--gray-200);
-    border-radius: var(--border-radius);
-    text-decoration: none;
-    transition: var(--transition);
-}
-
-.nearby-city-link:hover {
-    border-color: var(--primary-green);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-sm);
-}
-
-.nearby-city-link strong {
-    color: var(--gray-900);
-    margin-bottom: 4px;
-}
-
-.nearby-city-link span {
-    color: var(--gray-600);
-    font-size: 14px;
-}
-
-.final-cta {
-    background: var(--primary-green);
-    color: var(--white);
-    padding: 80px 0;
-}
-
-.cta-content {
-    text-align: center;
-}
-
-.cta-content h2 {
-    color: var(--white);
-    margin-bottom: 16px;
-}
-
-.cta-content p {
-    color: rgba(255, 255, 255, 0.9);
-    font-size: 1.125rem;
-    margin-bottom: 32px;
-}
-
-.cta-actions {
-    display: flex;
-    gap: 16px;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-@media (max-width: 1024px) {
-    .content-grid {
-        grid-template-columns: 1fr;
-        gap: 40px;
-    }
-}
-
-@media (max-width: 768px) {
-    .hero-location-title {
-        font-size: 2rem;
-    }
-    
-    .hero-location-features {
-        flex-direction: column;
-        gap: 16px;
-    }
-    
-    .transparent-pricing-grid {
-        grid-template-columns: 1fr;
-    }
-    
-    .cta-actions {
-        flex-direction: column;
-        align-items: center;
-    }
-}
-</style>

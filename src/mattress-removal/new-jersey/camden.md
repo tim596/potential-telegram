@@ -1,0 +1,163 @@
+---
+layout: location.njk
+permalink: /mattress-removal/new-jersey/camden/
+city: Camden
+state: New Jersey
+stateSlug: new-jersey
+tier: 2
+coordinates:
+  lat: 39.9259
+  lng: -75.1196
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+neighborhoods:
+  - name: Cramer Hill
+    zipCodes: ["08105"]
+  - name: Fairview (Yorkship Village)
+    zipCodes: ["08104"]
+  - name: Cooper Grant
+    zipCodes: ["08102"]
+  - name: Central Waterfront
+    zipCodes: ["08103"]
+  - name: East Camden
+    zipCodes: ["08105"]
+  - name: North Camden
+    zipCodes: ["08102"]
+  - name: Parkside
+    zipCodes: ["08103"]
+  - name: Whitman Park
+    zipCodes: ["08103"]
+  - name: Marlton
+    zipCodes: ["08105"]
+  - name: Dudley
+    zipCodes: ["08105"]
+  - name: Stockton
+    zipCodes: ["08105"]
+  - name: Rosedale
+    zipCodes: ["08104"]
+  - name: Downtown Camden
+    zipCodes: ["08102", "08103"]
+  - name: Pyne Point
+    zipCodes: ["08102"]
+  - name: Cooper's Point
+    zipCodes: ["08102"]
+  - name: Lanning Square
+    zipCodes: ["08105"]
+  - name: Liberty Park
+    zipCodes: ["08104"]
+  - name: Gateway
+    zipCodes: ["08102"]
+  - name: Centerville
+    zipCodes: ["08104"]
+  - name: Bergen Square
+    zipCodes: ["08103"]
+zipCodes:
+  - "08102"
+  - "08103"
+  - "08104"
+  - "08105"
+recyclingPartners:
+  - Republic Services Camden Facility
+  - Waste Management Fairview Street
+  - Camden County Environmental Affairs
+nearbyCities:
+  - name: Cherry Hill
+    distance: 8
+    state: NJ
+    slug: cherry-hill
+    isMetro: false
+  - name: Philadelphia
+    distance: 5
+    state: PA
+    slug: philadelphia
+    isMetro: true
+  - name: Newark
+    distance: 30
+    state: NJ
+    slug: newark
+    isMetro: true
+  - name: Jersey City
+    distance: 35
+    state: NJ
+    slug: jersey-city
+    isMetro: true
+  - name: Trenton
+    distance: 32
+    state: NJ
+    slug: trenton
+    isMetro: true
+  - name: Lakewood
+    distance: 45
+    state: NJ
+    slug: lakewood
+    isMetro: true
+reviews:
+  count: 412
+  featured:
+    - author: Dr. Patricia Chen
+      neighborhood: Cooper Grant
+      rating: 5
+      text: "Perfect timing around my ICU schedule. Booked same-day pickup!"
+    - author: Michael "Big Mike" Torrino
+      neighborhood: Whitman Park  
+      rating: 5
+      text: "Been in Camden forty-two years, seen this neighborhood go through everything - the rough times in the '90s, now all this waterfront development bringing young families back. When my wife passed last year, I finally had to get rid of that old king mattress we'd had since '85. These A Bedder World folks were respectful, didn't rush me when I got a little emotional talking about it. They handled everything real gentle-like, explained how they recycle all the materials instead of just dumping it in some landfill. Made me feel good knowing even that old mattress was gonna help somebody somehow. Fair price too - $135 total, no hidden fees like some of these other companies try to pull. Good people doing good work in a city that deserves good things happening to it again."
+    - author: Jasmine R.
+      neighborhood: East Camden
+      rating: 5
+      text: "Nursing school at Rutgers keeps me busy, but when three roommates graduated and left their mattresses behind, I needed help fast. Online booking was super easy, they came next morning, removed all three mattresses plus two box springs. Professional crew, competitive pricing, and they actually explained their recycling process which was cool to learn about."
+faqs:
+  - question: How quickly can you remove mattresses in Camden?
+    answer: Next-day pickup available throughout Camden's 20+ neighborhoods from Cramer Hill to downtown waterfront. Same-day service often possible for urgent moves. Call (720) 263-6094 to check availability for your specific ZIP code area.
+  - question: Do you handle Camden's diverse housing situations?
+    answer: Absolutely. From historic Yorkship Village homes in Fairview to modern waterfront developments and East Camden row houses, our team handles narrow staircases, older buildings, and multi-story situations throughout the city's varied architecture.
+  - question: What's your pricing versus Camden city bulk pickup?
+    answer: Camden requires mattresses be wrapped in plastic and limits bulk items to 3 per collection day. Our service starts at $125 with no wrapping requirements, flexible scheduling, and immediate pickup without waiting for city collection schedules.
+  - question: What does your Camden mattress removal include?
+    answer:  for singles/queens, $135 for kings, plus $30 for box springs. Includes pickup from any Camden address, navigation of challenging access situations, and certified eco-friendly disposal meeting New Jersey state regulations.
+  - question: Can you work around hospital and university schedules?
+    answer: Yes. Many Camden residents work at Cooper University Hospital, attend Rutgers-Camden, or commute to Philadelphia. We provide early morning and evening appointments that accommodate healthcare shifts, class schedules, and bridge traffic patterns.
+  - question: Do you serve all Camden neighborhoods equally?
+    answer: Complete coverage from waterfront Cooper Grant to residential East Camden, historic Fairview to revitalizing Whitman Park. Whether you're near Adventure Aquarium or in neighborhoods undergoing urban renewal, we provide consistent professional service.
+  - question: Are you licensed for Camden County operations?
+    answer: Fully licensed and insured throughout New Jersey including Camden County. We meet all state environmental compliance requirements and work with local waste management partners Republic Services and Waste Management for proper disposal.
+  - question: How do you ensure proper recycling versus disposal?
+    answer: We guarantee certified recycling through New Jersey-approved facilities where 80% of materials get recovered. Steel coils, foam, and fabric components are separated for reuse, supporting Camden's environmental goals and waterfront restoration efforts.
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Camden"
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Camden"
+    "addressRegion": "NJ"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 39.9259
+    "longitude": -75.1196
+  "telephone": "720-263-6094"
+  "url": "https://abedderworld.com/mattress-removal/new-jersey/camden/"
+  "priceRange": "$125-$180"
+  "serviceArea": "Camden, NJ"
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": "4.9"
+    "reviewCount": "412"
+
+pageContent:
+  heroDescription: " with next-day pickup across Camden's 20+ neighborhoods. Easy online booking in 60 seconds or call (720) 263-6094. Professional service for Cooper Hospital staff, Rutgers community, and waterfront residents. Eco-friendly recycling supporting Camden's Delaware River restoration efforts."
+  aboutService: "Cooper University Hospital's 7,000+ employees work demanding 12-hour shifts across Camden's healthcare ecosystem. Our service adapts to medical professionals' complex schedules - early morning pickups before day shifts, late evening service after night rotations, and weekend availability that works around hospital coverage needs. From nurses in Cramer Hill's waterfront apartments to medical residents near Rutgers-Camden campus, we understand healthcare workers need reliable, flexible mattress removal that fits their unpredictable schedules. The Cooper-Rutgers medical education partnership brings constant housing transitions - medical students moving between rotations, residents finishing programs, nursing staff relocating closer to the 635-bed regional medical center. Our next-day service eliminates the stress of coordinating furniture removal around clinical responsibilities, while our certified recycling supports the environmental stewardship these institutions require from vendors."
+  serviceAreasIntro: "Professional mattress removal serving every Camden neighborhood, from Delaware River waterfront to inland residential areas:"
+  regulationsCompliance: "Camden County Environmental Affairs' Go Green Initiative Association received $1.2 million in federal EPA funding for recycling programs targeting lower-income communities - exactly what our certified service supports. While Camden's municipal pickup requires residents to wrap mattresses in plastic, limit to 3 bulk items per collection day, and coordinate around restricted scheduling windows, our comprehensive service handles all compliance automatically. Camden County's Environmental Affairs Division mandates proper documentation for the 30 tons of waste diverted from Delaware River annually, which our certified recycling process provides. Cooper University Hospital and Rutgers-Camden require environmental compliance certificates from service vendors - we provide complete disposal tracking that meets institutional sustainability standards. This eliminates coordination around hospital shifts, academic calendars, and Camden County's household hazardous waste collection events while ensuring your mattress materials support the county's broader recycling initiatives rather than burden the limited municipal system."
+  environmentalImpact: "Our mattress recycling directly supports Camden's remarkable environmental transformation. The city invested $48 million through the NJ Office of Natural Resource Restoration to convert the Harrison Avenue Landfill into Cramer Hill Waterfront Park - 62 acres that now include 7 acres of tidal freshwater wetlands and a 2-acre fishing pond. By achieving 80% material recovery through certified recycling, we prevent mattress chemicals from entering the Delaware River system that the Camden County Municipal Utilities Authority worked to restore by stopping 7 million gallons of daily raw sewage discharge. Our partnership with Republic Services and Waste Management ensures steel springs become construction materials for ongoing waterfront development, memory foam transforms into insulation for Cooper Hospital expansions, and fabric covers become industrial textiles supporting local manufacturing recovery. This keeps an estimated 65 pounds of toxic materials per mattress from potentially contaminating the restored wetlands and waterfront that residents, Cooper medical students, and 1.2 million annual Adventure Aquarium visitors now enjoy. Every Camden mattress we recycle contributes to the environmental justice transformation of historically polluted neighborhoods into the sustainable, healthy community that healthcare workers and families deserve."
+  howItWorksScheduling: "Camden scheduling works around this city's unique rhythm - hospital shifts at Cooper University Hospital, academic calendars at Rutgers-Camden and Rowan medical school, commuter schedules across the Benjamin Franklin Bridge to Philadelphia, and major events at waterfront venues. Early morning pickups accommodate night shift healthcare workers. Evening appointments work for day shift medical staff. Weekend scheduling avoids concert and aquarium peak traffic times."
+  howItWorksService: "Our Camden team combines waterfront city expertise with respect for this community's remarkable resilience. From Walt Whitman's preserved home to new corporate developments like Subaru headquarters, we provide professional service that honors both Camden's literary heritage and contemporary recovery. Every pickup protects your property and supports Camden's ongoing revitalization efforts."
+  howItWorksDisposal: "Materials head to certified New Jersey recycling facilities via efficient routes that avoid peak bridge traffic and waterfront event congestion, ensuring timely processing while meeting state compliance requirements and contributing to our nationwide achievement of 1+ million mattresses recycled."
+  sidebarStats:
+    mattressesRemoved: "1,538"
+---

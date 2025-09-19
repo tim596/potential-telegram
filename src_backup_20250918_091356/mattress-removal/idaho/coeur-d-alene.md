@@ -1,0 +1,140 @@
+---
+layout: location.njk
+title: Coeur d'Alene, ID Mattress Removal & Disposal Service
+description: Professional mattress removal in Coeur d'Alene, Idaho. Next-day pickup  Licensed, insured, and eco-friendly disposal. Serving all lake neighborhoods and resort areas.
+permalink: /mattress-removal/idaho/coeur-d-alene/
+city: Coeur d'Alene
+state: Idaho
+stateSlug: idaho
+tier: 2
+coordinates:
+  lat: 47.6777
+  lng: -116.7804
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: Downtown Coeur d'Alene
+    zipCodes: ["83814"]
+  - name: Lake Shore Drive
+    zipCodes: ["83814"]
+  - name: Northwest Boulevard
+    zipCodes: ["83815"]
+  - name: Prairie Avenue
+    zipCodes: ["83815"]
+  - name: Ramsey Road
+    zipCodes: ["83815"]
+  - name: Neider Avenue
+    zipCodes: ["83815"]
+  - name: Atlas Road
+    zipCodes: ["83815"]
+  - name: Canfield Avenue
+    zipCodes: ["83814"]
+  - name: Appleway Avenue
+    zipCodes: ["83814"]
+  - name: Kathleen Avenue
+    zipCodes: ["83815"]
+  - name: Mill River
+    zipCodes: ["83814"]
+  - name: Forest Cemetery Area
+    zipCodes: ["83814"]
+  - name: City Park Area
+    zipCodes: ["83814"]
+  - name: Tubbs Hill
+    zipCodes: ["83814"]
+  - name: Sanders Beach
+    zipCodes: ["83814"]
+  - name: Independence Point
+    zipCodes: ["83815"]
+  - name: Fernan Village
+    zipCodes: ["83814"]
+  - name: Riverstone
+    zipCodes: ["83814"]
+  - name: English Point
+    zipCodes: ["83814"]
+  - name: Wolf Lodge Bay
+    zipCodes: ["83814"]
+zipCodes:
+  - "83814"
+  - "83815"
+recyclingPartners:
+  - "Kootenai County Solid Waste"
+  - "North Idaho Mattress Recovery"
+  - "Inland Northwest Recycling"
+localRegulations: "We work with Kootenai County Solid Waste Management for all mattress disposal requirements in Coeur d'Alene. Our licensed service handles proper collection, transport, and delivery to approved North Idaho facilities. Kootenai County requires licensed haulers for bulk items, and we maintain full compliance with Idaho Department of Environmental Quality regulations while working within Coeur d'Alene's lake community waste management protocols."
+nearbyCities:
+  - name: Boise
+    distance: "350 miles"
+    slug: "boise"
+    isSuburb: false
+reviews:
+  count: 31
+  featured:
+    - author: "Jessica P."
+      neighborhood: "Lake Shore Drive"
+      rating: 5
+      text: "Needed removal from our lakefront vacation rental between guests. Team navigated our steep driveway carefully, worked around boat trailers in the drive, and handled king mattress removal without disturbing neighboring properties. Perfect for resort area logistics."
+    - author: "Mike D."
+      neighborhood: "Riverstone"
+      rating: 5
+      text: "Called from our development near the golf course. They scheduled around HOA quiet hours, arrived exactly on time, and removed two queens from upstairs bedrooms efficiently. Great understanding of planned community requirements."
+    - author: "Carol W."
+      neighborhood: "Downtown Coeur d'Alene"
+      rating: 5
+      text: "Running a bed & breakfast near the resort, I needed quick turnaround during summer season. Crew worked around guest schedules, completed pickup discreetly, and handled payment smoothly. Excellent service for hospitality businesses."
+faqs:
+  - question: "How quickly can you schedule mattress pickup in Coeur d'Alene?"
+    answer: "We provide next-day service throughout Coeur d'Alene and Kootenai County including downtown lakefront, Riverstone development, and surrounding neighborhoods. Book online or call (720) 263-6094 before 2 PM for next business day pickup. We coordinate timing around resort season and vacation rental schedules when needed."
+  - question: "What's included in your Coeur d'Alene mattress removal price?"
+    answer: "Our $125 starting price covers one mattress pickup, loading, transport, and eco-friendly disposal. Box springs add $30 each. We handle Kootenai County disposal requirements and coordinate with vacation rentals, HOA communities, or hospitality businesses as needed. Payment due at service completion."
+  - question: "Do you service lakefront properties and steep access areas?"
+    answer: "Yes, we provide mattress removal throughout Coeur d'Alene including lakefront properties, hillside homes with steep driveways, and resort areas. We understand lake community geography and adapt our approach for seasonal access, boat trailers, and narrow lakefront roads."
+  - question: "Can you work around vacation rental and hospitality schedules?"
+    answer: "Absolutely. We schedule around guest turnovers, coordinate with property management companies, and understand hospitality industry timing. Our team adapts to resort season demands, quiet hours, and business needs for efficient service."
+  - question: "Do you handle seasonal and resort property pickups?"
+    answer: "Yes, we serve Coeur d'Alene's seasonal homes, vacation rentals, and resort properties year-round. We coordinate with property managers, work around seasonal closures, and adapt to varying access conditions throughout the lake community."
+  - question: "What payment methods do you accept in Coeur d'Alene?"
+    answer: "We accept cash, all major credit cards, Venmo, and Zelle. Payment collected at completion of service. We can coordinate with property managers, vacation rental companies, or hospitality businesses for billing arrangements when needed."
+  - question: "Are you licensed for waste removal in Kootenai County?"
+    answer: "Yes, we maintain full licensing for waste removal in Kootenai County and throughout Idaho. We comply with all Kootenai County and Idaho Department of Environmental Quality regulations for the North Idaho region."
+  - question: "What happens to mattresses after pickup in Coeur d'Alene?"
+    answer: "Your mattress goes to certified North Idaho recycling facilities where it gets completely dismantled. Metal springs become new steel products, foam gets reprocessed into carpet padding, and fabric becomes insulation materials. We follow Idaho's environmental disposal guidelines for all lake communities."
+schema:
+  "@type": "LocalBusiness"
+  name: "A Bedder World Coeur d'Alene"
+  address:
+    streetAddress: "Coeur d'Alene, ID"
+    addressLocality: "Coeur d'Alene"
+    addressRegion: "ID"
+    postalCode: "83814"
+    addressCountry: "US"
+  geo:
+    latitude: 47.6777
+    longitude: -116.7804
+  telephone: "720-263-6094"
+  priceRange: "$125-$240"
+  serviceArea: "Coeur d'Alene, Idaho"
+  aggregateRating:
+    ratingValue: "4.9"
+    reviewCount: 31
+pageContent:
+  heroDescription: "A Bedder World provides professional mattress removal throughout Coeur d'Alene and Kootenai County with specialized service for lakefront properties, vacation rentals, and resort communities. From downtown lakefront areas to Riverstone development and hillside neighborhoods, we offer next-day pickup with transparent pricing and environmentally responsible disposal tailored for North Idaho's lake community."
+  
+  aboutService: "Our Coeur d'Alene mattress removal service is designed for North Idaho's unique lake community needs, from lakefront vacation rentals and seasonal properties to hospitality businesses and planned developments like Riverstone. We coordinate with vacation rental turnovers, work around resort season demands, and adapt to steep lakefront access requirements. Whether you're managing hospitality property downtown, living in a hillside development, or maintaining a seasonal lake home, our experienced team understands Coeur d'Alene's geography and tourism logistics while ensuring every mattress reaches certified recycling facilities through proper disposal protocols."
+  
+  serviceAreasIntro: "Professional mattress pickup throughout Coeur d'Alene's diverse lake communities, from downtown resort areas and lakefront properties to hillside developments and seasonal neighborhoods. We understand lake community access challenges, hospitality industry timing, and vacation rental logistics."
+  
+  environmentalImpact: "We transport all Coeur d'Alene mattresses to certified North Idaho recycling facilities where complete material recovery takes place. Every collected mattress gets fully dismantled - metal springs become new steel products, foam transforms into carpet padding, and fabric gets processed into insulation materials. Our responsible disposal process eliminates landfill waste while maintaining compliance with Kootenai County environmental regulations and supporting Idaho's lake region sustainability initiatives."
+  
+  howItWorksScheduling: "Next-day pickup available throughout Coeur d'Alene with smart scheduling that considers vacation rental turnovers, hospitality business needs, and seasonal property access. We coordinate efficiently around tourism season demands and lake community requirements to ensure reliable service."
+  
+  howItWorksService: "Our professional team understands Coeur d'Alene's unique mix of lakefront properties, hospitality businesses, and seasonal vacation rentals, adapting our approach for steep driveways, narrow lake access roads, and resort area logistics while maintaining professional standards throughout the pickup process."
+  
+  howItWorksDisposal: "We transport all Coeur d'Alene mattresses to our certified North Idaho recycling partners for complete material recovery. Our responsible disposal process supports local environmental goals while ensuring full compliance with Kootenai County regulations through our network of approved Idaho facilities."
+  
+  sidebarStats:
+    mattressesRemoved: "367"
+---

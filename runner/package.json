@@ -1,0 +1,19 @@
+{
+  "name": "bedder-world-city-runner",
+  "version": "1.0.0",
+  "description": "Automated city content creation for Bedder World",
+  "main": "generate-cities.js",
+  "scripts": {
+    "start": "node generate-cities.js"
+  },
+  "dependencies": {
+    "commander": "^11.1.0",
+    "fs-extra": "^11.1.0",
+    "pino": "^8.16.0",
+    "pino-pretty": "^10.2.0",
+    "uuid": "^11.1.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "googleapis": "^131.0.0"
+  }
+}

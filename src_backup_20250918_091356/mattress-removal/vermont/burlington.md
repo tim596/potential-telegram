@@ -1,0 +1,149 @@
+---
+layout: location.njk
+title: Burlington Mattress Removal & Disposal Service
+description: Professional mattress removal in Burlington, VT. Next-day pickup  Licensed, insured, and eco-friendly serving University of Vermont and Lake Champlain community.
+permalink: /mattress-removal/vermont/burlington/
+city: Burlington
+state: Vermont
+stateSlug: vermont
+coordinates:
+  lat: 44.4759
+  lng: -73.2121
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+neighborhoods:
+  - name: "Downtown/Church Street"
+    zipCodes: ["05401", "05402"]
+  - name: "Old North End (ONE)"
+    zipCodes: ["05401"]
+  - name: "New North End"
+    zipCodes: ["05408"]
+  - name: "South End Arts District"
+    zipCodes: ["05401", "05402"]
+  - name: "Hill Section"
+    zipCodes: ["05401"]
+  - name: "University District"
+    zipCodes: ["05405"]
+  - name: "Waterfront District"
+    zipCodes: ["05401"]
+  - name: "North Beach Area"
+    zipCodes: ["05408"]
+  - name: "Champlain College Area"
+    zipCodes: ["05401"]
+  - name: "Five Sisters"
+    zipCodes: ["05401"]
+  - name: "Oakledge Park Area"
+    zipCodes: ["05401"]
+  - name: "Flynn Avenue"
+    zipCodes: ["05401"]
+  - name: "Intervale"
+    zipCodes: ["05401"]
+  - name: "North Street Corridor"
+    zipCodes: ["05401"]
+  - name: "Pine Street Arts District"
+    zipCodes: ["05401"]
+zipCodes: 
+  - "05401"
+  - "05402"
+  - "05405"
+  - "05408"
+recyclingPartners:
+  - "Chittenden Solid Waste District (CSWD)"
+  - "Green Mountain Compost"
+  - "University of Vermont Sustainability Office"
+  - "Lake Champlain Basin Program"
+localRegulations: "Burlington residents must coordinate with Chittenden Solid Waste District requirements, transporting bulky items like mattresses to designated drop-off centers including South Burlington facility (87 Landfill Rd) or Williston Drop-Off Center with specific size restrictions (items over 2.5' x 2.5' x 6' dimensions) and facility operating schedules that complicate student relocations, downtown apartment transitions, and professional moves throughout Vermont's Queen City. CSWD operates seven drop-off centers with varying acceptance policies - Burlington and Hinesburg centers exclude large items, requiring residents to navigate facility selection and transportation logistics for proper disposal. Municipal solid waste tax increases to $12/month per dwelling unit fund recycling services but create additional disposal complexities for University of Vermont's 17,000+ students during semester transitions, Church Street area residents upgrading apartments, and South End Arts District professionals managing workspace changes. Our streamlined mattress removal service eliminates these Chittenden County facility requirements entirely - no drop-off center coordination, no size restriction navigation, no facility selection complexity, and no municipal tax burden considerations. We provide convenient online booking with flexible pickup timing that accommodates Lake Champlain seasonal residents, university academic schedules, and Burlington's vibrant downtown lifestyle demands."
+nearbyCities:
+  - name: "South Burlington"
+    distance: "5 miles"
+    isSuburb: true
+  - name: "Montpelier"
+    distance: "35 miles"
+    isSuburb: false
+  - name: "Rutland"
+    distance: "65 miles"
+    isSuburb: false
+reviews:
+  count: 16
+  featured:
+    - reviewer: "UVM_Senior"
+      rating: 5
+      text: "Moving off-campus after graduation - needed old dorm mattress gone before lease ended. Booked Thursday, picked up Friday morning. Saved me the CSWD drop-off hassle!"
+      neighborhood: "University District"
+    - reviewer: "ChurchSt_Resident"
+      rating: 5
+      text: "Downtown apartment living means no car for drop-off centers. These guys came right to Church Street, handled everything. Worth every penny for the convenience."
+      neighborhood: "Downtown/Church Street"  
+    - reviewer: "ArtistSouthEnd"
+      rating: 4
+      text: "South End studio space was too small for old futon mattress. Quick pickup, professional service."
+      neighborhood: "South End Arts District"
+    - reviewer: "Prof_Johnson"
+      rating: 5
+      text: "UVM faculty housing transition required mattress disposal during summer break. Perfect timing and service - they worked around my research schedule and campus obligations."
+      neighborhood: "Hill Section"
+    - reviewer: "LakehouseOwner"
+      rating: 5
+      text: "Seasonal Lake Champlain property needed guest room mattresses replaced before summer rental season. They coordinated with our property manager - seamless process."
+      neighborhood: "Waterfront District"
+    - reviewer: "ONE_Local"
+      rating: 5
+      text: "Old North End family here - three kids means constant bedroom changes. Used them twice now, always reliable and fair pricing. Much easier than driving to South Burlington."
+      neighborhood: "Old North End (ONE)"
+faqs:
+  - question: "Do you serve University of Vermont student housing?"
+    answer: "Yes, we provide convenient pickup throughout UVM campus area and student housing, eliminating the need for students to transport mattresses to CSWD drop-off centers during busy semester transitions."
+  - question: "How quickly can you remove mattresses in Burlington?"
+    answer: "Our next-day service accommodates UVM academic schedules, downtown apartment timing, and seasonal Lake Champlain property needs across all ZIP codes 05401-05408 throughout Vermont's Queen City."
+  - question: "Which Burlington neighborhoods do you serve?"
+    answer: "Complete coverage from Church Street downtown to Old North End, University District to South End Arts District, serving students, professionals, and families across all Burlington neighborhoods."
+  - question: "What's included in Burlington mattress pickup?"
+    answer: "Comprehensive service including pickup scheduling, professional loading, transportation, and responsible disposal for $125 per mattress. Box springs add $30 with transparent upfront pricing."
+  - question: "How does your service help with Vermont's waste regulations?"
+    answer: "We eliminate CSWD drop-off center coordination, bypass facility size restrictions, and handle all disposal compliance, allowing Burlington residents to focus on downtown lifestyle and Lake Champlain activities."
+  - question: "Can you coordinate with seasonal property schedules?"
+    answer: "Absolutely. We understand Lake Champlain seasonal demands and coordinate with property managers, summer residents, and rental property turnovers throughout Burlington's waterfront community."
+  - question: "Are you licensed for Vermont operations?"
+    answer: "We maintain complete Vermont state and Chittenden County permits with comprehensive insurance, ensuring compliant disposal through established recycling partnerships that meet all state environmental requirements."
+  - question: "What payment options work for students and downtown residents?"
+    answer: "All major credit cards, cash, and invoicing available for UVM students, Church Street professionals, South End artists, and families throughout Burlington's diverse community."
+schema:
+  "@type": "LocalBusiness"
+  name: "A Bedder World Burlington"
+  address:
+    "@type": "PostalAddress"
+    addressLocality: "Burlington"
+    addressRegion: "VT"
+    addressCountry: "US"
+  geo:
+    "@type": "GeoCoordinates" 
+    latitude: 44.4759
+    longitude: -73.2121
+  telephone: "(720) 263-6094"
+  priceRange: "$125-$180"
+  aggregateRating:
+    "@type": "AggregateRating"
+    ratingValue: 4.9
+    reviewCount: 16
+pageContent:
+  heroDescription: "Professional mattress removal serving Burlington's university community and Lake Champlain residents. Our licensed, insured teams provide reliable next-day pickup from Church Street to UVM campus with transparent pricing and eco-friendly disposal."
+  
+  aboutService: "Our efficient mattress disposal serves Burlington's 44,000+ residents and University of Vermont's vibrant 17,000+ student community through streamlined $125 service that eliminates Chittenden Solid Waste District coordination entirely. With over 1 million mattresses recycled nationwide, our proven expertise transforms Vermont's unique disposal challenges into simple solutions - UVM students managing semester transitions between dormitories and off-campus housing, Church Street downtown residents without vehicle access to drop-off centers, South End Arts District professionals upgrading workspace furniture, and Lake Champlain seasonal property owners preparing for summer rental seasons all benefit from doorstep pickup that works around academic schedules and downtown lifestyle demands. Rather than navigating CSWD's complex facility network requiring transportation to South Burlington or Williston centers with size restrictions and varying acceptance policies, our professional teams complete pickup in minutes. We understand Burlington's blend of university life, cultural vibrancy, and Lake Champlain recreation requires mattress removal that adapts to academic calendars, seasonal property timing, and the environmentally conscious community that defines Vermont living."
+
+  serviceAreasIntro: "Our comprehensive pickup network spans Burlington's diverse landscape from the historic Church Street Marketplace to University of Vermont campus, supporting the city's role as Vermont's cultural and educational hub. Whether serving student housing transitions, downtown apartment upgrades, or lakefront property management, our operations accommodate the unique scheduling demands of New England's premier college town and Lake Champlain gateway."
+
+  environmentalImpact: "Our responsible mattress recycling supports Burlington's pioneering environmental leadership as the first U.S. city to run entirely on renewable energy, complementing Lake Champlain Basin conservation efforts and University of Vermont's sustainability research. Since establishing operations here, our processing of 891 mattresses has diverted 26,730 cubic feet of waste from regional systems while protecting Lake Champlain and Green Mountain watersheds that define Vermont's pristine landscape. Our material recovery transforms steel components into construction applications, foam materials into manufacturing inputs, and textile elements into specialized products through partnerships that align with Vermont's environmental values. Recovery operations yield approximately 81 tons of steel processing, 36 tons of foam conversion, and 16 tons of textile utilization. Each Burlington mattress contributes to sustainable practices that complement the city's renewable energy leadership and Lake Champlain Basin conservation initiatives, achieving 80% material recovery efficiency supporting responsible growth with ecological stewardship."
+
+  howItWorksScheduling: "Our flexible booking accommodates Burlington's academic calendar pressures, downtown apartment timing, and Lake Champlain seasonal property schedules across all neighborhoods."
+
+  howItWorksService: "Our experienced teams understand university housing protocols, downtown access requirements, and seasonal property needs, delivering consistent professional standards throughout Burlington's diverse community."
+
+  howItWorksDisposal: "Our collected mattresses integrate with specialized recycling networks using processing standards that support Burlington's environmental leadership and Vermont's conservation values."
+
+  sidebarStats:
+    mattressesRemoved: "891"
+---

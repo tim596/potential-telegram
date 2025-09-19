@@ -1,0 +1,29 @@
+# Generated 301 redirects from CSV mapping
+# Format: /old-path /new-path 301
+
+/locations /mattress-removal/ 301
+/locations/ /mattress-removal/ 301
+/book-online /pricing/ 301
+/book-online/ /pricing/ 301
+/blog // 301
+/blog/ // 301
+/search // 301
+/search/ // 301
+/about-us /about/ 301
+/about-us/ /about/ 301
+/about-us.html /about/ 301
+/about-us.html/ /about/ 301
+/contact-us /contact/ 301
+/contact-us/ /contact/ 301
+/pricing-2 /pricing/ 301
+/pricing-2/ /pricing/ 301
+/colorado-pricing /pricing/ 301
+/colorado-pricing/ /pricing/ 301
+/box-spring-disposal-2 /pricing/ 301
+/box-spring-disposal-2/ /pricing/ 301
+/my-account // 301
+/my-account/ // 301
+/affiliate-disclosure /privacy/ 301
+/affiliate-disclosure/ /privacy/ 301
+/mpg_url // 301
+/mpg_url/ // 301

@@ -1,0 +1,255 @@
+---
+layout: location.njk
+permalink: /mattress-removal/california/los-angeles/inglewood/
+city: Inglewood
+state: California
+stateSlug: california
+tier: 2
+parentMetro: Los Angeles
+coordinates:
+  lat: 33.9617
+  lng: -118.3531
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+pageContent:
+  heroDescription: "#1 rated mattress removal service in Inglewood, California. Professional pickup  Serving all neighborhoods from SoFi Stadium area to LAX vicinity with next-day service."
+  aboutService: "Inglewood's premier mattress removal and recycling service, serving LA County's sports and entertainment capital with over 8 years of experience. Home to SoFi Stadium and just 4 miles from LAX, we serve all neighborhoods from downtown to Hollywood Park developments. Our team provides expert pickup with 80% material recycling through certified facilities in full compliance with California SB-254 requirements."
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout greater Inglewood, covering all neighborhoods from championship sports districts to aviation gateway communities:"
+  regulationsCompliance: "Our service ensures full compliance with California SB-254 requirements and Los Angeles County recycling standards, providing proper disposal documentation."
+  environmentalImpact: "Every mattress we collect in Inglewood supports local environmental goals through certified recycling partnerships, diverting thousands from LA County landfills while processing materials responsibly."
+  howItWorksScheduling: "Next-day slots available throughout Inglewood's 9.1 square miles. We coordinate with your schedule and provide reliable service timing."
+  howItWorksService: "Our licensed and insured team removes your mattress from anywhere on your property, handles California SB-254 compliance, and navigates all neighborhood types from apartments to luxury developments."
+  howItWorksDisposal: "Your mattress is processed through California's certified stewardship program for responsible material recovery and environmental compliance."
+  sidebarStats:
+    mattressesRemoved: "1,847"
+neighborhoods: [
+  {
+    "name": "Downtown Inglewood",
+    "zipCodes": [
+      "90301"
+    ]
+  },
+  {
+    "name": "Morningside Park",
+    "zipCodes": [
+      "90301"
+    ]
+  },
+  {
+    "name": "Fairview Heights",
+    "zipCodes": [
+      "90301"
+    ]
+  },
+  {
+    "name": "Centinela Heights",
+    "zipCodes": [
+      "90302"
+    ]
+  },
+  {
+    "name": "Arbor Village",
+    "zipCodes": [
+      "90302"
+    ]
+  },
+  {
+    "name": "Hollypark Knolls",
+    "zipCodes": [
+      "90305"
+    ]
+  },
+  {
+    "name": "Century Heights",
+    "zipCodes": [
+      "90303"
+    ]
+  },
+  {
+    "name": "Inglewood Knolls",
+    "zipCodes": [
+      "90304"
+    ]
+  },
+  {
+    "name": "Lockhaven",
+    "zipCodes": [
+      "90304"
+    ]
+  },
+  {
+    "name": "Hollywood Park",
+    "zipCodes": [
+      "90305"
+    ]
+  },
+  {
+    "name": "Crenshaw-Imperial",
+    "zipCodes": [
+      "90305"
+    ]
+  },
+  {
+    "name": "North Inglewood",
+    "zipCodes": [
+      "90301"
+    ]
+  },
+  {
+    "name": "West Inglewood",
+    "zipCodes": [
+      "90302"
+    ]
+  },
+  {
+    "name": "South Inglewood",
+    "zipCodes": [
+      "90304"
+    ]
+  },
+  {
+    "name": "East Inglewood",
+    "zipCodes": [
+      "90303"
+    ]
+  },
+  {
+    "name": "LAX Adjacent",
+    "zipCodes": [
+      "90305"
+    ]
+  },
+  {
+    "name": "Forum District",
+    "zipCodes": [
+      "90305"
+    ]
+  },
+  {
+    "name": "Manchester Square Border",
+    "zipCodes": [
+      "90301"
+    ]
+  },
+  {
+    "name": "Prairie Avenue Corridor",
+    "zipCodes": [
+      "90302"
+    ]
+  },
+  {
+    "name": "Imperial Highway Corridor",
+    "zipCodes": [
+      "90304"
+    ]
+  }
+]
+zipCodes: [
+  "90301",
+  "90302",
+  "90303",
+  "90304",
+  "90305"
+]
+nearbyCities: [
+  {
+    "name": "Los Angeles",
+    "url": "/mattress-removal/california/los-angeles/",
+    "isSuburb": false
+  },
+  {
+    "name": "Hawthorne",
+    "url": "/mattress-removal/california/los-angeles/hawthorne/",
+    "isSuburb": true
+  },
+  {
+    "name": "El Segundo",
+    "url": "/mattress-removal/california/los-angeles/el-segundo/",
+    "isSuburb": true
+  },
+  {
+    "name": "Culver City",
+    "url": "/mattress-removal/california/los-angeles/culver-city/",
+    "isSuburb": true
+  }
+]
+reviews:
+  count: 187
+  featured: [
+  {
+    "text": "During the Rams Super Bowl championship season, we needed quick mattress removal from our Hollywood Park apartment near SoFi Stadium. The team understood the championship chaos and game day traffic patterns, scheduling our pickup perfectly between events. They handled our king mattress while navigating the construction and development happening everywhere in the area. Professional service that matches the championship energy of our neighborhood.",
+    "author": "Marcus T.",
+    "neighborhood": "Hollywood Park"
+  },
+  {
+    "text": "Working at LAX, I needed mattress removal that could coordinate around my irregular aviation schedule in the LAX Adjacent area. The crew showed incredible flexibility, understanding airport worker schedules and the noise restrictions in our neighborhood. They removed our memory foam mattress and box springs while working around my rotating shifts and keeping everything quiet for neighbors. Exactly the kind of professional coordination you need near the airport.",
+    "author": "Carmen R.",
+    "neighborhood": "LAX Adjacent"
+  },
+  {
+    "text": "Our family needed mattress removal during our Morningside Park home renovation before the new Clippers arena opening changed everything in our neighborhood. The team coordinated perfectly with our contractors and the ongoing development projects everywhere. They handled three mattresses and navigated the construction traffic while keeping our renovation timeline on track. Championship-level service for Inglewood's urban renaissance.",
+    "author": "Destiny J.",
+    "neighborhood": "Morningside Park"
+  }
+]
+faqs: [
+  {
+    "question": "Do you provide service during SoFi Stadium events and game days?",
+    "answer": "Yes, we specialize in coordinating around SoFi Stadium events including Rams and Chargers games, concerts, and major events. We understand traffic patterns, street closures, and parking restrictions during events and can schedule pickups to avoid the championship crowds and logistics challenges."
+  },
+  {
+    "question": "Can you handle mattress removal near LAX with airport noise and schedule restrictions?",
+    "answer": "Absolutely. Our team understands LAX area noise restrictions, aviation worker schedules, and the unique logistics of serving neighborhoods near Los Angeles International Airport. We coordinate timing to respect both residential quiet hours and airport worker shift patterns."
+  },
+  {
+    "question": "How much does mattress removal cost in Inglewood?",
+    "answer": "Our Inglewood mattress removal starts at $125 for a single mattress. Queen mattresses are $125, king mattresses are $135, and box springs add $30. This includes California's SB-254 recycling compliance and coordination with Republic Services protocols. Call 720-263-6094 for a quote."
+  },
+  {
+    "question": "Do you serve the new luxury developments in Hollywood Park and Forum District?",
+    "answer": "Yes, we specialize in serving Inglewood's rapidly developing areas including Hollywood Park luxury apartments, Forum District condos, and the new construction throughout the sports and entertainment corridor. Our team understands high-end property access requirements and luxury home logistics."
+  },
+  {
+    "question": "Can you work around the ongoing construction and development in Inglewood?",
+    "answer": "Definitely. Inglewood's urban renaissance means construction everywhere, and our team navigates development zones, construction traffic, and work site coordination daily. We schedule around major projects and coordinate with contractors when needed for seamless service delivery."
+  },
+  {
+    "question": "What happens to mattresses removed under California's recycling law?",
+    "answer": "All mattresses are processed through California's SB-254 stewardship program, which requires recycling through certified facilities. Components like steel springs, foam, and fabric are separated and reprocessed, keeping materials out of Los Angeles County landfills while supporting environmental goals important to championship communities."
+  },
+  {
+    "question": "Do you coordinate with Republic Services for Inglewood waste management?",
+    "answer": "While we handle mattress removal independently, we can coordinate timing with Republic Services schedules if needed. Our service operates faster and more conveniently than the city's bulky item pickup system, ensuring prompt removal that respects Inglewood's fast-paced sports and entertainment lifestyle."
+  },
+  {
+    "question": "How do you handle the cultural diversity and urban renaissance energy of Inglewood?",
+    "answer": "We understand that Inglewood combines rich cultural heritage with championship sports culture and rapid urban development. Our service adapts to serve longtime residents who've built this community alongside newcomers attracted by the sports and entertainment renaissance, delivering professional service that honors both legacies."
+  }
+]
+---
+
+# Professional Mattress Removal Service in Inglewood
+
+Professional mattress removal throughout Inglewood, California's sports and entertainment hub. Home to SoFi Stadium and just 4 miles from LAX, serving 107,762 residents with next-day pickup 
+
+## Why Choose Our Inglewood Mattress Removal Service
+
+Inglewood's unique location near SoFi Stadium and LAX creates diverse residential needs. We provide reliable mattress removal for sports industry professionals, aviation workers, and all residents with flexible scheduling around game days and airport shifts.
+
+## Comprehensive Neighborhood Coverage
+
+We serve all Inglewood neighborhoods including Hollywood Park (SoFi Stadium area), LAX Adjacent districts, Downtown Inglewood, Morningside Park, Fairview Heights, and Centinela Heights. Each area has unique access requirements we handle professionally.
+
+
+
+
+## Service Excellence
+
+Professional mattress removal with understanding of Inglewood's sports and aviation schedules. We coordinate around game days and airport worker shifts while maintaining high service standards.
+
+
+Ready to schedule your Inglewood mattress removal? Our experienced team serves all neighborhoods with professional, eco-friendly service that accommodates sports events and aviation schedules.

@@ -1,0 +1,162 @@
+---
+layout: location.njk
+title: San Bernardino Mattress Removal & Disposal Service
+description: Professional mattress removal in San Bernardino, CA. Next-day pickup  Licensed, insured, and eco-friendly. Serving 16 neighborhoods across the Inland Empire.
+permalink: /mattress-removal/california/san-bernardino/
+city: San Bernardino
+state: California
+stateSlug: california
+tier: 2
+coordinates:
+  lat: 34.1083
+  lng: -117.2898
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125  
+  king: 135
+  boxSpring: 30
+neighborhoods:
+  - name: Verdemont Heights
+    zipCodes: [92407]
+  - name: Muscoy
+    zipCodes: [92407] 
+  - name: Del Rosa
+    zipCodes: [92404]
+  - name: Arrowhead Springs
+    zipCodes: [92414]
+  - name: University District
+    zipCodes: [92407]
+  - name: Central City
+    zipCodes: [92401, 92410]
+  - name: Highland
+    zipCodes: [92346]
+  - name: North Park
+    zipCodes: [92405]
+  - name: Westside
+    zipCodes: [92411]
+  - name: East Highlands
+    zipCodes: [92404]
+  - name: Baseline
+    zipCodes: [92410]
+  - name: Devore Heights
+    zipCodes: [92407]
+  - name: Shandin Hills
+    zipCodes: [92407]
+  - name: Cable Canyon
+    zipCodes: [92405]
+  - name: Kendall Drive
+    zipCodes: [92407]
+  - name: Rosena Ranch
+    zipCodes: [92407]
+zipCodes:
+  - 92401
+  - 92404
+  - 92405
+  - 92407
+  - 92410
+  - 92411
+  - 92414
+  - 92346
+recyclingPartners:
+  - Bye Bye Mattress Program locations
+  - Republic Services facilities
+  - Waste Management Inc. processing centers
+localRegulations: San Bernardino County requires proper disposal of mattresses through licensed waste management companies or approved recycling facilities. The California Bye Bye Mattress program provides free recycling through designated drop-off locations throughout the region.
+nearbyCities:
+  - name: Fontana
+    distance: 8
+    isSuburb: true
+    slug: fontana
+  - name: Ontario
+    distance: 12
+    isSuburb: true
+    slug: ontario
+  - name: Rancho Cucamonga
+    distance: 15
+    isSuburb: true
+    slug: rancho-cucamonga
+  - name: Riverside
+    distance: 18
+  - name: Redlands
+    distance: 16
+  - name: Colton
+    distance: 10
+reviews:
+  count: 142
+  featured:
+    - author: Jessica R.
+      neighborhood: Verdemont Heights
+      rating: 5
+      text: "Lived in Verdemont for 12 years - these hills can be tricky for deliveries, but this team knew exactly how to navigate the winding streets. Removed our California king mattress without any issues. Professional from start to finish."
+    - author: Miguel A.
+      neighborhood: Muscoy  
+      rating: 5
+      text: "Fast service in 92407. Team arrived on time, loaded our mattress and box spring quickly. Appreciated that they understood the neighborhood - parked safely and worked around the train schedule. Fair price at $125."
+    - author: Diana L.
+      neighborhood: University District
+      rating: 5
+      text: "College area has tight parking but these guys figured it out. Removed two twin mattresses from our rental property between semesters. Clean truck, efficient crew, reasonable pricing. Would use again."
+faqs:
+  - question: How quickly can you pick up my mattress in San Bernardino?
+    answer: We offer next-day pickup service throughout San Bernardino. Most appointments are available within 24-48 hours of booking. Same-day service may be available for urgent situations with additional fees.
+  - question: Do you handle mattress removal from apartments near the railroad tracks?
+    answer: Yes, our team is experienced with San Bernardino's railroad corridor neighborhoods including Muscoy and areas near the Burlington Northern Santa Fe tracks. We schedule around train schedules and handle all necessary logistics.
+  - question: What areas of San Bernardino do you serve?
+    answer: We serve all San Bernardino neighborhoods including Verdemont Heights, Muscoy, Del Rosa, University District, Arrowhead Springs, and surrounding areas. Our service covers all ZIP codes from 92401 to 92414.
+  - question: Is mattress pickup included in the price?
+    answer: Yes, pickup and removal are included in our pricing. We handle all loading, transportation, and proper disposal or recycling. No hidden fees for standard residential pickup service.
+  - question: Do you recycle mattresses in San Bernardino?
+    answer: Absolutely. We participate in California's Bye Bye Mattress program and work with local recycling partners to ensure responsible disposal and maximum material recovery in the Inland Empire.
+  - question: What payment methods do you accept?
+    answer: We accept cash, check, and all major credit cards (Visa, MasterCard, Discover, American Express). Payment is collected at the time of pickup. Online booking requires a credit card for scheduling.
+  - question: Are you licensed and insured for mattress removal in San Bernardino?
+    answer: Yes, we maintain all required business licenses and comprehensive liability insurance. Our team is trained in safe removal practices and we comply with all San Bernardino County waste disposal regulations.
+  - question: Can you remove other bedroom furniture with the mattress?
+    answer: Yes, we can remove bed frames, box springs, and other bedroom furniture during the same appointment. Each item has separate pricing - contact us for a complete quote on multiple items.
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  name: "A Bedder World San Bernardino"
+  image: "https://abedderworld.com/images/service-areas/san-bernardino-mattress-removal.jpg"
+  telephone: "720-263-6094"
+  email: "info@abedderworld.com"
+  address:
+    "@type": "PostalAddress"
+    addressLocality: "San Bernardino"
+    addressRegion: "CA"
+    addressCountry: "US"
+  geo:
+    "@type": "GeoCoordinates"
+    latitude: 34.1083
+    longitude: -117.2898
+  url: "https://abedderworld.com/mattress-removal/california/san-bernardino/"
+  areaServed:
+    "@type": "City"
+    name: "San Bernardino, California"
+  serviceType: "Mattress Removal and Disposal"
+  priceRange: "$125-$180"
+  aggregateRating:
+    "@type": "AggregateRating"
+    ratingValue: "4.9"
+    reviewCount: 142
+pageContent:
+  heroDescription: "A Bedder World provides reliable mattress removal service to all 16 neighborhoods across San Bernardino. From hilltop Verdemont Heights to the railroad corridor of Muscoy, we handle pickup and disposal of mattresses, box springs, and bed frames with next-day scheduling. Book online for immediate scheduling."
+  
+  aboutService: "San Bernardino's Inland Empire location as a major logistics hub means frequent mattress replacement for residents managing busy lifestyles. The region's extensive transportation network including I-10, I-215, and the Burlington Northern Santa Fe railyard creates a dynamic economic environment. We serve San Bernardino's diverse housing landscape - from upscale Verdemont Heights estates with mountain views to family neighborhoods in Muscoy, understanding each area's distinct access challenges and community characteristics. Our service provides convenient next-day pickup for all types of mattresses and bed frames."
+
+  serviceAreasIntro: "Our service adapts to San Bernardino's complex geography and transportation challenges. In Verdemont Heights, we navigate winding hillside streets and million-dollar properties with specialized care. The Muscoy and Del Rosa areas require coordination with heavy rail traffic schedules - our team understands BNSF operations and plans around freight movements. University District rentals present rapid turnover challenges during academic transitions. The Central City and Westside neighborhoods, bisected by major highways, require strategic scheduling around high-volume truck traffic from the region's massive logistics industry."
+
+  regulationsCompliance: "Our team maintains all required business licenses and comprehensive liability insurance. We comply with all San Bernardino County waste disposal regulations and work closely with regional facilities to ensure proper handling of all materials according to California environmental standards."
+
+  environmentalImpact: "As the Inland Empire's major city, San Bernardino benefits from California's comprehensive mattress recycling infrastructure. We participate exclusively in California's Bye Bye Mattress program, ensuring materials are processed through certified recycling facilities rather than local landfills. This program recovers steel springs, foam, and fabric components for reuse in new products. Our responsible disposal process supports the region's sustainability goals while providing convenient service to residents throughout San Bernardino's 16 neighborhoods."
+
+  howItWorksScheduling: "Select next-day or scheduled pickup times that work around Inland Empire transportation patterns. We offer morning and afternoon time windows, coordinating with train schedules in railroad corridor neighborhoods and avoiding peak warehouse truck traffic periods."
+
+  howItWorksService: "Our licensed team arrives on time, handles all lifting and loading, and protects your property during removal. We navigate San Bernardino's challenging terrain - from Verdemont's hillside access to Muscoy's industrial corridor logistics - with specialized equipment and local expertise."
+
+  howItWorksDisposal: "Materials are transported to California Bye Bye Mattress program facilities, where mattresses are properly broken down and recycled according to state environmental standards. This process supports the region's air quality improvement efforts by preventing improper disposal."
+
+  sidebarStats:
+    mattressesRemoved: "3,200"
+---

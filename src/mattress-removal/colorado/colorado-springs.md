@@ -1,0 +1,155 @@
+---
+layout: location.njk
+city: Colorado Springs
+state: Colorado
+stateSlug: colorado
+permalink: /mattress-removal/colorado/colorado-springs/
+stateAbbr: CO
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+coordinates:
+  lat: 38.8339
+  lng: -104.8214
+zipCodes:
+  - "80901"
+  - "80902"
+  - "80903"
+  - "80904"
+  - "80905"
+  - "80906"
+  - "80907"
+  - "80908"
+  - "80909"
+  - "80910"
+  - "80911"
+  - "80912"
+  - "80913"
+  - "80914"
+  - "80915"
+  - "80916"
+  - "80917"
+  - "80918"
+  - "80919"
+  - "80920"
+  - "80921"
+  - "80922"
+  - "80923"
+  - "80924"
+  - "80925"
+  - "80926"
+  - "80928"
+  - "80929"
+  - "80930"
+  - "80938"
+phone: "720-263-6094"
+neighborhoods:
+  - name: Old Colorado City
+    zipCodes: ["80904"]
+  - name: Broadmoor
+    zipCodes: ["80906", "80918"]
+  - name: Briargate
+    zipCodes: ["80920", "80921"]
+  - name: Northgate
+    zipCodes: ["80919", "80920"]
+  - name: Northeast Colorado Springs
+    zipCodes: ["80915", "80916"]
+  - name: Northwest Colorado Springs  
+    zipCodes: ["80904", "80907"]
+  - name: Westside
+    zipCodes: ["80904", "80905"]
+  - name: Southeast Colorado Springs
+    zipCodes: ["80906", "80917"]
+  - name: Southwest Colorado Springs
+    zipCodes: ["80906", "80928"]
+  - name: Fountain Valley
+    zipCodes: ["80911", "80817"]
+  - name: Security-Widefield
+    zipCodes: ["80911", "80925"]
+  - name: Manitou Springs
+    zipCodes: ["80829"]
+  - name: Downtown Colorado Springs
+    zipCodes: ["80903", "80901"]
+  - name: Patty Jewett
+    zipCodes: ["80909", "80903"]
+  - name: Skyway
+    zipCodes: ["80906", "80910"]
+  - name: Knob Hill
+    zipCodes: ["80909", "80907"]
+  - name: Gold Hill Mesa
+    zipCodes: ["80905", "80904"]
+  - name: Cimarron Hills
+    zipCodes: ["80915"]
+nearbyAreas:
+  - name: Fort Carson
+    distance: "10 miles south"
+  - name: Peterson Space Force Base
+    distance: "8 miles east"
+  - name: Air Force Academy
+    distance: "12 miles north"
+  - name: Pikes Peak
+    distance: "15 miles west"
+  - name: Cheyenne Mountain
+    distance: "8 miles southwest"
+nearbyCities:
+  - name: "Denver"
+    distance: 78
+    slug: "denver"
+    isSuburb: false
+  - name: "Boulder"
+    distance: 95
+    slug: "boulder"
+    isSuburb: false
+  - name: "Pueblo"
+    distance: 42
+    slug: "pueblo"
+    isSuburb: false
+  - name: "Fort Collins"
+    distance: 120
+    slug: "fort-collins"
+    isSuburb: false
+localRegulations: "Colorado Springs follows El Paso County mattress disposal regulations requiring coordination with Republic Services or licensed haulers. Military families must schedule special pickup for large items through base housing or private services. All mattresses require advance scheduling and cannot be placed curbside without appointment."
+reviews:
+  count: "489"
+  featured:
+    - author: "Captain Sarah L."
+      text: "PCS season from Peterson SFB and needed quick mattress removal. Team coordinated perfectly with our moving timeline and handled gate access smoothly. Professional service that understood military logistics requirements."
+      neighborhood: "Near Peterson SFB"
+    - author: "Mike R."
+      text: "Called from our Broadmoor area home for pickup after upgrading our guest bedroom. Team navigated the mountain roads with no issues and removed everything efficiently. Great service for luxury neighborhood logistics."
+      neighborhood: "Broadmoor"
+    - author: "Jessica T."
+      text: "Running an Airbnb in Old Colorado City and needed fast turnaround. These guys picked up three mattresses same-weekend and were super professional dealing with the historic district parking challenges."
+      neighborhood: "Old Colorado City"
+pageContent:
+  heroDescription: "Professional mattress removal in Colorado Springs, Colorado. Specialized service for military families and civilians throughout the Pikes Peak region. Next-day pickup with full El Paso County compliance and military base coordination."
+  aboutService: "Colorado Springs' premier mattress removal service, expertly serving America's Olympic City with deep understanding of its unique military and civilian communities. From Peterson Space Force Base housing to Broadmoor luxury estates, from Briargate family neighborhoods to Old Colorado City historic districts, we provide specialized pickup throughout Colorado's second-largest city. Our team navigates the complex logistics of military installations, mountain terrain, and diverse housing types while ensuring full compliance with El Paso County regulations and supporting Colorado Springs' environmental leadership through our in-house recycling facility."
+  serviceAreasIntro: "Comprehensive mattress pickup throughout Colorado Springs' diverse communities, from military housing to mountain neighborhoods:"
+  regulationsCompliance: "Our Colorado Springs team ensures full compliance with El Paso County regulations while coordinating with Republic Services requirements. We provide proper disposal documentation and specialize in military housing protocols for Peterson SFB, Fort Carson, and Air Force Academy families."
+  environmentalImpact: "Colorado Springs' commitment to preserving the Pikes Peak region's natural beauty aligns perfectly with our in-house Colorado recycling facility operations. Every Colorado Springs mattress supports environmental stewardship - steel springs become construction materials, foam converts to carpet padding, and fabric transforms into insulation. This Colorado-based processing supports local jobs while protecting the stunning landscapes that make Colorado Springs America's Olympic City."
+  howItWorksScheduling: "Next-day pickup available throughout Colorado Springs with military base access coordination, mountain terrain logistics, and text confirmation for all El Paso County neighborhoods."
+  howItWorksService: "Our licensed Colorado Springs team handles removal from any location, from military housing complexes to Cheyenne Mountain properties, managing everything from downtown apartments to Broadmoor estates with professional efficiency."
+  howItWorksDisposal: "All Colorado Springs mattresses are processed through our Colorado recycling facility, supporting the region's environmental goals and Colorado's commitment to sustainable practices."
+  sidebarStats:
+    mattressesRemoved: "3,847"
+faqs:
+  - question: "Do you serve military families at Colorado Springs bases?"
+    answer: "Yes, we specialize in serving military families at Peterson Space Force Base, Fort Carson, and the Air Force Academy. We coordinate with base housing requirements and understand PCS timelines and gate access procedures."
+  - question: "How quickly can you pick up mattresses in Colorado Springs?"
+    answer: "We offer next-day pickup throughout Colorado Springs, including military installations, Broadmoor, Briargate, Old Colorado City, and all mountain neighborhoods. Schedule online or call 720-263-6094."
+  - question: "Can you handle pickup in Colorado Springs mountain areas?"
+    answer: "Absolutely. Our team regularly services Broadmoor, Cheyenne Mountain areas, and other mountainous Colorado Springs locations. We bring appropriate equipment for challenging terrain and access situations."
+  - question: "What's included in Colorado Springs mattress removal pricing?"
+    answer: "Full-service pickup from anywhere in your Colorado Springs home, loading, transportation, and eco-friendly recycling.  for one item, $155 for two items. No hidden fees or surprise charges."
+  - question: "Which Colorado Springs areas do you cover?"
+    answer: "We serve all Colorado Springs areas: military housing, Broadmoor, Briargate, Northgate, Old Colorado City, downtown, and everywhere throughout El Paso County ZIP codes 80901-80930."
+  - question: "Are you licensed to operate in Colorado Springs?"
+    answer: "Yes, we're fully licensed and insured for mattress removal throughout El Paso County. We comply with all Colorado Springs and military installation regulations while coordinating with local waste management requirements."
+  - question: "Do you recycle mattresses collected in Colorado Springs?"
+    answer: "Absolutely. Our in-house Colorado recycling facility processes 100% of Colorado Springs mattresses. Steel springs, foam, and fabric are all recycled into new products, supporting Colorado Springs' environmental leadership and Colorado's sustainability goals."
+  - question: "Can you work with military housing schedules and requirements?"
+    answer: "Yes, we're experienced with military housing protocols across Colorado Springs installations. We coordinate with housing offices, understand gate procedures, and can work around deployment and PCS schedules for service member families."
+---

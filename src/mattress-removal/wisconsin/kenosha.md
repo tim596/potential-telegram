@@ -1,0 +1,157 @@
+---
+layout: location.njk
+permalink: /mattress-removal/wisconsin/kenosha/
+city: Kenosha
+state: Wisconsin
+stateSlug: wisconsin
+tier: 2
+coordinates:
+  lat: 42.5847
+  lng: -87.8212
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+neighborhoods:
+  - name: Downtown
+    zipCodes: ["53140"]
+  - name: HarborPark
+    zipCodes: ["53140"]
+  - name: Uptown
+    zipCodes: ["53141"]
+  - name: Lincoln Park
+    zipCodes: ["53141"]
+  - name: Allendale
+    zipCodes: ["53140"]
+  - name: Wilson Heights
+    zipCodes: ["53141"]
+  - name: Brass
+    zipCodes: ["53141"]
+  - name: Anderson Park
+    zipCodes: ["53142"]
+  - name: Forest Park
+    zipCodes: ["53142"]
+  - name: Green Ridge
+    zipCodes: ["53142"]
+  - name: Sunnyside
+    zipCodes: ["53142"]
+  - name: Central Lake Front
+    zipCodes: ["53140"]
+  - name: Harborside
+    zipCodes: ["53140"]
+  - name: McKinley
+    zipCodes: ["53141"]
+  - name: Carol Beach
+    zipCodes: ["53142"]
+zipCodes:
+  - "53140"
+  - "53141"
+  - "53142"
+recyclingPartners:
+  - Local Scrap Metal Yards
+  - Carpet Pad Manufacturers
+  - Kenosha County Recycling Center
+  - Regional Steel Processing Facilities
+localRegulations: Kenosha County requires bulk waste items be properly prepared for disposal. City drop-off program requires proof of residency and cubic yard tickets for bulk items. Licensed haulers must coordinate with city waste management protocols.
+nearbyCities:
+  - name: Milwaukee
+    slug: milwaukee
+    distance: 32
+  - name: Madison
+    slug: madison
+    distance: 95
+  - name: Green Bay
+    slug: green-bay
+    distance: 150
+  - name: Appleton
+    slug: appleton
+    distance: 165
+  - name: Eau Claire
+    slug: eau-claire
+    distance: 200
+reviews:
+  count: 143
+  featured:
+    - author: Jen M.
+      rating: 5
+      text: "Honestly was dreading this move but these guys made it so easy! Had to get rid of 3 mattresses from our HarborPark place before closing. They worked around our crazy schedule and didn't even complain about the elevator being slow lol. Super professional."
+      neighborhood: HarborPark
+    - author: Bobby K.
+      rating: 5
+      text: "Work at Snap-on, finally saved up enough for my first house in Lincoln Park! Old mattress was gross and these dudes got it outta my place in like 10 minutes. Didn't mess up my walls either which was my biggest worry with those narrow stairs. Good stuff."
+      neighborhood: Lincoln Park
+    - author: Maria S.
+      rating: 5
+      text: "Kids are all grown up so we're downsizing from the big Wilson Heights house. These folks were so nice about explaining where everything goes for recycling - you can tell they actually care about doing it right. Made the whole thing stress-free."
+      neighborhood: Wilson Heights
+faqs:
+  - question: "How quickly can you pick up my mattress in Kenosha?"
+    answer: "We provide next-day pickup service throughout Kenosha, including all neighborhoods from Downtown to Uptown across ZIP codes 53140, 53141, and 53142. Simply book online or call (720) 263-6094 to schedule your appointment."
+  - question: "Do you handle pickups from manufacturing worker housing and apartments?"
+    answer: "Absolutely. We regularly service the diverse housing stock throughout Kenosha, from historic homes in Lincoln Park to modern condos in HarborPark. Our team is experienced with everything from narrow staircases in Uptown homes to elevator access in lakefront buildings."
+  - question: "What's included in the $125 pickup price?"
+    answer: "Our $125 fee includes pickup, loading, transportation, and eco-friendly disposal. We handle all the heavy lifting and ensure proper recycling through our local scrap metal and foam processing partnerships."
+  - question: "Can you coordinate around work schedules for manufacturing employees?"
+    answer: "Yes, we understand Kenosha's manufacturing workforce and offer flexible scheduling including evening and weekend appointments. Many of our customers work at Snap-on, Jockey, or other local manufacturers, and we work around shift schedules."
+  - question: "Do you serve all Kenosha neighborhoods?"
+    answer: "We provide service to all 15+ neighborhoods across Kenosha, from lakefront areas like HarborPark and Central Lake Front to inland communities like Anderson Park and Carol Beach. No location is too far within the city limits."
+  - question: "Are you licensed for waste removal in Kenosha County?"
+    answer: "Yes, we're fully licensed and insured for mattress removal and disposal in Kenosha County. We comply with all local regulations and coordinate with city waste management protocols when required."
+  - question: "What makes your service different from bulk waste pickup?"
+    answer: "Unlike city bulk waste that requires proof of residency, cubic yard tickets, and drop-off transport, we provide convenient curbside or in-home pickup with guaranteed recycling. No hassle, no trips to the dump, no paperwork."
+  - question: "Can you handle multiple mattresses from rental properties?"
+    answer: "Definitely. We work with landlords throughout Kenosha managing everything from single-family rentals in established neighborhoods to multi-unit properties near the lake. Volume pricing available for property managers."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Kenosha"
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Kenosha"
+    "addressRegion": "WI"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 42.5847
+    "longitude": -87.8212
+  "telephone": "720-263-6094"
+  "priceRange": "$125-$180"
+  "serviceArea": "Kenosha, WI"
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": 4.9
+    "reviewCount": 143
+pageContent:
+  heroDescription: |
+    Professional mattress removal with next-day pickup available. Serving manufacturing workers, families, and businesses across all 15 Kenosha neighborhoods. Over 1 million mattresses recycled nationwide. Licensed, insured, and eco-friendly disposal guaranteed. Book online in 60 seconds.
+  
+  aboutService: |
+    Kenosha's unique position as Wisconsin's fourth-largest city creates diverse mattress disposal needs across our manufacturing-driven community. Whether you're a Snap-on employee upgrading your Lincoln Park home, a family downsizing in Wilson Heights, or managing lakefront property in HarborPark, we provide professional mattress removal tailored to Kenosha's distinct character.
+    
+    Our team understands this city's blend of blue-collar work ethic and lakefront lifestyle. We coordinate around manufacturing shift schedules, navigate the mix of 1920s homes and modern condos, and provide the reliable service that builds trust in tight-knit neighborhoods from Downtown to Uptown.
+  
+  serviceAreasIntro: |
+    We serve every corner of Kenosha's 15+ neighborhoods, adapting our service to each area's unique housing characteristics and access requirements. From lakefront condos to historic manufacturing district homes, our team provides consistent, professional service throughout the city.
+  
+  regulationsCompliance: |
+    As licensed waste haulers in Kenosha County, we exceed all local bulk waste disposal requirements. Unlike the city's drop-off program that requires proof of residency and cubic yard tickets, we provide convenient pickup service that meets all municipal standards while saving you time and effort.
+  
+  environmentalImpact: |
+    Kenosha's manufacturing heritage drives our commitment to responsible recycling. We partner with local scrap metal facilities to recycle springs and steel components, while foam materials get processed into carpet padding and industrial applications. This approach supports local industry while protecting Lake Michigan's watershed that defines our community.
+    
+    Metal components become new steel products for manufacturing applications, supporting the industrial base that employs thousands of Kenosha residents. This circular economy approach resonates with our city's practical, resource-conscious values.
+  
+  howItWorksScheduling: |
+    We offer next-day service throughout all Kenosha ZIP codes with flexible scheduling that works around manufacturing shifts, family schedules, and property management needs.
+  
+  howItWorksService: |
+    Our experienced team handles everything from narrow staircases in Lincoln Park's historic homes to elevator access in HarborPark's modern condos. We protect your property while ensuring safe, efficient removal.
+  
+  howItWorksDisposal: |
+    Materials go directly to our local recycling partners - scrap metal facilities for springs and regional processors for foam components. You receive confirmation that your mattress was handled responsibly and kept out of landfills.
+  
+  sidebarStats:
+    mattressesRemoved: 1150
+---

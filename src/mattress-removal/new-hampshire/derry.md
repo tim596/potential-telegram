@@ -1,0 +1,137 @@
+---
+layout: location.njk
+permalink: /mattress-removal/new-hampshire/manchester/derry/
+city: Derry
+state: New Hampshire
+stateSlug: new-hampshire
+parentMetro: Manchester
+tier: 2
+coordinates:
+  lat: 42.8806
+  lng: -71.3273
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+neighborhoods:
+  - name: Derry Village
+    zipCodes: ["03038"]
+  - name: Downtown Historic District
+    zipCodes: ["03038"]
+  - name: East Derry
+    zipCodes: ["03036"]
+  - name: Redfield
+    zipCodes: ["03038"]
+  - name: Applewood Village
+    zipCodes: ["03038"]
+  - name: Derryfield Estates
+    zipCodes: ["03036"]
+  - name: Hillside Estates
+    zipCodes: ["03036"]
+  - name: Barkland Acres
+    zipCodes: ["03038"]
+  - name: Bliss Farms
+    zipCodes: ["03038"]
+  - name: Bellebrook
+    zipCodes: ["03038"]
+  - name: Fieldstone Terrace
+    zipCodes: ["03038"]
+  - name: Garden Meadows
+    zipCodes: ["03038"]
+  - name: Big Island Pond
+    zipCodes: ["03038"]
+  - name: Drew Wood
+    zipCodes: ["03038"]
+  - name: Hemlock Springs
+    zipCodes: ["03038"]
+  - name: Harvest Estates
+    zipCodes: ["03038"]
+  - name: Lakewood Estates
+    zipCodes: ["03038"]
+  - name: Lampton Woods
+    zipCodes: ["03038"]
+  - name: Old English Estates
+    zipCodes: ["03038"]
+  - name: Stonegate
+    zipCodes: ["03038"]
+zipCodes:
+  - "03036"
+  - "03038"
+recyclingPartners:
+  - Derry Transfer Station & Recycling Center
+  - Casella Waste Systems New Hampshire Division
+  - Waste Management Rockingham County Operations
+nearbyCities:
+  - name: Manchester
+    distance: 15
+    state: NH
+    slug: manchester
+    isMetro: true
+reviews:
+  count: 294
+  featured:
+    - author: Sarah M.
+      neighborhood: East Derry
+      rating: 5
+      text: "Called after buying new furniture for our Federal-style colonial. They picked up our old queen mattress next morning before the delivery truck arrived. Professional and respectful of our historic home."
+    - author: Jim K.
+      neighborhood: Applewood Village
+      rating: 5
+      text: "Needed mattress removal after our teenager moved out for college. Team was courteous and handled everything quickly. Fair pricing for what you get."
+    - author: Maria R.
+      neighborhood: Derry Village
+      rating: 5
+      text: "Moving from our downtown place to a bigger house near Pinkerton. They coordinated pickup perfectly with our moving schedule and were very careful with our Victorian home's narrow stairs."
+faqs:
+  - question: How quickly can you pick up mattresses in Derry?
+    answer: We offer next-day service throughout Derry including East Derry village, downtown historic district, and suburban neighborhoods. Same-day pickup often available for urgent moves. Call (720) 263-6094 to check availability for your neighborhood.
+  - question: Do you serve all Derry neighborhoods and developments?
+    answer: Yes, complete coverage from historic Derry Village to modern developments like Harvest Estates and Stonegate. We understand Derry's mix of Victorian homes, Federal colonials, and suburban neighborhoods, providing professional service throughout all ZIP codes 03036 and 03038.
+  - question: How does your pricing compare to Derry Transfer Station fees?
+    answer: While Derry Transfer Station charges $35 per mattress plus $5 per box spring and requires permits, our service starts at $125 and includes pickup, transportation, and proper recycling. No permits needed, no trips to the transfer station, and we handle everything professionally.
+  - question: What's included in your Derry mattress removal service?
+    answer: Pricing starts at $125 for single mattresses, $125 for queen, $135 for king, with $30 for box springs. This includes pickup from any Derry location, navigation of historic home layouts, and certified eco-friendly disposal meeting New Hampshire environmental standards.
+  - question: Can you handle historic home access challenges?
+    answer: Absolutely. Our team regularly works with Derry's mix of Victorian homes, Federal-period colonials, and modern subdivisions. We navigate narrow staircases in downtown historic properties and understand the unique access requirements of 18th and 19th-century home layouts.
+  - question: Do you coordinate with moving companies and furniture deliveries?
+    answer: Yes, we understand Derry residents often coordinate mattress removal with furniture deliveries and moving schedules. We provide flexible timing to work around delivery windows and can accommodate same-day coordination for smooth transitions.
+  - question: Are you licensed to serve New Hampshire communities?
+    answer: Yes, we're fully licensed and insured to operate throughout New Hampshire including Rockingham County. We meet all state environmental requirements and provide proper documentation for disposal compliance that rental properties and businesses may require.
+  - question: How do you ensure proper recycling vs landfill disposal?
+    answer: Unlike standard disposal that may end up in landfills, we guarantee certified recycling through New Hampshire-approved facilities where 80% of materials become new products. Our documented process supports environmental responsibility that Derry's historic community values while providing proper compliance certificates.
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Derry"
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Derry"
+    "addressRegion": "NH"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 42.8806
+    "longitude": -71.3273
+  "telephone": "720-263-6094"
+  "url": "https://abedderworld.com/mattress-removal/new-hampshire/manchester/derry/"
+  "priceRange": "$125-$180"
+  "serviceArea": "Derry, NH"
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": "4.9"
+    "reviewCount": "294"
+
+pageContent:
+  heroDescription: "Professional mattress removal service in Derry, New Hampshire's historic Spacetown. Next-day pickup throughout 20+ neighborhoods from East Derry village to modern suburban developments. We serve Alan Shepard's hometown families, Pinkerton Academy community, and historic property owners with convenient eco-friendly recycling that's eliminated over 1 million mattresses from landfills nationwide."
+  aboutService: "Professional mattress removal service designed for Derry's unique community needs as New Hampshire's historic Spacetown. Our experienced team understands the challenges of serving a 300-year-old community where Victorian homes and Federal colonials mix with modern suburban developments. We handle the heavy lifting and navigate narrow staircases in historic downtown properties while providing the same reliable service to families in newer neighborhoods like Harvest Estates. Instead of struggling with Transfer Station trips, permits, and resident verification, Derry families get next-day pickup with complete recycling handled professionally. Our service supports both Pinkerton Academy families during college transitions and long-time residents who value the environmental responsibility that matches Derry's historic commitment to community stewardship."
+  serviceAreasIntro: "Complete coverage throughout New Hampshire's historic Spacetown, from East Derry village to modern developments:"
+  regulationsCompliance: "Our professional mattress disposal service eliminates the complexity of New Hampshire's municipal waste regulations for Derry residents. While the Derry Transfer Station requires residents to pay $35 per mattress plus $5 per box spring, obtain annual permits, provide proof of residency, and transport bulky items personally, our comprehensive service handles all regulatory compliance automatically. We maintain current licenses under New Hampshire RSA 149-M solid waste management statutes, carry required liability insurance for mattress transportation, and provide documented chain-of-custody tracking that satisfies both state environmental regulations and local historic district preservation requirements. Our certified disposal process meets Rockingham County solid waste diversion mandates while eliminating permit fees, residency verification delays, and the physical challenges of loading mattresses into personal vehicles for transfer station trips."
+  environmentalImpact: "Our advanced mattress recycling program reflects Derry's 300-year commitment to environmental stewardship and historic preservation values. Through partnerships with certified New Hampshire processing facilities, we achieve 80% material recovery using specialized disassembly techniques that separate pocket spring coils, memory foam layers, latex cores, and textile covers for individual recycling streams. Steel components become construction materials, polyurethane foam transforms into carpet padding and insulation, while cotton and polyester fabrics create industrial wiping cloths and fiber fill. This comprehensive recycling process prevents harmful chemicals from memory foam and flame retardants from entering New Hampshire's groundwater systems, protecting the Beaver Brook watershed that flows through Derry's historic neighborhoods. Our documented recycling certificates satisfy environmental compliance requirements for Pinkerton Academy, downtown historic district properties, and residential associations while supporting our national achievement of diverting over 1 million mattresses from American landfills. Unlike standard disposal that contributes to the 20 million mattresses annually sent to US landfills where they occupy 23 cubic feet per unit and resist decomposition for decades, our certified recycling transforms waste into valuable resources while preserving New Hampshire's natural heritage for future generations."
+  howItWorksScheduling: "Next-day appointments available throughout Derry with scheduling designed for suburban family lifestyles, academic schedules, and historic property needs. We coordinate around Pinkerton Academy activities, maintain flexible timing for furniture deliveries, and provide confirmed service windows that work with small-town schedules."
+  howItWorksService: "Our Derry team combines historic property expertise with modern suburban service to navigate the unique challenges of serving New Hampshire's Spacetown. From Victorian home narrow staircases to Federal colonial layouts and modern subdivision logistics, we provide professional pickup service that respects both historical preservation and contemporary convenience."
+  howItWorksDisposal: "Materials transported to certified New Hampshire recycling facilities using routes optimized for historic community access and environmental protection, ensuring regional compliance while supporting our nationwide 1+ million mattresses recycled achievement."
+  sidebarStats:
+    mattressesRemoved: "947"
+---

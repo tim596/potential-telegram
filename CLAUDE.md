@@ -101,6 +101,11 @@ The site uses a sophisticated location page generator (`scripts/generate-locatio
 
 ## Important Conventions
 
+### Communication Rule
+**MANDATORY**: Always keep responses compact and concise. This project requires constant compactness to stay up-to-date without excessive information overload. Use bullet points, short sentences, and focus only on essential details.
+
+**AUTO-COMPACT FREQUENCY**: Compact conversation every 2 messages to prevent information overload and maintain project focus.
+
 ### File Naming
 - State directories use lowercase slugs (`california`, `texas`)
 - City files use kebab-case (`new-york-city.md`, `san-francisco.md`)
@@ -117,3 +122,21 @@ The site uses a sophisticated location page generator (`scripts/generate-locatio
 - Location pages include comprehensive frontmatter with pricing, coordinates, neighborhoods
 - Reviews and FAQs are dynamically generated per location
 - State and city data drives navigation and nearby city links
+
+
+## How to launch a city
+
+tasks/city-requirements.md stores all of the requirements we have for how to properly build a page for a city.
+
+when i say "launch city" do the following: 
+1. Pick a city from tasks/cities.md. If there are no cities left, pause and ask
+2. Read tasks/launch-city.md follow this precisely to build out a city
+3. **NON-NEGOTIABLE**: Use layout: location.njk in frontmatter - provide ONLY frontmatter data and content variables, NO HTML structure or CSS (handled by centralized template)
+4. Build the site and verify the city exists in dist and meets our success criteria defined in tasks/city-requirements.md
+
+## How to review a city
+
+when i say "review city" do the following:
+1. Read tasks/review-city.md and follow it precisely to review and update a city page
+2. Fix the issues you found
+3. Build the site and verify the city exists in dist and meets our success criteria defined in tasks/city-requirements.md

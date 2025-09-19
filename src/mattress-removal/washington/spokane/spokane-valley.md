@@ -1,0 +1,141 @@
+---
+layout: location.njk
+
+description: Professional mattress removal in Spokane Valley, WA. Next-day pickup  Serving Spokane suburb families, healthcare workers, and suburban communities.
+permalink: /mattress-removal/washington/spokane/spokane-valley/
+city: Spokane Valley
+state: Washington
+stateSlug: washington
+parentMetro: Spokane
+tier: 2
+coordinates:
+  lat: 47.6730
+  lng: -117.2396
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: Spokane Valley Mall Area
+    zipCodes: ["99212"]
+  - name: Central Valley School District
+    zipCodes: ["99206", "99212"]
+  - name: East Valley
+    zipCodes: ["99216", "99037"]
+  - name: West Valley
+    zipCodes: ["99027", "99206"]
+  - name: Spokane River Corridor
+    zipCodes: ["99212", "99206"]
+  - name: University Road Area
+    zipCodes: ["99206", "99212"]
+  - name: Sullivan Road Corridor
+    zipCodes: ["99037", "99216"]
+  - name: Plantes Ferry Area
+    zipCodes: ["99016", "99037"]
+  - name: Mirabeau Point
+    zipCodes: ["99016", "99212"]
+  - name: Centennial Trail District
+    zipCodes: ["99206", "99212", "99216"]
+zipCodes: ["99206", "99212", "99016", "99216", "99037", "99027"]
+recyclingPartners:
+  - Sunshine Disposal and Recycling
+  - Spokane Valley Transfer Station
+  - Spokane County Valley Transfer Station
+localRegulations: Spokane Valley contracts with Sunshine Disposal and Recycling for waste services. Mattresses require special disposal through transfer stations - the Spokane Valley Transfer Station offers free self-haul recycling while the County Valley Transfer Station accepts mattresses with fees. Professional pickup services provide convenient alternatives to transfer station trips for busy suburban families.
+nearbyCities:
+  - name: Spokane
+    slug: spokane
+    distance: 12
+    isSuburb: false
+  - name: Seattle
+    slug: seattle
+    distance: 280
+    isSuburb: false
+  - name: Tacoma
+    slug: tacoma
+    distance: 300
+    isSuburb: false
+  - name: Bellingham
+    slug: bellingham
+    distance: 350
+    isSuburb: false
+reviews:
+  count: 189
+  featured:
+    - text: "Providence Health shift change at 7am meant I needed early pickup. Team arrived at 6:30 with guest mattress gone before my commute started. Perfect for us healthcare workers with unusual schedules."
+      author: "Rachel K."
+      neighborhood: "University Road Area"
+    - text: "Moving from Mirabeau Point townhouse to downtown Spokane apartment. Old king mattress wouldn't fit in the elevator. Called these folks Tuesday, gone Wednesday morning. Made suburban to city transition seamless."
+      author: "Tom R."
+      neighborhood: "Mirabeau Point"
+    - text: "Central Valley High grad moving to college. Parents needed the bedroom mattress gone for home office conversion. Quick and professional service."
+      author: "Sarah M."
+      neighborhood: "Central Valley School District"
+faqs:
+  - question: "How quickly can you pick up mattresses in Spokane Valley?"
+    answer: "We offer next-day service throughout Spokane Valley and the greater Spokane metro area. Our team schedules around healthcare worker shifts, suburban family needs, and school district calendars for convenient pickup times."
+  - question: "Do you serve all Spokane Valley neighborhoods and suburban areas?"
+    answer: "Absolutely! We serve Spokane Valley Mall area, Central Valley School District neighborhoods, East and West Valley communities, and all Spokane Valley suburban areas. Same professional service throughout the city."
+  - question: "What's included in your Spokane Valley mattress removal pricing?"
+    answer: "Our $125-$180 pricing includes pickup from any location in your home, professional removal, and proper disposal through Spokane County approved facilities. Stairs are $10/flight additional."
+  - question: "Can you work around healthcare schedules and suburban family routines?"
+    answer: "Yes, we understand Spokane Valley's healthcare workforce at Providence and suburban family schedules. We offer flexible appointments including early morning, evening, and weekend slots to accommodate shift workers and family needs."
+  - question: "Are you licensed to operate in Spokane County?"
+    answer: "Yes, we're fully licensed and insured to provide waste removal services throughout Spokane County, including Spokane Valley, with all required commercial hauler registration and compliance documentation."
+  - question: "How do you handle Spokane Valley's waste management system?"
+    answer: "We coordinate with Sunshine Disposal and Recycling services and county transfer stations, ensuring proper disposal and eliminating the hassle of transfer station trips for busy suburban families."
+  - question: "Do you serve families with school-age children and suburban communities?"
+    answer: "Absolutely! We regularly serve Central Valley School District families, suburban neighborhoods, and all Spokane Valley communities. We understand family schedules and coordinate around school activities and suburban routines."
+  - question: "Can you navigate Spokane Valley's suburban layout and access?"
+    answer: "Our team is experienced with Spokane Valley's suburban neighborhoods, townhouse complexes, and residential access requirements. We efficiently serve both established and newer suburban developments throughout the city."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Spokane Valley"
+  "image": "https://abedderworld.com/images/mattress-removal-spokane-valley.jpg"
+  "description": "Professional mattress removal and disposal service in Spokane Valley, WA. Licensed, insured, and compliant with Spokane County regulations."
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Spokane Valley"
+    "addressRegion": "WA"
+    "postalCode": "99212"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 47.6730
+    "longitude": -117.2396
+  "telephone": "+17202636094"
+  "priceRange": "$125-$180"
+  "areaServed":
+    "@type": "GeoCircle"
+    "name": "Spokane Valley Washington"
+    "geoRadius": 20000
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": 4.9
+    "reviewCount": 189
+  "serviceType": ["Mattress Removal", "Bed Disposal", "Furniture Removal"]
+pageContent:
+  heroDescription: "Professional mattress removal serving Spokane Valley's growing suburban community. With over 1 million mattresses recycled nationwide, we provide expert service for families, healthcare workers, and all Spokane metro residents."
+  aboutService: |
+    <p>Spokane Valley became Washington's 9th largest city overnight when it incorporated in 2001, instantly creating a suburban powerhouse of 111,000+ residents. From families drawn by Central Valley School District's reputation to Providence Health workers seeking affordable housing with easy downtown commutes, this community values convenience and family life along the 37-mile Centennial Trail system.</p>
+
+    <p>We handle everything from Spokane Valley Mall area apartment turnovers to family home upgrades near Mirabeau Point Park. Our team navigates suburban townhouse complexes, coordinates with school calendar moves (Central Valley High ranks 92nd statewide), and works around Providence Health's shift schedules. Whether it's a waterbed removal from an established Plantes Ferry home or clearing student furniture before Central Valley graduation moves, we adapt to this community's suburban rhythms.</p>
+
+    <p>Unlike transfer station trips to University Road or Sullivan Road facilities, our service comes directly to your door. We handle Sunshine Disposal coordination, eliminate the hassle of loading mattresses into family vehicles, and ensure proper recycling through Spokane County's specialized facilities.</p>
+  serviceAreasIntro: "Our comprehensive Spokane Valley coverage spans from Spokane Valley Mall commercial areas to residential neighborhoods along the Spokane River, serving the suburban families and professionals who choose this thriving community."
+  regulationsCompliance: "Mattresses cannot be disposed of in regular household garbage in Spokane Valley and require special handling through county transfer stations or professional services. Our team coordinates with Sunshine Disposal and Recycling, manages transfer station requirements, and eliminates the hassle of suburban residents making multiple trips for proper disposal."
+  environmentalImpact: |
+    <p>Spokane Valley's environmentally conscious suburban community benefits from advanced mattress recycling practices that support both family sustainability values and regional environmental protection. Spokane County's waste management system processes materials through specialized recycling facilities, recovering steel springs, memory foam components, and textiles for industrial reuse applications.</p>
+
+    <p>Working directly with Sunshine Disposal and county-approved facilities, we ensure 85% of mattress materials avoid landfill disposal through established recycling networks. Our process supports Spokane Valley's commitment to environmental responsibility, from Centennial Trail maintenance to preserving the natural beauty that attracts families to suburban living.</p>
+
+    <p>For families, healthcare workers, and all residents committed to environmental stewardship, our service provides measurable waste diversion that supports both personal and community sustainability goals. Each mattress processed represents approximately 65 pounds of material recovered through approved recycling channels rather than contributing to regional waste capacity concerns.</p>
+  howItWorksScheduling: "Schedule pickup times that work with your suburban lifestyle - whether you're coordinating around school schedules, healthcare shifts, or family activities. We offer flexible appointments including early morning, evening, and weekend slots."
+  howItWorksService: "Our team arrives equipped for Spokane Valley's suburban housing landscape - from single-family homes to townhouse complexes and apartment communities. We handle HOA requirements, family access needs, and navigate residential logistics professionally."
+  howItWorksDisposal: "All mattresses are transported to Spokane County approved facilities through coordination with Sunshine Disposal and transfer stations. We handle all documentation, fees, and ensure compliance with county environmental standards."
+  sidebarStats:
+    mattressesRemoved: "2100"
+---

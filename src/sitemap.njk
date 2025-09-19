@@ -1,0 +1,135 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://abedderworld.com/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Service Pages -->
+  <url>
+    <loc>https://abedderworld.com/mattress-removal/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://abedderworld.com/pricing/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://abedderworld.com/how-it-works/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://abedderworld.com/what-we-take/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://abedderworld.com/commercial/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://abedderworld.com/about/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://abedderworld.com/contact/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://abedderworld.com/faqs/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Blog Index -->
+  <url>
+    <loc>https://abedderworld.com/blog/</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  {%- for post in collections.blogPosts %}
+  <url>
+    <loc>https://abedderworld.com{{ post.url }}</loc>
+    <lastmod>{{ post.date | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {%- endfor %}
+
+  <!-- State Hub Pages (High Priority) -->
+  {%- for page in collections.mattressRemovalStates %}
+  <url>
+    <loc>https://abedderworld.com{{ page.url }}</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {%- endfor %}
+
+  <!-- City Location Pages (Medium Priority) -->
+  {%- for page in collections.mattressRemovalCities %}
+  {%- if page.data.tier == 1 %}
+  <url>
+    <loc>https://abedderworld.com{{ page.url }}</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  {%- elif page.data.tier == 2 %}
+  <url>
+    <loc>https://abedderworld.com{{ page.url }}</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {%- else %}
+  <url>
+    <loc>https://abedderworld.com{{ page.url }}</loc>
+    <lastmod>{{ "now" | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  {%- endif %}
+  {%- endfor %}
+
+  <!-- Service Pages -->
+  {%- for page in collections.servicePosts %}
+  <url>
+    <loc>https://abedderworld.com{{ page.url }}</loc>
+    <lastmod>{{ page.date | isoDate }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  {%- endfor %}
+</urlset>

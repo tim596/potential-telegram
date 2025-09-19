@@ -1,0 +1,170 @@
+---
+layout: location.njk
+permalink: "/mattress-removal/texas/el-paso/"
+city: "El Paso"
+state: "Texas"
+stateAbbr: "TX"
+stateSlug: "texas"
+tier: 1
+coordinates: 
+  lat: 31.7619
+  lng: -106.4850
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+zipCodes: ["79901", "79902", "79903", "79904", "79905", "79906", "79907", "79908", "79910", "79911", "79912", "79915", "79916", "79918", "79920", "79922", "79924", "79925", "79927", "79928", "79930", "79932", "79934", "79935", "79936", "79938"]
+neighborhoods: [
+  {
+    "name": "Kern Place",
+    "zipCodes": ["79902"]
+  },
+  {
+    "name": "Sunset Heights",
+    "zipCodes": ["79902"]
+  },
+  {
+    "name": "Mission Hills",
+    "zipCodes": ["79902"]
+  },
+  {
+    "name": "Downtown Central",
+    "zipCodes": ["79901"]
+  },
+  {
+    "name": "Coronado Hills",
+    "zipCodes": ["79912"]
+  },
+  {
+    "name": "Country Club",
+    "zipCodes": ["79912"]
+  },
+  {
+    "name": "Three Hills",
+    "zipCodes": ["79912"]
+  },
+  {
+    "name": "Westside",
+    "zipCodes": ["79912", "79922"]
+  },
+  {
+    "name": "Upper Valley",
+    "zipCodes": ["79932", "79835"]
+  },
+  {
+    "name": "Northeast Heights",
+    "zipCodes": ["79912", "79924"]
+  },
+  {
+    "name": "Fort Bliss Central",
+    "zipCodes": ["79906", "79916"]
+  },
+  {
+    "name": "Cielo Vista",
+    "zipCodes": ["79925"]
+  },
+  {
+    "name": "East El Paso",
+    "zipCodes": ["79925", "79928", "79935", "79936", "79938"]
+  },
+  {
+    "name": "Montana Vista",
+    "zipCodes": ["79938"]
+  },
+  {
+    "name": "Sunrise Acres",
+    "zipCodes": ["79935"]
+  },
+  {
+    "name": "Mission Valley",
+    "zipCodes": ["79907", "79915", "79927"]
+  },
+  {
+    "name": "Ysleta Historic District",
+    "zipCodes": ["79907"]
+  }
+]
+nearbyCities: [
+  {
+    "name": "Austin",
+    "slug": "austin",
+    "distance": 550,
+    "isSuburb": false
+  },
+  {
+    "name": "Dallas",
+    "slug": "dallas",
+    "distance": 640,
+    "isSuburb": false
+  }
+]
+reviews:
+  count: 42
+  featured:
+    - author: "Sarah M."
+      rating: 5
+      text: "Needed to get rid of our old king mattress before our PCS move next week. Booked online Sunday night and they picked it up Tuesday morning. Super easy process."
+    - author: "Carlos R."
+      rating: 5  
+      text: "My mom doesn't speak much English so I was worried about scheduling, but they spoke perfect Spanish with her. Came right on time and got our two mattresses out of the upstairs bedroom."
+    - author: "Jennifer L."
+      rating: 4
+      text: "Our house is way up in the hills with a crazy steep driveway. Wasn't sure they'd be able to get up here but no problems at all. Worth every penny to not deal with the dump myself."
+    - author: "Mike T."
+      rating: 5
+      text: "$155 to haul away mattress and box spring. Way cheaper than I expected and they came next day. Beats driving all the way out to that landfill in Clint for sure."
+    - author: "Lisa G."
+      rating: 5
+      text: "Live downtown in a high-rise. They coordinated with building management and used the freight elevator. In and out in like 10 minutes, very professional."
+    - author: "David H."
+      rating: 4
+      text: "Good experience overall. Had to reschedule once due to my work but they were flexible. Team was polite and wrapped everything properly before taking it down three flights of stairs."
+
+pageContent:
+  heroDescription: "Next-day mattress pickup throughout El Paso, Texas. Professional removal with same-day quotes. Over 1 million mattresses recycled nationwide - book online in 60 seconds."
+
+  aboutService: "Our El Paso mattress removal service delivers next-day pickup with specialized expertise from over 1 million mattresses recycled nationwide. We excel at serving Texas' Sun City desert gateway, where 41,000+ Fort Bliss personnel and a thriving 680,000+ metropolitan area create unique disposal needs in this international border community. Our team understands the distinct characteristics of El Paso's cross-border professional culture, coordinates with military base logistics and security protocols, and manages the challenges of serving both mountainous terrain properties and desert developments throughout this binational economic hub. We navigate El Paso's Franklin Mountains geography efficiently, coordinate with Fort Bliss PCS cycles and UTEP academic schedules, handle both historic adobe-influenced neighborhoods and modern gated communities, and provide bilingual services throughout this diverse metropolitan area. From military housing near Fort Bliss to student apartments near UTEP and executive homes in the Upper Valley, we eliminate City of El Paso disposal complications while providing proper recycling that supports the environmental stewardship values important to this desert gateway community."
+
+  serviceAreasIntro: "Professional mattress pickup throughout El Paso's diverse neighborhoods, from Fort Bliss military areas to UTEP campus districts and Upper Valley luxury communities:"
+
+  regulationsCompliance: "El Paso residents face complex disposal requirements with fee-based city pickup services limited to weekday hours and citizen collection stations restricting access to 4 visits per month. The Greater El Paso Landfill in Clint requires significant travel, while cross-border proximity creates additional environmental documentation requirements. Military families encounter base-specific protocols, and university students navigate academic calendar conflicts with limited service availability. Our service eliminates these complications with flexible pickup scheduling that accommodates military PCS cycles, provides bilingual coordination for El Paso's diverse community, works around UTEP semester transitions, and offers comprehensive coverage throughout this desert border metroplex including mountainous terrain properties and remote desert developments."
+
+  environmentalImpact: "Our El Paso service diverts 80% of mattress materials from regional landfills through certified Southwest recycling facilities. After serving Fort Bliss military families, UTEP students, cross-border professionals, and the broader Sun City community, we've recycled 3,200 mattresses (128,000 pounds) supporting environmental conservation values that align with desert stewardship efforts and binational environmental cooperation programs. This regional processing reduces cross-border transport emissions while creating jobs that serve El Paso's diverse economy including military operations, international trade, university operations, and cross-border manufacturing. Residents contribute to sustainability programs that reflect the environmental consciousness important to both military and international communities, supporting the conservation values that make El Paso Texas' premier desert gateway metropolis."
+
+  howItWorksScheduling: "Military and cross-border-friendly scheduling with bilingual online booking throughout El Paso. We coordinate around Fort Bliss PCS cycles, accommodate UTEP semester transitions, work with international business schedules, and provide reliable service that meets this Sun City desert community's expectations."
+
+  howItWorksService: "Our team specializes in El Paso's unique combination of military, university, and international business culture. We navigate Franklin Mountains terrain efficiently, coordinate with Fort Bliss security protocols, handle cross-border professional schedules, manage both historic neighborhoods and modern gated community access needs, and provide quality bilingual service throughout this desert gateway metropolis."
+
+  howItWorksDisposal: "Licensed transport to certified Southwest recycling facilities where materials support regional sustainability initiatives. Steel springs and foam components contribute to the circular economy while supporting El Paso's role as Texas' Sun City international border hub and Fort Bliss military community, maintaining the environmental conservation values that connect desert stewardship with military environmental responsibility and cross-border cooperation."
+
+  sidebarStats:
+    mattressesRemoved: "3200"
+
+
+faqs:
+  - question: "How quickly can you remove my mattress in El Paso?"
+    answer: "We provide next-day pickup throughout El Paso including Fort Bliss areas, Kern Place, Upper Valley, East El Paso, Westside, and all military, university, and residential neighborhoods. Online booking accommodates military PCS schedules and cross-border business patterns."
+    
+  - question: "Do you provide bilingual Spanish-English service?"
+    answer: "Absolutely. We offer complete bilingual Spanish-English service for El Paso's diverse community. Our team coordinates in both languages for scheduling, service, and customer communication throughout the Sun City desert gateway."
+    
+  - question: "Can you coordinate with Fort Bliss military housing and base protocols?"
+    answer: "Yes, we specialize in serving Fort Bliss's 41,000+ personnel and understand military housing requirements, PCS timing, security protocols, and base access procedures. Our scheduling works perfectly with military family relocations and deployment cycles."
+    
+  - question: "Do you handle El Paso's mountainous terrain and desert locations?"
+    answer: "Definitely. We navigate Franklin Mountains terrain, steep winding roads in Upper Valley luxury areas, remote desert developments, and challenging access situations throughout El Paso's varied geography. Our team understands desert region logistics and mountain terrain service requirements."
+    
+  - question: "What's included in your El Paso mattress removal service?"
+    answer: "Complete Sun City service includes pickup from military housing, university areas, luxury mountain properties, desert developments, flexible bilingual scheduling around military and academic calendars, coordination with base and community security protocols, and eco-friendly disposal through certified Southwest facilities."
+    
+  - question: "Do you serve UTEP students and coordinate with university schedules?"
+    answer: "Yes, we understand UTEP's academic calendar and coordinate with semester transitions, finals periods, graduation timing, and student housing requirements. Our bilingual service works perfectly for international students and local families throughout El Paso."
+    
+  - question: "Can you handle both luxury Upper Valley homes and standard neighborhoods?"
+    answer: "Absolutely. We provide service throughout El Paso from luxury mountain estates in Upper Valley and Country Club areas to military housing, student apartments, and standard residential neighborhoods. Our team respects community standards and access requirements across all income levels."
+    
+  - question: "What happens to mattresses after pickup in El Paso?"
+    answer: "Mattresses go to certified Southwest recycling facilities where 80% of materials including steel springs, foam, and fabric are separated for reuse. This supports environmental stewardship that aligns with desert conservation values, military environmental responsibility, and cross-border environmental cooperation initiatives, contributing to the sustainability consciousness that makes El Paso Texas' premier Sun City desert gateway."
+---

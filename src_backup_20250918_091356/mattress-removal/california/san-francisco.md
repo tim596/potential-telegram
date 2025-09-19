@@ -1,0 +1,370 @@
+---
+layout: location.njk
+title: San Francisco Mattress Removal & Disposal Service
+description: Professional mattress removal in San Francisco, California. Next-day pickup  Licensed, insured, and eco-friendly. Serving 20+ neighborhoods from SOMA to the Marina across the Bay Area.
+permalink: /mattress-removal/california/san-francisco/
+city: San Francisco
+state: California
+stateSlug: california
+tier: 1
+coordinates:
+  lat: 37.7749
+  lng: -122.4194
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+pageContent:
+  heroDescription: "#1 rated mattress removal service in San Francisco, California. Professional pickup  We handle everything from SOMA condos to Marina apartments. Serving 20+ neighborhoods throughout the Bay Area with full city regulation compliance."
+  aboutService: "San Francisco's premier mattress removal and recycling service, serving the City by the Bay with over 13 years of professional experience. From high-rise SOMA condos to Victorian apartments in the Mission, we provide expert mattress pickup throughout 20+ neighborhoods in the San Francisco metro area, ensuring 80% of materials are recycled responsibly while maintaining full compliance with city regulations. Our San Francisco team specializes in navigating the unique challenges of the hilly city, from steep inclines and narrow streets to building access challenges and municipal waste requirements under California's Mattress Stewardship Program. We work with local recycling facilities and Recology San Francisco to ensure your old mattress is disposed of responsibly and in compliance with California environmental regulations, supporting the city's aggressive zero waste goals."
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout the greater San Francisco area, covering all major neighborhoods from downtown to the outlying districts:"
+  regulationsCompliance: "Our service ensures full compliance with all local and state regulations, including California's Mattress Stewardship Program, providing you with disposal documentation for your records and handling all required preparation steps."
+  environmentalImpact: "Every mattress we collect in San Francisco supports the city's ambitious zero waste goals and environmental sustainability commitments. Through our partnerships with local recycling facilities and Recology San Francisco's transfer station, we've diverted thousands of mattresses from California landfills. Materials recovered include steel springs, foam, cotton, and wood - all processed locally when possible to reduce transportation emissions and support San Francisco's leading environmental initiatives. As part of California's Mattress Stewardship Program, your mattress removal contributes to the state's circular economy goals."
+  howItWorksScheduling: "Next-day slots available throughout San Francisco. We'll confirm via text message and coordinate building access including HOA requirements."
+  howItWorksService: "Our licensed and insured team removes your mattress from anywhere on your property, handles all city-required preparation, and navigates San Francisco's unique building challenges including steep hills and narrow streets."
+  howItWorksDisposal: "Your mattress is processed through Recology San Francisco's certified recycling facilities or other state-approved processors for responsible material recovery under California's Mattress Stewardship Program."
+  sidebarStats:
+    mattressesRemoved: "4,287"
+neighborhoods: [
+  {
+    "name": "SOMA (South of Market)",
+    "zipCodes": ["94103", "94105", "94107"]
+  },
+  {
+    "name": "Mission District", 
+    "zipCodes": ["94110"]
+  },
+  {
+    "name": "Castro",
+    "zipCodes": ["94114"]
+  },
+  {
+    "name": "Marina District",
+    "zipCodes": ["94123"]
+  },
+  {
+    "name": "Pacific Heights",
+    "zipCodes": ["94115"]
+  },
+  {
+    "name": "Nob Hill",
+    "zipCodes": ["94108"]
+  },
+  {
+    "name": "Russian Hill",
+    "zipCodes": ["94109"]
+  },
+  {
+    "name": "Hayes Valley",
+    "zipCodes": ["94102"]
+  },
+  {
+    "name": "Tenderloin",
+    "zipCodes": ["94102"]
+  },
+  {
+    "name": "Financial District",
+    "zipCodes": ["94111", "94104"]
+  },
+  {
+    "name": "Chinatown",
+    "zipCodes": ["94108"]
+  },
+  {
+    "name": "North Beach",
+    "zipCodes": ["94133"]
+  },
+  {
+    "name": "Cow Hollow",
+    "zipCodes": ["94123"]
+  },
+  {
+    "name": "Fillmore",
+    "zipCodes": ["94115"]
+  },
+  {
+    "name": "Western Addition",
+    "zipCodes": ["94117"]
+  },
+  {
+    "name": "Richmond District",
+    "zipCodes": ["94118", "94121"]
+  },
+  {
+    "name": "Sunset District",
+    "zipCodes": ["94116", "94122"]
+  },
+  {
+    "name": "Noe Valley",
+    "zipCodes": ["94131"]
+  },
+  {
+    "name": "Bernal Heights",
+    "zipCodes": ["94110"]
+  },
+  {
+    "name": "Potrero Hill",
+    "zipCodes": ["94107"]
+  }
+]
+zipCodes: [
+  "94102", "94103", "94104", "94105", "94107", "94108", "94109", 
+  "94110", "94111", "94114", "94115", "94116", "94117", "94118", 
+  "94121", "94122", "94123", "94131", "94133"
+]
+recyclingPartners: [
+  "Recology San Francisco Transfer Station",
+  "ByeBye Mattress Drop-off Locations",
+  "California Mattress Stewardship Program Facilities"
+]
+localRegulations: "San Francisco requires scheduling for bulky item pickup through Recology San Francisco. Mattresses cannot be placed in regular refuse containers. The city provides bulky item pickup service, but private recycling services offer more flexibility and faster next-day scheduling. All mattress disposal must comply with California's Mattress Stewardship Program requirements."
+nearbyCities: [
+  {
+    "name": "Alameda",
+    "slug": "alameda",
+    "distance": 15,
+    "isSuburb": true
+  },
+  {
+    "name": "Berkeley",
+    "slug": "berkeley",
+    "distance": 14,
+    "isSuburb": true
+  },
+  {
+    "name": "Concord",
+    "slug": "concord",
+    "distance": 31,
+    "isSuburb": true
+  },
+  {
+    "name": "Daly City",
+    "slug": "daly-city",
+    "distance": 8,
+    "isSuburb": true
+  },
+  {
+    "name": "Fremont",
+    "slug": "fremont",
+    "distance": 37,
+    "isSuburb": true
+  },
+  {
+    "name": "Hayward",
+    "slug": "hayward",
+    "distance": 28,
+    "isSuburb": true
+  },
+  {
+    "name": "Mountain View",
+    "slug": "mountain-view",
+    "distance": 38,
+    "isSuburb": true
+  },
+  {
+    "name": "Oakland",
+    "slug": "oakland",
+    "distance": 12,
+    "isSuburb": true
+  },
+  {
+    "name": "Palo Alto",
+    "slug": "palo-alto",
+    "distance": 35,
+    "isSuburb": true
+  },
+  {
+    "name": "Richmond",
+    "slug": "richmond",
+    "distance": 18,
+    "isSuburb": true
+  },
+  {
+    "name": "San Jose",
+    "slug": "san-jose",
+    "distance": 48,
+    "isSuburb": true
+  },
+  {
+    "name": "San Mateo",
+    "slug": "san-mateo",
+    "distance": 20,
+    "isSuburb": true
+  },
+  {
+    "name": "Santa Clara",
+    "slug": "santa-clara",
+    "distance": 44,
+    "isSuburb": true
+  },
+  {
+    "name": "Sunnyvale",
+    "slug": "sunnyvale",
+    "distance": 42,
+    "isSuburb": true
+  },
+  {
+    "name": "Vallejo",
+    "slug": "vallejo",
+    "distance": 33,
+    "isSuburb": true
+  },
+  {
+    "name": "Walnut Creek",
+    "slug": "walnut-creek",
+    "distance": 25,
+    "isSuburb": true
+  }
+]
+reviews:
+  count: 312
+  featured: [
+    {
+      "text": "Just moved out of my SOMA loft and needed to get rid of a king mattress fast. The guys showed up right on time, navigated the freight elevator situation perfectly, and had it out in under 10 minutes. Super professional and the pricing was exactly what they quoted - no surprises. Worth every penny for the convenience.",
+      "author": "Marcus T.",
+      "neighborhood": "SOMA"
+    },
+    {
+      "text": "Our Castro apartment has this crazy narrow stairwell and I was dreading getting our old mattress down three flights. These guys made it look easy - they came prepared with all the right equipment and knew exactly how to maneuver around the tight corners. Great communication throughout the whole process.",
+      "author": "Jennifer R.",
+      "neighborhood": "Castro"
+    },
+    {
+      "text": "Bought a new mattress set for our Marina condo and the delivery guys couldn't take the old one. Called A Bedder World and they had someone out the next day. The team was super careful with our hardwood floors and even helped move some furniture. Excellent service from start to finish.",
+      "author": "David L.",
+      "neighborhood": "Marina District"
+    }
+  ]
+faqs: [
+  {
+    "question": "How do you handle San Francisco's steep hills and narrow streets?",
+    "answer": "Our experienced San Francisco team comes equipped with specialized equipment for navigating the city's unique terrain. We use dollies designed for steep inclines and have extensive experience with the narrow Victorian-era staircases and tight building access common throughout the city."
+  },
+  {
+    "question": "Do you work with San Francisco's building HOAs and doormen?",
+    "answer": "Absolutely. We coordinate with building management, HOAs, and doormen throughout San Francisco to ensure smooth access. We can work around building-specific requirements and provide advance notice to property management when needed."
+  },
+  {
+    "question": "What are San Francisco's regulations for mattress disposal?",
+    "answer": "San Francisco requires bulky items like mattresses to be scheduled for pickup through Recology or disposed of through approved recycling facilities. As part of California's Mattress Stewardship Program, all mattresses must be properly recycled. We handle all compliance requirements for you."
+  },
+  {
+    "question": "How quickly can you pick up a mattress in San Francisco?",
+    "answer": "We offer next-day pickup throughout San Francisco, including weekends. Most neighborhoods from SOMA to the Richmond can be serviced within 24 hours of booking, depending on building access requirements."
+  },
+  {
+    "question": "Do you service high-rise buildings in downtown San Francisco?",
+    "answer": "Yes, we regularly service high-rise condos and apartments throughout SOMA, downtown, and other high-density areas. Our team is experienced with freight elevators, security protocols, and building access procedures common in San Francisco's modern towers."
+  },
+  {
+    "question": "What happens to my mattress after pickup in San Francisco?",
+    "answer": "Your mattress is processed through Recology San Francisco's transfer station or other California Mattress Stewardship Program certified facilities. Approximately 80% of materials are recycled, including steel springs, foam, fabric, and wood components."
+  },
+  {
+    "question": "Do you handle mattress removal from Victorian apartments?",
+    "answer": "Absolutely. San Francisco's Victorian and Edwardian apartments present unique challenges with narrow staircases and tight turns. Our team has extensive experience navigating these older buildings and comes prepared with the right equipment for safe removal."
+  },
+  {
+    "question": "Is there a fee for removing mattresses from upper floors in San Francisco?",
+    "answer": "Our standard pricing covers removal from anywhere on your property, including upper floors. The challenging access common in San Francisco (stairs, narrow hallways, building requirements) is factored into our base pricing - no surprise fees."
+  }
+]
+---
+
+# San Francisco Mattress Removal & Disposal Service
+
+Professional mattress removal throughout San Francisco's diverse neighborhoods, from the towering condos of SOMA to the historic Victorians of the Mission. Our experienced team navigates the city's unique challenges - steep hills, narrow staircases, and complex building access - while ensuring your old mattress is recycled responsibly under California's comprehensive environmental programs.
+
+## Why Choose Professional Mattress Removal in San Francisco
+
+San Francisco's dense urban environment and strict environmental regulations make professional mattress disposal essential. The city's zero waste goals, combined with California's Mattress Stewardship Program, require proper handling that individual residents often struggle to navigate. Our service eliminates the hassle of coordinating with Recology's bulky item pickup while ensuring faster, more convenient service.
+
+### San Francisco's Mattress Disposal Challenges
+
+The city's unique geography creates significant challenges for mattress disposal. Victorian and Edwardian apartments feature narrow staircases that make removal difficult, while modern high-rises require coordination with building management and freight elevator scheduling. San Francisco's commitment to environmental sustainability also means strict compliance with recycling requirements - mattresses cannot simply be discarded with regular waste.
+
+### Environmental Impact in the Bay Area
+
+San Francisco leads California in environmental innovation, and mattress recycling plays a crucial role in the city's zero waste goals. Every mattress we remove prevents materials from reaching Bay Area landfills while supporting local recycling infrastructure. The city's partnership with Recology and participation in California's Mattress Stewardship Program ensures materials are processed through certified facilities that recover steel springs, foam, fabric, and wood components.
+
+## Service Areas Throughout San Francisco
+
+Our comprehensive coverage spans all major neighborhoods across the city's 47 square miles. From the Financial District's high-rises to the Sunset's residential blocks, we provide consistent, professional service adapted to each area's unique characteristics.
+
+### Downtown and SOMA Districts
+
+The South of Market area represents San Francisco's modern face, with numerous high-rise condos and converted lofts. Our team regularly services these buildings, coordinating with property management and navigating freight elevator requirements. The area's mix of new construction and converted industrial spaces requires flexible approaches to access and removal.
+
+### Historic Neighborhoods
+
+San Francisco's famous Victorian and Edwardian neighborhoods - including the Mission, Castro, and Haight - present unique removal challenges. These historic buildings often feature narrow staircases, low doorways, and tight turns that require specialized equipment and experienced handling. Our team has developed techniques specifically for these architectural styles.
+
+### Pacific Heights and Marina Districts
+
+The city's affluent neighborhoods feature a mix of luxury condos and historic mansions. These areas often require coordination with building concierges, HOA requirements, and careful handling of high-value properties. We maintain the discretion and professionalism expected in these premium locations.
+
+### Richmond and Sunset Residential Areas
+
+San Francisco's sprawling residential districts feature primarily single-family homes and small apartment buildings. These neighborhoods offer more straightforward access but still require navigation of the city's challenging parking and street layout. Our service adapts to the more relaxed pace while maintaining our commitment to next-day scheduling.
+
+## How Our San Francisco Service Works
+
+### Scheduling and Coordination
+
+San Francisco's complex building access requirements mean careful coordination is essential. We work directly with building management, HOAs, and doormen to ensure smooth access. Our team confirms appointments via text message and provides building management with advance notice when required by property policies.
+
+### Professional Removal Process
+
+Our experienced San Francisco team arrives equipped for the city's unique challenges. We bring specialized equipment for steep inclines and narrow spaces, protective materials for hardwood floors common in Victorian homes, and tools designed for efficient navigation of cramped staircases.
+
+### Disposal and Documentation
+
+All mattresses are processed through Recology San Francisco's transfer station or other California Mattress Stewardship Program certified facilities. We provide disposal documentation for your records, ensuring compliance with both city and state environmental regulations.
+
+## Pricing and Service Options
+
+Our transparent pricing structure covers the full scope of service throughout San Francisco. Base pricing includes removal from anywhere on your property - no additional charges for upper floors, narrow staircases, or building coordination that's common throughout the city.
+
+### Standard Pricing
+- Single/Twin Mattress: $125
+- Queen Mattress: $125  
+- King Mattress: $135
+- Box Spring: $30 (additional)
+
+### San Francisco-Specific Considerations
+
+Our pricing accounts for the city's unique challenges - from parking difficulties and steep terrain to complex building access requirements. Unlike some services that add fees for these common San Francisco conditions, our base pricing provides complete transparency.
+
+## Environmental Commitment and Compliance
+
+San Francisco's leadership in environmental policy means rigorous requirements for waste disposal. Our service ensures full compliance with California's Mattress Stewardship Program while supporting the city's zero waste goals.
+
+### California Mattress Stewardship Program
+
+As part of California's comprehensive environmental regulations, all mattresses must be properly recycled through certified facilities. This program, overseen by CalRecycle and administered by the Mattress Recycling Council, ensures responsible processing of materials while funding collection and recycling infrastructure.
+
+### Local Recycling Partnerships
+
+We work closely with Recology San Francisco and other local facilities to ensure materials stay within the Bay Area when possible. This reduces transportation emissions while supporting local recycling infrastructure that serves the broader San Francisco community.
+
+### Material Recovery Process
+
+Approximately 80% of each mattress is recovered for reuse. Steel springs are processed for new steel production, foam becomes carpet padding or new furniture filling, fabric is converted to industrial wiping cloths, and wood components become mulch or biomass fuel.
+
+## Frequently Asked Questions
+
+### Building Access and Logistics
+
+San Francisco's diverse building types require flexible approaches to access and removal. Our team coordinates with property management for high-rises, navigates the narrow staircases of Victorian buildings, and adapts to the unique requirements of each neighborhood.
+
+### Regulatory Compliance
+
+The city's environmental regulations and California's statewide programs create complex requirements for proper disposal. Our service handles all compliance issues, ensuring your mattress removal meets both local and state environmental standards.
+
+### Scheduling and Timing
+
+San Francisco's traffic patterns and building access requirements can affect scheduling. We provide next-day service throughout the city while accommodating building-specific requirements that may influence pickup timing.
+
+Ready to schedule your San Francisco mattress removal? Our experienced team handles everything from coordination to disposal, ensuring professional service that meets the city's high standards for environmental responsibility and customer service.

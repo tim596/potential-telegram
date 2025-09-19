@@ -1,0 +1,194 @@
+---
+layout: location.njk
+
+description: Professional mattress removal in Thousand Oaks, California. Next-day pickup  Licensed, insured, and eco-friendly. Serving Conejo Valley neighborhoods.
+permalink: /mattress-removal/california/los-angeles/thousand-oaks/
+city: Thousand Oaks
+state: California
+stateSlug: california
+parentMetro: Los Angeles
+tier: 3
+coordinates:
+  lat: 34.1706
+  lng: -118.8376
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+pageContent:
+  heroDescription: "Trusted mattress removal service in Thousand Oaks, California. Professional pickup  From Westlake Village to Newbury Park, we serve all Conejo Valley communities with full compliance to local regulations."
+  aboutService: "Thousand Oaks' dedicated mattress removal and recycling service, proudly serving the Conejo Valley for over 8 years. From upscale Westlake neighborhoods to established Newbury Park communities, we provide expert mattress pickup throughout Thousand Oaks' diverse residential areas, ensuring responsible disposal of 80% of materials while maintaining compliance with Ventura County regulations. Our Thousand Oaks team understands the unique character of this master-planned community, from gated developments and HOA requirements to the city's commitment to environmental stewardship and smart growth initiatives. We partner with local recycling facilities including Athens Services and county-approved disposal sites to ensure your mattress supports Thousand Oaks' environmental goals and waste reduction targets."
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout Thousand Oaks and the greater Conejo Valley, covering all major neighborhoods and residential developments:"
+  regulationsCompliance: "Our service ensures full compliance with Ventura County and Thousand Oaks waste management regulations, providing documentation and handling all preparation requirements per local ordinances."
+  environmentalImpact: "Every mattress we collect in Thousand Oaks supports the city's dedication to environmental sustainability and smart growth. Through partnerships with Athens Services and regional recycling facilities, we've helped divert thousands of mattresses from California landfills. Recovered materials including steel springs, memory foam, and organic cotton are processed locally when possible, supporting the city's green initiatives and reducing environmental impact across Ventura County."
+  howItWorksScheduling: "Next-day service available throughout Thousand Oaks and Conejo Valley. We'll coordinate with HOA requirements and provide access instructions via text."
+  howItWorksService: "Our licensed and insured team handles pickup from anywhere on your property, navigating gated communities and following neighborhood guidelines specific to Thousand Oaks developments."
+  howItWorksDisposal: "Your mattress is processed through Athens Services and certified recycling partners for maximum material recovery and responsible disposal."
+  sidebarStats:
+    mattressesRemoved: "1,643"
+neighborhoods: [
+  {
+    "name": "Westlake Village",
+    "zipCodes": ["91361", "91362"]
+  },
+  {
+    "name": "Newbury Park", 
+    "zipCodes": ["91320"]
+  },
+  {
+    "name": "Dos Vientos",
+    "zipCodes": ["91362"]
+  },
+  {
+    "name": "North Ranch",
+    "zipCodes": ["91362"]
+  },
+  {
+    "name": "Wildwood",
+    "zipCodes": ["91361"]
+  },
+  {
+    "name": "Lynn Ranch",
+    "zipCodes": ["91360"]
+  },
+  {
+    "name": "Hillcrest",
+    "zipCodes": ["91360"]
+  },
+  {
+    "name": "Oakbrook",
+    "zipCodes": ["91360"]
+  },
+  {
+    "name": "Casa Conejo",
+    "zipCodes": ["91320"]
+  },
+  {
+    "name": "Timber School",
+    "zipCodes": ["91360"]
+  },
+  {
+    "name": "Conejo Canyons",
+    "zipCodes": ["91320"]
+  },
+  {
+    "name": "Hidden Valley",
+    "zipCodes": ["91361"]
+  },
+  {
+    "name": "Sunset Hills",
+    "zipCodes": ["91360"]
+  },
+  {
+    "name": "Moorpark Road Corridor",
+    "zipCodes": ["91360"]
+  },
+  {
+    "name": "Lang Ranch",
+    "zipCodes": ["91362"]
+  }
+]
+zipCodes: [
+  "91320", "91360", "91361", "91362"
+]
+recyclingPartners: [
+  "Athens Services - Thousand Oaks",
+  "Ventura County Recycling Coalition",
+  "Waste Management - Conejo Valley"
+]
+localRegulations: "Thousand Oaks participates in Ventura County's mattress stewardship program. Athens Services provides bulky item pickup for residents, with mattresses requiring special scheduling. Private services offer more flexible timing and specialized handling for gated communities and HOA-governed neighborhoods common in Thousand Oaks."
+nearbyCities:
+  - name: "Los Angeles"
+    slug: "los-angeles"
+    distance: "40 miles east"
+    isMetro: true
+  - name: "Simi Valley"
+    slug: "simi-valley"
+    distance: "8 miles north"
+    isSuburb: true
+reviews:
+  count: 187
+  featured: [
+    {
+      "text": "A Bedder World handled our mattress removal perfectly during our move from Westlake Village. The team called ahead to coordinate with our HOA and arrived exactly on time. They were professional and respectful of our gated community guidelines. The pricing was transparent and reasonable for the Thousand Oaks area.",
+      "author": "Jennifer P.",
+      "neighborhood": "Westlake Village"
+    },
+    {
+      "text": "Living in Dos Vientos, we needed quick mattress pickup after buying new furniture. A Bedder World scheduled us for next-day service and the crew knew exactly how to navigate our development's parking restrictions. They handled our king mattress and two box springs efficiently. Great local service!",
+      "author": "Mark R.", 
+      "neighborhood": "Dos Vientos"
+    },
+    {
+      "text": "We called A Bedder World for mattress removal from our Newbury Park home during renovations. The scheduling was flexible around our contractor timeline and the team was careful with our newly refinished floors. They provided recycling documentation and were incredibly professional throughout the entire process.",
+      "author": "Lisa Chen",
+      "neighborhood": "Newbury Park"
+    }
+  ]
+faqs: [
+  {
+    "question": "Do you service all Thousand Oaks neighborhoods including Westlake Village and Newbury Park?",
+    "answer": "Yes! We provide comprehensive mattress removal throughout all Thousand Oaks neighborhoods, including Westlake Village, Newbury Park, Dos Vientos, North Ranch, Wildwood, and all residential areas across the Conejo Valley. Our service covers all local ZIP codes and gated communities."
+  },
+  {
+    "question": "Can you handle mattress pickup from gated communities in Thousand Oaks?", 
+    "answer": "Absolutely! We regularly service Thousand Oaks' many gated developments and HOA-managed communities. Our team coordinates with security gates, follows community guidelines, and respects parking restrictions common in Westlake Village, Dos Vientos, and other planned neighborhoods."
+  },
+  {
+    "question": "What's the pricing for mattress removal in Thousand Oaks compared to LA?",
+    "answer": "Our Thousand Oaks pricing starts at $125 for single mattresses, which includes pickup from anywhere on your property, transportation, and responsible recycling. This represents excellent value compared to Los Angeles proper while maintaining the same professional service standards."
+  },
+  {
+    "question": "How do you handle Thousand Oaks' environmental and recycling requirements?",
+    "answer": "We work closely with Athens Services and Ventura County's approved recycling facilities to ensure 80% of each mattress is recycled responsibly. This supports Thousand Oaks' commitment to smart growth and environmental stewardship, helping reduce waste impact across the Conejo Valley."
+  },
+  {
+    "question": "Do you offer same-day pickup in Thousand Oaks, or is it next-day service?",
+    "answer": "We provide next-day pickup service throughout Thousand Oaks and the Conejo Valley. This ensures proper coordination with gated community access, HOA requirements, and our recycling partners while maintaining reliable service windows across all neighborhood types."
+  },
+  {
+    "question": "Can you coordinate with HOA requirements for mattress removal?",
+    "answer": "Yes! We understand Thousand Oaks' many HOA-governed communities and work within their guidelines for large item removal. We can coordinate timing, access, and documentation requirements to ensure full compliance with community regulations."
+  },
+  {
+    "question": "What areas of Ventura County do you serve besides Thousand Oaks?",
+    "answer": "Our Thousand Oaks service extends throughout the Conejo Valley including Westlake Village, parts of Agoura Hills, Oak Park, and Moorpark. We also coordinate with our broader Southern California network for surrounding Ventura County communities."
+  },
+  {
+    "question": "Do you provide documentation for insurance or moving company requirements?",
+    "answer": "Yes, we provide all necessary documentation including pickup confirmation, recycling certificates, and disposal records. This is especially important for Thousand Oaks residents dealing with HOA requirements, insurance claims, or corporate relocations common in the area."
+  }
+]
+schema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "A Bedder World Thousand Oaks",
+    "description": "Professional mattress removal and recycling service in Thousand Oaks, California",
+    "url": "https://abedderworld.com/mattress-removal/california/los-angeles/thousand-oaks/",
+    "telephone": "720-263-6094",
+    "address": {
+      "@type": "PostalAddress", 
+      "addressLocality": "Thousand Oaks",
+      "addressRegion": "California",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "34.1706",
+      "longitude": "-118.8376"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "Thousand Oaks"
+    },
+    "priceRange": "$125-$180",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "reviewCount": "187"
+    }
+  }
+---

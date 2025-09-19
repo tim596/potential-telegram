@@ -1,0 +1,154 @@
+---
+layout: location.njk
+title: Moreno Valley Mattress Removal & Disposal Service
+description: Professional mattress removal in Moreno Valley, CA. Next-day pickup  Licensed, insured, and eco-friendly. Serving 15+ neighborhoods in Riverside County.
+permalink: /mattress-removal/california/riverside/moreno-valley/
+city: Moreno Valley
+state: California
+stateSlug: california
+parentMetro: Riverside
+tier: 3
+coordinates:
+  lat: 33.9425
+  lng: -117.2297
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: Rancho Belago
+    zipCodes: [92555]
+  - name: Hidden Springs
+    zipCodes: [92555]
+  - name: Sunnymead Ranch
+    zipCodes: [92553]
+  - name: Canyon Springs
+    zipCodes: [92557]
+  - name: Moreno Valley Ranch
+    zipCodes: [92555]
+  - name: Towngate
+    zipCodes: [92551]
+  - name: Pigeon Pass
+    zipCodes: [92557]
+  - name: Edgemont
+    zipCodes: [92557]
+  - name: Box Springs
+    zipCodes: [92557]
+  - name: Indian Street
+    zipCodes: [92553]
+  - name: Alessandro Heights
+    zipCodes: [92551]
+  - name: March Field
+    zipCodes: [92518]
+  - name: Iris Avenue
+    zipCodes: [92551]
+  - name: Lasselle Street
+    zipCodes: [92551]
+  - name: Morrison Highlands
+    zipCodes: [92557]
+zipCodes:
+  - 92518
+  - 92551
+  - 92553
+  - 92555
+  - 92557
+recyclingPartners:
+  - CR&R Environmental Services
+  - Riverside County Waste Management
+  - Bye Bye Mattress Program Facility (Ironwood Ave)
+localRegulations: Riverside County requires proper disposal of mattresses through licensed waste haulers or approved facilities. Moreno Valley participates in California's Bye Bye Mattress program with a dedicated facility on Ironwood Avenue.
+nearbyCities:
+  - name: Corona
+    distance: 5
+    isSuburb: true
+    slug: corona
+  - name: Perris
+    distance: 8
+  - name: Beaumont
+    distance: 12
+  - name: San Bernardino
+    distance: 15
+  - name: Riverside
+    distance: 18
+  - name: Hemet
+    distance: 22
+reviews:
+  count: 76
+  featured:
+    - author: Jennifer T.
+      neighborhood: Rancho Belago
+      rating: 5
+      text: "Three kids meant three bunk bed mattresses to replace after our move. They handled the logistics perfectly - narrow stairs, multiple trips, got it done in under an hour. Scheduling was super flexible around our work schedules."
+    - author: Marcus L.
+      neighborhood: Sunnymead Ranch
+      rating: 5
+      text: "Apartment complex turnover for our rental unit. Called them Tuesday morning, had pickup Wednesday afternoon. Clean truck, professional crew, exactly $155 as quoted. Makes property management so much easier."
+    - author: Diana P.
+      neighborhood: Canyon Springs  
+      rating: 5
+      text: "Elderly mother couldn't handle getting her old mattress out herself. Team was incredibly respectful and gentle, took care of everything including the box spring. Fair pricing, excellent service."
+faqs:
+  - question: How quickly can you pick up mattresses in Moreno Valley?
+    answer: We offer next-day service throughout Moreno Valley and the Riverside area. Most appointments are available within 24-48 hours of booking. Same-day service may be available for urgent situations.
+  - question: Do you serve all Moreno Valley neighborhoods?
+    answer: Yes, we serve all areas of Moreno Valley including Rancho Belago, Sunnymead Ranch, Canyon Springs, Towngate, and surrounding neighborhoods. Our service covers ZIP codes 92518, 92551, 92553, 92555, and 92557.
+  - question: What's included in your Moreno Valley pricing?
+    answer: Our flat-rate pricing includes pickup, loading, transportation, and eco-friendly disposal or recycling. No hidden fees for standard residential service in Moreno Valley.
+  - question: Do you handle apartment complex and rental property pickups?
+    answer: Yes, we regularly service apartment complexes, rental properties, and multi-unit buildings throughout Moreno Valley. We coordinate with property managers and handle tenant turnovers efficiently.
+  - question: Are you licensed for waste removal in Riverside County?
+    answer: Yes, we maintain all required licenses and comprehensive liability insurance. Our team complies with all Riverside County waste disposal regulations and city requirements.
+  - question: Do you recycle mattresses in Moreno Valley?
+    answer: Absolutely. We partner with CR&R Environmental Services and the Bye Bye Mattress program facility on Ironwood Avenue to ensure materials are recycled properly rather than sent to landfills.
+  - question: What payment methods do you accept?
+    answer: We accept cash, check, and all major credit cards (Visa, MasterCard, Discover, American Express). Payment is due at the time of pickup. Online booking requires a credit card.
+  - question: Can you remove other bedroom furniture with mattresses?
+    answer: Yes, we remove bed frames, box springs, dressers, and other bedroom furniture. Each additional item has separate pricing - contact us for a complete quote on multiple items.
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  name: "A Bedder World Moreno Valley"
+  image: "https://abedderworld.com/images/service-areas/moreno-valley-mattress-removal.jpg"
+  telephone: "720-263-6094"
+  email: "info@abedderworld.com"
+  address:
+    "@type": "PostalAddress"
+    addressLocality: "Moreno Valley"
+    addressRegion: "CA"
+    addressCountry: "US"
+  geo:
+    "@type": "GeoCoordinates"
+    latitude: 33.9425
+    longitude: -117.2297
+  url: "https://abedderworld.com/mattress-removal/california/riverside/moreno-valley/"
+  areaServed:
+    "@type": "City"
+    name: "Moreno Valley, California"
+  serviceType: "Mattress Removal and Disposal"
+  priceRange: "$125-$180"
+  aggregateRating:
+    "@type": "AggregateRating"
+    ratingValue: "4.9"
+    reviewCount: 76
+pageContent:
+  heroDescription: "A Bedder World provides comprehensive mattress removal service throughout Moreno Valley's diverse neighborhoods, from established areas like Sunnymead Ranch to newer developments in Rancho Belago. We handle residential and rental property pickups with next-day scheduling across all ZIP codes in Riverside County."
+  
+  aboutService: "Moreno Valley's rapid growth as a bedroom community creates unique mattress disposal challenges. The city's diverse housing stock ranges from established 1980s tract homes in areas like Towngate to modern master-planned communities such as Rancho Belago and Moreno Valley Ranch. Many residents commute to employment centers throughout the Inland Empire, requiring flexible scheduling options that accommodate varying work schedules. As one of the fastest-growing cities in Riverside County, Moreno Valley experiences high residential turnover rates, particularly in rental properties and apartment complexes. Our team understands the logistics of serving both single-family neighborhoods with wide suburban streets and multi-story apartment buildings near March Field. The city's proximity to major transportation corridors like Highway 60 facilitates our service delivery while creating dust accumulation that accelerates mattress deterioration."
+
+  serviceAreasIntro: "Moreno Valley's neighborhoods present distinct service requirements based on their development patterns and housing types. Rancho Belago features newer homes with standard access but HOA considerations for service scheduling. Sunnymead Ranch includes established residential areas with mature landscaping that requires careful navigation. Canyon Springs and Morrison Highlands offer mix of single-family homes and townhomes with varying driveway configurations. Areas near March Field present unique challenges with noise restrictions and flight pattern considerations. Towngate's older construction sometimes involves narrower doorways requiring specialized handling techniques."
+
+  regulationsCompliance: "Our operations fully comply with Riverside County waste management regulations and City of Moreno Valley municipal codes. We maintain all required business licenses, comprehensive liability insurance, and work exclusively with approved disposal facilities to meet environmental standards."
+
+  environmentalImpact: "Riverside County's commitment to waste reduction makes responsible mattress disposal essential in Moreno Valley. The region already manages substantial population growth pressures on waste infrastructure. We partner directly with CR&R Environmental Services, the city's primary waste management provider, ensuring seamless integration with existing municipal systems. The Bye Bye Mattress program facility at 31125 Ironwood Avenue serves as our primary recycling destination, keeping materials within the local waste management network. This partnership prevents mattresses from contributing to illegal dumping issues while supporting Riverside County's goal of diverting 75% of waste from landfills. Our local recycling approach reduces transportation emissions and supports regional environmental sustainability initiatives."
+
+  howItWorksScheduling: "Choose pickup times that work with Inland Empire commuter schedules - we offer early morning and afternoon slots to accommodate residents who work throughout the region, plus weekend availability for busy families."
+
+  howItWorksService: "Our experienced team navigates Moreno Valley's mix of suburban streets and multi-unit complexes with ease. We handle everything from ground-floor apartments to two-story homes, protecting your property throughout the removal process."
+
+  howItWorksDisposal: "Materials are transported to CR&R Environmental Services or the Bye Bye Mattress facility on Ironwood Avenue, where mattresses are properly broken down and recycled according to California's environmental standards."
+
+  sidebarStats:
+    mattressesRemoved: "1,650"
+---

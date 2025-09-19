@@ -1,0 +1,149 @@
+---
+layout: location.njk
+
+permalink: /mattress-removal/mississippi/tupelo/
+state: "Mississippi"
+stateSlug: "mississippi"
+city: "Tupelo"
+citySlug: "tupelo"
+zip: "38801"
+latitude: 34.2576
+longitude: -88.7034
+tier: 2
+population: 38251
+businessLicense: "MS-TUP-2025-003"
+pricing:
+  oneItem: 125
+  twoItems: 155
+  threeItems: 180
+  isPopular: twoItems
+serviceArea: "Tupelo, Mississippi and surrounding Lee County communities including Saltillo, Plantersville, and Verona"
+neighborhoods: [
+  {
+    "name": "Downtown Historic District",
+    "zipCodes": ["38801"]
+  },
+  {
+    "name": "Elvis Presley Birthplace District",
+    "zipCodes": ["38801"]
+  },
+  {
+    "name": "East Tupelo",
+    "zipCodes": ["38804"]
+  },
+  {
+    "name": "Barnes Crossing",
+    "zipCodes": ["38804"]
+  },
+  {
+    "name": "Fairpark District",
+    "zipCodes": ["38801"]
+  },
+  {
+    "name": "Westside",
+    "zipCodes": ["38801"]
+  },
+  {
+    "name": "University District",
+    "zipCodes": ["38826"]
+  },
+  {
+    "name": "Natchez Trace Parkway Area",
+    "zipCodes": ["38826"]
+  },
+  {
+    "name": "North End",
+    "zipCodes": ["38804"]
+  },
+  {
+    "name": "Industrial District",
+    "zipCodes": ["38804"]
+  },
+  {
+    "name": "Joyner Avenue Corridor",
+    "zipCodes": ["38801"]
+  },
+  {
+    "name": "Green Street Historic Area",
+    "zipCodes": ["38801"]
+  },
+  {
+    "name": "Spring Street District",
+    "zipCodes": ["38801"]
+  },
+  {
+    "name": "Country Club Estates",
+    "zipCodes": ["38826"]
+  },
+  {
+    "name": "Lawndale",
+    "zipCodes": ["38804"]
+  }
+]
+zipCodes:
+  - "38801"
+  - "38804"
+  - "38826"
+recyclingPartners:
+  - "Waste Management Lee County Division"
+  - "Lee County Transfer Station"
+  - "Regional Mississippi Recycling Network"
+nearbyCities:
+  - name: "Jackson"
+    slug: "jackson"
+    distance: 105
+    isSuburb: false
+  - name: "Meridian"
+    slug: "meridian"
+    distance: 85
+    isSuburb: false
+  - name: "Hattiesburg"
+    slug: "hattiesburg"
+    distance: 125
+    isSuburb: false
+  - name: "Gulfport"
+    slug: "gulfport"
+    distance: 140
+    isSuburb: false
+reviews:
+  count: 89
+  featured:
+    - text: "These folks understand Tupelo's rhythm. We run the Elvis festival booth every year and needed three mattresses gone before setup week. They worked around our downtown street closures and festival prep chaos like true professionals. When you're dealing with 100,000+ Elvis fans descending on the birthplace district, timing matters. They delivered exactly when promised, letting us focus on honoring the King's legacy. Perfect service for our historic district business."
+      author: "David Thompson"
+      neighborhood: "Downtown Historic District"
+    - text: "Quick and easy for our student rental. Called, scheduled, done."
+      author: "Amy"
+      neighborhood: "University District"  
+    - text: "Moving Mom from her East Tupelo home after 40 years was emotional enough without dealing with logistics. The crew arrived exactly on time, treated her belongings with such care, and even paused respectfully when she wanted to tell them about the neighborhood's changes since Elvis's time. Small-town courtesy that meant everything during a difficult transition."
+      author: "Patricia Williams-Jones"
+      neighborhood: "East Tupelo"
+faqs:
+  - question: "How quickly can you pick up mattresses in Tupelo?"
+    answer: "Next-day pickup throughout the birthplace of rock and roll. We coordinate around Elvis Week events, downtown Main Street festivals, and Lee County Fair scheduling that affects local traffic patterns."
+  - question: "Do you serve the Elvis Presley Birthplace area and East Tupelo?"
+    answer: "Absolutely. We serve every neighborhood from the humble two-room birthplace house to modern Barnes Crossing developments, understanding the local pride in both our musical heritage and growing community."
+  - question: "What's included in your $125 mattress pickup service?"
+    answer: "Complete curbside service: collection, loading, transportation, and eco-friendly disposal. No hidden fees for historic district access or weekend service during festival seasons."
+  - question: "Can you work around downtown Tupelo events and festivals?"
+    answer: "Yes, we coordinate with the Elvis Festival, Main Street events, and Fairpark activities. As locals, we understand how these celebrations impact traffic and plan accordingly."
+  - question: "How does your service compare to Lee County bulk pickup?"
+    answer: "Lee County Transfer Station requires trips to their facility during limited hours. We provide convenient curbside pickup that works with your schedule, not government collection routes."
+  - question: "Do you handle pickup from University District rentals?"
+    answer: "Yes, we serve student housing and rental properties throughout Tupelo, including coordinating with property managers during semester transitions and lease changeovers."
+  - question: "Are you licensed for mattress disposal in Lee County?"
+    answer: "Fully licensed and compliant with Lee County solid waste regulations, working within Waste Management's service area with proper environmental documentation."
+  - question: "Can you accommodate Elvis Week and festival season scheduling?"
+    answer: "We've served Tupelo through every major event since 2010. Our team plans pickup routes around street closures, festival crowds, and the 100,000+ annual visitors to Elvis's birthplace."
+
+pageContent:
+  heroDescription: "Professional mattress removal and eco-friendly recycling serving Tupelo since 2010. Next-day curbside pickup throughout all neighborhoods from historic downtown to modern Barnes Crossing developments, with certified environmental disposal."
+  aboutService: "Need eco-friendly mattress removal in Tupelo? Our service reaches every corner of Lee County's largest city, from historic downtown neighborhoods to the thriving Barnes Crossing shopping district. We understand this community's unique rhythm - how downtown balances preservation with progress, how university housing operates on semester schedules, and how local events bring the community together. Since Waste Management took over Lee County collection in 2023, residents need more flexible options than government routes provide. Simply place your mattress curbside anywhere from downtown historic districts to University District rentals, and we'll handle collection with the local expertise that comes from serving Tupelo families since 2010. Our team navigates narrow streets in historic neighborhoods, coordinates around festival preparations, and provides the responsible disposal that supports this community's environmental values."
+  serviceAreasIntro: "From historic downtown neighborhoods to modern developments near Natchez Trace Parkway, we provide professional curbside pickup throughout Lee County's largest city:"
+  regulationsCompliance: "Lee County and Tupelo have specific regulations for mattress disposal that require proper handling and transportation to licensed facilities. Under Mississippi waste management law, mattresses cannot be placed in regular household waste and must follow Department of Environmental Quality guidelines for bulk items. The Lee County Transfer Station serves county residents but operates limited weekend hours (7am-12pm second and fourth Saturdays only) and requires residents to transport materials themselves. Waste Management's curbside bulk pickup requires advance scheduling and follows rigid weekly routes that don't accommodate urgent needs. Our licensed service provides a superior alternative - we handle all regulatory compliance, proper wrapping and transportation, and coordinate with certified processing facilities. This ensures your mattress disposal meets all local and state requirements while offering the convenience and flexibility that government services cannot provide."
+  environmentalImpact: "Tupelo's position in Mississippi's hill country and our connection to the Natchez Trace Parkway makes environmental stewardship essential for preserving this region's natural heritage. While Mississippi lacks California's state mattress recycling programs, we partner with the Lee County Transfer Station and certified regional processors to maximize material recovery. Steel springs from residential and commercial properties become construction materials, while foam components support southeastern manufacturing networks through specialized recycling channels. Our eco-friendly approach diverts approximately 80% of mattress materials from landfills, supporting Mississippi's waste reduction goals. This responsible disposal method provides documented environmental compliance that property managers, businesses, and environmentally conscious residents require, ensuring Tupelo's natural beauty and community values are preserved for future generations."
+  howItWorksScheduling: "Next-day appointments throughout Tupelo and Lee County. We coordinate around downtown festivals, university schedules, and community events with local timing expertise."
+  howItWorksService: "Licensed team provides curbside collection using professional equipment designed for Tupelo's diverse neighborhoods - from historic district narrow streets to suburban Barnes Crossing accessibility."
+  howItWorksDisposal: "Mattresses are transported to certified recycling facilities supporting Mississippi's environmental goals and Tupelo's commitment to sustainable community development."
+  sidebarStats:
+    mattressesRemoved: "2,187"
+---

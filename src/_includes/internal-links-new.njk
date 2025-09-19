@@ -1,0 +1,295 @@
+{# Dynamic Internal Linking Component - Detects page type and generates appropriate links #}
+
+{# Determine what type of page this is and what links to show #}
+{% set linkStrategy = "other" %}
+{% set linkTitle = "Related Locations" %}
+{% set linkDescription = "Explore mattress removal services in nearby areas:" %}
+
+{# Check if this is a state page #}
+{% if page.url.includes('/mattress-removal/') and page.url.endsWith('/') and page.url.split('/').length == 4 %}
+  {% set linkStrategy = "state" %}
+  {% set urlParts = page.url.split('/') %}
+  {% set stateSlugFromUrl = urlParts[2] %}
+  {% set stateNameMap = {
+    'alabama': 'Alabama',
+    'alaska': 'Alaska',
+    'arizona': 'Arizona',
+    'arkansas': 'Arkansas',
+    'california': 'California',
+    'colorado': 'Colorado',
+    'connecticut': 'Connecticut',
+    'delaware': 'Delaware',
+    'florida': 'Florida',
+    'georgia': 'Georgia',
+    'hawaii': 'Hawaii',
+    'idaho': 'Idaho',
+    'illinois': 'Illinois',
+    'indiana': 'Indiana',
+    'iowa': 'Iowa',
+    'kansas': 'Kansas',
+    'kentucky': 'Kentucky',
+    'louisiana': 'Louisiana',
+    'maine': 'Maine',
+    'maryland': 'Maryland',
+    'massachusetts': 'Massachusetts',
+    'michigan': 'Michigan',
+    'minnesota': 'Minnesota',
+    'mississippi': 'Mississippi',
+    'missouri': 'Missouri',
+    'montana': 'Montana',
+    'nebraska': 'Nebraska',
+    'nevada': 'Nevada',
+    'new-hampshire': 'New Hampshire',
+    'new-jersey': 'New Jersey',
+    'new-mexico': 'New Mexico',
+    'new-york': 'New York',
+    'north-carolina': 'North Carolina',
+    'north-dakota': 'North Dakota',
+    'ohio': 'Ohio',
+    'oklahoma': 'Oklahoma',
+    'oregon': 'Oregon',
+    'pennsylvania': 'Pennsylvania',
+    'rhode-island': 'Rhode Island',
+    'south-carolina': 'South Carolina',
+    'south-dakota': 'South Dakota',
+    'tennessee': 'Tennessee',
+    'texas': 'Texas',
+    'utah': 'Utah',
+    'vermont': 'Vermont',
+    'virginia': 'Virginia',
+    'washington': 'Washington',
+    'washington-dc': 'Washington DC',
+    'west-virginia': 'West Virginia',
+    'wisconsin': 'Wisconsin',
+    'wyoming': 'Wyoming'
+  } %}
+  {% set stateNameFromUrl = stateNameMap[stateSlugFromUrl] or stateSlugFromUrl | title %}
+  {% set linkTitle = stateNameFromUrl + " Service Locations" %}
+  {% set linkDescription = "We provide professional mattress removal throughout " + stateNameFromUrl + ". Select your city:" %}
+
+{# Check if this is a suburb page #}
+{% elif parentMetro %}
+  {% set linkStrategy = "suburb" %}
+  {% set linkTitle = parentMetro + " Area Locations" %}
+  {% set linkDescription = "Explore mattress removal services throughout the " + parentMetro + " metropolitan area:" %}
+
+{# Check if this is a metro page (any tier or no tier, as long as it's not a suburb) #}
+{% elif not parentMetro %}
+  {# This is a standalone metro page - check if it has suburbs #}
+  {% set suburbsForThisMetro = collections.mattressRemovalCities | suburbsForMetro(city) %}
+
+  {% if suburbsForThisMetro.length > 0 %}
+    {% set linkStrategy = "metro-with-suburbs" %}
+    {% set linkTitle = city + " Area Locations" %}
+    {% set linkDescription = "We serve " + city + " and surrounding communities. Choose your area:" %}
+  {% else %}
+    {% set linkStrategy = "metro-without-suburbs" %}
+    {% set linkTitle = state + " Service Areas" %}
+    {% set linkDescription = "Explore mattress removal services throughout " + state + ":" %}
+  {% endif %}
+{% endif %}
+
+{# Generate the appropriate links based on strategy #}
+{% set linksToShow = [] %}
+
+{% if linkStrategy == "state" %}
+  {# State pages: Show all metros (all tiers, but not suburbs) #}
+  {% for cityPage in collections.mattressRemovalCities %}
+    {% if cityPage.data.state == stateNameFromUrl and not cityPage.data.parentMetro %}
+      {% set cityMeta = "Metro Area - " + cityPage.data.city %}
+      {% if cityPage.data.tier == 1 %}
+        {% set cityMeta = "Major Metro - " + cityPage.data.city + " Area" %}
+      {% elif cityPage.data.tier == 2 %}
+        {% set cityMeta = "Metro Area - " + cityPage.data.city %}
+      {% elif cityPage.data.tier == 3 %}
+        {% set cityMeta = "Regional Metro - " + cityPage.data.city %}
+      {% elif cityPage.data.tier == 4 %}
+        {% set cityMeta = "Specialty Metro - " + cityPage.data.city %}
+      {% elif cityPage.data.tier == "college-town" %}
+        {% set cityMeta = "College Town - " + cityPage.data.city %}
+      {% endif %}
+      {% set linksToShow = linksToShow | concat([{
+        url: cityPage.url,
+        title: cityPage.data.city,
+        meta: cityMeta
+      }]) %}
+    {% endif %}
+  {% endfor %}
+
+{% elif linkStrategy == "suburb" %}
+  {# Suburb pages: Parent metro + 3 nearest siblings + state #}
+
+  {# Add parent metro #}
+  {% for cityPage in collections.mattressRemovalCities %}
+    {% if cityPage.data.city == parentMetro and cityPage.data.state == state and cityPage.data.tier == 1 %}
+      {% set linksToShow = linksToShow | concat([{
+        url: cityPage.url,
+        title: parentMetro,
+        meta: "Metro Area - " + parentMetro + " Center"
+      }]) %}
+    {% endif %}
+  {% endfor %}
+
+  {# Get 3 varied sibling suburbs using proximity filter #}
+  {% set siblingSuburbs = collections.mattressRemovalCities | getNearestSiblings(city, parentMetro, state, 3) %}
+  {% for suburb in siblingSuburbs %}
+    {% set linksToShow = linksToShow | concat([{
+      url: suburb.url,
+      title: suburb.data.city,
+      meta: parentMetro + " Area - " + suburb.data.city
+    }]) %}
+  {% endfor %}
+
+  {# Add state overview #}
+  {% set linksToShow = linksToShow | concat([{
+    url: "/mattress-removal/" + stateSlug + "/",
+    title: "All " + state + " Locations",
+    meta: "State Overview - Complete Service Map"
+  }]) %}
+
+{% elif linkStrategy == "metro-with-suburbs" %}
+  {# Metro with suburbs: Show all suburbs + nearby metros + state #}
+
+  {# Add all suburbs using our custom filter #}
+  {% set allSuburbs = collections.mattressRemovalCities | suburbsForMetro(city) %}
+  {% for suburb in allSuburbs %}
+    {% set linksToShow = linksToShow | concat([{
+      url: suburb.url,
+      title: suburb.data.city,
+      meta: city + " Area - " + suburb.data.city
+    }]) %}
+  {% endfor %}
+
+  {# Add a few nearby metros using our custom filter #}
+  {% set allStateMetros = collections.mattressRemovalCities | majorMetrosForState(state) %}
+  {% set nearbyCount = 0 %}
+  {% for metro in allStateMetros %}
+    {% if metro.data.city != city and nearbyCount < 5 %}
+      {% set linksToShow = linksToShow | concat([{
+        url: metro.url,
+        title: metro.data.city,
+        meta: "Nearby Metro - " + metro.data.city + " Area"
+      }]) %}
+      {% set nearbyCount = nearbyCount + 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {# Add state overview #}
+  {% set linksToShow = linksToShow | concat([{
+    url: "/mattress-removal/" + stateSlug + "/",
+    title: "All " + state + " Locations",
+    meta: "State Overview - Complete Service Map"
+  }]) %}
+
+{% elif linkStrategy == "metro-without-suburbs" %}
+  {# Metro without suburbs: Show 5-8 nearby metros + state #}
+
+  {# Add nearby metros (excluding current city and suburbs) #}
+  {% set nearbyCount = 0 %}
+  {% for cityPage in collections.mattressRemovalCities %}
+    {% if cityPage.data.state == state and cityPage.data.city != city and not cityPage.data.parentMetro %}
+      {% if nearbyCount < 7 %}
+        {% set linksToShow = linksToShow | concat([{
+          url: cityPage.url,
+          title: cityPage.data.city,
+          meta: "Nearby Metro - " + cityPage.data.city + " Area"
+        }]) %}
+        {% set nearbyCount = nearbyCount + 1 %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {# Add state overview #}
+  {% set linksToShow = linksToShow | concat([{
+    url: "/mattress-removal/" + stateSlug + "/",
+    title: "All " + state + " Locations",
+    meta: "State Overview - Complete Service Map"
+  }]) %}
+
+{% endif %}
+
+{# Only render the section if we have links to show #}
+{% if linksToShow.length > 0 %}
+<section class="internal-links-section">
+  <div class="container">
+    <h2>{{ linkTitle }}</h2>
+    <p>{{ linkDescription }}</p>
+    <div class="internal-links-grid">
+      {% for link in linksToShow %}<a href="{{ link.url }}" class="internal-link-item">
+        <div class="internal-link-title">{{ link.title }}</div>
+        <div class="internal-link-meta">{{ link.meta }}</div>
+      </a>{% endfor %}
+    </div>
+  </div>
+</section>
+
+<style>
+.internal-links-section {
+  background: var(--gray-50);
+  border-radius: var(--border-radius-lg);
+  padding: 2rem 1.5rem;
+  margin: 3rem 0;
+}
+
+.internal-links-section h2 {
+  color: var(--gray-900);
+  margin-bottom: 0.5rem;
+  font-size: 1.75rem;
+}
+
+.internal-links-section p {
+  color: var(--gray-600);
+  margin-bottom: 1.5rem;
+}
+
+.internal-links-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.internal-link-item {
+  background: white;
+  border: 1px solid var(--gray-200);
+  border-radius: var(--border-radius);
+  padding: 1.25rem 1rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  display: block;
+}
+
+.internal-link-item:hover {
+  border-color: var(--primary-green);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.internal-link-title {
+  font-weight: 600;
+  color: var(--gray-900);
+  margin-bottom: 0.25rem;
+  font-size: 1rem;
+}
+
+.internal-link-meta {
+  font-size: 0.875rem;
+  color: var(--gray-600);
+}
+
+.internal-link-item:hover .internal-link-title {
+  color: var(--primary-green);
+}
+
+@media (max-width: 768px) {
+  .internal-links-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .internal-links-section {
+    padding: 1.5rem 1rem;
+    margin: 2rem 0;
+  }
+}
+</style>
+{% endif %}

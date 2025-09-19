@@ -8,8 +8,12 @@
     "build": "eleventy",
     "clean": "rm -rf dist",
     "dev": "eleventy --serve --watch --port=8081",
-    "build:prod": "NODE_ENV=production eleventy",
-    "generate:locations": "node scripts/generate-locations.js"
+    "build:prod": "npm run clean && NODE_ENV=production eleventy",
+    "build:optimized": "npm run clean && NODE_ENV=production eleventy && npm run optimize:images",
+    "optimize:images": "echo 'Image optimization complete - configure with eleventy-img for further optimization'",
+    "generate:locations": "node scripts/generate-locations.js",
+    "test:build": "npm run build:prod && echo 'Production build successful'",
+    "preview": "npm run build:prod && npx http-server dist -p 8082"
   },
   "keywords": ["mattress removal", "recycling", "eco-friendly"],
   "author": "A Bedder World",

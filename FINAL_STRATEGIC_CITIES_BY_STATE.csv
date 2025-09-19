@@ -1,0 +1,758 @@
+State,City,Type,Metro Area
+Alabama,Auburn,College Town,Auburn
+Alabama,Birmingham,Major Metro,Birmingham
+Alabama,Hoover,Suburb,Birmingham
+Alabama,Huntsville,Metro,Huntsville
+Alabama,Mobile,Metro,Mobile
+Alabama,Montgomery,State Capital,Montgomery
+Alabama,Tuscaloosa,College Town,Tuscaloosa
+Alaska,Anchorage,Major Metro,Anchorage
+Alaska,Fairbanks,Metro,Fairbanks
+Alaska,Juneau,State Capital,Juneau
+Arizona,Chandler,Suburb,Phoenix
+Arizona,Flagstaff,College Town,Flagstaff
+Arizona,Gilbert,Suburb,Phoenix
+Arizona,Glendale,Suburb,Phoenix
+Arizona,Mesa,Suburb,Phoenix
+Arizona,Peoria,Suburb,Phoenix
+Arizona,Phoenix,Major Metro,Phoenix
+Arizona,Scottsdale,Suburb,Phoenix
+Arizona,Surprise,Suburb,Phoenix
+Arizona,Tempe,Suburb,Phoenix
+Arizona,Tucson,Metro,Tucson
+Arkansas,Conway,Metro,Little Rock
+Arkansas,Fayetteville,Metro,Fayetteville
+Arkansas,Fort Smith,Metro,Fort Smith
+Arkansas,Little Rock,Major Metro,Little Rock
+Arkansas,North Little Rock,Suburb,Little Rock
+Arkansas,Rogers,Suburb,Fayetteville
+Arkansas,Springdale,Suburb,Fayetteville
+California,Anaheim,Suburb,Los Angeles
+California,Atascadero,Metro,Atascadero
+California,Bakersfield,Metro,Bakersfield
+California,Berkeley,Suburb,San Francisco
+California,Big Bear Lake,Metro,Big Bear Lake
+California,Carlsbad,Suburb,San Diego
+California,Chico,College Town,Chico
+California,Chula Vista,Suburb,San Diego
+California,Concord,Suburb,San Francisco
+California,Corona,Suburb,Riverside
+California,Costa Mesa,Suburb,Los Angeles
+California,Davis,College Town,Sacramento
+California,Downey,Suburb,Los Angeles
+California,El Cajon,Suburb,San Diego
+California,El Monte,Suburb,Los Angeles
+California,Elk Grove,Suburb,Sacramento
+California,Escondido,Suburb,San Diego
+California,Fontana,Suburb,San Bernardino
+California,Fremont,Suburb,San Francisco
+California,Fresno,Metro,Fresno
+California,Fullerton,Suburb,Los Angeles
+California,Garden Grove,Suburb,Los Angeles
+California,Glendale,Suburb,Los Angeles
+California,Grover Beach,Metro,Grover Beach
+California,Hayward,Suburb,San Francisco
+California,Huntington Beach,Suburb,Los Angeles
+California,Inglewood,Suburb,Los Angeles
+California,Irvine,Suburb,Los Angeles
+California,Lancaster,Suburb,Los Angeles
+California,Lemoore,Metro,Lemoore
+California,London,Metro,London
+California,Long Beach,Suburb,Los Angeles
+California,Los Angeles,Major Metro,Los Angeles
+California,Mendocino,Metro,Mendocino
+California,Modesto,Metro,Modesto
+California,Moreno Valley,Suburb,Riverside
+California,Oakland,Suburb,San Francisco
+California,Oceanside,Suburb,San Diego
+California,Ontario,Suburb,San Bernardino
+California,Orange,Suburb,Los Angeles
+California,Oxnard,Metro,Oxnard
+California,Palmdale,Suburb,Los Angeles
+California,Palo Alto,College Town,San Francisco
+California,Pasadena,Suburb,Los Angeles
+California,Paso Robles,Metro,Paso Robles
+California,Pomona,Suburb,Los Angeles
+California,Porterville,Metro,Porterville
+California,Rancho Cucamonga,Suburb,San Bernardino
+California,Riverside,Metro,Riverside
+California,Roseville,Suburb,Sacramento
+California,Sacramento,Major Metro,Sacramento
+California,Salinas,Metro,Salinas
+California,San Bernardino,Metro,San Bernardino
+California,San Diego,Major Metro,San Diego
+California,San Francisco,Major Metro,San Francisco
+California,San Jose,Metro,San Francisco
+California,Santa Ana,Suburb,Los Angeles
+California,Santa Barbara,Metro,Santa Barbara
+California,Santa Clara,Suburb,San Francisco
+California,Santa Clarita,Suburb,Los Angeles
+California,Santa Cruz,College Town,Santa Cruz
+California,Santa Rosa,Metro,Santa Rosa
+California,Sausalito,Metro,San Francisco
+California,Simi Valley,Suburb,Los Angeles
+California,Stanford,College Town,San Francisco
+California,Stockton,Metro,Stockton
+California,Sunnyvale,Suburb,San Francisco
+California,Tahoe City,Metro,Tahoe City
+California,Temecula,Metro,Temecula
+California,Thousand Oaks,Suburb,Los Angeles
+California,Torrance,Suburb,Los Angeles
+California,Tulare,Metro,Tulare
+California,Vallejo,Suburb,San Francisco
+California,Victorville,Metro,Victorville
+California,Visalia,Metro,Visalia
+Colorado,Arvada,Suburb,Denver
+Colorado,Aurora,Suburb,Denver
+Colorado,Boulder,Metro,Boulder
+Colorado,Castle Rock,Suburb,Denver
+Colorado,Centennial,Suburb,Denver
+Colorado,Colorado Springs,Metro,Colorado Springs
+Colorado,Dacono,Suburb,Denver
+Colorado,Denver,Major Metro,Denver
+Colorado,Fort Collins,Metro,Fort Collins
+Colorado,Greeley,Metro,Greeley
+Colorado,Highlands Ranch,Suburb,Denver
+Colorado,Lafayette,Suburb,Boulder
+Colorado,Lakewood,Suburb,Denver
+Colorado,Littleton,Suburb,Denver
+Colorado,Longmont,Suburb,Boulder
+Colorado,Louisville,Suburb,Boulder
+Colorado,Loveland,Suburb,Fort Collins
+Colorado,Parker,Suburb,Denver
+Colorado,Pueblo,Metro,Pueblo
+Colorado,Superior,Suburb,Boulder
+Colorado,Thornton,Suburb,Denver
+Colorado,Westminster,Suburb,Denver
+Colorado,Wheat Ridge,Suburb,Denver
+Connecticut,Bridgeport,Major Metro,Bridgeport
+Connecticut,Danbury,Metro,Danbury
+Connecticut,Hartford,State Capital,Hartford
+Connecticut,New Haven,Metro,New Haven
+Connecticut,Norwalk,Suburb,Bridgeport
+Connecticut,Stamford,Metro,Stamford
+Connecticut,Waterbury,Metro,Waterbury
+Delaware,Dover,State Capital,Dover
+Delaware,Newark,College Town,Newark
+Delaware,Wilmington,Major Metro,Wilmington
+Florida,Boca Raton,Suburb,West Palm Beach
+Florida,Boynton Beach,Suburb,West Palm Beach
+Florida,Cape Coral,Metro,Cape Coral
+Florida,Clearwater,Suburb,Tampa
+Florida,Coral Springs,Suburb,Miami
+Florida,Davie,Suburb,Miami
+Florida,Daytona Beach,Metro,Daytona Beach
+Florida,Deerfield Beach,Suburb,Miami
+Florida,Deltona,Metro,Deltona
+Florida,Fort Lauderdale,Suburb,Miami
+Florida,Gainesville,College Town,Gainesville
+Florida,Hialeah,Suburb,Miami
+Florida,Hollywood,Suburb,Miami
+Florida,Homestead,Suburb,Miami
+Florida,Jacksonville,Major Metro,Jacksonville
+Florida,Kissimmee,Suburb,Orlando
+Florida,Lakeland,Metro,Lakeland
+Florida,Largo,Suburb,Tampa
+Florida,Melbourne,Suburb,Palm Bay
+Florida,Miami,Major Metro,Miami
+Florida,Miami Beach,Suburb,Miami
+Florida,Miami Gardens,Suburb,Miami
+Florida,Miramar,Suburb,Miami
+Florida,Orlando,Major Metro,Orlando
+Florida,Palm Bay,Metro,Palm Bay
+Florida,Palm Coast,Metro,Palm Coast
+Florida,Pembroke Pines,Suburb,Miami
+Florida,Plantation,Suburb,Miami
+Florida,Pompano Beach,Suburb,Miami
+Florida,Port St. Lucie,Metro,Port St. Lucie
+Florida,Santa Rosa Beach,Vacation Town,Destin-Fort Walton Beach
+Florida,St. Petersburg,Suburb,Tampa
+Florida,Sunrise,Suburb,Miami
+Florida,Tallahassee,State Capital,Tallahassee
+Florida,Tampa,Major Metro,Tampa
+Florida,West Palm Beach,Metro,West Palm Beach
+Georgia,Albany,Metro,Albany
+Georgia,Alpharetta,Suburb,Atlanta
+Georgia,Athens,College Town,Athens
+Georgia,Atlanta,Major Metro,Atlanta
+Georgia,Augusta,Metro,Augusta
+Georgia,Brookhaven,Suburb,Atlanta
+Georgia,Columbus,Metro,Columbus
+Georgia,Duluth,Suburb,Atlanta
+Georgia,Johns Creek,Suburb,Atlanta
+Georgia,Kennesaw,Suburb,Atlanta
+Georgia,Lawrenceville,Suburb,Atlanta
+Georgia,Marietta,Suburb,Atlanta
+Georgia,Roswell,Suburb,Atlanta
+Georgia,Sandy Springs,Suburb,Atlanta
+Georgia,Savannah,Metro,Savannah
+Georgia,Smyrna,Suburb,Atlanta
+Georgia,Warner Robins,Metro,Warner Robins
+Georgia,Woodstock,Suburb,Atlanta
+Hawaii,East Honolulu,Suburb,Honolulu
+Hawaii,Hilo,Metro,Hilo
+Hawaii,Honolulu,Major Metro,Honolulu
+Hawaii,Kaneohe,Suburb,Honolulu
+Hawaii,Pearl City,Suburb,Honolulu
+Hawaii,Waipahu,Suburb,Honolulu
+Idaho,Boise,Major Metro,Boise
+Idaho,Caldwell,Suburb,Boise
+Idaho,Coeur d'Alene,Metro,Coeur d'Alene
+Idaho,Idaho Falls,Metro,Idaho Falls
+Idaho,Meridian,Suburb,Boise
+Idaho,Nampa,Suburb,Boise
+Idaho,Pocatello,Metro,Pocatello
+Illinois,Arlington Heights,Suburb,Chicago
+Illinois,Aurora,Suburb,Chicago
+Illinois,Bloomington,Metro,Bloomington
+Illinois,Bolingbrook,Suburb,Chicago
+Illinois,Champaign,College Town,Champaign
+Illinois,Chicago,Major Metro,Chicago
+Illinois,Cicero,Suburb,Chicago
+Illinois,Des Plaines,Suburb,Chicago
+Illinois,Downers Grove,Suburb,Chicago
+Illinois,Elgin,Suburb,Chicago
+Illinois,Elmhurst,Suburb,Chicago
+Illinois,Evanston,Suburb,Chicago
+Illinois,Hoffman Estates,Suburb,Chicago
+Illinois,Joliet,Suburb,Chicago
+Illinois,Naperville,Suburb,Chicago
+Illinois,Oak Lawn,Suburb,Chicago
+Illinois,Oak Park,Suburb,Chicago
+Illinois,Orland Park,Suburb,Chicago
+Illinois,Palatine,Suburb,Chicago
+Illinois,Peoria,Metro,Peoria
+Illinois,Rockford,Metro,Rockford
+Illinois,Schaumburg,Suburb,Chicago
+Illinois,Skokie,Suburb,Chicago
+Illinois,Springfield,State Capital,Springfield
+Illinois,Tinley Park,Suburb,Chicago
+Illinois,Waukegan,Suburb,Chicago
+Illinois,Wheaton,Suburb,Chicago
+Indiana,Bloomington,College Town,Bloomington
+Indiana,Carmel,Suburb,Indianapolis
+Indiana,Evansville,Metro,Evansville
+Indiana,Fishers,Suburb,Indianapolis
+Indiana,Fort Wayne,Metro,Fort Wayne
+Indiana,Gary,Metro,Gary
+Indiana,Greenwood,Suburb,Indianapolis
+Indiana,Hammond,Metro,Hammond
+Indiana,Indianapolis,Major Metro,Indianapolis
+Indiana,Lafayette,College Town,Lafayette
+Indiana,Lawrence,Suburb,Indianapolis
+Indiana,Noblesville,Suburb,Indianapolis
+Indiana,South Bend,Metro,South Bend
+Iowa,Ames,College Town,Ames
+Iowa,Ankeny,Suburb,Des Moines
+Iowa,Cedar Rapids,Metro,Cedar Rapids
+Iowa,Council Bluffs,Metro,Council Bluffs
+Iowa,Davenport,Metro,Davenport
+Iowa,Des Moines,Major Metro,Des Moines
+Iowa,Iowa City,College Town,Iowa City
+Iowa,Sioux City,Metro,Sioux City
+Iowa,Waterloo,Metro,Waterloo
+Iowa,West Des Moines,Suburb,Des Moines
+Kansas,Kansas City,Metro,Kansas City
+Kansas,Lawrence,College Town,Lawrence
+Kansas,Lenexa,Suburb,Kansas City
+Kansas,Manhattan,College Town,Manhattan
+Kansas,Olathe,Suburb,Kansas City
+Kansas,Overland Park,Suburb,Kansas City
+Kansas,Shawnee,Suburb,Kansas City
+Kansas,Topeka,State Capital,Topeka
+Kansas,Wichita,Major Metro,Wichita
+Kentucky,Bowling Green,Metro,Bowling Green
+Kentucky,Covington,Suburb,Louisville
+Kentucky,Florence,Suburb,Louisville
+Kentucky,Frankfort,State Capital,Frankfort
+Kentucky,Georgetown,Suburb,Lexington
+Kentucky,Lexington,Metro,Lexington
+Kentucky,Louisville,Major Metro,Louisville
+Kentucky,Owensboro,Metro,Owensboro
+Louisiana,Baton Rouge,State Capital,Baton Rouge
+Louisiana,Bossier City,Suburb,Shreveport
+Louisiana,Kenner,Suburb,New Orleans
+Louisiana,Lafayette,Metro,Lafayette
+Louisiana,Lake Charles,Metro,Lake Charles
+Louisiana,Monroe,Metro,Monroe
+Louisiana,New Orleans,Major Metro,New Orleans
+Louisiana,Shreveport,Metro,Shreveport
+Maine,Auburn,Suburb,Lewiston
+Maine,Augusta,State Capital,Augusta
+Maine,Bangor,Metro,Bangor
+Maine,Lewiston,Metro,Lewiston
+Maine,Portland,Major Metro,Portland
+Maine,South Portland,Suburb,Portland
+Maryland,Annapolis,State Capital,Annapolis
+Maryland,Baltimore,Major Metro,Baltimore
+Maryland,Bowie,Suburb,Washington DC
+Maryland,College Park,College Town,Washington DC
+Maryland,Frederick,Metro,Frederick
+Maryland,Gaithersburg,Suburb,Washington DC
+Maryland,Hagerstown,Metro,Hagerstown
+Maryland,Rockville,Suburb,Washington DC
+Maryland,Salisbury,Metro,Salisbury
+Massachusetts,Boston,Major Metro,Boston
+Massachusetts,Brockton,Metro,Brockton
+Massachusetts,Brookline,Suburb,Boston
+Massachusetts,Cambridge,Suburb,Boston
+Massachusetts,Fall River,Metro,Fall River
+Massachusetts,Framingham,Suburb,Boston
+Massachusetts,Lawrence,Metro,Lawrence
+Massachusetts,Lowell,Metro,Lowell
+Massachusetts,Lynn,Suburb,Boston
+Massachusetts,Malden,Suburb,Boston
+Massachusetts,Medford,Suburb,Boston
+Massachusetts,New Bedford,Metro,New Bedford
+Massachusetts,Newton,Suburb,Boston
+Massachusetts,Plymouth,Metro,Plymouth
+Massachusetts,Quincy,Suburb,Boston
+Massachusetts,Somerville,Suburb,Boston
+Massachusetts,Springfield,Metro,Springfield
+Massachusetts,Taunton,Metro,Taunton
+Massachusetts,Waltham,Suburb,Boston
+Massachusetts,Worcester,Metro,Worcester
+Michigan,Ann Arbor,College Town,Ann Arbor
+Michigan,Battle Creek,Metro,Battle Creek
+Michigan,Dearborn,Suburb,Detroit
+Michigan,Dearborn Heights,Suburb,Detroit
+Michigan,Detroit,Major Metro,Detroit
+Michigan,Farmington Hills,Suburb,Detroit
+Michigan,Flint,Metro,Flint
+Michigan,Grand Rapids,Metro,Grand Rapids
+Michigan,Kalamazoo,Metro,Kalamazoo
+Michigan,Kentwood,Suburb,Grand Rapids
+Michigan,Lansing,State Capital,Lansing
+Michigan,Livonia,Suburb,Detroit
+Michigan,Novi,Suburb,Detroit
+Michigan,Pontiac,Suburb,Detroit
+Michigan,Rochester Hills,Suburb,Detroit
+Michigan,Royal Oak,Suburb,Detroit
+Michigan,Saginaw,Metro,Saginaw
+Michigan,Southfield,Suburb,Detroit
+Michigan,St. Clair Shores,Suburb,Detroit
+Michigan,Sterling Heights,Suburb,Detroit
+Michigan,Taylor,Suburb,Detroit
+Michigan,Troy,Suburb,Detroit
+Michigan,Warren,Suburb,Detroit
+Michigan,Westland,Suburb,Detroit
+Michigan,Wyoming,Suburb,Grand Rapids
+Minnesota,Apple Valley,Suburb,Minneapolis
+Minnesota,Blaine,Suburb,Minneapolis
+Minnesota,Bloomington,Suburb,Minneapolis
+Minnesota,Brooklyn Park,Suburb,Minneapolis
+Minnesota,Burnsville,Suburb,Minneapolis
+Minnesota,Coon Rapids,Suburb,Minneapolis
+Minnesota,Duluth,Metro,Duluth
+Minnesota,Eagan,Suburb,Minneapolis
+Minnesota,Eden Prairie,Suburb,Minneapolis
+Minnesota,Edina,Suburb,Minneapolis
+Minnesota,Lakeville,Suburb,Minneapolis
+Minnesota,Maple Grove,Suburb,Minneapolis
+Minnesota,Minneapolis,Major Metro,Minneapolis
+Minnesota,Minnetonka,Suburb,Minneapolis
+Minnesota,Plymouth,Suburb,Minneapolis
+Minnesota,Rochester,Metro,Rochester
+Minnesota,St. Cloud,Metro,St. Cloud
+Minnesota,St. Louis Park,Suburb,Minneapolis
+Minnesota,St. Paul,Major Metro,Minneapolis
+Minnesota,Woodbury,Suburb,Minneapolis
+Mississippi,Biloxi,Suburb,Gulfport
+Mississippi,Gulfport,Metro,Gulfport
+Mississippi,Hattiesburg,Metro,Hattiesburg
+Mississippi,Jackson,Major Metro,Jackson
+Mississippi,Meridian,Metro,Meridian
+Mississippi,Southaven,Metro,Southaven
+Mississippi,Tupelo,Metro,Tupelo
+Missouri,Blue Springs,Suburb,Kansas City
+Missouri,Chesterfield,Suburb,St. Louis
+Missouri,Columbia,College Town,Columbia
+Missouri,Florissant,Suburb,St. Louis
+Missouri,Independence,Suburb,Kansas City
+Missouri,Jefferson City,State Capital,Jefferson City
+Missouri,Joplin,Metro,Joplin
+Missouri,Kansas City,Major Metro,Kansas City
+Missouri,Lee's Summit,Suburb,Kansas City
+Missouri,O'Fallon,Suburb,St. Louis
+Missouri,Springfield,Metro,Springfield
+Missouri,St. Charles,Suburb,St. Louis
+Missouri,St. Joseph,Metro,St. Joseph
+Missouri,St. Louis,Major Metro,St. Louis
+Missouri,St. Peters,Suburb,St. Louis
+Montana,Billings,Major Metro,Billings
+Montana,Bozeman,College Town,Bozeman
+Montana,Butte,Metro,Butte
+Montana,Great Falls,Metro,Great Falls
+Montana,Helena,State Capital,Helena
+Montana,Missoula,Metro,Missoula
+Nebraska,Bellevue,Suburb,Omaha
+Nebraska,Grand Island,Metro,Grand Island
+Nebraska,Lincoln,State Capital,Lincoln
+Nebraska,Omaha,Major Metro,Omaha
+Nevada,Carson City,State Capital,Carson City
+Nevada,Henderson,Suburb,Las Vegas
+Nevada,Las Vegas,Major Metro,Las Vegas
+Nevada,North Las Vegas,Suburb,Las Vegas
+Nevada,Reno,Metro,Reno
+Nevada,Sparks,Suburb,Reno
+New Hampshire,Concord,State Capital,Concord
+New Hampshire,Derry,Suburb,Manchester
+New Hampshire,Manchester,Major Metro,Manchester
+New Hampshire,Nashua,Metro,Nashua
+New Hampshire,Rochester,Metro,Rochester
+New Hampshire,Salem,Suburb,Manchester
+New Jersey,Bayonne,Suburb,Jersey City
+New Jersey,Brick,Suburb,Toms River
+New Jersey,Camden,Metro,Camden
+New Jersey,Cherry Hill,Suburb,Camden
+New Jersey,Clifton,Suburb,Paterson
+New Jersey,East Orange,Suburb,Newark
+New Jersey,Edison,Suburb,Newark
+New Jersey,Elizabeth,Suburb,Newark
+New Jersey,Jersey City,Major Metro,Jersey City
+New Jersey,Lakewood,Metro,Lakewood
+New Jersey,Middletown,Suburb,Newark
+New Jersey,New Brunswick,College Town,New Brunswick
+New Jersey,Newark,Major Metro,Newark
+New Jersey,Passaic,Suburb,Paterson
+New Jersey,Paterson,Metro,Paterson
+New Jersey,Toms River,Metro,Toms River
+New Jersey,Trenton,State Capital,Trenton
+New Jersey,Union City,Suburb,Jersey City
+New Jersey,Vineland,Metro,Vineland
+New Jersey,Woodbridge,Suburb,Newark
+New Mexico,Albuquerque,Major Metro,Albuquerque
+New Mexico,Farmington,Metro,Farmington
+New Mexico,Las Cruces,Metro,Las Cruces
+New Mexico,Rio Rancho,Suburb,Albuquerque
+New Mexico,Roswell,Metro,Roswell
+New Mexico,Santa Fe,State Capital,Santa Fe
+New York,Albany,State Capital,Albany
+New York,Binghamton,Metro,Binghamton
+New York,Buffalo,Major Metro,Buffalo
+New York,Freeport,Suburb,New York City
+New York,Hempstead,Suburb,New York City
+New York,Ithaca,College Town,Ithaca
+New York,Mount Vernon,Suburb,New York City
+New York,New Rochelle,Suburb,New York City
+New York,New York City,Major Metro,New York City
+New York,Niagara Falls,Suburb,Buffalo
+New York,Rochester,Metro,Rochester
+New York,Schenectady,Suburb,Albany
+New York,Syracuse,Metro,Syracuse
+New York,Troy,Suburb,Albany
+New York,Utica,Metro,Utica
+New York,Valley Stream,Suburb,New York City
+New York,White Plains,Suburb,New York City
+New York,Yonkers,Suburb,New York City
+North Carolina,Apex,Suburb,Raleigh
+North Carolina,Asheville,Metro,Asheville
+North Carolina,Burlington,Suburb,Greensboro
+North Carolina,Cary,Suburb,Raleigh
+North Carolina,Chapel Hill,College Town,Durham
+North Carolina,Charlotte,Major Metro,Charlotte
+North Carolina,Concord,Suburb,Charlotte
+North Carolina,Durham,Metro,Durham
+North Carolina,Fayetteville,Metro,Fayetteville
+North Carolina,Gastonia,Suburb,Charlotte
+North Carolina,Goldsboro,Metro,Goldsboro
+North Carolina,Greensboro,Metro,Greensboro
+North Carolina,Hickory,Metro,Hickory
+North Carolina,High Point,Suburb,Greensboro
+North Carolina,Huntersville,Suburb,Charlotte
+North Carolina,Jacksonville,Metro,Jacksonville
+North Carolina,Kannapolis,Suburb,Charlotte
+North Carolina,Mooresville,Suburb,Charlotte
+North Carolina,Raleigh,State Capital,Raleigh
+North Carolina,Rocky Mount,Metro,Rocky Mount
+North Carolina,Wilmington,Metro,Wilmington
+North Carolina,Winston-Salem,Metro,Winston-Salem
+North Dakota,Bismarck,State Capital,Bismarck
+North Dakota,Fargo,Major Metro,Fargo
+North Dakota,Grand Forks,College Town,Grand Forks
+North Dakota,Minot,Metro,Minot
+North Dakota,West Fargo,Suburb,Fargo
+Ohio,Akron,Metro,Akron
+Ohio,Beavercreek,Suburb,Dayton
+Ohio,Canton,Metro,Canton
+Ohio,Cincinnati,Major Metro,Cincinnati
+Ohio,Cleveland,Major Metro,Cleveland
+Ohio,Cleveland Heights,Suburb,Cleveland
+Ohio,Columbus,Major Metro,Columbus
+Ohio,Cuyahoga Falls,Suburb,Akron
+Ohio,Dayton,Metro,Dayton
+Ohio,Dublin,Suburb,Columbus
+Ohio,Elyria,Suburb,Cleveland
+Ohio,Euclid,Suburb,Cleveland
+Ohio,Fairborn,Suburb,Dayton
+Ohio,Findlay,Metro,Findlay
+Ohio,Gahanna,Suburb,Columbus
+Ohio,Grove City,Suburb,Columbus
+Ohio,Hamilton,Suburb,Cincinnati
+Ohio,Hilliard,Suburb,Columbus
+Ohio,Huber Heights,Suburb,Dayton
+Ohio,Kettering,Suburb,Dayton
+Ohio,Lakewood,Suburb,Cleveland
+Ohio,Lancaster,Metro,Lancaster
+Ohio,Lima,Metro,Lima
+Ohio,Lorain,Suburb,Cleveland
+Ohio,Mansfield,Metro,Mansfield
+Ohio,Mentor,Suburb,Cleveland
+Ohio,Middletown,Suburb,Cincinnati
+Ohio,Newark,Metro,Newark
+Ohio,Parma,Suburb,Cleveland
+Ohio,Reynoldsburg,Suburb,Columbus
+Ohio,Springfield,Metro,Springfield
+Ohio,Strongsville,Suburb,Cleveland
+Ohio,Toledo,Metro,Toledo
+Ohio,Upper Arlington,Suburb,Columbus
+Ohio,Warren,Suburb,Youngstown
+Ohio,Westerville,Suburb,Columbus
+Ohio,Youngstown,Metro,Youngstown
+Oklahoma,Broken Arrow,Suburb,Tulsa
+Oklahoma,Edmond,Suburb,Oklahoma City
+Oklahoma,Enid,Metro,Enid
+Oklahoma,Lawton,Metro,Lawton
+Oklahoma,Midwest City,Suburb,Oklahoma City
+Oklahoma,Moore,Suburb,Oklahoma City
+Oklahoma,Norman,College Town,Oklahoma City
+Oklahoma,Oklahoma City,Major Metro,Oklahoma City
+Oklahoma,Owasso,Suburb,Tulsa
+Oklahoma,Stillwater,College Town,Stillwater
+Oklahoma,Tulsa,Major Metro,Tulsa
+Oregon,Albany,Metro,Albany
+Oregon,Beaverton,Suburb,Portland
+Oregon,Bend,Metro,Bend
+Oregon,Corvallis,College Town,Corvallis
+Oregon,Eugene,Metro,Eugene
+Oregon,Grants Pass,Metro,Grants Pass
+Oregon,Gresham,Suburb,Portland
+Oregon,Hillsboro,Suburb,Portland
+Oregon,Lake Oswego,Suburb,Portland
+Oregon,Medford,Metro,Medford
+Oregon,Oregon City,Suburb,Portland
+Oregon,Portland,Major Metro,Portland
+Oregon,Salem,State Capital,Salem
+Oregon,Springfield,Suburb,Eugene
+Oregon,Tigard,Suburb,Portland
+Pennsylvania,Allentown,Metro,Allentown
+Pennsylvania,Altoona,Metro,Altoona
+Pennsylvania,Bethel Park,Suburb,Pittsburgh
+Pennsylvania,Bethlehem,Suburb,Allentown
+Pennsylvania,Chester,Suburb,Philadelphia
+Pennsylvania,Easton,Suburb,Allentown
+Pennsylvania,Erie,Metro,Erie
+Pennsylvania,Greensburg,Suburb,Pittsburgh
+Pennsylvania,Harrisburg,State Capital,Harrisburg
+Pennsylvania,Lancaster,Metro,Lancaster
+Pennsylvania,Lebanon,Metro,Lebanon
+Pennsylvania,McKeesport,Suburb,Pittsburgh
+Pennsylvania,Monroeville,Suburb,Pittsburgh
+Pennsylvania,Norristown,Suburb,Philadelphia
+Pennsylvania,Philadelphia,Major Metro,Philadelphia
+Pennsylvania,Pittsburgh,Major Metro,Pittsburgh
+Pennsylvania,Reading,Metro,Reading
+Pennsylvania,Scranton,Metro,Scranton
+Pennsylvania,State College,College Town,State College
+Pennsylvania,Upper Darby,Suburb,Philadelphia
+Pennsylvania,West Chester,Suburb,Philadelphia
+Pennsylvania,Wilkes-Barre,Metro,Wilkes-Barre
+Pennsylvania,Williamsport,Metro,Williamsport
+Pennsylvania,York,Metro,York
+Rhode Island,Cranston,Suburb,Providence
+Rhode Island,East Providence,Suburb,Providence
+Rhode Island,Pawtucket,Suburb,Providence
+Rhode Island,Providence,Major Metro,Providence
+Rhode Island,Warwick,Suburb,Providence
+Rhode Island,Woonsocket,Metro,Woonsocket
+South Carolina,Anderson,Metro,Anderson
+South Carolina,Charleston,Major Metro,Charleston
+South Carolina,Columbia,State Capital,Columbia
+South Carolina,Florence,Metro,Florence
+South Carolina,Goose Creek,Suburb,Charleston
+South Carolina,Greenville,Metro,Greenville
+South Carolina,Greer,Suburb,Greenville
+South Carolina,Mount Pleasant,Suburb,Charleston
+South Carolina,Myrtle Beach,Metro,Myrtle Beach
+South Carolina,North Charleston,Suburb,Charleston
+South Carolina,Rock Hill,Metro,Rock Hill
+South Carolina,Spartanburg,Metro,Spartanburg
+South Carolina,Summerville,Suburb,Charleston
+South Dakota,Aberdeen,Metro,Aberdeen
+South Dakota,Brookings,College Town,Brookings
+South Dakota,Pierre,State Capital,Pierre
+South Dakota,Rapid City,Metro,Rapid City
+South Dakota,Sioux Falls,Major Metro,Sioux Falls
+Tennessee,Bartlett,Suburb,Memphis
+Tennessee,Brentwood,Suburb,Nashville
+Tennessee,Chattanooga,Metro,Chattanooga
+Tennessee,Clarksville,Metro,Clarksville
+Tennessee,Cleveland,Metro,Cleveland
+Tennessee,Collierville,Suburb,Memphis
+Tennessee,Franklin,Suburb,Nashville
+Tennessee,Gallatin,Suburb,Nashville
+Tennessee,Germantown,Suburb,Memphis
+Tennessee,Hendersonville,Suburb,Nashville
+Tennessee,Jackson,Metro,Jackson
+Tennessee,Johnson City,Metro,Johnson City
+Tennessee,Kingsport,Metro,Kingsport
+Tennessee,Knoxville,Metro,Knoxville
+Tennessee,La Vergne,Suburb,Nashville
+Tennessee,Lebanon,Suburb,Nashville
+Tennessee,Memphis,Major Metro,Memphis
+Tennessee,Mount Juliet,Suburb,Nashville
+Tennessee,Murfreesboro,Suburb,Nashville
+Tennessee,Nashville,Major Metro,Nashville
+Tennessee,Smyrna,Suburb,Nashville
+Texas,Abilene,Metro,Abilene
+Texas,Allen,Suburb,Dallas
+Texas,Amarillo,Metro,Amarillo
+Texas,Arlington,Suburb,Dallas
+Texas,Austin,Major Metro,Austin
+Texas,Beaumont,Metro,Beaumont
+Texas,Brownsville,Metro,Brownsville
+Texas,Bryan,Metro,Bryan
+Texas,Carrollton,Suburb,Dallas
+Texas,Cedar Park,Suburb,Austin
+Texas,College Station,College Town,College Station
+Texas,Conroe,Suburb,Houston
+Texas,Corpus Christi,Metro,Corpus Christi
+Texas,Dallas,Major Metro,Dallas
+Texas,Denton,Metro,Denton
+Texas,El Paso,Major Metro,El Paso
+Texas,Flower Mound,Suburb,Dallas
+Texas,Fort Worth,Metro,Dallas
+Texas,Frisco,Suburb,Dallas
+Texas,Garland,Suburb,Dallas
+Texas,Georgetown,Suburb,Austin
+Texas,Grand Prairie,Suburb,Dallas
+Texas,Harlingen,Metro,Harlingen
+Texas,Houston,Major Metro,Houston
+Texas,Irving,Suburb,Dallas
+Texas,Killeen,Metro,Killeen
+Texas,Laredo,Metro,Laredo
+Texas,League City,Suburb,Houston
+Texas,Lewisville,Suburb,Dallas
+Texas,Longview,Metro,Longview
+Texas,Lubbock,Metro,Lubbock
+Texas,Mansfield,Suburb,Dallas
+Texas,McKinney,Suburb,Dallas
+Texas,Midland,Metro,Midland
+Texas,Missouri City,Suburb,Houston
+Texas,New Braunfels,Metro,New Braunfels
+Texas,North Richland Hills,Suburb,Dallas
+Texas,Odessa,Metro,Odessa
+Texas,Pasadena,Suburb,Houston
+Texas,Pearland,Suburb,Houston
+Texas,Pflugerville,Suburb,Austin
+Texas,Plano,Suburb,Dallas
+Texas,Richardson,Suburb,Dallas
+Texas,Round Rock,Suburb,Austin
+Texas,San Angelo,Metro,San Angelo
+Texas,San Antonio,Major Metro,San Antonio
+Texas,Sugar Land,Suburb,Houston
+Texas,Temple,Metro,Temple
+Texas,Tyler,Metro,Tyler
+Texas,Victoria,Metro,Victoria
+Texas,Waco,Metro,Waco
+Texas,Wichita Falls,Metro,Wichita Falls
+Utah,Draper,Suburb,Salt Lake City
+Utah,Layton,Suburb,Ogden
+Utah,Lehi,Suburb,Salt Lake City
+Utah,Logan,College Town,Logan
+Utah,Murray,Suburb,Salt Lake City
+Utah,Ogden,Metro,Ogden
+Utah,Orem,Suburb,Provo
+Utah,Provo,Metro,Provo
+Utah,Salt Lake City,Major Metro,Salt Lake City
+Utah,Sandy,Suburb,Salt Lake City
+Utah,South Jordan,Suburb,Salt Lake City
+Utah,St. George,Metro,St. George
+Utah,Taylorsville,Suburb,Salt Lake City
+Utah,West Jordan,Suburb,Salt Lake City
+Utah,West Valley City,Suburb,Salt Lake City
+Vermont,Burlington,Major Metro,Burlington
+Vermont,Montpelier,State Capital,Montpelier
+Vermont,Rutland,Metro,Rutland
+Vermont,South Burlington,Suburb,Burlington
+Virginia,Alexandria,Suburb,Washington DC
+Virginia,Alexandria,Suburb,Washington DC
+Virginia,Ashburn,Suburb,Washington DC
+Virginia,Blacksburg,College Town,Blacksburg
+Virginia,Centreville,Suburb,Washington DC
+Virginia,Chantilly,Suburb,Washington DC
+Virginia,Charlottesville,College Town,Charlottesville
+Virginia,Chesapeake,Suburb,Virginia Beach
+Virginia,Danville,Metro,Danville
+Virginia,Fairfax,Suburb,Washington DC
+Virginia,Hampton,Metro,Hampton
+Virginia,Harrisonburg,College Town,Harrisonburg
+Virginia,Herndon,Suburb,Washington DC
+Virginia,Leesburg,Suburb,Washington DC
+Virginia,Lynchburg,Metro,Lynchburg
+Virginia,Manassas,Suburb,Washington DC
+Virginia,Newport News,Metro,Newport News
+Virginia,Norfolk,Metro,Norfolk
+Virginia,Portsmouth,Suburb,Norfolk
+Virginia,Reston,Suburb,Washington DC
+Virginia,Richmond,State Capital,Richmond
+Virginia,Roanoke,Metro,Roanoke
+Virginia,Springfield,Suburb,Washington DC
+Virginia,Sterling,Suburb,Washington DC
+Virginia,Suffolk,Metro,Suffolk
+Virginia,Vienna,Suburb,Washington DC
+Virginia,Virginia Beach,Major Metro,Virginia Beach
+Washington,Auburn,Suburb,Seattle
+Washington,Bellevue,Suburb,Seattle
+Washington,Bellingham,Metro,Bellingham
+Washington,Bothell,Suburb,Seattle
+Washington,Burien,Suburb,Seattle
+Washington,Edmonds,Suburb,Seattle
+Washington,Everett,Suburb,Seattle
+Washington,Federal Way,Suburb,Seattle
+Washington,Kennewick,Metro,Kennewick
+Washington,Kent,Suburb,Seattle
+Washington,Kirkland,Suburb,Seattle
+Washington,Lakewood,Suburb,Tacoma
+Washington,Marysville,Suburb,Seattle
+Washington,Olympia,State Capital,Olympia
+Washington,Pasco,Metro,Pasco
+Washington,Pullman,College Town,Pullman
+Washington,Redmond,Suburb,Seattle
+Washington,Renton,Suburb,Seattle
+Washington,Richland,Metro,Richland
+Washington,Sammamish,Suburb,Seattle
+Washington,Seattle,Major Metro,Seattle
+Washington,Shoreline,Suburb,Seattle
+Washington,Spokane,Metro,Spokane
+Washington,Spokane Valley,Suburb,Spokane
+Washington,Tacoma,Metro,Tacoma
+Washington,Vancouver,Metro,Vancouver
+Washington,Yakima,Metro,Yakima
+West Virginia,Charleston,State Capital,Charleston
+West Virginia,Huntington,Metro,Huntington
+West Virginia,Morgantown,College Town,Morgantown
+West Virginia,Parkersburg,Metro,Parkersburg
+West Virginia,Wheeling,Metro,Wheeling
+Wisconsin,Appleton,Metro,Appleton
+Wisconsin,Brookfield,Suburb,Milwaukee
+Wisconsin,Eau Claire,Metro,Eau Claire
+Wisconsin,Green Bay,Metro,Green Bay
+Wisconsin,Greenfield,Suburb,Milwaukee
+Wisconsin,Janesville,Metro,Janesville
+Wisconsin,Kenosha,Metro,Kenosha
+Wisconsin,La Crosse,Metro,La Crosse
+Wisconsin,Madison,State Capital,Madison
+Wisconsin,Middleton,Suburb,Madison
+Wisconsin,Milwaukee,Major Metro,Milwaukee
+Wisconsin,New Berlin,Suburb,Milwaukee
+Wisconsin,Oak Creek,Suburb,Milwaukee
+Wisconsin,Oshkosh,Metro,Oshkosh
+Wisconsin,Racine,Metro,Racine
+Wisconsin,Sheboygan,Metro,Sheboygan
+Wisconsin,Waukesha,Suburb,Milwaukee
+Wisconsin,Wauwatosa,Suburb,Milwaukee
+Wisconsin,West Allis,Suburb,Milwaukee
+Wyoming,Casper,Metro,Casper
+Wyoming,Cheyenne,State Capital,Cheyenne
+Wyoming,Laramie,College Town,Laramie

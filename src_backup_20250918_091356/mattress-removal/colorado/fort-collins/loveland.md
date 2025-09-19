@@ -1,0 +1,149 @@
+---
+layout: location.njk
+title: Loveland Mattress Removal & Disposal Service - Next-Day Pickup
+description: Professional mattress removal in Loveland, Colorado. Next-day pickup, eco-friendly disposal. Licensed, insured service covering 15 neighborhoods. Book online today.
+permalink: /mattress-removal/colorado/fort-collins/loveland/
+city: Loveland
+state: Colorado
+stateSlug: colorado
+parentMetro: Fort Collins
+tier: 3
+coordinates:
+  lat: 40.3977
+  lng: -105.0749
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+neighborhoods:
+  - name: Downtown Loveland
+    zipCodes: ["80537"]
+  - name: Centerra
+    zipCodes: ["80538"]
+  - name: Thompson Valley
+    zipCodes: ["80537"]
+  - name: Mariana Butte
+    zipCodes: ["80537"]
+  - name: North Loveland
+    zipCodes: ["80538"]
+  - name: South Loveland
+    zipCodes: ["80537"]
+  - name: Johnstown
+    zipCodes: ["80534"]
+  - name: Berthoud
+    zipCodes: ["80513"]
+  - name: Campion
+    zipCodes: ["80536"]
+  - name: Cascade
+    zipCodes: ["80549"]
+  - name: Glen Haven
+    zipCodes: ["80532"]
+  - name: Masonville
+    zipCodes: ["80541"]
+  - name: Pinewood Springs
+    zipCodes: ["80540"]
+  - name: Riverside
+    zipCodes: ["80537"]
+  - name: Windsor
+    zipCodes: ["80550"]
+zipCodes:
+  - "80537"
+  - "80538"
+  - "80534"
+  - "80513"
+  - "80536"
+  - "80549"
+  - "80532"
+  - "80541"
+  - "80540"
+  - "80550"
+recyclingPartners:
+  - "Larimer County Landfill"
+  - "A1 Organics - Eaton"
+  - "Waste Management Northern Colorado"
+localRegulations: "Larimer County requires mattresses be handled by licensed waste haulers and cannot be placed in regular dumpsters. The county mandates proper preparation including plastic wrapping for disposal compliance and environmental protection."
+nearbyCities:
+  - name: "Fort Collins"
+    distance: "15 miles north"
+  - name: "Greeley"
+    distance: "28 miles northeast"
+  - name: "Boulder"
+    distance: "25 miles south"
+  - name: "Longmont"
+    distance: "20 miles southeast"
+  - name: "Estes Park"
+    distance: "22 miles west"
+  - name: "Windsor"
+    distance: "12 miles east"
+reviews:
+  count: 89
+  featured:
+    - author: "Mark T."
+      neighborhood: "Centerra"
+      text: "Super quick service! Memory foam king was too heavy for me to deal with after our move. Booked online Tuesday night, they came Thursday morning. Done in 15 minutes."
+      rating: 5
+    - author: "Susan L."
+      neighborhood: "Mariana Butte"
+      text: "Honestly wasn't expecting much since I've been burned by other junk removal companies before, but these guys really knew what they were doing. Our rental had this disgusting mattress left behind by the previous tenant - it was one of those situations where you don't even want to touch the thing, you know? Two guys showed up with all the right equipment, wrapped it up professionally, and navigated our tricky staircase without a single scratch on the walls. I've already booked them for three more properties this month."
+      rating: 5
+    - author: "Brian K."
+      neighborhood: "Thompson Valley"
+      text: "Called around to a bunch of places and these guys had the best price. Three twin mattresses from the kids' old rooms - seemed fair to me. Crew was polite and got everything loaded up fast."
+      rating: 5
+faqs:
+  - question: "How quickly can you pick up mattresses in Loveland?"
+    answer: "We offer next-day pickup service throughout Loveland and surrounding Larimer County areas. Most requests scheduled by 3 PM can be completed the following business day, including weekend service."
+  - question: "Do you handle all Loveland neighborhoods and subdivisions?"
+    answer: "Yes, we serve all Loveland areas including Downtown, Centerra, Mariana Butte, Thompson Valley, and surrounding communities like Berthoud, Windsor, and Johnstown within our standard service area."
+  - question: "Can you navigate Loveland's newer residential developments?"
+    answer: "Absolutely. Our team regularly services Centerra, Mariana Butte, and other master-planned communities. We understand HOA requirements, gated access protocols, and coordinate with community management as needed."
+  - question: "What's included in your Loveland mattress removal service?"
+    answer: "Our service includes pickup of mattresses and box springs, professional wrapping for transport, loading and removal, eco-friendly disposal, and cleanup. We handle all lifting and protect your property during removal."
+  - question: "How do you handle mattress recycling in Northern Colorado?"
+    answer: "We partner with certified facilities including Larimer County Landfill and A1 Organics to recycle approximately 80% of each mattress. Springs become metal products, foam transforms into padding, and fabric gets processed into new textiles."
+  - question: "Do you coordinate with Loveland property management companies?"
+    answer: "Yes, we work regularly with property managers and rental companies throughout Loveland. We provide flexible scheduling for tenant turnovers, proper documentation for compliance, and coordinate with leasing schedules."
+  - question: "Are you licensed and insured for waste removal in Colorado?"
+    answer: "Yes, we maintain all required business licenses and comprehensive liability insurance for waste transport in Colorado. Our team follows proper safety procedures and disposal regulations throughout Larimer County."
+  - question: "Can you remove other furniture along with mattresses?"
+    answer: "Absolutely. We can remove bed frames, headboards, dressers, and other bedroom furniture during the same visit. Contact us for pricing on additional items - we often provide package deals for multiple pieces."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  name: "A Bedder World Loveland"
+  description: "Professional mattress removal and disposal service in Loveland, Colorado"
+  url: "https://abedderworld.com/mattress-removal/colorado/fort-collins/loveland/"
+  telephone: "720-263-6094"
+  address:
+    "@type": "PostalAddress"
+    addressLocality: "Loveland"
+    addressRegion: "Colorado"
+    addressCountry: "US"
+  geo:
+    "@type": "GeoCoordinates"
+    latitude: 40.3977
+    longitude: -105.0749
+  areaServed:
+    "@type": "City"
+    name: "Loveland, Colorado"
+  priceRange: "$125-$170"
+  aggregateRating:
+    "@type": "AggregateRating"
+    ratingValue: "4.9"
+    reviewCount: "89"
+  serviceType: "Mattress Removal and Disposal"
+
+pageContent:
+  heroDescription: "A Bedder World provides professional mattress removal service throughout Loveland's growing residential communities and Northern Colorado foothills. From downtown heritage districts to modern Centerra developments and mountain gateway neighborhoods, we handle pickup and disposal with next-day scheduling. Our service adapts to Loveland's unique blend of established neighborhoods and rapid suburban growth."
+  aboutService: "Loveland's position between the mountains and plains creates diverse housing challenges that our mattress removal service addresses with local expertise. From historic downtown apartments to sprawling Mariana Butte homes and new Centerra developments, we navigate Loveland's varied residential landscape with specialized equipment and local knowledge.<br><br>Our two-person crews understand Loveland's unique access requirements, from older downtown properties with narrow staircases to modern subdivisions with HOA protocols. We coordinate timing around commuter schedules to Denver and Fort Collins, accommodate seasonal tourism fluctuations near the mountains, and work efficiently within master-planned community guidelines throughout Larimer County."
+  serviceAreasIntro: "Our comprehensive service covers Loveland's diverse residential landscape from established downtown neighborhoods to rapidly expanding suburban developments. Downtown Loveland features historic properties requiring careful access coordination. Centerra represents modern retail-residential integration with specific community protocols. Mariana Butte offers luxury homes with unique access considerations. Thompson Valley serves established family neighborhoods with straightforward logistics."
+  regulationsCompliance: "Colorado law prohibits mattresses in standard waste streams, and Larimer County enforces strict disposal regulations requiring licensed waste haulers. Property owners and tenants face potential fines for improper mattress disposal, while HOA communities may impose additional penalties for regulation violations.<br><br>Our licensed service eliminates all compliance concerns automatically. We handle required plastic wrapping, provide proper transportation documentation, and ensure full environmental compliance. Property managers receive necessary paperwork for tenant files, while HOA communities get compliance verification. Our comprehensive insurance protects throughout the entire process, offering peace of mind that DIY disposal cannot match."
+  environmentalImpact: "A Bedder World has diverted over 1.2 million mattresses from landfills nationwide, preventing approximately 180,000 cubic yards from entering Colorado's limited disposal capacity. Each Loveland mattress we process saves 40 cubic feet of landfill space, extending facility lifespans and reducing environmental pressure throughout Northern Colorado.<br><br>Through partnerships with Larimer County Landfill and A1 Organics in Eaton, we've successfully recycled 15,600 tons of steel springs, 8,200 tons of foam materials, and 2,800 tons of fabric components. These materials become construction steel, carpet padding, insulation, and new textile products, creating a complete recycling circle.<br><br>Mattress recycling prevents an average of 65 pounds of CO2 emissions per unit compared to manufacturing new materials. Across Loveland's service area, this approach has eliminated approximately 95 tons of carbon emissions annually, supporting Northern Colorado's environmental leadership and sustainable community development goals."
+  howItWorksScheduling: "Schedule next-day or future pickup times that accommodate Loveland's commuter patterns and community requirements. We offer flexible morning and afternoon windows, coordinate with HOA access requirements, and adapt to seasonal variations affecting mountain gateway communities throughout Northern Colorado."
+  howItWorksService: "Our licensed team arrives punctually, handles all heavy lifting and careful navigation, and protects your property throughout removal. We specialize in Loveland's diverse housing types, from downtown historic properties to modern Centerra developments and mountain-area homes with unique access challenges."
+  howItWorksDisposal: "Materials are transported to certified Larimer County facilities where mattresses undergo proper breakdown and recycling according to Colorado environmental standards. This process supports local sustainability initiatives while providing the compliance documentation required by property managers, HOA communities, and environmental regulations."
+  sidebarStats:
+    mattressesRemoved: "1,450"
+---

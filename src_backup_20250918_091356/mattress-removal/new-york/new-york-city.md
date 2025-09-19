@@ -1,0 +1,187 @@
+---
+layout: location.njk
+title: "NYC Mattress Removal & Pickup Service | High-Rise Building Specialists"
+metaDescription: "Expert NYC mattress removal navigating co-op buildings, freight elevators & parking restrictions. DSNY compliant bagging, next-day pickup $125. Licensed & insured citywide."
+permalink: /mattress-removal/new-york/new-york-city/
+city: New York City
+state: New York
+stateAbbr: NY
+zipCodes: ['10001', '10002', '10003', '10004', '10005', '10006', '10007', '10009', '10011', '10012', '10013', '10014', '10016', '10017', '10018', '10019', '10021', '10023', '10024', '10025', '10026', '10027', '10028', '10030', '10032', '10033', '10034', '10036', '10037', '10040', '10065', '10075', '10128', '11101', '11102', '11103', '11104', '11105', '11106', '11109', '11120', '11201', '11202', '11203', '11204', '11205', '11206', '11209', '11210', '11211', '11213', '11214', '11215', '11216', '11219', '11220', '11221', '11222', '11224', '11225', '11226', '11231', '11232', '11233', '11237', '11238', '11249', '10451', '10452', '10453', '10454', '10455', '10456', '10457', '10458', '10460', '10462', '10463', '10465', '10467', '10468', '10471', '10473', '10474', '10475', '10301', '10302', '10304', '10306', '10307', '10308', '10309', '10314']
+coordinates: 
+  lat: 40.7128
+  lng: -74.0060
+neighborhoods:
+  - name: "Upper East Side"
+    zipCodes: ["10021", "10028", "10065", "10075", "10128"]
+  - name: "Upper West Side"
+    zipCodes: ["10023", "10024", "10025"]
+  - name: "Greenwich Village"
+    zipCodes: ["10003", "10012", "10014"]
+  - name: "SoHo"
+    zipCodes: ["10012", "10013"]
+  - name: "Chelsea"
+    zipCodes: ["10001", "10011"]
+  - name: "Tribeca"
+    zipCodes: ["10007", "10013"]
+  - name: "East Village"
+    zipCodes: ["10003", "10009"]
+  - name: "Lower East Side"
+    zipCodes: ["10002"]
+  - name: "Financial District"
+    zipCodes: ["10004", "10005", "10006"]
+  - name: "Midtown"
+    zipCodes: ["10016", "10017", "10018", "10019", "10036"]
+  - name: "Hell's Kitchen"
+    zipCodes: ["10018", "10019", "10036"]
+  - name: "Harlem"
+    zipCodes: ["10026", "10027", "10030", "10037"]
+  - name: "Washington Heights"
+    zipCodes: ["10032", "10033", "10040"]
+  - name: "Williamsburg"
+    zipCodes: ["11211", "11249"]
+  - name: "Park Slope"
+    zipCodes: ["11215"]
+  - name: "Brooklyn Heights"
+    zipCodes: ["11201"]
+  - name: "DUMBO"
+    zipCodes: ["11202"]
+  - name: "Crown Heights"
+    zipCodes: ["11213", "11225", "11238"]
+  - name: "Bedford-Stuyvesant"
+    zipCodes: ["11205", "11216", "11221", "11233"]
+  - name: "Bushwick"
+    zipCodes: ["11206", "11221", "11237"]
+  - name: "Astoria"
+    zipCodes: ["11102", "11103", "11105", "11106"]
+  - name: "Long Island City"
+    zipCodes: ["11101", "11109", "11120"]
+  - name: "Flushing"
+    zipCodes: ["11351", "11352", "11354", "11355", "11358"]
+  - name: "Forest Hills"
+    zipCodes: ["11375"]
+  - name: "Jamaica"
+    zipCodes: ["11405", "11424", "11425", "11430"]
+  - name: "Concourse"
+    zipCodes: ["10451", "10452"]
+  - name: "Riverdale"
+    zipCodes: ["10463", "10471"]
+  - name: "Fordham"
+    zipCodes: ["10458", "10468"]
+  - name: "St. George"
+    zipCodes: ["10301"]
+  - name: "Great Kills"
+    zipCodes: ["10306", "10308"]
+pricing:
+  singleMattress: "$125"
+  doubleMattress: "$155"  
+  tripleMattress: "$180"
+nearbyCities:
+  - name: "Yonkers"
+    slug: "yonkers"
+    isSuburb: true
+    distance: "12"
+  - name: "Freeport"
+    slug: "freeport"
+    isSuburb: true
+    distance: "28"
+  - name: "Hempstead"
+    slug: "hempstead"
+    isSuburb: true
+    distance: "24"
+  - name: "Mount Vernon"
+    slug: "mount-vernon"
+    isSuburb: true
+    distance: "15"
+  - name: "New Rochelle"
+    slug: "new-rochelle"
+    isSuburb: true
+    distance: "22"
+  - name: "Valley Stream"
+    slug: "valley-stream"
+    isSuburb: true
+    distance: "19"
+  - name: "White Plains"
+    slug: "white-plains"
+    isSuburb: true
+    distance: "28"
+localRegulations: "NYC requires plastic bagging for all mattresses and box springs to prevent bed bug spread. Items must be placed curbside between 6 PM and midnight on trash-only days. Improper disposal can result in fines up to $300."
+recyclingPartners: ["Renewable Recycling Oceanside", "1-800-GOT-JUNK NYC", "NYCHA Mattress Program", "NYC Zero Waste Initiative"]
+reviews:
+  count: 247
+  featured:
+    - author: "Jennifer M."
+      text: "Incredible service! My co-op board is notoriously strict about building access and insurance documentation. These professionals handled every single requirement seamlessly. From coordinating with our concierge to providing all necessary certificates, they made the entire process effortless. The team even protected our marble lobby floors during removal. Our 24th floor king mattress was gone in 30 minutes with zero damage to walls or elevators."
+      neighborhood: "Upper East Side"
+    - author: "David R."
+      text: "Wow. Just wow. Brooklyn brownstone stairs are a nightmare for furniture removal, but these guys made it look easy. Three flights of narrow, winding stairs and they got my box spring out like total pros."
+      neighborhood: "Park Slope"
+    - author: "Maria S."
+      text: "They actually got a loading zone permit for my pickup! I was amazed because parking in Astoria is impossible. The team arrived exactly when promised, handled all the DSNY plastic wrapping requirements I didn't even know about, and coordinated perfectly around street cleaning schedules. Everything was done before I had to move my car. Professional from start to finish and saved me from potential fines I had no idea existed."
+      neighborhood: "Astoria"
+faqs:
+  - question: "Do you handle freight elevator scheduling in high-rise buildings?"
+    answer: "Yes, we coordinate directly with building management to reserve freight elevators and arrange service entrance access. We provide certificates of insurance and follow all building protocols required by co-op and condo boards."
+  - question: "Can you navigate narrow brownstone staircases safely?"
+    answer: "Absolutely. Our team uses specialized equipment including furniture sliders, doorway protection, and angle techniques developed specifically for NYC's historic building layouts. We've successfully removed mattresses from fourth-floor walk-ups in the Village and Brooklyn Heights."
+  - question: "What if my building requires a Certificate of Insurance?"
+    answer: "We carry comprehensive general liability insurance and provide COI certificates to building management upon request. This is standard for most Manhattan co-op and condo buildings."
+  - question: "How do you handle NYC's strict parking regulations during pickup?"
+    answer: "We schedule strategically around parking restrictions and obtain necessary permits for loading zones when required. Our team is experienced with NYC's complex street regulations and meter enforcement schedules."
+  - question: "Do you provide the plastic bagging required by DSNY?"
+    answer: "Yes, all mattresses are sealed in DSNY-compliant plastic bags to prevent bed bug spread. This is included in our service and helps you avoid potential $300 fines for improper disposal."
+  - question: "Can you pick up from buildings with limited access or no elevator?"
+    answer: "Yes, we regularly service walk-up buildings throughout Manhattan and Brooklyn. Our team is equipped with specialized moving techniques for navigating tight stairwells and narrow hallways safely."
+  - question: "What's included in your NYC mattress removal service?"
+    answer: "Complete pickup includes DSNY-compliant plastic bagging, building access coordination, protective equipment for your property, proper disposal, and recycling when possible. All necessary permits and insurance documentation are provided."
+  - question: "Do you serve all five boroughs of New York City?"
+    answer: "Yes, we provide complete mattress removal services across Manhattan, Brooklyn, Queens, The Bronx, and Staten Island. Each borough has unique challenges, and our team is experienced with the logistics of each area."
+
+pageContent:
+  heroTitle: "NYC Mattress Removal: Navigate High-Rise Buildings Like Pros"
+  heroDescription: "Expert pickup navigating NYC's complex urban environment: co-op protocols, freight elevators, and DSNY compliance. Over 15,000 mattresses removed citywide. Part of our nationwide network that has recycled 1+ million mattresses."
+  
+  aboutService: "New York City's trusted mattress removal service, engineered specifically for America's most complex urban environment. With over 8.3 million residents packed into 300 square miles across five boroughs, we've mastered the intricate logistics that make NYC mattress removal uniquely challenging. From navigating the narrow 28-inch doorways of century-old Lower East Side tenements to coordinating service elevator access in Midtown's 60-story glass towers, our team understands every architectural nuance of the city's diverse housing stock.
+
+Our expertise spans the full spectrum of NYC living situations: luxury co-op boards on Fifth Avenue requiring 48-hour COI submission, artist warehouse lofts in Long Island City with freight-only building access, Brooklyn Heights brownstones with winding 19th-century staircases, and Bronx high-rises where double-parking permits are essential for safe removal. We've successfully extracted mattresses from Trump Tower penthouses, Walk-up apartments above Chinatown dim sum restaurants, Staten Island suburban homes, and everything in between.
+
+Beyond logistics, we're environmental partners in NYC's ambitious waste reduction goals. As part of our nationwide network that has recycled over 1 million mattresses, we work directly with Renewable Recycling in Oceanside and certified NYC transfer stations to ensure your old mattress supports the city's Zero Waste by 2030 initiative. Every pickup contributes to diverting materials from the Fresh Kills Landfill and reducing the 14 million tons of waste NYC generates annually."
+
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout New York City's diverse neighborhoods, covering all five boroughs from luxury Manhattan co-ops to family homes in Staten Island:"
+
+  regulationsCompliance: "NYC mattress disposal regulations are among America's most stringent, reflecting the city's dense urban environment and bed bug prevention priorities. DSNY requires all mattresses and box springs to be sealed in clear or white plastic bags before curbside placement - a regulation unique to NYC that stems from the city's ongoing battle against bed bug infestations that can spread rapidly through apartment buildings.
+
+Items must be placed at the curb between 6 PM and midnight the evening before your building's designated trash collection day (never on recycling days). Manhattan buildings often have specific DSNY collection schedules that vary by neighborhood - Midtown commercial districts follow different timing than residential Upper East Side blocks. Brooklyn and Queens residential areas typically follow standard evening placement rules, but co-op and condo buildings may have additional requirements.
+
+Violations carry serious financial penalties: improper placement can result in $100-$300 fines for individuals, while building owners face up to $10,000 penalties for repeated violations. Buildings with doorman service must coordinate with management for proper curbside timing, as early placement can trigger overnight violations from DSNY enforcement officers.
+
+Beyond basic regulations, luxury buildings often require additional documentation: COI certificates, advance scheduling with building management, freight elevator reservations, and specific pickup windows that align with building quiet hours. Our service handles all compliance requirements automatically, ensuring you avoid penalties while meeting every building-specific protocol."
+
+  environmentalImpact: "New York City generates more waste per square mile than any other American city, making responsible mattress disposal critical to environmental sustainability. As part of our nationwide network that has recycled over 1 million mattresses, we've diverted over 15,000 mattresses from NYC's waste stream in the past year alone - equivalent to preventing 375,000 pounds of material from reaching already overwhelmed landfills.
+
+The environmental math is compelling: each NYC mattress we collect saves approximately 25 pounds of steel springs, 15 pounds of polyurethane foam, and 8 pounds of cotton and textiles from landfill burial. When multiplied across our NYC service area, this translates to recovering enough steel to build subway rail infrastructure and enough foam to manufacture thousands of carpet padding rolls used in the city's residential construction boom.
+
+Our partnership with Renewable Recycling in Oceanside ensures materials stay within the regional economy. Steel springs are processed into rebar for NYC's constant construction projects, foam becomes carpet padding for the city's residential developments, and cotton textiles are converted into industrial wiping cloths used by the thousands of auto repair shops throughout Queens and Brooklyn. This closed-loop system directly supports NYC's OneNYC environmental plan and Mayor Adams' commitment to making the city carbon-neutral by 2050.
+
+Beyond recycling, we're helping NYC address the unique waste challenges of dense urban living. In a city where illegal dumping fines can reach $10,000 and where improper mattress disposal creates bed bug breeding grounds that affect entire apartment buildings, our DSNY-compliant service protects both individual residents and community health across all five boroughs."
+
+  howItWorksScheduling: "Next-day slots available throughout all five boroughs. We'll confirm via text message and coordinate with building management for freight elevator access and service entrance protocols."
+
+  howItWorksService: "Our licensed and insured team removes your mattress from anywhere in your building, handles all DSNY-required preparation including plastic bagging, and navigates NYC's challenging logistics including freight elevators, narrow staircases, and strict parking regulations."
+
+  howItWorksDisposal: "Your mattress is transported to certified NYC recycling facilities like Renewable Recycling for responsible material recovery, supporting the city's circular economy goals."
+
+  sidebarStats:
+    mattressesRemoved: "15,247"
+
+  uniqueContent: "New York City presents mattress removal challenges that exist nowhere else in America, requiring specialized expertise developed through years of navigating the world's most complex urban environment. Consider the logistics: we've extracted king mattresses from 6th-floor Soho lofts using exterior fire escapes when interior stairs were too narrow, coordinated 2 AM pickups in Financial District buildings to avoid morning rush hour parking violations, and maneuvered box springs through the maze-like basements of century-old Lower East Side tenements.
+
+Our service integrates seamlessly with NYC's unique rhythm of urban living. Investment bankers relocating from Tribeca penthouses need weekend service that won't interfere with market hours. Art students in Bushwick warehouse spaces require coordinated pickups during gallery showing preparation. Families in Park Slope brownstones want removal scheduled around school pickup times and alternate side parking rules. We've mastered the timing nuances that make NYC mattress removal successful: knowing when Midtown building loading docks are available, understanding which Queens neighborhoods have street cleaning conflicts, and recognizing that Staten Island pickups require different logistics than Manhattan high-rises.
+
+Building access protocols in NYC are unlike anywhere else in the country. Luxury co-ops on Central Park West require 48-hour advance notice and comprehensive insurance documentation. Converted warehouses in Long Island City have freight-only elevator access with weight restrictions. Pre-war buildings in Washington Heights feature narrow service elevators that require mattress disassembly. Modern glass towers in Hudson Yards have sophisticated building management systems requiring digital access codes and escort protocols. We maintain active relationships with over 200 building management companies throughout the five boroughs, ensuring smooth access for every pickup.
+
+The environmental impact of our NYC service extends far beyond individual mattress removal. We're addressing the city's unique waste density challenge - with 27,000 people per square mile in Manhattan alone, every improperly disposed mattress creates exponential problems. Our partnership network, including Renewable Recycling and NYC transfer stations, processes materials that directly support the city's infrastructure: recovered steel becomes rebar for subway extensions, foam components are manufactured into sound insulation for the thousands of residential construction projects transforming Brooklyn and Queens, and textile components are converted into cleaning materials used by the city's extensive maintenance operations.
+
+DSNY regulations in NYC reflect the complexity of managing waste in America's densest city. Beyond basic plastic bagging requirements, we navigate borough-specific collection schedules, coordinate with street cleaning operations that can result in $180 tickets for improper placement, and ensure compliance with building-specific waste management protocols that can include designated collection times, specific bag requirements, and documented chain-of-custody procedures for high-security residential buildings.
+
+Our pricing model accounts for NYC's unique logistical challenges while maintaining transparency. Whether we're navigating the narrow streets of Greenwich Village, coordinating freight elevator access in Midtown, obtaining parking permits for Upper East Side pickups, or managing the bridge tolls required for Staten Island service, our rates remain consistent across all five boroughs. This uniform pricing reflects our commitment to serving every New Yorker, regardless of their building's complexity or neighborhood's accessibility challenges."
+---

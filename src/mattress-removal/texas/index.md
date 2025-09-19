@@ -1,7 +1,6 @@
 ---
 layout: base.njk
-title: Mattress Removal in Texas - Professional Pickup Service
-description: Professional mattress removal service in Texas. Same-day pickup available in 125+ cities. Starting at $125 with eco-friendly disposal.
+
 permalink: /mattress-removal/texas/
 schema: |
   {
@@ -35,7 +34,7 @@ schema: |
 <section class="hero">
     <div class="container">
         <h1 class="hero-title">Mattress Removal in Texas</h1>
-        <p class="hero-subtitle">Professional pickup service in 125+ cities starting at $125</p>
+        <p class="hero-subtitle">Professional pickup service in 26 metro areas</p>
         <p class="hero-description">
             A Bedder World provides comprehensive mattress removal and recycling services 
             throughout Texas. From Houston to Corpus Christi, 
@@ -49,62 +48,69 @@ schema: |
     </div>
 </section>
 
-<!-- Cities Grid -->
-<section class="section">
+<!-- Service Icons Bar -->
+<section class="service-icons-bar">
     <div class="container">
-        <h2 class="section-title">Cities We Serve in Texas</h2>
-        <div class="cities-grid-state">
-            <a href="/mattress-removal/texas/houston/" class="city-link">
-                <strong>Houston</strong>
-                <span>Starting at $125</span>
-              </a>
-            <a href="/mattress-removal/texas/dallas/" class="city-link">
-                <strong>Dallas</strong>
-                <span>Starting at $125</span>
-              </a>
-            <a href="/mattress-removal/texas/austin/" class="city-link">
-                <strong>Austin</strong>
-                <span>Starting at $125</span>
-              </a>
-            <a href="/mattress-removal/texas/san-antonio/" class="city-link">
-                <strong>San Antonio</strong>
-                <span>Starting at $125</span>
-              </a>
-            <a href="/mattress-removal/texas/fort-worth/" class="city-link">
-                <strong>Fort Worth</strong>
-                <span>Starting at $125</span>
-              </a>
-            <a href="/mattress-removal/texas/el-paso/" class="city-link">
-                <strong>El Paso</strong>
-                <span>Starting at $125</span>
-              </a>
-            <a href="/mattress-removal/texas/arlington/" class="city-link">
-                <strong>Arlington</strong>
-                <span>Starting at $125</span>
-              </a>
-            <a href="/mattress-removal/texas/corpus-christi/" class="city-link">
-                <strong>Corpus Christi</strong>
-                <span>Starting at $125</span>
-              </a>
+        <div class="service-icons-grid">
+            <div class="service-icon-item">
+                <img src="/images/icons/removal-icon.png" alt="Removal" width="48" height="48" loading="lazy">
+                <h4>TCEQ Compliant Removal</h4>
+                <p>Licensed & insured team</p>
+            </div>
+            <div class="service-icon-item">
+                <img src="/images/icons/recycle-mattress-icon-2.png" alt="Eco-Friendly" width="48" height="48" loading="lazy">
+                <h4>Texas Recycling Standards</h4>
+                <p>Registered facility processing</p>
+            </div>
+            <div class="service-icon-item">
+                <img src="/images/icons/trusted-service-icon.png" alt="Next Day" width="48" height="48" loading="lazy">
+                <h4>Next Day Service</h4>
+                <p>Quick scheduling available</p>
+            </div>
+            <div class="service-icon-item">
+                <img src="/images/icons/5-star-rating-icon.png" alt="Rated" width="48" height="48" loading="lazy">
+                <h4>Top Rated in Texas</h4>
+                <p>4.9/5 customer rating</p>
+            </div>
         </div>
     </div>
 </section>
 
-<!-- State Info -->
+{% if page.url.includes('/mattress-removal/') and page.url.endsWith('/') and page.url.split('/').length == 4 and not page.url.includes('/mattress-removal/index.html') %}
+{% include "internal-links-new.njk" %}
+{% endif %}
+
+<!-- Texas Regulations -->
 <section class="section" style="background-color: var(--gray-50);">
     <div class="container">
-        <h2>Mattress Disposal Regulations in Texas</h2>
-        <p>Local ordinances vary by city. Most major cities require proper disposal.</p>
-        <p>Texas cities are implementing progressive recycling programs.</p>
-        
+        <h2>Texas Mattress Disposal Regulations & Requirements</h2>
+
+        <div class="regulation-content">
+            <h3>Texas Commission on Environmental Quality (TCEQ) Framework</h3>
+            <p>Texas operates comprehensive solid waste management under TCEQ regulations in Texas Administrative Code Title 30. The state emphasizes regional waste management planning with strict landfill diversion goals, making professional mattress recycling essential for compliance with environmental protection standards across the Lone Star State.</p>
+
+            <h3>Regional Council of Governments Coordination</h3>
+            <p>Texas's 24 Councils of Governments coordinate waste management across metropolitan regions. Major areas including Houston-Galveston (H-GAC), North Central Texas (NCTCOG), and Capital Area (CAPCOG) implement regional recycling mandates that require bulk waste like mattresses to bypass standard collection streams.</p>
+
+            <h3>Municipal Solid Waste Programs</h3>
+            <p>Texas cities maintain individual waste management programs under TCEQ oversight. Major metros including Houston, Dallas, Austin, and San Antonio have implemented progressive recycling requirements with landfill tipping fees ranging from $25-60 per ton, making professional mattress recycling cost-effective and environmentally responsible.</p>
+
+            <h3>Materials Recovery Facility Standards</h3>
+            <p>Texas recycling facilities must obtain TCEQ permits under 30 TAC Chapter 330. Licensed facilities demonstrate proper handling protocols for construction and demolition debris including mattresses, with mandatory reporting to ensure materials diversion meets state environmental goals and regional waste reduction targets.</p>
+        </div>
+
         <div class="state-stats">
             <div class="stat-item">
-                <strong>125+</strong>
-                <span>Cities Served</span>
+                <strong>28</strong>
+                <span>Metro Areas Served</span>
             </div>
             <div class="stat-item">
-                <strong>29.1M</strong>
-                <span>Population</span>
+                <strong>30.0M</strong>
+                <span>State Population</span>
+            </div>
+            <div class="stat-item">
+                <strong>TCEQ</strong>
+                <span>Regulatory Authority</span>
             </div>
             <div class="stat-item">
                 <strong>4.9★</strong>
@@ -114,47 +120,130 @@ schema: |
     </div>
 </section>
 
+<!-- Environmental Impact -->
+<section class="section">
+    <div class="container">
+        <h2>Environmental Impact & Recycling in Texas</h2>
+        <div class="environmental-content">
+            <p>Texas generates approximately 1.8 million discarded mattresses annually across its 30 million residents. Through our TCEQ-compliant recycling processes, we help divert these mattresses from Texas landfills, supporting the state's regional waste management goals and contributing to materials recovery facility operations across major metro areas.</p>
+
+            <p>Our Texas operations partner with TCEQ-licensed Materials Recovery Facilities that extract valuable components including steel springs, wood frames, foam padding, and fabric materials. This process keeps approximately 75-80% of each mattress out of Texas landfills, reducing environmental impact while supporting regional recycling goals and sustainable waste management practices.</p>
+
+            <p>By choosing professional mattress removal in Texas, residents and businesses support comprehensive recycling programs that align with TCEQ environmental standards, helping the Lone Star State maintain responsible waste management across its diverse metropolitan regions from Houston to El Paso.</p>
+        </div>
+    </div>
+</section>
+
+<!-- PRICING SECTION REMOVED
+<section class="section" style="background-color: var(--gray-50);">
+    <div class="container">
+        <h2>Transparent Pricing Throughout Texas</h2>
+        <p class="pricing-subtitle">No hidden fees. No surprises. 100% upfront pricing across all Texas metro areas.</p>
+
+        <div class="transparent-pricing-grid">
+            <div class="transparent-pricing-card">
+                <h3 class="pricing-card-title">1st Piece</h3>
+                <div class="pricing-card-price">$125</div>
+                <div class="pricing-card-subtitle">Single mattress (any size)</div>
+                <ul class="pricing-card-features">
+                    <li>✓ Twin to California King</li>
+                    <li>✓ Memory foam or spring</li>
+                    <li>✓ Curbside or in-home pickup</li>
+                    <li>✓ TCEQ-compliant disposal</li>
+                    <li>✓ Next-day service available</li>
+                </ul>
+            </div>
+
+            <div class="transparent-pricing-card pricing-featured">
+                <div class="popular-badge">MOST POPULAR</div>
+                <h3 class="pricing-card-title">2 Pieces</h3>
+                <div class="pricing-card-price">$155</div>
+                <div class="pricing-card-subtitle">Mattress + Box Spring</div>
+                <ul class="pricing-card-features">
+                    <li>✓ Complete bed set removal</li>
+                    <li>✓ Any mattress size</li>
+                    <li>✓ Box spring or foundation</li>
+                    <li>✓ Texas compliant preparation</li>
+                    <li>✓ Next-day service available</li>
+                </ul>
+            </div>
+
+            <div class="transparent-pricing-card">
+                <h3 class="pricing-card-title">3 Pieces</h3>
+                <div class="pricing-card-price">$180</div>
+                <div class="pricing-card-subtitle">Mattress + Box Spring + Frame</div>
+                <ul class="pricing-card-features">
+                    <li>✓ Full bedroom set</li>
+                    <li>✓ Includes bed frame</li>
+                    <li>✓ Metal or wood frames</li>
+                    <li>✓ Complete disassembly</li>
+                    <li>✓ Next-day service available</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="pricing-cta">
+            <button class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                Book Online Now →
+            </button>
+        </div>
+
+        <p class="pricing-bottom-note">
+            All prices include pickup, transportation, and eco-friendly disposal with TCEQ regulation compliance. Additional charges may apply for stairs ($10/flight) or long carry distances over 75 feet.
+        </p>
+    </div>
+</section>
+END PRICING SECTION REMOVED -->
+
+<!-- How It Works -->
+<section class="section">
+    <div class="container">
+        <h2>How Texas Mattress Removal Works</h2>
+        <ol class="how-it-works-list">
+            <li>
+                <strong>Book Online or Call</strong>
+                <p>Schedule your Texas pickup online in 60 seconds or call our team at (720) 263-6094 for immediate assistance.</p>
+            </li>
+            <li>
+                <strong>Choose Your Pickup Time</strong>
+                <p>Select next-day service or schedule up to 2 weeks in advance. We serve all Texas metro areas with flexible scheduling options.</p>
+            </li>
+            <li>
+                <strong>We Handle Everything</strong>
+                <p>Our licensed Texas team handles all lifting, loading, and transportation. We follow TCEQ protocols and state compliance standards.</p>
+            </li>
+            <li>
+                <strong>TCEQ-Compliant Disposal</strong>
+                <p>Your mattress is transported to TCEQ-licensed Materials Recovery Facilities for environmentally responsible recycling, supporting Texas's regional waste management goals.</p>
+            </li>
+        </ol>
+    </div>
+</section>
+
+<!-- Final CTA -->
+<section class="final-cta">
+    <div class="container">
+        <div class="cta-content">
+            <h2>Ready to Schedule Mattress Removal in Texas?</h2>
+            <p>Professional removal service with next-day availability throughout Texas metro areas. TCEQ-compliant disposal guaranteed.</p>
+            <div class="cta-actions">
+                <button class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                    Schedule Pickup Now
+                </button>
+                <a href="tel:7202636094" class="btn btn-secondary btn-lg">
+                    Call (720) 263-6094
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
 <style>
-.cities-grid-state {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 16px;
-    margin-top: 32px;
-}
-
-.city-link {
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-    background: var(--white);
-    border: 2px solid var(--gray-200);
-    border-radius: var(--border-radius);
-    text-decoration: none;
-    transition: var(--transition);
-}
-
-.city-link:hover {
-    border-color: var(--primary-green);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
-}
-
-.city-link strong {
-    color: var(--gray-900);
-    font-size: 1.125rem;
-    margin-bottom: 4px;
-}
-
-.city-link span {
-    color: var(--primary-green);
-    font-weight: 600;
-}
-
 .state-stats {
     display: flex;
     justify-content: center;
     gap: 48px;
-    margin-top: 32px;
+    margin-top: 48px;
     flex-wrap: wrap;
 }
 
@@ -165,9 +254,10 @@ schema: |
 }
 
 .stat-item strong {
-    font-size: 2rem;
+    font-size: 2.25rem;
     color: var(--primary-green);
     font-weight: 800;
+    line-height: 1;
 }
 
 .stat-item span {
@@ -175,5 +265,77 @@ schema: |
     font-size: 0.875rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    margin-top: 8px;
+}
+
+.regulation-content {
+    max-width: 800px;
+    margin: 0 auto 48px;
+}
+
+.regulation-content h3 {
+    color: var(--gray-900);
+    margin-top: 32px;
+    margin-bottom: 16px;
+    font-size: 1.25rem;
+}
+
+.regulation-content h3:first-child {
+    margin-top: 0;
+}
+
+.environmental-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.environmental-content p {
+    margin-bottom: 24px;
+    line-height: 1.7;
+}
+
+/* PRICING CSS REMOVED - classes: transparent-pricing-grid, transparent-pricing-card, pricing-featured, popular-badge, pricing-card-title, pricing-card-price, pricing-card-subtitle, pricing-card-features, pricing-cta, pricing-bottom-note */
+
+.how-it-works-list {
+    max-width: 700px;
+    margin: 0 auto;
+    counter-reset: step-counter;
+}
+
+.how-it-works-list li {
+    margin-bottom: 32px;
+    position: relative;
+    padding-left: 60px;
+    counter-increment: step-counter;
+}
+
+.how-it-works-list li:before {
+    content: counter(step-counter);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 40px;
+    height: 40px;
+    background: var(--primary-green);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.125rem;
+}
+
+.how-it-works-list strong {
+    display: block;
+    color: var(--gray-900);
+    font-size: 1.125rem;
+    margin-bottom: 8px;
+}
+
+.how-it-works-list p {
+    color: var(--gray-700);
+    line-height: 1.6;
+    margin: 0;
 }
 </style>

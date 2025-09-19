@@ -1,0 +1,235 @@
+---
+layout: location.njk
+
+description: "Professional mattress removal and disposal service in Tempe, Arizona. University Town eco-friendly disposal, next-day pickup, and competitive pricing. Call 720-263-6094 today!"
+permalink: /mattress-removal/arizona/phoenix/tempe/
+city: Tempe
+state: Arizona
+stateSlug: arizona
+parentMetro: Phoenix
+coordinates: 
+  lat: 33.4255
+  lng: -111.9400
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+
+neighborhoods: [
+  {
+    "name": "Mill Avenue District",
+    "zipCodes": [
+      "85281"
+    ]
+  },
+  {
+    "name": "ASU Campus Area",
+    "zipCodes": [
+      "85281"
+    ]
+  },
+  {
+    "name": "Tempe Town Lake",
+    "zipCodes": [
+      "85281"
+    ]
+  },
+  {
+    "name": "South Tempe",
+    "zipCodes": [
+      "85284"
+    ]
+  },
+  {
+    "name": "North Tempe",
+    "zipCodes": [
+      "85281"
+    ]
+  },
+  {
+    "name": "Kiwanis Park Area",
+    "zipCodes": [
+      "85283"
+    ]
+  },
+  {
+    "name": "Tempe Marketplace",
+    "zipCodes": [
+      "85284"
+    ]
+  },
+  {
+    "name": "Warner Ranch",
+    "zipCodes": [
+      "85284"
+    ]
+  },
+  {
+    "name": "Corona del Sol",
+    "zipCodes": [
+      "85284"
+    ]
+  },
+  {
+    "name": "McClintock Ranch",
+    "zipCodes": [
+      "85283"
+    ]
+  },
+  {
+    "name": "Baseline Corridor",
+    "zipCodes": [
+      "85283"
+    ]
+  },
+  {
+    "name": "Rural Tempe",
+    "zipCodes": [
+      "85282"
+    ]
+  },
+  {
+    "name": "Broadmor",
+    "zipCodes": [
+      "85282"
+    ]
+  },
+  {
+    "name": "Jen Tilly Terrace",
+    "zipCodes": [
+      "85281"
+    ]
+  },
+  {
+    "name": "Maple-Ash",
+    "zipCodes": [
+      "85281"
+    ]
+  },
+  {
+    "name": "Pepperwood",
+    "zipCodes": [
+      "85283"
+    ]
+  }
+]
+zipCodes: [
+  "85281",
+  "85282", 
+  "85283",
+  "85284"
+]
+recyclingPartners: [
+  "Tempe Solid Waste Services",
+  "Sky Harbor Regional Transfer Station",
+  "Waste Management Arizona",
+  "Republic Services Tempe"
+]
+localRegulations: "Tempe provides weekly residential garbage collection via alley or curbside collection, bulk trash collection six times per year (every other month), and green organics collection three times per year. Residents can dispose of up to 1,000 pounds of waste once per month at no charge at the Sky Harbor Regional Transfer Station."
+nearbyCities: [
+  {
+    "name": "Phoenix",
+    "slug": "phoenix",
+    "distance": 10,
+    "isSuburb": false
+  },
+  {
+    "name": "Mesa",
+    "slug": "mesa",
+    "distance": 10,
+    "isSuburb": true
+  },
+  {
+    "name": "Chandler",
+    "slug": "chandler",
+    "distance": 10,
+    "isSuburb": true
+  },
+  {
+    "name": "Scottsdale",
+    "slug": "scottsdale",
+    "distance": 12,
+    "isSuburb": true
+  },
+  {
+    "name": "Gilbert",
+    "slug": "gilbert",
+    "distance": 15,
+    "isSuburb": true
+  },
+  {
+    "name": "Ahwatukee",
+    "slug": "ahwatukee",
+    "distance": 8,
+    "isSuburb": false
+  }
+]
+
+pageContent:
+  heroDescription: "#1 rated mattress removal service in Tempe, Arizona. Professional pickup  We handle everything from ASU campus housing to Mill Avenue apartments and Tempe Town Lake condos. Serving 16+ neighborhoods throughout Arizona's University Town with full municipal compliance."
+  aboutService: "Tempe's specialized mattress removal and environmental disposal experts, serving Arizona's premier University Town and vibrant college community with unmatched young professional energy and academic excellence. From the bustling Mill Avenue entertainment district and Arizona State University campus area to family neighborhoods near Tempe Town Lake and professional communities around Tempe Marketplace, we deliver professional mattress collection across 16+ diverse neighborhoods throughout Tempe's dynamic 190,000+ residents, maintaining strict compliance with city solid waste regulations and environmental standards. Our Tempe team understands the distinctive character of Arizona's University Town - from coordinating with ASU student housing, apartment complexes, and young professional rentals to navigating the sophisticated expectations of family neighborhoods, waterfront communities, and the unique 'Town and Gown' dynamics that make Tempe both an academic hub and thriving suburban destination. Through partnerships with Tempe Solid Waste Services and the Sky Harbor Regional Transfer Station, we guarantee responsible processing that meets all municipal standards while supporting Tempe's commitment to environmental sustainability and maintaining the city's reputation as Arizona's most educated community with 48% of adults holding bachelor's degrees."
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout the greater Tempe area, covering all major neighborhoods from the university district to the family communities:"
+  regulationsCompliance: "Our service ensures full compliance with Tempe's comprehensive solid waste management regulations and city environmental standards, providing proper documentation for your records and handling all required disposal preparation steps for both residential and commercial properties."
+  environmentalImpact: "Each Tempe mattress collection supports Arizona's University Town's commitment to environmental sustainability and progressive waste management. Working alongside Tempe Solid Waste Services and certified recycling partners, we've successfully diverted substantial volumes of mattress materials away from Arizona landfills. Recovered components include steel spring systems, foam materials, cotton fabric layers, and hardwood frame structures - materials processed responsibly to minimize ecological impact while supporting Tempe's leadership role in academic excellence and environmental stewardship that protects the Sonoran Desert ecosystem and maintains the city's progressive community values."
+  howItWorksScheduling: "Next-day slots available throughout Tempe and surrounding Valley communities. We'll confirm via text message and coordinate any special access requirements for student housing, apartment complexes, waterfront properties, or academic facilities."
+  howItWorksService: "Our fully licensed and insured Tempe crew handles complete mattress extraction from any location on your property, manages all city compliance requirements, and expertly navigates the unique characteristics of Arizona's University Town including student housing protocols, young professional apartment policies, and family neighborhood standards."
+  howItWorksDisposal: "Your mattress is processed through Tempe Solid Waste Services, Sky Harbor Regional Transfer Station, or certified recycling facilities for responsible material recovery and environmental protection."
+  sidebarStats:
+    mattressesRemoved: "5,721"
+
+reviews:
+  count: 289
+  featured: [
+  {
+    "text": "I needed mattress removal when my roommate moved out mid-semester. A Bedder World scheduled pickup for the next day and their team was super flexible with timing since I had classes. They handled everything quickly and my apartment complex had no issues with the service. Really professional!",
+    "author": "Ashley T.",
+    "neighborhood": "Mill Avenue District"
+  },
+  {
+    "text": "When we upgraded to a king-size bed, we needed our queen mattress and box spring removed quickly. A Bedder World's crew was punctual, careful with our furniture, and completed the pickup in just 15 minutes. Their $125 pricing was exactly what they quoted - no surprises!",
+    "author": "Kevin and Rachel M.",
+    "neighborhood": "Tempe Town Lake"
+  },
+  {
+    "text": "I needed quick mattress disposal when I moved to a furnished apartment. A Bedder World had availability the next day and their online booking was incredibly easy. The pickup crew was professional and efficient - in and out in minutes with no hassle.",
+    "author": "Priya S.",
+    "neighborhood": "South Tempe"
+  }
+]
+faqs: [
+  {
+    "question": "How quickly can you remove my mattress in Tempe?",
+    "answer": "We provide next-day mattress pickup throughout Tempe. Simply schedule online or call, and we'll confirm your pickup window via text message. Most removals are completed within 24-48 hours of booking."
+  },
+  {
+    "question": "Do you work with apartment complexes for mattress removal?",
+    "answer": "Yes! We regularly coordinate with apartment complex management for mattress pickups. We can work with property managers on access requirements and timing to ensure smooth removal that meets building policies."
+  },
+  {
+    "question": "What does your Tempe mattress removal service include?",
+    "answer": "Complete mattress and box spring removal from any location in your home, loading, transportation, and environmentally responsible disposal. Our service includes all labor and cleanup - the quoted price covers everything."
+  },
+  {
+    "question": "Can you remove mattresses from upstairs bedrooms?",
+    "answer": "Absolutely! We handle mattress removal from any floor including upstairs bedrooms, basements, and tight spaces. Our crew comes equipped to safely navigate stairs and narrow hallways at no additional charge."
+  },
+  {
+    "question": "Do you charge extra fees beyond the quoted price?",
+    "answer": "No hidden fees! Our quoted price covers complete removal service including pickup, loading, transportation, and disposal. We only charge extra for extreme access situations requiring special equipment, which we'd discuss upfront."
+  },
+  {
+    "question": "Do you offer weekend mattress pickup?",
+    "answer": "Yes! We offer weekend pickup slots to accommodate various schedules. Weekend appointments are popular, so we recommend booking a few days in advance to secure your preferred time slot."
+  },
+  {
+    "question": "Can you remove multiple mattresses at once?",
+    "answer": "Definitely! We can handle multiple mattresses, box springs, and other bedroom furniture in a single visit. This is often more cost-effective than separate trips. Just specify quantities when booking."
+  },
+  {
+    "question": "What makes your Tempe service different from standard waste removal companies?",
+    "answer": "We're specifically trained in Tempe's University Town culture, student housing protocols, young professional expectations, and family community standards. Our team understands the sophisticated needs of Arizona's most educated city and delivers the progressive excellence that Tempe's academic and professional community demands from service providers."
+  }
+]
+---

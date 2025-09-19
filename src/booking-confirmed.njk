@@ -1,0 +1,344 @@
+---
+layout: base.njk
+title: "Booking Confirmed - A Bedder World"
+metaTitle: "Booking Confirmed! | A Bedder World"
+metaDescription: "Thank you for booking with A Bedder World! We've received your mattress removal request and will contact you with pickup details."
+permalink: /booking-confirmed/
+eleventyExcludeFromCollections: true
+---
+
+<style>
+.confirmation-page {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4rem 0;
+  background: linear-gradient(135deg, #f8fffe 0%, #f0f9f7 100%);
+}
+
+.confirmation-content {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+  background: white;
+  border-radius: 1.5rem;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.confirmation-icon {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 2rem;
+  background: var(--primary-green);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.confirmation-icon::after {
+  content: '✓';
+  font-size: 4rem;
+  color: white;
+  font-weight: bold;
+}
+
+.confirmation-title {
+  font-size: 3rem;
+  color: var(--gray-900);
+  margin-bottom: 1rem;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.confirmation-subtitle {
+  font-size: 1.5rem;
+  color: var(--primary-green);
+  margin-bottom: 2rem;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.confirmation-message {
+  font-size: 1.25rem;
+  color: var(--gray-700);
+  margin-bottom: 3rem;
+  line-height: 1.6;
+}
+
+.next-steps {
+  background: var(--gray-50);
+  border-radius: 1rem;
+  padding: 2rem;
+  margin-bottom: 3rem;
+  text-align: left;
+}
+
+.next-steps h3 {
+  color: var(--gray-900);
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.steps-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.steps-list li {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  font-size: 1.125rem;
+  color: var(--gray-700);
+}
+
+.step-number {
+  background: var(--primary-green);
+  color: white;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin-right: 1rem;
+  flex-shrink: 0;
+  font-size: 0.875rem;
+}
+
+.confirmation-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+
+.btn-confirmed {
+  background: var(--primary-green);
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.125rem;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.btn-confirmed:hover {
+  background: var(--primary-green-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.btn-secondary-confirmed {
+  background: white;
+  color: var(--gray-700);
+  border: 2px solid var(--gray-200);
+  padding: 1rem 2rem;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.125rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.btn-secondary-confirmed:hover {
+  border-color: var(--primary-green);
+  color: var(--primary-green);
+  transform: translateY(-2px);
+}
+
+.contact-info {
+  background: var(--primary-green);
+  color: white;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin-top: 2rem;
+}
+
+.contact-info h4 {
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.contact-info p {
+  margin-bottom: 0.5rem;
+  opacity: 0.9;
+}
+
+.tracking-pixel {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+}
+
+@media (max-width: 768px) {
+  .confirmation-title {
+    font-size: 2.5rem;
+  }
+
+  .confirmation-subtitle {
+    font-size: 1.25rem;
+  }
+
+  .confirmation-content {
+    margin: 0 1rem;
+    padding: 2rem 1.5rem;
+  }
+
+  .confirmation-actions {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .btn-confirmed,
+  .btn-secondary-confirmed {
+    width: 100%;
+    justify-content: center;
+  }
+}
+</style>
+
+<div class="confirmation-page">
+  <div class="container">
+    <div class="confirmation-content">
+
+      <div class="confirmation-icon"></div>
+
+      <h1 class="confirmation-title">Booking Confirmed!</h1>
+
+      <p class="confirmation-subtitle">Thank you for helping to make the world a "bedder" place.</p>
+
+      <div class="confirmation-message">
+        <p><strong>We've received your booking.</strong> Check your email for a confirmation and details on next steps.</p>
+      </div>
+
+      <div class="next-steps">
+        <h3>What Happens Next?</h3>
+        <ol class="steps-list">
+          <li>
+            <span class="step-number">1</span>
+            <span>You'll receive an email confirmation within 5 minutes with your booking details</span>
+          </li>
+          <li>
+            <span class="step-number">2</span>
+            <span>For curbside removal, have items outside by 8am on the day of pickup</span>
+          </li>
+          <li>
+            <span class="step-number">3</span>
+            <span>We'll come by and grab them during your scheduled pickup window</span>
+          </li>
+          <li>
+            <span class="step-number">4</span>
+            <span>We pride ourselves on eco-friendly disposal and are glad to have you as part of the 1 million+ mattresses we've diverted from landfills</span>
+          </li>
+        </ol>
+      </div>
+
+      <div class="confirmation-actions">
+        <a href="/" class="btn-confirmed">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 9L12 2L21 9V20C21 20.5304 20.7893 21.0391 20.4142 21.4142C20.0391 21.7893 19.5304 22 19 22H5C4.46957 22 3.96086 21.7893 3.58579 21.4142C3.21071 21.0391 3 20.5304 3 20V9Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M9 22V12H15V22" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Back to Home
+        </a>
+
+        <a href="/how-it-works/" class="btn-secondary-confirmed">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="2"/>
+            <path d="M9.09 9A3 3 0 0 1 12 6C13.66 6 15 7.34 15 9S13.66 12 12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M12 17H12.01" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Learn More
+        </a>
+      </div>
+
+      <div class="contact-info">
+        <h4>Need Help?</h4>
+        <p><strong>Email:</strong> hello@abedderworld.com</p>
+        <p><strong>Phone:</strong> (720) 263-6094</p>
+        <p>Our team is here to help with any questions about your pickup.</p>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- Conversion Tracking -->
+<script>
+  // Google Analytics Conversion Event
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'conversion', {
+      'send_to': 'G-P5ZG1W0RHY/booking_confirmed',
+      'transaction_id': Math.random().toString(36).substr(2, 9)
+    });
+  }
+
+  // Google Analytics 4 Event
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'booking_confirmed', {
+      'event_category': 'conversion',
+      'event_label': 'booking_form',
+      'value': 1
+    });
+  }
+
+  // Legacy Universal Analytics
+  if (typeof ga !== 'undefined') {
+    ga('send', 'event', 'Booking', 'Confirmed', 'Form Submission', 1);
+  }
+
+  // Custom conversion tracking hook for future integrations
+  if (typeof window.convertEvent === 'function') {
+    window.convertEvent('booking_confirmed');
+  }
+</script>
+
+<!-- Invisible tracking pixel for backup conversion tracking -->
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+     class="tracking-pixel"
+     alt=""
+     aria-hidden="true">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ConfirmAction",
+  "name": "Mattress Removal Booking Confirmed",
+  "description": "Booking confirmation for mattress removal service",
+  "object": {
+    "@type": "Service",
+    "name": "Mattress Removal Service",
+    "provider": {
+      "@type": "Organization",
+      "name": "A Bedder World"
+    }
+  },
+  "result": {
+    "@type": "Reservation",
+    "reservationStatus": "Confirmed"
+  }
+}
+</script>

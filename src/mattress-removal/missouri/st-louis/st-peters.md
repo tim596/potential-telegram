@@ -1,0 +1,144 @@
+---
+layout: location.njk
+
+permalink: /mattress-removal/missouri/st-louis/st-peters/
+parentMetro: "St. Louis"
+state: "Missouri"
+stateSlug: "missouri"
+city: "St. Peters"
+citySlug: "st-peters"
+zip: "63376"
+latitude: 38.8031
+longitude: -90.6298
+tier: 2
+population: 58523
+businessLicense: "MO-SP-2025-007"
+pricing:
+  oneItem: 125
+  twoItems: 155
+  threeItems: 180
+  isPopular: twoItems
+serviceArea: "St. Peters, Missouri and surrounding St. Charles County communities"
+neighborhoods: [
+  {
+    "name": "Canyon Creek",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Brookmount Estates",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "370 Lakeside Park Area",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Spencer Creek",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Mid Rivers Mall District",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Kisker Road Corridor",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Jungermann Road Area",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Mexico Road Corridor",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Cave Springs",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "St. Charles Rock Road",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Highway 94 Corridor",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Willott Road District",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Recycle City Area",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Interstate 70 Corridor",
+    "zipCodes": ["63376"]
+  },
+  {
+    "name": "Cottleville Border",
+    "zipCodes": ["63376"]
+  }
+]
+zipCodes:
+  - "63376"
+  - "63303"
+  - "63304"
+  - "63366"
+recyclingPartners:
+  - "St. Peters Recycle City Drop-Off Center"
+  - "St. Charles County Environmental Services"
+  - "Recycle Works Central and West Facilities"
+  - "Missouri Department of Natural Resources Licensed Facilities"
+nearbyCities:
+  - name: "O'Fallon"
+    slug: "ofallon"
+    distance: 6
+    isSuburb: true
+  - name: "St. Charles"
+    slug: "st-charles"
+    distance: 5
+    isSuburb: true
+reviews:
+  count: 197
+  featured:
+    - text: "Disposing of mattresses from our Canyon Creek family home required coordination around school pickup schedules and neighborhood activity. The team worked efficiently around our timeline, carefully navigating our two-car garage setup and protecting our newer flooring. Professional service that understands suburban family logistics."
+      author: "Amanda Thompson"
+      neighborhood: "Canyon Creek"
+    - text: "Next-day pickup from our Brookmount Estates home worked perfectly. Clean operation."
+      author: "Tom"
+      neighborhood: "Brookmount Estates"
+    - text: "Our 370 Lakeside Park area home sits on a corner lot with specific city landscaping requirements. The removal crew respected our maintained yard and coordinated perfectly with our sprinkler system timing. They made sure nothing was damaged during the pickup process."
+      author: "Maria Rodriguez-Kim"
+      neighborhood: "370 Lakeside Park Area"
+faqs:
+  - question: "How quickly can you pick up mattresses in St. Peters?"
+    answer: "Next-day pickup throughout St. Peters and St. Charles County. We coordinate around Recycle City schedules, Republic Services routes, and family-friendly neighborhood timing."
+  - question: "Do you serve all St. Peters neighborhoods?"
+    answer: "Yes, from Canyon Creek family subdivisions to Brookmount Estates, 370 Lakeside Park areas to Mid Rivers commercial districts - complete coverage with expertise for St. Peters' diverse residential zones."
+  - question: "What's included in your $125 mattress pickup service?"
+    answer: "Complete eco-friendly service: pickup from any location, loading, transportation, and certified recycling. No hidden fees for suburban access or family neighborhood coordination."
+  - question: "How does your service compare to Republic Services bulk pickup?"
+    answer: "Republic Services requires advance appointment scheduling for bulky items through their customer service. We provide flexible same-day or next-day pickup that works with your family schedule, not waste company timing."
+  - question: "Can you handle pickup from St. Peters' award-winning neighborhoods?"
+    answer: "Absolutely. We're experienced with St. Peters' family-focused developments - from Canyon Creek school district areas to Brookmount Estates community standards, including suburban accessibility and neighborhood protocols."
+  - question: "Do you coordinate with St. Peters' extensive park system?"
+    answer: "Yes, we schedule around park activities, youth sports schedules, and community events common throughout St. Peters' 1,000+ acre park system and recreational facilities."
+  - question: "Are you licensed for mattress removal in St. Charles County?"
+    answer: "Fully licensed and compliant with St. Charles County environmental regulations and Missouri DNR requirements, with proper documentation for all disposals."
+  - question: "Can you work around St. Peters' family and school schedules?"
+    answer: "Yes, our local expertise includes coordinating around school zones, youth activities, and the busy family schedules that define St. Peters' award-winning community lifestyle."
+
+pageContent:
+  heroDescription: "Professional mattress removal and certified eco-friendly recycling serving St. Peters' award-winning family communities since 2010. Next-day pickup from Canyon Creek subdivisions to Brookmount Estates neighborhoods, with advanced environmental disposal throughout St. Charles County's most family-focused city."
+  aboutService: "St. Peters' recognition as one of Money Magazine's Best Places to Live demands mattress disposal expertise that matches this community's exceptional family-focused standards and environmental consciousness. As Missouri's tenth-largest city with over 57,000 residents centered around the state's most extensive municipal park system, our professional mattress removal service adapts to this award-winning community's unique requirements for busy families. From coordinating mattress pickup around Canyon Creek's school district schedules to navigating Brookmount Estates' community standards, we understand St. Peters' sophisticated family-suburban character and deliver service accordingly. The city's 1,000+ acres of parks and recreational facilities, anchored by the 300-acre 370 Lakeside Park, create a dynamic environment where our scheduling flexibility becomes essential for families balancing outdoor activities with professional responsibilities. Since St. Peters contracts with Republic Services for waste collection requiring advance appointment scheduling for bulk items, busy parents need more convenient mattress disposal alternatives that work around family schedules rather than waste company timing. Our eco-friendly mattress recycling approach serves St. Peters' educated, environmentally aware families with door-to-door convenience that eliminates the hassle of coordinating Republic Services appointments or transporting items to Recycle City facilities. We coordinate our mattress removal service seamlessly with St. Peters' family rhythm: school schedules, youth sports activities, and park programs that make this Missouri's most family-friendly major city."
+  serviceAreasIntro: "From family-friendly neighborhoods near top-rated schools to recreational areas around 370 Lakeside Park, we provide comprehensive mattress pickup throughout St. Peters' award-winning suburban landscape:"
+  regulationsCompliance: "St. Peters contracts with Republic Services for residential waste collection, including bulky item pickup that requires advance appointment scheduling through their customer service representative. St. Charles County's Division of Environmental Health and Protection oversees waste management compliance, while the city operates Recycle City Drop-Off Center at 131 Ecology Drive for additional disposal options. Republic Services follows strict protocols for bulk item collection, including weight limits and preparation requirements that can be challenging for busy families managing work and school schedules. Our licensed service provides superior convenience - we handle all St. Charles County regulatory compliance while eliminating the need to coordinate with Republic Services appointment systems. This approach delivers the flexible, family-friendly service that St. Peters' award-winning community expects, from households managing youth sports schedules to families coordinating around the extensive park programming that makes this Missouri's most livable city. Whether pickup involves Canyon Creek's school zone timing or Brookmount Estates' community guidelines, we provide compliant mattress disposal that works within St. Peters' family-focused suburban lifestyle."
+  environmentalImpact: "St. Peters' position as an award-winning family community makes environmental stewardship essential for preserving the natural beauty and recreational opportunities that earned Money Magazine recognition six times since 2008. The city's crown jewel, 370 Lakeside Park, along with over 1,000 acres of trails and recreational facilities, creates unique ecosystems requiring responsible waste management practices that protect both land and water resources. Our certified recycling partnerships divert approximately 80% of mattress materials from regional landfills, supporting Missouri's environmental goals while preserving the outdoor recreation quality that defines St. Peters' identity. Steel springs from Canyon Creek family homes and Brookmount Estates developments become construction materials through specialized processing networks, while foam components support regional manufacturing without burdening St. Charles County's waste infrastructure. This eco-friendly approach aligns perfectly with St. Peters' character as an educated, family-oriented community - values essential for maintaining the environmental quality that attracts families seeking the best suburban lifestyle in Missouri. Our documented recycling process provides environmental compliance crucial for supporting the sustainable development and park preservation efforts that keep St. Peters ranked among America's most livable cities."
+  howItWorksScheduling: "Next-day appointments throughout St. Peters and St. Charles County. We coordinate around school schedules, Recycle City hours, youth sports activities, and park programming with family-focused timing expertise."
+  howItWorksService: "Licensed team handles mattress removal using professional equipment designed for St. Peters' family-friendly housing stock - from newer family subdivisions to established neighborhoods and award-winning community accessibility standards."
+  howItWorksDisposal: "Mattresses are transported to certified recycling facilities supporting Missouri's environmental goals and St. Peters' commitment to responsible family community development throughout the region."
+  sidebarStats:
+    mattressesRemoved: "3,891"
+---

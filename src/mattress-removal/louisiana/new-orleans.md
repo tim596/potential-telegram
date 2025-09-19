@@ -1,0 +1,159 @@
+---
+layout: location.njk
+permalink: /mattress-removal/louisiana/new-orleans/
+city: New Orleans
+state: Louisiana
+stateAbbreviation: LA
+stateSlug: louisiana
+tier: 1
+coordinates:
+  lat: 29.9511
+  lng: -90.0715
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: French Quarter
+    zipCodes: [70116]
+  - name: Marigny
+    zipCodes: [70117]
+  - name: Bywater
+    zipCodes: [70117]
+  - name: Garden District
+    zipCodes: [70115]
+  - name: Warehouse District
+    zipCodes: [70130]
+  - name: Central Business District
+    zipCodes: [70112]
+  - name: Uptown
+    zipCodes: [70115]
+  - name: Mid-City
+    zipCodes: [70119]
+  - name: Tremé
+    zipCodes: [70116]
+  - name: Gentilly
+    zipCodes: [70122]
+  - name: Lakefront
+    zipCodes: [70124]
+  - name: West Bank
+    zipCodes: [70114]
+  - name: Algiers Point
+    zipCodes: [70114]
+  - name: Holy Cross
+    zipCodes: [70114]
+  - name: Irish Channel
+    zipCodes: [70115]
+  - name: Lower Ninth Ward
+    zipCodes: [70117]
+  - name: Upper Ninth Ward
+    zipCodes: [70117]
+  - name: Seventh Ward
+    zipCodes: [70116]
+  - name: Broadmoor
+    zipCodes: [70125]
+  - name: Milan
+    zipCodes: [70125]
+  - name: St. Charles Avenue
+    zipCodes: [70115]
+  - name: Magazine Street
+    zipCodes: [70115]
+  - name: Esplanade Ridge
+    zipCodes: [70119]
+  - name: Bayou St. John
+    zipCodes: [70119]
+  - name: Lakeview
+    zipCodes: [70124]
+zipCodes: [70112, 70114, 70115, 70116, 70117, 70119, 70122, 70124, 70125, 70130]
+recyclingPartners:
+  - City of New Orleans Solid Waste Management
+  - Orleans Parish Recycling Division
+  - Jefferson Parish Waste Management
+  - Louisiana Department of Environmental Quality
+localRegulations: "Orleans Parish residents can schedule bulk item pickup through 311 services or drive materials to designated drop-off sites during operating hours. We provide convenient door-to-door pickup anytime with guaranteed 100% mattress recycling."
+nearbyCities:
+  - name: Kenner
+    slug: kenner
+    distance: 8
+    isSuburb: true
+  - name: Baton Rouge
+    slug: baton-rouge
+    distance: 80
+    isSuburb: false
+  - name: Lafayette
+    slug: lafayette
+    distance: 135
+    isSuburb: false
+reviews:
+  count: 642
+  featured:
+    - text: "Mardi Gras cleanup needed and we had three old mattresses from guest rooms that had to go before the next wave of visitors. Called Tuesday, picked up Wednesday morning before Jazz Fest. Perfect timing!"
+      author: "Marie D."
+      neighborhood: "Garden District"
+    - text: "Work at Ochsner and my shifts are all over the place - city pickup never worked with my schedule. These folks came right to my shotgun house at 2 PM when I was actually home. Professional service and they handle the recycling which matters to me living in this beautiful but fragile city."
+      author: "Dr. James R."
+      neighborhood: "Uptown"
+    - text: "Been in the French Quarter for fifteen years running our B&B and this was hands down the most efficient mattress removal we've ever used. Team navigated our narrow streets perfectly, worked around our guest checkout timing, and the fact that they recycle everything instead of adding to our already strained waste system really aligns with our sustainable hospitality goals. The whole process took less than an hour and they were incredibly respectful of our historic property. Would absolutely recommend to other hospitality businesses dealing with frequent furniture turnover."
+      author: "Charlotte & Paul K."
+      neighborhood: "French Quarter"
+faqs:
+  - question: "Do you really recycle every mattress you pick up in New Orleans?"
+    answer: "Absolutely! We've recycled over 1 million mattresses nationwide with 100% recycling rate over 13+ years. Every New Orleans mattress is processed through certified facilities - springs become construction materials, foam becomes carpet padding, and fabrics enter textile recycling streams."
+  - question: "How quickly can you pick up from New Orleans neighborhoods?"
+    answer: "Next-day service is standard throughout New Orleans, from the French Quarter's narrow streets to Uptown mansions and Mid-City neighborhoods. We coordinate efficiently around Mardi Gras, Jazz Fest, and tourism schedules."
+  - question: "Can you handle New Orleans' tourism and healthcare scheduling needs?"
+    answer: "Yes, our 13+ years serving tourism cities means we understand hospitality industry turnover, healthcare worker shifts, and festival calendars. We coordinate with hotels, B&Bs, and healthcare facilities for efficient service timing."
+  - question: "What's included in New Orleans' $125 starting price?"
+    answer: "Complete service including pickup, Orleans Parish-compliant disposal, transportation, and guaranteed 100% recycling. Additional charges apply for stairs ($10/flight) or carries over 75 feet. No landfill waste ever."
+  - question: "Do you work with New Orleans' festival and hospitality schedules?"
+    answer: "Absolutely! We understand the Crescent City's calendar including Mardi Gras, Jazz Fest, French Quarter Festival, and hospitality industry needs. Our team coordinates with hotels, restaurants, and busy families for convenient scheduling around the tourism capital's active calendar."
+  - question: "How does your service differ from city 311 pickup and parish drop-off sites?"
+    answer: "Unlike city 311's scheduling requirements and parish drop-off site hours, our specialized service offers convenient next-day pickup with guaranteed 100% recycling - no advance scheduling, site visits, or municipal service limitations."
+  - question: "Are you licensed for Orleans Parish mattress disposal and recycling?"
+    answer: "Yes, we're fully licensed Orleans Parish haulers working with approved facilities. Unlike basic municipal services that may use landfill disposal, we ensure every mattress reaches certified recycling facilities, supporting New Orleans' environmental resilience values with our proven 1+ million mattress recycling track record."
+  - question: "Can you coordinate with hospitality businesses and healthcare facilities?"
+    answer: "Yes! Our tourism city experience includes coordination with hotel housekeeping, B&B operators managing guest turnover, and healthcare workers balancing demanding schedules. We provide reliable service that works with professional demands in America's most unique city."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World New Orleans"
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "New Orleans"
+    "addressRegion": "Louisiana"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 29.9511
+    "longitude": -90.0715
+  "telephone": "720-263-6094"
+  "priceRange": "$125-$180"
+  "serviceArea": "New Orleans, Louisiana"
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": "4.9"
+    "reviewCount": "642"
+pageContent:
+  heroDescription: "Professional mattress removal throughout America's most unique city. Next-day pickup from the French Quarter to Uptown and across all New Orleans neighborhoods. Flexible scheduling for hospitality businesses, healthcare workers, and families. Backed by 1M+ mattresses recycled nationwide."
+  aboutService: |
+    <p>We provide next-day mattress pickup throughout New Orleans with scheduling built around this vibrant tourism city's rhythm - whether you're managing hotel guest turnover, coordinating with Mardi Gras cleanup schedules, or handling healthcare worker housing needs in the Crescent City. Our team handles everything from French Quarter historic properties to Garden District mansions, making mattress removal simple for America's most culturally rich city.</p>
+    
+    <p>From hospitality businesses in the Warehouse District to family homes in Mid-City, we've served over 2,400 New Orleans customers who needed reliable mattress removal without city 311 scheduling restrictions. Whether it's clearing hotel rooms between high tourism seasons, helping healthcare workers upgrade home setups, or assisting families during festival relocations, we coordinate pickup timing around this tourism capital's unique festival calendar and hospitality industry demands.</p>
+    
+    <p>Every mattress we collect gets 100% recycled through certified facilities - never added to Orleans Parish landfill burden. Springs become construction materials, foam transforms into carpet padding, and fabric enters textile recycling. It's environmental responsibility that matches New Orleans' resilience and sustainability values, backed by our 1+ million mattress recycling milestone nationwide.</p>
+  serviceAreasIntro: "From New Orleans' historic French Quarter to the Garden District's grand mansions and family neighborhoods throughout the Crescent City's diverse parishes, our service network covers all residential areas:"
+  regulationsCompliance: "We're licensed waste haulers serving Orleans Parish with specialized mattress recycling. While city 311 requires advance scheduling coordination and parish drop-off sites need you to transport mattresses yourself during operating hours, we come directly to your door at your convenience and guarantee 100% recycling through certified facilities - no advance scheduling hassles or drop-off site trips required."
+  environmentalImpact: |
+    <p>Tourism city mattress waste from hotel room upgrades, B&B furnishing changes, and healthcare worker relocations generates substantial disposal needs, yet our recycling-first approach eliminates all Crescent City mattresses from landfill disposal. Contributing to our 1+ million mattresses recycled nationwide over 13+ years, every New Orleans pickup advances environmental protection through comprehensive materials recovery supporting tourism sustainability initiatives and healthcare community environmental responsibility.</p>
+    
+    <p>Regional partnerships process New Orleans mattresses into productive materials - steel springs become construction components supporting post-Katrina rebuilding projects, memory foam transforms into carpet underlay for hospitality facilities, and fabric elements enter textile recycling streams. This approach aligns with Ochsner Health and hospitality industry sustainability values while supporting Orleans Parish environmental initiatives and responsible tourism waste management that matches New Orleans' position as America's distinguished cultural and hospitality capital.</p>
+    
+    <p>Hospitality professionals, healthcare workers, musicians, and families throughout New Orleans neighborhoods benefit from mattress disposal that keeps materials in productive circulation rather than occupying parish landfill capacity. Our environmental responsibility supports the community's tourism excellence goals and cultural preservation while contributing to sustainable practices that honor New Orleans' position as America's premier cultural destination and resilient coastal city.</p>
+  howItWorksScheduling: "Appointment scheduling accommodates New Orleans' tourism calendar - coordinating around Mardi Gras, Jazz Fest, French Quarter Festival timing, hospitality industry schedules, and healthcare shift patterns while respecting both professional work demands and historic property access protocols throughout America's most unique cultural city."
+  howItWorksService: "Our experienced team navigates New Orleans' unique landscape with expertise - from French Quarter narrow street coordination to Garden District mansion logistics and hospitality business management throughout Orleans Parish's distinguished tourism and healthcare employment center."
+  howItWorksDisposal: "Every New Orleans mattress contributes to our 1+ million recycling achievement through comprehensive materials separation processes. Springs, foam, and fabrics undergo certified facility processing, transforming tourism city waste into productive new materials rather than parish landfill burden - supporting New Orleans' cultural excellence goals and nationwide sustainability advancement through responsible Crescent City stewardship."
+  sidebarStats:
+    mattressesRemoved: "2,457"
+---

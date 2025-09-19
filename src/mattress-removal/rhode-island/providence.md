@@ -1,0 +1,163 @@
+---
+layout: location.njk
+permalink: "/mattress-removal/rhode-island/providence/"
+city: "Providence"
+state: "Rhode Island"
+stateAbbr: "RI"
+stateSlug: "rhode-island"
+tier: 1
+coordinates: 
+  lat: 41.8240
+  lng: -71.4128
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+zipCodes: ["02901", "02902", "02903", "02904", "02905", "02906", "02907", "02908", "02909", "02910", "02911", "02912", "02914", "02916", "02918", "02919", "02940"]
+neighborhoods: [
+  {
+    "name": "Federal Hill",
+    "zipCodes": ["02909"]
+  },
+  {
+    "name": "College Hill/East Side",
+    "zipCodes": ["02906", "02912"]
+  },
+  {
+    "name": "Downtown/Jewelry District",
+    "zipCodes": ["02903"]
+  },
+  {
+    "name": "Fox Point",
+    "zipCodes": ["02903"]
+  },
+  {
+    "name": "Elmwood",
+    "zipCodes": ["02907"]
+  },
+  {
+    "name": "West Side",
+    "zipCodes": ["02909", "02904"]
+  },
+  {
+    "name": "The Hill",
+    "zipCodes": ["02909"]
+  },
+  {
+    "name": "Smith Hill",
+    "zipCodes": ["02908"]
+  },
+  {
+    "name": "Olneyville",
+    "zipCodes": ["02909"]
+  },
+  {
+    "name": "Silver Lake",
+    "zipCodes": ["02909"]
+  },
+  {
+    "name": "South Side",
+    "zipCodes": ["02905"]
+  },
+  {
+    "name": "Wayland",
+    "zipCodes": ["02906"]
+  }
+]
+nearbyCities: [
+  {
+    "name": "Cranston",
+    "slug": "cranston",
+    "distance": 8,
+    "isSuburb": true
+  },
+  {
+    "name": "East Providence",
+    "slug": "east-providence",
+    "distance": 4,
+    "isSuburb": true
+  },
+  {
+    "name": "Pawtucket",
+    "slug": "pawtucket",
+    "distance": 5,
+    "isSuburb": true
+  },
+  {
+    "name": "Warwick",
+    "slug": "warwick",
+    "distance": 12,
+    "isSuburb": true
+  }
+]
+reviews:
+  count: 28
+  featured:
+    - author: "Brown University Student Sarah"
+      rating: 5
+      text: "Perfect timing for move-out week! They worked around finals schedule and handled everything professionally."
+    - author: "Federal Hill Resident Tony"
+      rating: 5
+      text: "Professional service that was respectful of our neighborhood. They showed up on time and handled everything efficiently."
+    - author: "RISD Art Student Maya"
+      rating: 5
+      text: "Perfect for our tiny studio apartment. They navigated the narrow College Hill streets without any issues."
+    - author: "Downtown Professional Lisa"
+      rating: 4
+      text: "Quick service in the Jewelry District. Much easier than trying to coordinate with city pickup schedules."
+    - author: "Fox Point Artist James"
+      rating: 5
+      text: "Reliable team with flexible scheduling that worked around my studio hours. Fair pricing too."
+    - author: "Providence Resident Maria"
+      rating: 5
+      text: "Great service from downtown to the waterfront areas. Professional team that knows the city well."
+
+pageContent:
+  heroDescription: "Next-day mattress pickup throughout Providence. We serve the Creative Capital with reliable service for Federal Hill, Brown University, RISD areas, and historic neighborhoods. Over 1 million mattresses recycled nationwide - book online in 60 seconds."
+
+  aboutService: "Our Providence mattress pickup service specializes in Rhode Island's Creative Capital, serving 190,823 residents across Federal Hill's Italian community, College Hill's Brown University and RISD campuses, and the vibrant downtown arts district. We eliminate mattress disposal hassles with next-day pickup that navigates Providence's narrow historic streets, coordinates with university move-in/out schedules, and works around cultural events like WaterFire. Our team understands the unique challenges of serving both established neighborhoods and the 32,000+ college students, handling everything from Fox Point artist studios to Federal Hill family homes to dormitory cleanouts. With flexible scheduling that respects academic calendars and community traditions, we provide reliable service throughout this culturally rich city while ensuring proper recycling that supports Providence's environmental values."
+
+  serviceAreasIntro: "Complete mattress pickup throughout Providence's historic neighborhoods and modern districts, from Federal Hill's Little Italy to Brown University campus:"
+
+  regulationsCompliance: "Providence requires residents to call Waste Management at (800) 972-4545 for mattress pickup and mandates plastic bagging with associated fees. While the city offers free Saturday drop-off at 700 Allens Avenue (2 items max with Providence ID), this requires transportation and weekend scheduling. Rhode Island's 'Bye Bye Mattress' program adds a $20.50 retail fee but provides limited disposal options.\n\nOur professional mattress removal service provides the convenient solution Providence residents need. We offer next-day pickup without calling waste management or plastic bagging requirements, handle narrow College Hill streets and Federal Hill access challenges, coordinate with university move-in/out periods, work around WaterFire events and cultural programming, and provide eco-friendly recycling that supports the environmental values embraced by this Creative Capital community."
+
+  environmentalImpact: "Our Providence service demonstrates environmental leadership by diverting 80% of mattress materials from regional landfills through certified New England recycling facilities. Each mattress pickup prevents 40 pounds of waste while supporting sustainable disposal practices that honor Providence's commitment to creative innovation and community stewardship. After serving Providence's university families, artists, and established neighborhoods, we've recycled 2,180 mattresses (87,200 pounds) that directly support the environmental values championed throughout this Creative Capital. This regional processing approach reduces transport emissions while creating jobs that serve Providence's diverse economic base including education, healthcare, creative industries, and tourism that make this the cultural heart of Rhode Island. By choosing professional mattress removal, Providence families and students contribute to sustainability initiatives that align with their community's progressive values and commitment to preserving both historic character and environmental responsibility."
+
+  howItWorksScheduling: "University and community-friendly scheduling with easy online booking throughout Providence. We accommodate Brown and RISD academic calendars, coordinate around WaterFire events and cultural programming, work with Federal Hill community traditions, and provide the reliable service this diverse Creative Capital expects."
+
+  howItWorksService: "Our team specializes in Providence's unique urban landscape and cultural diversity. We navigate College Hill's narrow historic streets, handle Federal Hill's community-focused environment, coordinate with arts district schedules, respect historic property access needs, and provide the quality service that meets this sophisticated community's standards."
+
+  howItWorksDisposal: "Licensed transport to certified New England recycling facilities where materials support regional sustainability initiatives and Rhode Island environmental protection. Steel springs and foam components contribute to the circular economy that honors Providence's creative heritage while supporting the educational, cultural, and innovation economy that defines this modern Creative Capital."
+
+  sidebarStats:
+    mattressesRemoved: "2180"
+
+localRegulations: "Providence's waste management system requires residents to coordinate mattress pickup through Waste Management with mandatory plastic bagging and fees, or transport items to the Saturday drop-off facility with quantity restrictions. The state's 'Bye Bye Mattress' retail fee system provides limited convenience for immediate disposal needs. Our professional removal service eliminates these municipal limitations by providing immediate scheduling, plastic-free pickup, and comprehensive recycling that goes beyond basic waste disposal."
+
+faqs:
+  - question: "How quickly can you remove my mattress in Providence?"
+    answer: "We provide next-day pickup throughout all Providence neighborhoods including Federal Hill, College Hill, downtown, and the waterfront areas. Easy online booking accommodates university schedules, cultural event timing, and the practical needs of Rhode Island's Creative Capital."
+    
+  - question: "Do you serve Brown University and RISD student areas?"
+    answer: "Absolutely. We specialize in serving College Hill including Brown University campus area, RISD vicinity, and student housing throughout Providence. Our scheduling accommodates semester transitions, finals periods, and academic calendar needs with flexible pickup timing perfect for student life."
+    
+  - question: "Can you handle Federal Hill and historic neighborhood access?"
+    answer: "Yes, we understand Providence's unique neighborhood character including Federal Hill's Italian community traditions, historic College Hill narrow streets, and Fox Point waterfront access. Our team provides respectful service that honors community values while handling challenging urban logistics."
+    
+  - question: "What's included in your Providence mattress removal service?"
+    answer: "Complete Creative Capital service includes pickup from historic homes, student housing, and arts district properties, flexible scheduling around academic and cultural calendars, navigation expertise for narrow urban streets, and eco-friendly disposal through certified New England facilities."
+    
+  - question: "Do you work around WaterFire events and cultural programming?"
+    answer: "Definitely. We understand Providence's unique cultural calendar including WaterFire installations, Federal Hill festivals, university events, and arts district programming. We coordinate scheduling to work around these signature Creative Capital experiences that make Providence special."
+    
+  - question: "How do you handle Providence's diverse neighborhoods?"
+    answer: "We coordinate service throughout Providence's 25+ neighborhoods including Federal Hill's Italian heritage community, College Hill's academic area, Fox Point arts district, downtown Jewelry District, and waterfront developments. Each service respects neighborhood-specific character and access needs."
+    
+  - question: "Can you accommodate the arts and creative community?"
+    answer: "Yes, we understand Providence's Creative Capital identity serving artists, RISD students, creative professionals, and the broader arts community. We provide flexible scheduling that works with studio hours, exhibition schedules, and the creative rhythms that define Providence's cultural character."
+    
+  - question: "What happens to mattresses after pickup in Providence?"
+    answer: "Mattresses go to certified New England recycling facilities where 80% of materials including steel springs, foam, and fabric are separated for reuse. This supports environmental stewardship that honors Providence's progressive values while creating a regional circular economy that benefits Rhode Island's educational and creative economy foundation."
+---

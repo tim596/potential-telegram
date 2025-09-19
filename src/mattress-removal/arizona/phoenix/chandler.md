@@ -1,0 +1,195 @@
+---
+layout: location.njk
+
+description: "Professional mattress removal and disposal service in Chandler, Arizona. Innovation Hub eco-friendly disposal, next-day pickup, and competitive pricing. Call 720-263-6094 today!"
+permalink: /mattress-removal/arizona/phoenix/chandler/
+city: Chandler
+state: Arizona
+stateSlug: arizona
+parentMetro: Phoenix
+coordinates: 
+  lat: 33.3062
+  lng: -111.8413
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+
+neighborhoods: [
+  {
+    "name": "Downtown Chandler",
+    "zipCodes": [
+      "85224"
+    ]
+  },
+  {
+    "name": "Ocotillo",
+    "zipCodes": [
+      "85248"
+    ]
+  },
+  {
+    "name": "Sun Lakes",
+    "zipCodes": [
+      "85248"
+    ]
+  },
+  {
+    "name": "Ahwatukee Foothills",
+    "zipCodes": [
+      "85044",
+      "85048"
+    ]
+  },
+  {
+    "name": "Pecos",
+    "zipCodes": [
+      "85225"
+    ]
+  },
+  {
+    "name": "Kyrene Corridor",
+    "zipCodes": [
+      "85224",
+      "85226"
+    ]
+  },
+  {
+    "name": "Chandler Heights",
+    "zipCodes": [
+      "85249"
+    ]
+  },
+  {
+    "name": "Cooper Commons",
+    "zipCodes": [
+      "85286"
+    ]
+  },
+  {
+    "name": "Fulton Ranch",
+    "zipCodes": [
+      "85249"
+    ]
+  },
+  {
+    "name": "West Chandler",
+    "zipCodes": [
+      "85226"
+    ]
+  }
+]
+zipCodes: [
+  "85224",
+  "85225", 
+  "85226",
+  "85248",
+  "85249",
+  "85286"
+]
+recyclingPartners: [
+  "Chandler Recycling Solid Waste Collection Center",
+  "East Valley Environmental Services",
+  "Waste Management Phoenix Metro",
+  "Republic Services East Valley"
+]
+localRegulations: "Chandler requires proper disposal of mattresses through the city's bulk collection service or approved waste management companies. The city provides FREE curbside bulk collection every six weeks upon request. Items must be scheduled in advance at 480-782-3510."
+nearbyCities: [
+  {
+    "name": "Phoenix",
+    "slug": "phoenix",
+    "distance": 18,
+    "isSuburb": false
+  },
+  {
+    "name": "Mesa",
+    "slug": "mesa",
+    "distance": 12,
+    "isSuburb": true
+  },
+  {
+    "name": "Tempe",
+    "slug": "tempe",
+    "distance": 10,
+    "isSuburb": true
+  },
+  {
+    "name": "Gilbert",
+    "slug": "gilbert",
+    "distance": 8,
+    "isSuburb": true
+  },
+  {
+    "name": "Scottsdale",
+    "slug": "scottsdale",
+    "distance": 15,
+    "isSuburb": true
+  },
+  {
+    "name": "Tucson",
+    "slug": "tucson",
+    "distance": 95,
+    "isSuburb": false
+  }
+]
+
+pageContent:
+  heroDescription: "#1 rated mattress removal service in Chandler, Arizona. Professional pickup  We handle everything from downtown innovation district offices to Ocotillo master-planned communities. Serving 10+ neighborhoods throughout Arizona's Innovation Hub with full city compliance."
+  aboutService: "Chandler's specialized mattress removal and environmental disposal experts, serving Arizona's fourth-largest city and premier Innovation Hub with unmatched tech-sector professionalism and sustainable practices. From the bustling downtown innovation district and Intel's Ocotillo campus to premier master-planned communities like Fulton Ranch and Sun Lakes, we deliver professional mattress collection across 10+ neighborhoods throughout Chandler's vibrant 280,000+ residents, maintaining strict compliance with city bulk collection regulations and environmental standards. Our Chandler team understands the distinctive needs of Arizona's Innovation Hub - from coordinating with major tech employers like Intel, Northrop Grumman, Wells Fargo, PayPal and Boeing to navigating the sophisticated expectations of master-planned communities and high-tech residential developments. Through partnerships with the Chandler Recycling Solid Waste Collection Center and East Valley Environmental Services, we guarantee responsible processing that meets all municipal standards while supporting Chandler's commitment to sustainable innovation and environmental leadership in the East Valley."
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout the greater Chandler area, covering all major neighborhoods from the innovation district to the master-planned communities:"
+  regulationsCompliance: "Our service ensures full compliance with Chandler's bulk collection regulations and city waste management requirements, providing proper documentation for your records and handling all required disposal preparation steps for both residential and commercial properties."
+  environmentalImpact: "Each Chandler mattress collection supports Arizona's Innovation Hub's commitment to environmental sustainability and desert conservation. Working alongside the Chandler Recycling Solid Waste Collection Center and certified recycling partners, we've successfully diverted substantial volumes of mattress materials away from Arizona landfills. Recovered components include steel spring systems, foam materials, cotton fabric layers, and hardwood frame structures - materials processed responsibly to minimize ecological impact while supporting Chandler's leadership role in sustainable innovation and environmental stewardship that protects the Sonoran Desert ecosystem."
+  howItWorksScheduling: "Next-day slots available throughout Chandler and surrounding East Valley communities. We'll confirm via text message and coordinate any special access requirements for gated communities, tech campuses, or master-planned developments."
+  howItWorksService: "Our fully licensed and insured Chandler crew handles complete mattress extraction from any location on your property, manages all city compliance requirements, and expertly navigates the unique challenges of Arizona's Innovation Hub including corporate campus protocols and master-planned community regulations."
+  howItWorksDisposal: "Your mattress is processed through the Chandler Recycling Solid Waste Collection Center, East Valley Environmental Services, or certified recycling facilities for responsible material recovery and environmental protection."
+  sidebarStats:
+    mattressesRemoved: "4,782"
+
+reviews:
+  count: 203
+  featured: [
+  {
+    "text": "We needed reliable mattress removal during our home upgrade and weren't sure about scheduling. A Bedder World had availability the next day and handled our pickup without any complications. Their crew was professional and completed the removal quickly and efficiently!",
+    "author": "David T.",
+    "neighborhood": "Ocotillo"
+  },
+  {
+    "text": "Our community has specific guidelines for bulk item removal, and we needed a service that could work with our HOA requirements. A Bedder World coordinated seamlessly with our management office and completed the pickup professionally. Really impressed with their attention to detail!",
+    "author": "Barbara M.",
+    "neighborhood": "Sun Lakes"
+  },
+  {
+    "text": "We needed a service that could handle both our community's access requirements and our environmental concerns. A Bedder World's commitment to sustainable disposal practices and professional service delivery really impressed us. They made the whole process seamless!",
+    "author": "Dr. Amanda R.",
+    "neighborhood": "Fulton Ranch"
+  }
+]
+faqs: [
+  {
+    "question": "How quickly can you pick up my mattress in Chandler?",
+    "answer": "We offer next-day pickup slots throughout Chandler. Simply schedule online or by phone, and we'll confirm your pickup window via text message. Most removals are completed within 24-48 hours of booking."
+  },
+  {
+    "question": "Do you work with HOA communities and gated neighborhoods?",
+    "answer": "Yes! We regularly coordinate with HOA management and gated community security for seamless mattress pickups. We understand access procedures and community standards to ensure service that meets all requirements."
+  },
+  {
+    "question": "What does your Chandler mattress removal service include?",
+    "answer": "Complete mattress and box spring removal from any location in your home, loading, transportation, and environmentally responsible disposal. Our service includes all labor and cleanup - the quoted price covers everything."
+  },
+  {
+    "question": "Do you charge extra fees beyond the quoted price?",
+    "answer": "No hidden fees! Our quoted price covers complete removal service including pickup, loading, transportation, and disposal. We only charge extra for extreme access situations requiring special equipment, which we'd discuss upfront."
+  },
+  {
+    "question": "Do you offer flexible scheduling options?",
+    "answer": "Yes! We provide flexible scheduling including early morning, evening, and weekend slots to accommodate various work schedules and personal commitments. We work around your availability to find convenient pickup times."
+  },
+  {
+    "question": "What makes your Chandler service different from standard waste removal companies?",
+    "answer": "We specialize exclusively in mattress removal with dedicated crews, proper equipment, and environmentally responsible disposal methods. Unlike general waste companies, we provide next-day convenience with professional service standards and transparent pricing."
+  }
+]
+---

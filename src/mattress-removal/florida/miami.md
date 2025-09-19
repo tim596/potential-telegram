@@ -1,1073 +1,202 @@
 ---
-layout: base.njk
-title: Miami Mattress Removal & Disposal Service - Starting at $125
-description: Professional mattress removal in Miami, Florida. Same-day pickup starting at $125. Licensed, insured, and eco-friendly. Serving 10 neighborhoods.
+layout: location.njk
 permalink: /mattress-removal/florida/miami/
 city: Miami
 state: Florida
 stateSlug: florida
 tier: 1
-coordinates: 
+coordinates:
   lat: 25.7617
   lng: -80.1918
 pricing:
   startingPrice: 125
   single: 125
-  queen: 125
-  king: 135
+  queen: 155
+  king: 180
   boxSpring: 30
-neighborhoods: [
-  {
-    "name": "Downtown/Brickell",
-    "zipCodes": [
-      "33130",
-      "33131",
-      "33132"
-    ]
-  },
-  {
-    "name": "South Beach",
-    "zipCodes": [
-      "33139",
-      "33140",
-      "33141"
-    ]
-  },
-  {
-    "name": "Coconut Grove",
-    "zipCodes": [
-      "33133",
-      "33134"
-    ]
-  },
-  {
-    "name": "Coral Gables",
-    "zipCodes": [
-      "33134",
-      "33143",
-      "33144",
-      "33146"
-    ]
-  },
-  {
-    "name": "Miami Beach",
-    "zipCodes": [
-      "33139",
-      "33140",
-      "33141",
-      "33154"
-    ]
-  },
-  {
-    "name": "Wynwood",
-    "zipCodes": [
-      "33127",
-      "33137"
-    ]
-  },
-  {
-    "name": "Design District",
-    "zipCodes": [
-      "33127",
-      "33137"
-    ]
-  },
-  {
-    "name": "Little Havana",
-    "zipCodes": [
-      "33125",
-      "33135"
-    ]
-  },
-  {
-    "name": "Aventura",
-    "zipCodes": [
-      "33160",
-      "33180"
-    ]
-  },
-  {
-    "name": "Key Biscayne",
-    "zipCodes": [
-      "33149"
-    ]
-  }
-]
-zipCodes: [
-  "33101",
-  "33109",
-  "33125",
-  "33126",
-  "33127",
-  "33128",
-  "33129",
-  "33130",
-  "33131",
-  "33132",
-  "33133",
-  "33134",
-  "33135",
-  "33136",
-  "33137",
-  "33138",
-  "33139",
-  "33140",
-  "33141",
-  "33142",
-  "33143",
-  "33144",
-  "33145",
-  "33146",
-  "33147",
-  "33149",
-  "33150"
-]
-recyclingPartners: [
-  "Miami-Dade Recycling",
-  "South Florida Environmental",
-  "Tropical Mattress Recovery"
-]
-localRegulations: "Miami-Dade County Code Chapter 16A mandates proper disposal. Illegal dumping fines start at $250 plus disposal costs."
-nearbyCities: [
-  {
-    "name": "Fort Lauderdale",
-    "slug": "fort-lauderdale",
-    "distance": 28
-  },
-  {
-    "name": "Hollywood",
-    "slug": "hollywood-fl",
-    "distance": 18
-  },
-  {
-    "name": "Coral Springs",
-    "slug": "coral-springs",
-    "distance": 37
-  },
-  {
-    "name": "Pembroke Pines",
-    "slug": "pembroke-pines",
-    "distance": 21
-  }
-]
+neighborhoods:
+  - name: Brickell Financial District
+    zipCodes: ["33130", "33131"]
+  - name: South Beach
+    zipCodes: ["33139"]
+  - name: Coral Gables
+    zipCodes: ["33134"]
+  - name: Coconut Grove
+    zipCodes: ["33133"]
+  - name: Wynwood Arts District
+    zipCodes: ["33127"]
+  - name: Little Havana
+    zipCodes: ["33135"]
+  - name: Downtown Miami
+    zipCodes: ["33131"]
+  - name: Mid-Beach
+    zipCodes: ["33140"]
+  - name: North Beach
+    zipCodes: ["33141"]
+  - name: Design District
+    zipCodes: ["33137"]
+  - name: Edgewater
+    zipCodes: ["33132"]
+  - name: Overtown
+    zipCodes: ["33136"]
+  - name: Allapattah
+    zipCodes: ["33142"]
+  - name: Liberty City
+    zipCodes: ["33147"]
+  - name: Little Haiti
+    zipCodes: ["33138"]
+  - name: Upper East Side
+    zipCodes: ["33137"]
+  - name: Midtown Miami
+    zipCodes: ["33137"]
+  - name: Health District
+    zipCodes: ["33136"]
+zipCodes:
+  - "33130"
+  - "33131"
+  - "33132"
+  - "33133"
+  - "33134"
+  - "33135"
+  - "33136"
+  - "33137"
+  - "33138"
+  - "33139"
+  - "33140"
+  - "33141"
+  - "33142"
+  - "33147"
+recyclingPartners:
+  - "Miami-Dade County Solid Waste Management Department"
+  - "South Dade Resource Recovery Facility"
+  - "North Dade Resource Recovery Facility"
+  - "Florida Waste Connections"
+localRegulations: "Miami-Dade County requires mattresses be fully encased in plastic mattress bags/sleeves, sealed with weather-resistant tape before disposal. Box springs do not require encasement. $100 fine for violations. Two annual bulky waste pickups available for residential customers (25 cubic yards each). Call 311 to schedule bulky item pickup."
+nearbyCities:
+  - name: Miami Beach
+    distance: "5 miles"
+    slug: "miami-beach"
+    isSuburb: true
+  - name: Coral Springs
+    distance: "35 miles"
+    slug: "coral-springs"
+    isSuburb: true
+  - name: Davie
+    distance: "25 miles"
+    slug: "davie"
+    isSuburb: true
+  - name: Deerfield Beach
+    distance: "40 miles"
+    slug: "deerfield-beach"
+    isSuburb: true
+  - name: Fort Lauderdale
+    distance: "30 miles"
+    slug: "fort-lauderdale"
+    isSuburb: true
+  - name: Hialeah
+    distance: "10 miles"
+    slug: "hialeah"
+    isSuburb: true
+  - name: Hollywood
+    distance: "20 miles"
+    slug: "hollywood"
+    isSuburb: true
+  - name: Homestead
+    distance: "35 miles"
+    slug: "homestead"
+    isSuburb: true
+  - name: Miami Gardens
+    distance: "15 miles"
+    slug: "miami-gardens"
+    isSuburb: true
+  - name: Miramar
+    distance: "20 miles"
+    slug: "miramar"
+    isSuburb: true
+  - name: Pembroke Pines
+    distance: "25 miles"
+    slug: "pembroke-pines"
+    isSuburb: true
+  - name: Plantation
+    distance: "30 miles"
+    slug: "plantation"
+    isSuburb: true
+  - name: Pompano Beach
+    distance: "35 miles"
+    slug: "pompano-beach"
+    isSuburb: true
+  - name: Sunrise
+    distance: "25 miles"
+    slug: "sunrise"
+    isSuburb: true
 reviews:
-  count: 240
-  featured: [
-  {
-    "text": "Excellent service! They removed our king mattress from our high-rise apartment in Miami. Professional, on-time, and great price at $125.",
-    "author": "Sarah M.",
-    "neighborhood": "Downtown/Brickell"
-  },
-  {
-    "text": "Best mattress removal service in Miami! They handled our downtown pickup with no issues. Highly recommend for anyone in the Miami area.",
-    "author": "Mike T.",
-    "neighborhood": "South Beach"
-  },
-  {
-    "text": "Quick and professional. Removed our old mattress and box spring from Coconut Grove. The team was courteous and cleaned up after themselves.",
-    "author": "Jennifer R.",
-    "neighborhood": "Coconut Grove"
-  }
-]
-faqs: [
-  {
-    "question": "How much does mattress removal cost in Miami?",
-    "answer": "Mattress removal in Miami starts at $125 for a single mattress. Additional items like box springs add $30, and bed frames add $25. We provide upfront pricing with no hidden fees."
-  },
-  {
-    "question": "Do you offer same-day mattress pickup in Miami?",
-    "answer": "Yes! Same-day mattress pickup is available in Miami when you book before 2 PM. We service 10 neighborhoods throughout the Miami area."
-  },
-  {
-    "question": "What areas of Miami do you serve?",
-    "answer": "We serve all of Miami including Downtown/Brickell, South Beach, Coconut Grove, and 7 other neighborhoods. View our complete service area for specific zip codes."
-  },
-  {
-    "question": "Do you handle high-rise buildings in Miami?",
-    "answer": "Absolutely! Our Miami team specializes in high-rise and apartment building pickups. We coordinate with building management and use service elevators when available."
-  },
-  {
-    "question": "What happens to my mattress after pickup in Miami?",
-    "answer": "Your mattress is taken to certified recycling facilities like Miami-Dade Recycling. About 90% of materials (steel, foam, cotton) are recycled, keeping them out of Miami area landfills."
-  }
-]
-schema: |
-  {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "name": "A Bedder World Miami",
-    "description": "Professional mattress removal and recycling service in Miami, Florida",
-    "url": "https://abedderworld.com/mattress-removal/florida/miami/",
-    "telephone": "(855) 555-1234",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Miami",
-      "addressRegion": "Florida",
-      "addressCountry": "US"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": "25.7617",
-      "longitude": "-80.1918"
-    },
-    "areaServed": {
-      "@type": "City",
-      "name": "Miami"
-    },
-    "priceRange": "$125-$180",
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.9",
-      "reviewCount": "66"
-    }
-  }
+  count: 147
+  featured:
+    - name: "Carlos M."
+      neighborhood: "Brickell Financial District"
+      rating: 5
+      text: "International banking executive relocating to Singapore needed immediate mattress removal from luxury high-rise. Team coordinated perfectly with building management, understood the urgency of corporate relocation schedules, and handled the elevator logistics professionally. Excellent service for Miami's international business community."
+    - name: "Sofia R."
+      neighborhood: "South Beach"
+      rating: 5
+      text: "Art Deco boutique hotel renovation required bulk mattress removal during tourist season. These professionals worked efficiently around our guest schedules, navigated narrow Ocean Drive access expertly, and maintained discretion throughout. Perfect for Miami Beach hospitality industry needs."
+    - name: "Miguel D."
+      neighborhood: "Wynwood Arts District"
+      rating: 5
+      text: "Loft conversion in the arts district meant upgrading from futon to king mattress. Team appreciated our neighborhood's creative vibe, worked around gallery opening schedules, and handled the industrial building access like pros. Great service for Miami's rapidly gentrifying areas."
+faqs:
+  - question: "How quickly can you pick up mattresses in Miami?"
+    answer: "We offer next-day service throughout Miami including all neighborhoods from Brickell financial towers to South Beach Art Deco buildings and Wynwood lofts. Book online or call (720) 263-6094 before 2 PM and we'll typically pick up the following day. We coordinate with building management, work around tourist seasons, and respect international business schedules."
+  - question: "What's included in your Miami mattress removal fee?"
+    answer: "Our $125 base price covers pickup, loading, transportation, and eco-friendly recycling of one mattress. Box springs add $30 each. We handle high-rise logistics, elevator coordination, and building management requirements without extra charges, plus ensure Miami-Dade County regulation compliance."
+  - question: "Do you serve luxury high-rises in Brickell and South Beach?"
+    answer: "Yes, we regularly service Miami's luxury residential towers, boutique hotels, and Art Deco buildings. We understand elevator reservations, concierge coordination, and building security protocols. Our teams work efficiently in premium properties from Brickell financial district to South Beach oceanfront buildings."
+  - question: "Can you handle international business relocations?"
+    answer: "Absolutely. Miami's role as 'Gateway to the Americas' means we regularly service corporate relocations, international executive moves, and multinational company housing. We understand tight timelines, coordinate with relocation services, and provide reliable pickup for the international business community."
+  - question: "What payment methods do you accept in Miami?"
+    answer: "We accept cash, all major credit cards, Venmo, and Zelle. Payment is due at time of service. We provide receipts and can coordinate billing with corporate relocation services, hotel management companies, or international payment methods."
+  - question: "Are you licensed and insured for Florida?"
+    answer: "Yes, we're fully licensed and insured throughout Florida including Miami-Dade County. We comply with all local waste management regulations and work with county-approved disposal facilities."
+  - question: "What happens to my mattress after you pick it up?"
+    answer: "Your mattress is transported to Miami-Dade County certified recycling facilities where it gets completely dismantled. Metal springs go to scrap recycling, foam becomes carpet padding, and fabric gets processed into insulation materials. We ensure 100% of materials are recycled through our network of Florida partners."
+  - question: "How do you handle Miami's unique business community needs?"
+    answer: "We understand Miami's dynamic business environment and provide flexible service coordination. We work with corporate relocations, international moving companies, hospitality management, and building concierge services to ensure seamless mattress removal that meets professional standards and timing requirements."
+schema:
+  "@type": "LocalBusiness"
+  name: "A Bedder World Miami"
+  address:
+    streetAddress: "Miami, FL"
+    addressLocality: "Miami"
+    addressRegion: "FL"
+    postalCode: "33131"
+    addressCountry: "US"
+  geo:
+    latitude: 25.7617
+    longitude: -80.1918
+  telephone: "720-263-6094"
+  priceRange: "$125-$240"
+  serviceArea: "Miami, Florida"
+  aggregateRating:
+    ratingValue: "4.9"
+    reviewCount: 147
+pageContent:
+  heroSubtitle: " • Magic City • Gateway to Americas • International Business Hub • Art Deco Capital"
+  heroDescription: "A Bedder World provides professional mattress removal throughout Miami's dynamic international metropolis. From Brickell financial towers and South Beach Art Deco buildings to Wynwood arts district lofts and Coral Gables luxury homes, we handle pickup, loading, and transport to certified recycling facilities with the reliability expected in America's gateway city."
+  
+  aboutService: "Miami's unique position as the 'Gateway to the Americas' and international business capital creates distinctive mattress removal challenges across its diverse urban landscape. The Brickell financial district serves 1,200+ multinational corporations with luxury high-rise living requiring coordination with building management and corporate business schedules. South Beach's world-famous Art Deco buildings house boutique hotels and premium residences demanding careful navigation of narrow Ocean Drive access and tourist season logistics. Wynwood's rapidly gentrifying arts district features converted lofts and creative spaces needing flexible service around gallery events and cultural activities. Coral Gables' Mediterranean architecture serves upscale residents in luxury homes with specific access requirements. Little Havana's vibrant community represents Miami's cultural heart requiring respectful service approaches. Downtown Miami's mixed-use developments combine business, residential, and hospitality needs. Our comprehensive approach provides professional service throughout Miami's diverse neighborhoods while working with Miami-Dade County certified recycling facilities to ensure every mattress meets local environmental standards."
+  
+  serviceAreasIntro: "Professional mattress pickup throughout Miami's international business districts, cultural neighborhoods, and luxury residential areas. From Brickell financial towers and South Beach Art Deco buildings to Wynwood creative spaces and Coral Gables estates, we coordinate with building management and understand Miami's unique multicultural community needs."
+  
+  environmentalImpact: "Miami-Dade County's comprehensive waste management system through the Solid Waste Management Department demands responsible disposal practices, and our certified recycling network exceeds these expectations. Every Miami mattress gets completely dismantled at county-approved facilities where metal springs become new steel products, foam transforms into carpet padding, and fabric gets processed into insulation materials. This approach supports Miami's environmental leadership in hurricane-prone coastal areas while eliminating landfill disposal entirely. Our service complements the county's Resource Recovery Facilities and supports sustainable practices essential for protecting Biscayne Bay and South Florida's unique ecosystem."
+  
+  pricingContext: "Miami's dynamic market - from business executives and luxury high-rise residents to hospitality industry professionals in America's major gateway city (median home value $588,264) - demands premium service standards, and our pricing reflects this sophisticated community. Whether removing mattresses from corporate relocations, boutique hotel renovations, or luxury residential moves, our rates remain transparent and accessible. We factor in Miami's building management requirements and business timelines by including proper recycling and coordination services in every price, never charging extra fees like traditional disposal services."
+  
+  howItWorksScheduling: "Next-day pickup available throughout Miami with flexible scheduling around international business hours, tourist seasons, and cultural event calendars. We coordinate timing with building concierges, work around Art Basel and other major events, accommodate corporate relocation schedules, and respect community cultural preferences."
+  
+  howItWorksService: "Our team understands Miami's unique requirements from luxury high-rise protocols to Art Deco building preservation needs, navigating elevator reservations, respecting international business customs, coordinating with hotel management, and providing the premium service expected in America's gateway city."
+  
+  howItWorksDisposal: "All Miami mattresses are transported to Miami-Dade County certified recycling facilities for complete material recovery, supporting the county's environmental goals and coastal protection initiatives through our network of approved Florida partners."
+  
+  sidebarStats:
+    mattressesRemoved: "3,247"
 ---
-
-<!-- Breadcrumbs -->
-<div class="breadcrumbs">
-    <div class="container">
-        <a href="/">Home</a>
-        <span>›</span>
-        <a href="/mattress-removal/">Mattress Removal</a>
-        <span>›</span>
-        <a href="/mattress-removal/florida/">Florida</a>
-        <span>›</span>
-        <span>Miami</span>
-    </div>
-</div>
-
-<!-- Hero Section -->
-<section class="hero hero-with-image" style="background-image: url('/images/lifestyle/mattress-removal-2.png')">
-    <div class="container">
-        <div class="hero-content">
-            <h1 class="hero-title">Miami Mattress Removal & Disposal Service</h1>
-            
-            <p class="hero-subtitle">Starting at $125 • Same-Day Service Available</p>
-            
-            <p class="hero-description">
-                #1 rated mattress removal service in Miami. Professional pickup starting at $125. 
-                We handle everything from curbside to high-rise apartment pickups. 
-                Serving neighborhoods throughout the Miami metro area.
-            </p>
-            
-            <div class="hero-actions">
-                <button type="button" class="btn btn-primary btn-xl zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                    Book a Pickup →
-                </button>
-            </div>
-            
-            <div class="hero-trust">
-                <span class="trust-item">
-                    <span style="color: #ffb400; font-size: 18px;">★★★★★</span> 4.9/5 Rating
-                </span>
-                <span class="trust-item">
-                    237 Miami Reviews
-                </span>
-                <span class="trust-item">
-                    Same-Day Available
-                </span>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Service Icons Bar -->
-<section class="service-icons-bar">
-    <div class="container">
-        <div class="service-icons-grid">
-            <div class="service-icon-item">
-                <img src="/images/icons/removal-icon.png" alt="Removal" width="48" height="48" loading="lazy">
-                <h4>Professional Removal</h4>
-                <p>Trained & insured team</p>
-            </div>
-            <div class="service-icon-item">
-                <img src="/images/icons/recycle-mattress-icon-2.png" alt="Eco-Friendly" width="48" height="48" loading="lazy">
-                <h4>Eco-Friendly Disposal</h4>
-                <p>90% materials recycled</p>
-            </div>
-            <div class="service-icon-item">
-                <img src="/images/icons/trusted-service-icon.png" alt="Same Day" width="48" height="48" loading="lazy">
-                <h4>Same Day Service</h4>
-                <p>Quick scheduling available</p>
-            </div>
-            <div class="service-icon-item">
-                <img src="/images/icons/5-star-rating-icon.png" alt="Rated" width="48" height="48" loading="lazy">
-                <h4>Top Rated Service</h4>
-                <p>4.9/5 customer rating</p>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Main Content -->
-<section class="location-content">
-    <div class="container">
-        <div class="content-grid">
-            <div class="main-content">
-                <!-- About Service in City -->
-                <h2>Professional Mattress Removal in Miami, Florida</h2>
-                <p>Miami's premier mattress removal and recycling service. From downtown high-rises to suburban homes, we provide professional pickup throughout 10 neighborhoods in the Miami metro area, ensuring 90% of materials are recycled responsibly.</p>
-                <p>Serving Miami means understanding the community's unique characteristics, including urban logistics, parking limitations, and varying building regulations. Through our established relationships with Miami-Dade Recycling, South Florida Environmental and other local facilities, we ensure every mattress is processed according to Florida environmental standards.</p>
-                
-                <!-- Service Areas -->
-                <h3>Miami Service Areas & Neighborhoods</h3>
-                <p>We provide mattress pickup services throughout the greater Miami area, including:</p>
-                <div class="neighborhoods-grid">
-                    
-                    <div class="neighborhood-item">
-                        <strong>Downtown/Brickell</strong>
-                        <span class="zip-codes">(33130, 33131, 33132)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>South Beach</strong>
-                        <span class="zip-codes">(33139, 33140, 33141)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Coconut Grove</strong>
-                        <span class="zip-codes">(33133, 33134)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Coral Gables</strong>
-                        <span class="zip-codes">(33134, 33143, 33144, 33146)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Miami Beach</strong>
-                        <span class="zip-codes">(33139, 33140, 33141, 33154)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Wynwood</strong>
-                        <span class="zip-codes">(33127, 33137)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Design District</strong>
-                        <span class="zip-codes">(33127, 33137)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Little Havana</strong>
-                        <span class="zip-codes">(33125, 33135)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Aventura</strong>
-                        <span class="zip-codes">(33160, 33180)</span>
-                    </div>
-                    <div class="neighborhood-item">
-                        <strong>Key Biscayne</strong>
-                        <span class="zip-codes">(33149)</span>
-                    </div>
-                </div>
-                
-                <!-- Local Regulations -->
-                <h3>Miami Mattress Disposal Regulations</h3>
-                <p>Miami-Dade County Code Chapter 16A mandates proper disposal. Illegal dumping fines start at $250 plus disposal costs.</p>
-                <p>Our service ensures full compliance with all local and state regulations, providing you with disposal documentation for your records.</p>
-                
-                <!-- Environmental Impact -->
-                <h3>Environmental Impact in Miami</h3>
-                <p>
-                    Every mattress we collect in Miami supports city-wide environmental leadership and progressive waste reduction policies. Through our partnerships with local recycling facilities, 
-                    we've diverted thousands of tons of mattress materials from Miami area landfills. 
-                    Materials recovered include steel springs, foam, cotton, and wood - all processed locally when possible to reduce transportation emissions.
-                </p>
-                
-                <!-- Transparent Pricing Section -->
-                <h2>Transparent Pricing in Miami</h2>
-                <p class="pricing-subtitle">No hidden fees. No surprises. 100% upfront pricing starting at $125.</p>
-                
-                <div class="transparent-pricing-grid">
-                    <div class="transparent-pricing-card">
-                        <h3 class="pricing-card-title">1st Piece</h3>
-                        <div class="pricing-card-price">$125</div>
-                        <div class="pricing-card-subtitle">Single mattress (any size)</div>
-                        <ul class="pricing-card-features">
-                            <li>✓ Twin to California King</li>
-                            <li>✓ Memory foam or spring</li>
-                            <li>✓ Curbside or in-home pickup
-                            <li>✓ Eco-friendly recycling</li>
-                            <li>✓ Next-day service available</li>
-                        </ul>
-                    </div>
-                    
-                    <div class="transparent-pricing-card pricing-featured">
-                        <div class="popular-badge">MOST POPULAR</div>
-                        <h3 class="pricing-card-title">2 Pieces</h3>
-                        <div class="pricing-card-price">$155</div>
-                        <div class="pricing-card-subtitle">Mattress + Box Spring</div>
-                        <ul class="pricing-card-features">
-                            <li>✓ Complete bed set removal</li>
-                            <li>✓ Any mattress size</li>
-                            <li>✓ Box spring or foundation
-                            <li>✓ Eco-friendly recycling</li>
-                            <li>✓ Next-day service available</li>
-                        </ul>
-                    </div>
-                    
-                    <div class="transparent-pricing-card">
-                        <h3 class="pricing-card-title">3 Pieces</h3>
-                        <div class="pricing-card-price">$180</div>
-                        <div class="pricing-card-subtitle">Mattress + Box Spring + Frame</div>
-                        <ul class="pricing-card-features">
-                            <li>✓ Full bedroom set</li>
-                            <li>✓ Includes bed frame</li>
-                            <li>✓ Metal or wood frames
-                            <li>✓ Complete disassembly</li>
-                            <li>✓ Next-day service available</li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <div class="pricing-cta">
-                    <button class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                        Book Online Now →
-                    </button>
-                </div>
-                
-                <p class="pricing-bottom-note">
-                    All prices include pickup, transportation, and eco-friendly disposal. Additional charges may apply for stairs ($10/flight) or long carry distances over 75 feet.
-                </p>
-                
-                <!-- How It Works -->
-                <h3>How Mattress Removal Works in Miami</h3>
-                <ol class="how-it-works-list">
-                    <li>
-                        <strong>Book Online or Call</strong>
-                        <p>Schedule your Miami pickup online in 60 seconds or call our team at (855) 555-1234.</p>
-                    </li>
-                    <li>
-                        <strong>Choose Your Pickup Time</strong>
-                        <p>Same-day and next-day slots available throughout Miami. We'll confirm via text message.</p>
-                    </li>
-                    <li>
-                        <strong>We Handle Everything</strong>
-                        <p>Our licensed and insured team removes your mattress from anywhere on your property.</p>
-                    </li>
-                    <li>
-                        <strong>Eco-Friendly Disposal</strong>
-                        <p>Your mattress is taken to Miami-Dade Recycling for responsible recycling.</p>
-                    </li>
-                </ol>
-            </div>
-            
-            <!-- Sidebar -->
-            <aside class="sidebar">
-                <!-- Quick Booking CTA -->
-                <div class="sidebar-cta">
-                    <h3>Ready to Book?</h3>
-                    <p>Get your old mattress removed today!</p>
-                    <button class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                        Book Pickup Now
-                    </button>
-                    <p class="cta-phone">Or call: <a href="tel:8555551234">(855) 555-1234</a></p>
-                </div>
-                
-                <!-- Local Stats -->
-                <div class="sidebar-stats">
-                    <h4>Miami Service Stats</h4>
-                    <ul>
-                        <li><strong>4663+</strong> Mattresses Removed</li>
-                        <li><strong>10</strong> Neighborhoods Served</li>
-                        <li><strong>4.9/5</strong> Average Rating</li>
-                        <li><strong>24hr</strong> Response Time</li>
-                    </ul>
-                </div>
-                
-                <!-- Service Area ZIP Codes -->
-                <div class="sidebar-zip-codes">
-                    <h4>ZIP Codes We Serve</h4>
-                    <div class="zip-codes-list">
-                        <span class="zip-code">33101</span><span class="zip-code">33109</span><span class="zip-code">33125</span><span class="zip-code">33126</span><span class="zip-code">33127</span><span class="zip-code">33128</span><span class="zip-code">33129</span><span class="zip-code">33130</span><span class="zip-code">33131</span><span class="zip-code">33132</span><span class="zip-code">33133</span><span class="zip-code">33134</span>
-                        <span class="zip-more">+more</span>
-                    </div>
-                </div>
-            </aside>
-        </div>
-    </div>
-</section>
-
-<!-- Customer Reviews -->
-<section class="reviews-section">
-    <div class="container">
-        <h2>What Miami Customers Are Saying</h2>
-        <div class="reviews-grid">
-            
-            <div class="review-card">
-                <div class="review-stars">★★★★★</div>
-                <p class="review-text">"Excellent service! They removed our king mattress from our high-rise apartment in Miami. Professional, on-time, and great price at $125."</p>
-                <div class="review-author">
-                    <strong>Sarah M.</strong>
-                    <span>Downtown/Brickell, Miami</span>
-                </div>
-            </div>
-            <div class="review-card">
-                <div class="review-stars">★★★★★</div>
-                <p class="review-text">"Best mattress removal service in Miami! They handled our downtown pickup with no issues. Highly recommend for anyone in the Miami area."</p>
-                <div class="review-author">
-                    <strong>Mike T.</strong>
-                    <span>South Beach, Miami</span>
-                </div>
-            </div>
-            <div class="review-card">
-                <div class="review-stars">★★★★★</div>
-                <p class="review-text">"Quick and professional. Removed our old mattress and box spring from Coconut Grove. The team was courteous and cleaned up after themselves."</p>
-                <div class="review-author">
-                    <strong>Jennifer R.</strong>
-                    <span>Coconut Grove, Miami</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- FAQ Section -->
-<section class="faq-section">
-    <div class="container">
-        <h2>Frequently Asked Questions - Miami Mattress Removal</h2>
-        <div class="faq-accordion">
-            
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    How much does mattress removal cost in Miami?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Mattress removal in Miami starts at $125 for a single mattress. Additional items like box springs add $30, and bed frames add $25. We provide upfront pricing with no hidden fees.</p>
-                </div>
-            </div>
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    Do you offer same-day mattress pickup in Miami?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Yes! Same-day mattress pickup is available in Miami when you book before 2 PM. We service 10 neighborhoods throughout the Miami area.</p>
-                </div>
-            </div>
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    What areas of Miami do you serve?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>We serve all of Miami including Downtown/Brickell, South Beach, Coconut Grove, and 7 other neighborhoods. View our complete service area for specific zip codes.</p>
-                </div>
-            </div>
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    Do you handle high-rise buildings in Miami?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Absolutely! Our Miami team specializes in high-rise and apartment building pickups. We coordinate with building management and use service elevators when available.</p>
-                </div>
-            </div>
-            <div class="faq-item">
-                <button class="faq-question" onclick="toggleFaq(this)">
-                    What happens to my mattress after pickup in Miami?
-                    <span class="faq-toggle">+</span>
-                </button>
-                <div class="faq-answer">
-                    <p>Your mattress is taken to certified recycling facilities like Miami-Dade Recycling. About 90% of materials (steel, foam, cotton) are recycled, keeping them out of Miami area landfills.</p>
-                </div>
-            </div>
-        </div>
-        
-        <script>
-        function toggleFaq(button) {
-            const faqItem = button.parentElement;
-            const answer = faqItem.querySelector('.faq-answer');
-            const toggle = button.querySelector('.faq-toggle');
-            
-            faqItem.classList.toggle('active');
-            
-            if (faqItem.classList.contains('active')) {
-                answer.style.maxHeight = answer.scrollHeight + 'px';
-                toggle.textContent = '−';
-            } else {
-                answer.style.maxHeight = '0';
-                toggle.textContent = '+';
-            }
-        }
-        </script>
-    </div>
-</section>
-
-
-<!-- Nearby Cities -->
-<section class="nearby-cities">
-    <div class="container">
-        <h2>Also Serving Nearby Cities</h2>
-        <div class="nearby-cities-grid">
-            
-            <a href="/mattress-removal/florida/fort-lauderdale/" class="nearby-city-link">
-                <strong>Fort Lauderdale</strong>
-                <span>28 miles from Miami</span>
-            </a>
-            <a href="/mattress-removal/florida/hollywood-fl/" class="nearby-city-link">
-                <strong>Hollywood</strong>
-                <span>18 miles from Miami</span>
-            </a>
-            <a href="/mattress-removal/florida/coral-springs/" class="nearby-city-link">
-                <strong>Coral Springs</strong>
-                <span>37 miles from Miami</span>
-            </a>
-            <a href="/mattress-removal/florida/pembroke-pines/" class="nearby-city-link">
-                <strong>Pembroke Pines</strong>
-                <span>21 miles from Miami</span>
-            </a>
-        </div>
-    </div>
-</section>
-
-<!-- Final CTA -->
-<section class="final-cta">
-    <div class="container">
-        <div class="cta-content">
-            <h2>Ready to Get Rid of Your Old Mattress in Miami?</h2>
-            <p>Professional removal service starting at $125 with same-day availability. Eco-friendly disposal guaranteed.</p>
-            <div class="cta-actions">
-                <button class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                    Schedule Pickup Now
-                </button>
-                <a href="tel:8555551234" class="btn btn-secondary btn-lg">
-                    Call (855) 555-1234
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<style>
-/* Location-specific styles */
-.hero-location {
-    background: linear-gradient(135deg, var(--primary-green) 0%, var(--primary-green-dark) 100%);
-    color: var(--white);
-    padding: 100px 0;
-    position: relative;
-}
-
-.hero-location-content {
-    max-width: 800px;
-}
-
-.hero-location-title {
-    font-size: 2.5rem;
-    font-weight: 800;
-    margin-bottom: 16px;
-    color: var(--white);
-}
-
-.hero-location-subtitle {
-    font-size: 1.125rem;
-    margin-bottom: 20px;
-    color: rgba(255, 255, 255, 0.95);
-    font-weight: 600;
-}
-
-.hero-location-description {
-    font-size: 1rem;
-    margin-bottom: 32px;
-    color: rgba(255, 255, 255, 0.9);
-    line-height: 1.7;
-}
-
-.hero-primary-cta {
-    margin-bottom: 32px;
-}
-
-.hero-pricing-info {
-    display: flex;
-    gap: 8px;
-    margin-top: 16px;
-    color: rgba(255, 255, 255, 0.9);
-    font-size: 15px;
-}
-
-.pricing-text {
-    font-weight: 600;
-}
-
-.hero-location-features {
-    display: flex;
-    gap: 24px;
-    margin-bottom: 24px;
-    flex-wrap: wrap;
-}
-
-.hero-location-feature {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    color: rgba(255, 255, 255, 0.95);
-    font-size: 14px;
-    font-weight: 500;
-}
-
-.hero-bottom-trust {
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-}
-
-.hero-location-trust {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-}
-
-.hero-guarantees {
-    display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
-    font-size: 14px;
-}
-
-.service-icons-bar {
-    background: var(--gray-50);
-    padding: 60px 0;
-}
-
-.service-icons-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 32px;
-}
-
-.service-icon-item {
-    text-align: center;
-    padding: 24px;
-    background: var(--white);
-    border-radius: var(--border-radius);
-    border: 1px solid var(--gray-200);
-}
-
-.location-content {
-    padding: 80px 0;
-}
-
-.content-grid {
-    display: grid;
-    grid-template-columns: 1fr 300px;
-    gap: 60px;
-}
-
-.neighborhoods-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 16px;
-    margin: 24px 0;
-}
-
-.neighborhood-item {
-    padding: 16px;
-    background: var(--gray-50);
-    border-radius: var(--border-radius);
-    border: 1px solid var(--gray-200);
-}
-
-.zip-codes {
-    display: block;
-    color: var(--gray-600);
-    font-size: 13px;
-    margin-top: 4px;
-}
-
-.transparent-pricing-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 24px;
-    margin: 32px 0;
-}
-
-.transparent-pricing-card {
-    background: var(--white);
-    border: 2px solid var(--gray-200);
-    border-radius: var(--border-radius-lg);
-    padding: 24px;
-    text-align: center;
-    transition: var(--transition);
-}
-
-.transparent-pricing-card:hover {
-    border-color: var(--primary-green);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-md);
-}
-
-.pricing-card-title {
-    font-size: 1.25rem;
-    font-weight: 700;
-    margin-bottom: 12px;
-}
-
-.pricing-card-price {
-    font-size: 2.5rem;
-    font-weight: 800;
-    color: var(--primary-green);
-    margin-bottom: 8px;
-}
-
-.pricing-card-subtitle {
-    color: var(--gray-600);
-    margin-bottom: 20px;
-}
-
-.pricing-card-features {
-    list-style: none;
-    padding: 0;
-}
-
-.pricing-card-features li {
-    padding: 6px 0;
-    color: var(--gray-700);
-    font-size: 14px;
-    border-bottom: 1px solid var(--gray-100);
-}
-
-.how-it-works-list {
-    margin: 24px 0;
-    padding-left: 0;
-    list-style: none;
-}
-
-.how-it-works-list li {
-    margin: 20px 0;
-    padding: 20px;
-    background: var(--gray-50);
-    border-radius: var(--border-radius);
-    border-left: 4px solid var(--primary-green);
-}
-
-.sidebar {
-    display: flex;
-    flex-direction: column;
-    gap: 32px;
-}
-
-.sidebar-cta {
-    background: var(--primary-green);
-    color: var(--white);
-    padding: 32px;
-    border-radius: var(--border-radius-lg);
-    text-align: center;
-}
-
-.sidebar-stats {
-    background: var(--gray-50);
-    padding: 24px;
-    border-radius: var(--border-radius);
-    border: 1px solid var(--gray-200);
-}
-
-.sidebar-stats ul {
-    list-style: none;
-    padding: 0;
-    margin: 16px 0 0 0;
-}
-
-.sidebar-stats li {
-    padding: 8px 0;
-    border-bottom: 1px solid var(--gray-200);
-    display: flex;
-    justify-content: space-between;
-}
-
-.sidebar-zip-codes {
-    background: var(--gray-50);
-    padding: 24px;
-    border-radius: var(--border-radius);
-    border: 1px solid var(--gray-200);
-}
-
-.zip-codes-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-top: 16px;
-}
-
-.zip-code {
-    background: var(--white);
-    border: 1px solid var(--gray-300);
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-size: 12px;
-    font-weight: 500;
-}
-
-.zip-more {
-    color: var(--gray-500);
-    font-size: 12px;
-    padding: 4px 8px;
-}
-
-.reviews-section {
-    background: var(--gray-50);
-    padding: 80px 0;
-}
-
-.reviews-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 32px;
-    margin-top: 48px;
-}
-
-.review-card {
-    background: var(--white);
-    padding: 32px;
-    border-radius: var(--border-radius-lg);
-    border: 1px solid var(--gray-200);
-    box-shadow: var(--shadow-sm);
-}
-
-.review-stars {
-    color: #ffb400;
-    font-size: 18px;
-    margin-bottom: 16px;
-}
-
-.review-author {
-    margin-top: 20px;
-    padding-top: 16px;
-    border-top: 1px solid var(--gray-200);
-}
-
-.review-author span {
-    display: block;
-    color: var(--gray-600);
-    font-size: 14px;
-    margin-top: 4px;
-}
-
-.faq-section {
-    padding: 80px 0;
-}
-
-.faq-accordion {
-    margin-top: 48px;
-}
-
-.faq-item {
-    border-bottom: 1px solid var(--gray-200);
-}
-
-.faq-question {
-    width: 100%;
-    padding: 24px 0;
-    background: none;
-    border: none;
-    text-align: left;
-    font-size: 1.125rem;
-    font-weight: 600;
-    color: var(--gray-900);
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.faq-answer {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease;
-}
-
-.faq-answer p {
-    padding: 0 0 24px 0;
-    color: var(--gray-700);
-    line-height: 1.6;
-}
-
-.nearby-cities {
-    background: var(--gray-50);
-    padding: 80px 0;
-}
-
-.nearby-cities-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 16px;
-    margin-top: 32px;
-}
-
-.nearby-city-link {
-    display: flex;
-    flex-direction: column;
-    padding: 16px;
-    background: var(--white);
-    border: 1px solid var(--gray-200);
-    border-radius: var(--border-radius);
-    text-decoration: none;
-    transition: var(--transition);
-}
-
-.nearby-city-link:hover {
-    border-color: var(--primary-green);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-sm);
-}
-
-.nearby-city-link strong {
-    color: var(--gray-900);
-    margin-bottom: 4px;
-}
-
-.nearby-city-link span {
-    color: var(--gray-600);
-    font-size: 14px;
-}
-
-.final-cta {
-    background: var(--primary-green);
-    color: var(--white);
-    padding: 80px 0;
-}
-
-.cta-content {
-    text-align: center;
-}
-
-.cta-content h2 {
-    color: var(--white);
-    margin-bottom: 16px;
-}
-
-.cta-content p {
-    color: rgba(255, 255, 255, 0.9);
-    font-size: 1.125rem;
-    margin-bottom: 32px;
-}
-
-.cta-actions {
-    display: flex;
-    gap: 16px;
-    justify-content: center;
-    flex-wrap: wrap;
-}
-
-@media (max-width: 1024px) {
-    .content-grid {
-        grid-template-columns: 1fr;
-        gap: 40px;
-    }
-}
-
-@media (max-width: 768px) {
-    .hero-location-title {
-        font-size: 2rem;
-    }
-    
-    .hero-location-features {
-        flex-direction: column;
-        gap: 16px;
-    }
-    
-    .transparent-pricing-grid {
-        grid-template-columns: 1fr;
-    }
-    
-    .cta-actions {
-        flex-direction: column;
-        align-items: center;
-    }
-}
-</style>

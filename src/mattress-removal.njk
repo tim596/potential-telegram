@@ -1,6 +1,7 @@
 ---
 title: Professional Mattress Removal Service - 1,000+ Cities Nationwide
-description: Professional mattress removal service starting at $125. Same-day pickup available in 1,000+ cities across all 50 states. Eco-friendly disposal & recycling guaranteed.
+metaTitle: "Service Areas | Mattress Removal in 500+ Cities | A Bedder World"
+metaDescription: "We serve 500+ cities across 50 states. Find your location for instant pricing and next-day mattress pickup. New cities added monthly. Book in 60 seconds."
 layout: base.njk
 permalink: /mattress-removal/
 schema: |
@@ -12,7 +13,7 @@ schema: |
     "provider": {
       "@type": "Organization",
       "name": "A Bedder World",
-      "url": "https://abedderworld.com"
+      "url": "/"
     },
     "areaServed": {
       "@type": "Country",
@@ -37,16 +38,28 @@ schema: |
     <div class="container">
         <div class="hero-content">
             <h1 class="hero-title">Mattress Removal Service - Nationwide Coverage</h1>
-            <p class="hero-subtitle">Professional pickup starting at ${{ pricing.startingPrice }} in 1,000+ cities</p>
+            <p class="hero-subtitle">Professional pickup in 1,000+ cities nationwide</p>
             <p class="hero-description">
                 America's leading mattress removal and recycling service. We provide professional, 
                 eco-friendly mattress disposal in major cities and towns across all 50 states. 
                 Same-day service available with upfront pricing and no hidden fees.
             </p>
-            <div class="hero-actions">
-                <a href="#" class="btn btn-primary btn-xl zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                    Schedule Pickup →
-                </a>
+            <div class="zip-checker">
+                <h3>Check Your Service Area</h3>
+                <div class="zip-form">
+                    <input type="text" 
+                           id="zipInput" 
+                           placeholder="Enter your ZIP code" 
+                           maxlength="5" 
+                           pattern="[0-9]{5}"
+                           class="zip-input">
+                    <button type="button" 
+                            onclick="checkZipCode()" 
+                            class="btn btn-primary">
+                        Check Coverage
+                    </button>
+                </div>
+                <div id="zipResult" class="zip-result"></div>
             </div>
         </div>
     </div>
@@ -113,7 +126,7 @@ schema: |
                 <div class="state-links">
                     <a href="/mattress-removal/texas/" class="state-link">
                         <strong>Texas</strong>
-                        <span>125+ cities including Houston, Dallas, Austin</span>
+                        <span>Major cities including Houston, Dallas, Austin</span>
                     </a>
                     <a href="/mattress-removal/arizona/" class="state-link">
                         <strong>Arizona</strong>
@@ -228,6 +241,7 @@ schema: |
                     <a href="/mattress-removal/utah/">Utah</a>
                     <a href="/mattress-removal/vermont/">Vermont</a>
                     <a href="/mattress-removal/virginia/">Virginia</a>
+                    <a href="/mattress-removal/washington-dc/">Washington DC</a>
                     <a href="/mattress-removal/west-virginia/">West Virginia</a>
                     <a href="/mattress-removal/wyoming/">Wyoming</a>
                 </div>
@@ -247,49 +261,49 @@ schema: |
         <div class="top-cities-grid">
             <a href="/mattress-removal/california/los-angeles/" class="city-card">
                 <div class="city-name">Los Angeles, CA</div>
-                <div class="city-price">Starting at ${{ pricing.startingPrice }}</div>
+                
                 <div class="city-stats">★★★★★ 4.9 • 500+ reviews</div>
             </a>
             
             <a href="/mattress-removal/texas/houston/" class="city-card">
                 <div class="city-name">Houston, TX</div>
-                <div class="city-price">Starting at ${{ pricing.startingPrice }}</div>
+                
                 <div class="city-stats">★★★★★ 4.9 • 400+ reviews</div>
             </a>
             
             <a href="/mattress-removal/new-york/new-york-city/" class="city-card">
                 <div class="city-name">New York, NY</div>
-                <div class="city-price">Starting at ${{ pricing.startingPrice }}</div>
+                
                 <div class="city-stats">★★★★★ 4.9 • 800+ reviews</div>
             </a>
             
             <a href="/mattress-removal/illinois/chicago/" class="city-card">
                 <div class="city-name">Chicago, IL</div>
-                <div class="city-price">Starting at ${{ pricing.startingPrice }}</div>
+                
                 <div class="city-stats">★★★★★ 4.9 • 350+ reviews</div>
             </a>
             
             <a href="/mattress-removal/arizona/phoenix/" class="city-card">
                 <div class="city-name">Phoenix, AZ</div>
-                <div class="city-price">Starting at ${{ pricing.startingPrice }}</div>
+                
                 <div class="city-stats">★★★★★ 4.9 • 300+ reviews</div>
             </a>
             
             <a href="/mattress-removal/california/san-francisco/" class="city-card">
                 <div class="city-name">San Francisco, CA</div>
-                <div class="city-price">Starting at ${{ pricing.startingPrice }}</div>
+                
                 <div class="city-stats">★★★★★ 4.9 • 275+ reviews</div>
             </a>
             
             <a href="/mattress-removal/florida/miami/" class="city-card">
                 <div class="city-name">Miami, FL</div>
-                <div class="city-price">Starting at ${{ pricing.startingPrice }}</div>
+                
                 <div class="city-stats">★★★★★ 4.9 • 250+ reviews</div>
             </a>
             
             <a href="/mattress-removal/texas/dallas/" class="city-card">
                 <div class="city-name">Dallas, TX</div>
-                <div class="city-price">Starting at ${{ pricing.startingPrice }}</div>
+                
                 <div class="city-stats">★★★★★ 4.9 • 320+ reviews</div>
             </a>
         </div>
@@ -327,14 +341,14 @@ schema: |
         <div style="text-align: center;">
             <h2 style="color: white; margin-bottom: 16px;">Ready to Schedule Your Mattress Removal?</h2>
             <p style="color: rgba(255,255,255,0.9); font-size: 1.125rem; margin-bottom: 32px;">
-                Professional service starting at ${{ pricing.startingPrice }}. Same-day pickup available in most areas.
+                Professional service with same-day pickup available in most areas.
             </p>
             <div class="hero-actions">
-                <a href="#" class="btn btn-secondary btn-xl" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                <a href="#" class="btn btn-white btn-xl" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
                     Book Online Now →
                 </a>
-                <a href="tel:8555551234" class="btn" style="background: rgba(255,255,255,0.2); color: white; border-color: rgba(255,255,255,0.3);">
-                    Call (855) 555-1234
+                <a href="tel:7202636094" class="btn" style="background: rgba(255,255,255,0.2); color: white; border-color: rgba(255,255,255,0.3);">
+                    Call (720) 263-6094
                 </a>
             </div>
         </div>
@@ -466,4 +480,123 @@ schema: |
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+/* Zip Code Checker */
+.zip-checker {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    border-radius: 12px;
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.zip-checker h3 {
+    color: white;
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.zip-form {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.zip-input {
+    padding: 12px 16px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.9);
+    font-size: 1rem;
+    width: 200px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.zip-input:focus {
+    outline: none;
+    border-color: var(--primary-green);
+    background: white;
+    box-shadow: 0 0 0 3px rgba(166, 206, 57, 0.2);
+}
+
+.zip-result {
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.zip-result.success {
+    background: rgba(34, 197, 94, 0.2);
+    border: 1px solid rgba(34, 197, 94, 0.4);
+    color: #22c55e;
+}
+
+.zip-result.error {
+    background: rgba(239, 68, 68, 0.2);
+    border: 1px solid rgba(239, 68, 68, 0.4);
+    color: #ef4444;
+}
+
+@media (max-width: 768px) {
+    .zip-form {
+        flex-direction: column;
+        gap: 16px;
+    }
+    
+    .zip-input {
+        width: 100%;
+        max-width: 250px;
+    }
+}
 </style>
+
+<script>
+function checkZipCode() {
+    const zipInput = document.getElementById('zipInput');
+    const zipResult = document.getElementById('zipResult');
+    const zipCode = zipInput.value.trim();
+    
+    // Basic ZIP code validation
+    const zipRegex = /^\d{5}$/;
+    
+    if (!zipCode) {
+        showZipResult('Please enter a ZIP code', 'error');
+        return;
+    }
+    
+    if (!zipRegex.test(zipCode)) {
+        showZipResult('Please enter a valid 5-digit ZIP code', 'error');
+        return;
+    }
+    
+    // Since we accept all US ZIP codes, show success
+    showZipResult(
+        `Great news! We service ${zipCode}. ` +
+        `<br><br><button class="btn btn-primary" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">Book Online Now →</button>`,
+        'success'
+    );
+}
+
+function showZipResult(message, type) {
+    const zipResult = document.getElementById('zipResult');
+    zipResult.innerHTML = message;
+    zipResult.className = `zip-result ${type}`;
+    zipResult.style.display = 'block';
+}
+
+// Allow Enter key to trigger check
+document.getElementById('zipInput').addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+        checkZipCode();
+    }
+});
+</script>

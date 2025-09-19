@@ -1,0 +1,223 @@
+---
+layout: location.njk
+title: North Little Rock Mattress Removal & Disposal Service
+description: Professional mattress removal in North Little Rock, Arkansas. Next-day pickup  Licensed, insured, and eco-friendly. Serving the historic Argenta Arts District and riverfront communities.
+permalink: /mattress-removal/arkansas/little-rock/north-little-rock/
+city: North Little Rock
+state: Arkansas
+stateSlug: arkansas
+parentMetro: Little Rock
+tier: 2
+coordinates:
+  lat: 34.7693
+  lng: -92.2671
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+pageContent:
+  heroDescription: "#1 rated mattress removal service in North Little Rock, Arkansas. Professional pickup  From historic Argenta Arts District lofts to riverfront communities along the Arkansas River, we serve Little Rock's twin city with expertise in railroad heritage neighborhoods, entertainment districts, and family residential areas. Fast scheduling for busy urban and suburban lifestyles."
+  aboutService: "North Little Rock's premier mattress removal and disposal service, serving Arkansas's historic railroad town and Little Rock's twin city across the Arkansas River. From converted warehouse spaces in the vibrant Argenta Arts District to family homes near Burns Park and modern apartments near Dickey-Stephens Park, we provide expert mattress pickup throughout this unique community that blends industrial heritage with modern entertainment venues. Our North Little Rock team specializes in navigating the city's distinctive challenges, from historic building access in the National Register Argenta Historic District to riverfront property logistics and entertainment venue coordination. We work closely with North Little Rock's sanitation department and Waste Management partners to ensure responsible disposal while supporting the city's ongoing downtown revitalization and commitment to preserving its railroad heritage character."
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout the greater North Little Rock area, covering all neighborhoods from the historic Argenta Arts District to suburban residential communities:"
+  regulationsCompliance: "Our service ensures full compliance with North Little Rock's sanitation department requirements and Pulaski County waste regulations, coordinating with Waste Management collection schedules while providing documentation for your records."
+  environmentalImpact: "Every mattress we collect in North Little Rock supports Arkansas's environmental stewardship goals and the city's commitment to responsible growth along the Arkansas River corridor. Through partnerships with regional recycling facilities and compliance with state environmental guidelines, we've diverted hundreds of mattresses from Arkansas landfills. Materials recovered include steel springs, foam, cotton, and wood - all processed responsibly to reduce environmental impact while supporting North Little Rock's role as a revitalized riverfront community committed to sustainable development and historic preservation."
+  howItWorksScheduling: "Next-day slots available throughout North Little Rock metro. We coordinate with entertainment venues, historic district properties, and residential complexes."
+  howItWorksService: "Our licensed Arkansas team removes mattresses from any location including historic buildings, modern apartments, and family homes, handles required preparation per city standards, and navigates North Little Rock's mix of industrial heritage and modern developments."
+  howItWorksDisposal: "Your mattress is processed through Waste Management certified facilities or regional recycling centers following Arkansas environmental guidelines for responsible material recovery."
+  sidebarStats:
+    mattressesRemoved: "743"
+neighborhoods: [
+  {
+    "name": "Argenta Arts District",
+    "zipCodes": ["72114"]
+  },
+  {
+    "name": "Downtown North Little Rock", 
+    "zipCodes": ["72114"]
+  },
+  {
+    "name": "Park Hill",
+    "zipCodes": ["72116"]
+  },
+  {
+    "name": "Lakewood",
+    "zipCodes": ["72116"]
+  },
+  {
+    "name": "Rose City",
+    "zipCodes": ["72117"]
+  },
+  {
+    "name": "Sherwood Forest",
+    "zipCodes": ["72120"]
+  },
+  {
+    "name": "McCain",
+    "zipCodes": ["72117"]
+  },
+  {
+    "name": "Indian Hills",
+    "zipCodes": ["72116"]
+  },
+  {
+    "name": "Amboy",
+    "zipCodes": ["72118"]
+  },
+  {
+    "name": "Levy",
+    "zipCodes": ["72118"]
+  },
+  {
+    "name": "Sylvan Hills",
+    "zipCodes": ["72118"]
+  },
+  {
+    "name": "Oak Grove",
+    "zipCodes": ["72118"]
+  },
+  {
+    "name": "Burns Park Area",
+    "zipCodes": ["72116"]
+  },
+  {
+    "name": "Riverfront District",
+    "zipCodes": ["72114"]
+  },
+  {
+    "name": "Dixie Addition",
+    "zipCodes": ["72114"]
+  },
+  {
+    "name": "North Heights",
+    "zipCodes": ["72117"]
+  },
+  {
+    "name": "Crystal Hill",
+    "zipCodes": ["72118"]
+  },
+  {
+    "name": "Gravel Ridge",
+    "zipCodes": ["72120"]
+  }
+]
+zipCodes: [
+  "72114", "72116", "72117", "72118", "72120"
+]
+recyclingPartners: [
+  "Waste Management North Little Rock Division",
+  "Arkansas DEQ Certified Facilities", 
+  "Regional Material Recovery Centers"
+]
+localRegulations: "North Little Rock provides weekly automated curbside collection with 96-gallon bins for residents. Mattresses are classified as bulky items requiring special pickup coordination. Items should be placed curbside after 5 PM the evening before or before 7 AM on collection day. Private services offer convenience and flexible scheduling ideal for entertainment district businesses and busy residential areas."
+nearbyCities: [
+  {
+    "name": "Little Rock",
+    "slug": "little-rock",
+    "distance": 3,
+    "isSuburb": false
+  },
+  {
+    "name": "Sherwood",
+    "slug": "sherwood",
+    "distance": 8,
+    "isSuburb": false
+  },
+  {
+    "name": "Jacksonville",
+    "slug": "jacksonville",
+    "distance": 15,
+    "isSuburb": false
+  },
+  {
+    "name": "Maumelle",
+    "slug": "maumelle",
+    "distance": 12,
+    "isSuburb": false
+  }
+]
+reviews:
+  count: 76
+  featured: [
+    {
+      "text": "We needed mattress removal from our Argenta Arts District loft before our gallery opening weekend. The team understood the historic building's quirky freight elevator and tight stairwell access. They got our old mattress out without disrupting our neighbors and completed everything in twenty minutes. Perfect timing for our event setup.",
+      "author": "Marcus P.",
+      "neighborhood": "Argenta Arts District"
+    },
+    {
+      "text": "Had to clear out mattresses from our rental property near Dickey-Stephens Park between baseball season tenants. A Bedder World scheduled next-day pickup and handled our second-floor apartment logistics perfectly. The pricing was straightforward and they worked around the game day parking restrictions. Great service for property managers.",
+      "author": "Linda C.", 
+      "neighborhood": "Downtown North Little Rock"
+    },
+    {
+      "text": "Moving from our Burns Park area home and needed same-week mattress disposal. The team arrived exactly when scheduled, handled our king mattress and box spring professionally, and navigated our curved driveway without any issues. Made our already hectic moving day much more manageable.",
+      "author": "Robert K.",
+      "neighborhood": "Burns Park Area"
+    }
+  ]
+faqs: [
+  {
+    "question": "Do you provide mattress removal throughout all North Little Rock neighborhoods including the Argenta Arts District?",
+    "answer": "Yes! We serve all North Little Rock neighborhoods including the historic Argenta Arts District, downtown riverfront area, Burns Park communities, Park Hill, Rose City, and every residential and commercial area throughout Little Rock's twin city. Our service covers all ZIP codes from entertainment districts to suburban family neighborhoods."
+  },
+  {
+    "question": "How does your service compare to North Little Rock's city sanitation bulky item pickup?", 
+    "answer": "North Little Rock provides weekly automated collection with special coordination required for bulky items like mattresses. City pickup requires advance scheduling and curbside placement timing restrictions. We offer next-day pickup, specific time windows, building coordination, and immediate scheduling - ideal when you need faster service than city collection cycles."
+  },
+  {
+    "question": "Can you handle mattress pickup from historic buildings in the Argenta Arts District?",
+    "answer": "Absolutely! We regularly service Argenta Historic District properties including converted warehouses, century-old buildings, art galleries, and entertainment venues. Our team coordinates with property management, handles freight elevators and narrow staircases, and understands the unique access challenges of National Register historic buildings while respecting their architectural character."
+  },
+  {
+    "question": "Do you provide service during major events at Simmons Bank Arena and Dickey-Stephens Park?",
+    "answer": "Yes, we coordinate around major entertainment and sporting events in North Little Rock. We understand downtown parking restrictions during Arkansas Travelers games and concerts, and can schedule pickups to avoid event traffic and venue logistics. Perfect for businesses and residents in the entertainment district."
+  },
+  {
+    "question": "What recycling options are available for mattresses in North Little Rock and Pulaski County?",
+    "answer": "We work with Waste Management's North Little Rock division and Arkansas DEQ certified recycling facilities to ensure responsible disposal. About 75% of each mattress gets recycled including steel springs, foam, and fabric components, supporting Arkansas's environmental goals and North Little Rock's commitment to sustainable riverfront development."
+  },
+  {
+    "question": "Can you handle pickup from railroad heritage buildings and converted industrial spaces?",
+    "answer": "Definitely! North Little Rock's industrial heritage includes many converted railroad buildings, warehouses, and former industrial spaces now used as lofts, galleries, and businesses. Our team navigates these unique architectural features including high ceilings, freight access, and vintage building systems while respecting the city's railroad history character."
+  },
+  {
+    "question": "Do you serve residential areas like Burns Park and the outlying neighborhoods?",
+    "answer": "Yes, we provide full service to all North Little Rock residential areas including Burns Park (one of the largest municipal parks in the US), Park Hill, Rose City, Lakewood, Sylvan Hills, and suburban neighborhoods throughout the city. We handle family homes, apartments, and residential complexes across all areas."
+  },
+  {
+    "question": "What's your coverage of the Arkansas River corridor and bridge access areas?",
+    "answer": "We serve all North Little Rock neighborhoods along the Arkansas River corridor and understand the unique logistics of riverfront properties. Our team navigates the six-bridge downtown area efficiently and coordinates with the various riverfront developments, parks, and entertainment venues that define North Little Rock's character."
+  }
+]
+schema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "A Bedder World North Little Rock",
+    "description": "Professional mattress removal and recycling service in North Little Rock, Arkansas",
+    "url": "https://abedderworld.com/mattress-removal/arkansas/little-rock/north-little-rock/",
+    "telephone": "720-263-6094",
+    "address": {
+      "@type": "PostalAddress", 
+      "addressLocality": "North Little Rock",
+      "addressRegion": "Arkansas",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "34.7693",
+      "longitude": "-92.2671"
+    },
+    "areaServed": {
+      "@type": "City",
+      "name": "North Little Rock"
+    },
+    "priceRange": "$125-$180",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "76"
+    }
+  }
+---

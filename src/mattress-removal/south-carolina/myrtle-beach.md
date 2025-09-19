@@ -1,0 +1,134 @@
+---
+layout: location.njk
+permalink: /mattress-removal/south-carolina/myrtle-beach/
+city: Myrtle Beach
+state: South Carolina
+stateSlug: south-carolina
+coordinates:
+  lat: 33.6891
+  lng: -78.8867
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+neighborhoods:
+  - name: "Market Common"
+    zipCodes: ["29579"]
+  - name: "Carolina Forest"
+    zipCodes: ["29579"]
+  - name: "Grande Dunes"
+    zipCodes: ["29577"]
+  - name: "Forestbrook"
+    zipCodes: ["29579"]
+  - name: "The Dunes"
+    zipCodes: ["29577"]
+  - name: "Downtown Myrtle Beach"
+    zipCodes: ["29577"]
+  - name: "Ocean Boulevard District"
+    zipCodes: ["29577"]
+  - name: "Oceanfront"
+    zipCodes: ["29577"]
+  - name: "Plantation Point"
+    zipCodes: ["29577"]
+  - name: "The Woodlands"
+    zipCodes: ["29579"]
+  - name: "Highway 15 Corridor"
+    zipCodes: ["29575"]
+  - name: "Socastee"
+    zipCodes: ["29588"]
+  - name: "Burgess"
+    zipCodes: ["29579"]
+  - name: "Airport District"
+    zipCodes: ["29577"]
+  - name: "Intracoastal Waterway District"
+    zipCodes: ["29577"]
+zipCodes: 
+  - "29577"
+  - "29579"
+  - "29575"
+  - "29588"
+recyclingPartners:
+  - "City of Myrtle Beach Public Works"
+  - "Waste Management"
+  - "Horry County Solid Waste Authority"
+  - "GFL Environmental"
+localRegulations: "Myrtle Beach provides weekly garbage and recycling collection through Public Works Department with household garbage, recycling, yard waste, and bulky junk collected on same day each week across four zones (Monday-Thursday). Bulk waste includes up to 2 cubic yards monthly at $30.80 residential rate. As South Carolina's premier tourism destination with 35,682 permanent residents hosting over 20 million annual visitors, Myrtle Beach's waste management serves the Grand Strand's diverse needs from high-rise oceanfront condos to suburban communities throughout the metro area."
+nearbyCities:
+  - name: "Charleston"
+    distance: "95 miles"
+    isSuburb: false
+  - name: "Wilmington"
+    distance: "45 miles"
+    isSuburb: false
+reviews:
+  count: 163
+  featured:
+    - reviewer: "Amanda T."
+      rating: 5
+      text: "Our vacation rental needed quick turnover between guests. Called at 8am, pickup completed by noon next day. Professional team handled oceanfront condo access perfectly without disrupting other units."
+      neighborhood: "Oceanfront"
+    - reviewer: "Carlos M."
+      rating: 5
+      text: "Downsizing from our family home after retirement. Three mattresses needed removal before our move to a smaller place. Scheduling was flexible and the team was courteous throughout."
+      neighborhood: "Carolina Forest"
+    - reviewer: "Lisa R."
+      rating: 5
+      text: "Golf course community renovation required mattress disposal during construction. They coordinated perfectly with our contractor schedule and handled luxury home access professionally."
+      neighborhood: "Grande Dunes"
+faqs:
+  - question: "How quickly can you remove mattresses in Myrtle Beach?"
+    answer: "Next-day service throughout Myrtle Beach neighborhoods, accommodating Grand Strand tourism schedules and South Carolina coast requirements."
+  - question: "Do you serve all Myrtle Beach neighborhoods?"
+    answer: "Complete coverage from Downtown oceanfront to Carolina Forest, Market Common to Grande Dunes, across all ZIP codes 29577-29588."
+  - question: "What's included in your $125 Myrtle Beach pickup fee?"
+    answer: "Base price covers pickup, loading, transportation, and eco-friendly recycling for one mattress. Box springs add $30 each."
+  - question: "How does this compare to Myrtle Beach's city collection service?"
+    answer: "We eliminate the need for zone scheduling coordination, avoid bulk waste monthly limits, and provide immediate next-day pickup without Public Works Department delays."
+  - question: "Can you handle Myrtle Beach's vacation rental properties?"
+    answer: "Yes, our teams understand oceanfront condo access, vacation rental turnover timing, and hospitality industry scheduling throughout the Grand Strand tourism corridor."
+  - question: "Do you coordinate with Grand Strand tourism patterns?"
+    answer: "Absolutely. We understand peak season logistics, vacation rental schedules, and flexible timing that works around South Carolina's premier coastal tourism destination."
+  - question: "Are you licensed for waste removal in Horry County?"
+    answer: "We maintain all required South Carolina and Horry County permits with comprehensive insurance, providing compliant disposal through our nationwide recycling network."
+  - question: "What payment methods do you accept in Myrtle Beach?"
+    answer: "All major credit cards, cash, and invoicing options for residents, vacation rental operators, and hospitality businesses."
+schema:
+  "@type": "LocalBusiness"
+  name: "A Bedder World Myrtle Beach"
+  address:
+    "@type": "PostalAddress"
+    addressLocality: "Myrtle Beach"
+    addressRegion: "SC"
+    addressCountry: "US"
+  geo:
+    "@type": "GeoCoordinates" 
+    latitude: 33.6891
+    longitude: -78.8867
+  telephone: "(720) 263-6094"
+  priceRange: "$125-$180"
+  aggregateRating:
+    "@type": "AggregateRating"
+    ratingValue: 4.9
+    reviewCount: 163
+pageContent:
+  heroDescription: "Professional mattress removal serving Myrtle Beach with reliable next-day pickup. Part of our nationwide network that has recycled over 1 million mattresses, we provide licensed, insured service designed for the Grand Strand tourism capital."
+  
+  aboutService: "Next-day mattress pickup designed for Myrtle Beach's unique position as South Carolina's premier tourism destination with 35,682 permanent residents hosting over 20 million annual visitors along the Grand Strand. From families throughout upscale communities like Grande Dunes to residents in suburban developments like Carolina Forest and Market Common, Myrtle Beach faces distinct mattress disposal challenges across this diverse coastal metro area. Rather than coordinating with city collection zone schedules, managing Public Works Department timing, or dealing with bulk waste monthly limits, our streamlined service handles everything through one simple appointment. Whether you live in luxury oceanfront condos, vacation rental properties throughout the tourism corridor, or established neighborhoods throughout Socastee and Forestbrook, we understand the practical disposal needs of America's most popular beach destination. Each collected mattress flows through our national recycling network that has processed over 1 million units, with 80% of materials recovered for manufacturing reuse - supporting efficient waste management that serves Horry County's tourism economy growth."
+
+  serviceAreasIntro: "Professional mattress pickup serves all Myrtle Beach neighborhoods from oceanfront districts to suburban communities, expertly coordinating with Grand Strand tourism schedules and coastal Carolina logistics. From high-rise vacation properties to residential developments, our operations understand hospitality timing and varied property configurations. Service flexibility accommodates tourism season patterns, rental turnover schedules, and the practical disposal requirements of South Carolina's coastal tourism capital."
+
+  regulationsCompliance: "Myrtle Beach requires mattresses as bulk waste coordinated through Public Works Department zone collection with monthly cubic yard limits and residential rate scheduling. Our professional service bypasses these municipal constraints entirely - no zone coordination needed, no monthly limits, and no Public Works scheduling. We provide immediate next-day pickup with transparent pricing, making us the superior choice for Myrtle Beach residents and vacation rental operators who value convenience and reliability over municipal waste coordination."
+
+  environmentalImpact: "Environmental stewardship aligns with Myrtle Beach's commitment to Grand Strand conservation and Atlantic coast protection. Our mattress recycling initiative ensures 80% of collected materials avoid coastal landfills, instead flowing into manufacturing processes that create new products. Steel springs support construction applications, foam components become padding for various projects, and textile materials gain new purpose through advanced processing. This responsible approach preserves the natural beauty of the Grand Strand while providing reliable mattress disposal that supports South Carolina's coastal environmental conservation efforts."
+
+  howItWorksScheduling: "Flexible scheduling respects Myrtle Beach's tourism patterns and Grand Strand logistics, accommodating Horry County timing, vacation rental schedules, and the practical needs of South Carolina's premier beach destination."
+
+  howItWorksService: "Licensed pickup teams understand oceanfront property access requirements and vacation rental logistics, handling all Horry County disposal requirements with Grand Strand expertise and hospitality industry efficiency."
+
+  howItWorksDisposal: "Each mattress connects to our nationwide recycling network's proven processing capabilities, where South Carolina's environmental standards guide component recovery through sustainable manufacturing partnerships that support the Palmetto State's coastal conservation and tourism leadership."
+
+  sidebarStats:
+    mattressesRemoved: "2,140"
+---

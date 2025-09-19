@@ -1,0 +1,168 @@
+---
+layout: location.njk
+city: Gainesville
+state: Florida
+stateAbbr: FL
+zipCodes: ['32601', '32602', '32603', '32604', '32605', '32606', '32607', '32608', '32609', '32610', '32611', '32612', '32614', '32627', '32635', '32641', '32653']
+coordinates:
+  lat: 29.6516
+  lng: -82.3248
+neighborhoods:
+  - name: "University Area"
+    zipCodes: ["32601", "32603"]
+  - name: "Downtown Gainesville"
+    zipCodes: ["32601"]
+  - name: "Midtown"
+    zipCodes: ["32605"]
+  - name: "Northwest Gainesville"
+    zipCodes: ["32606", "32608"]
+  - name: "Student Housing District"
+    zipCodes: ["32601", "32605"]
+  - name: "West University"
+    zipCodes: ["32603", "32608"]
+  - name: "Archer Road Corridor"
+    zipCodes: ["32608", "32607"]
+  - name: "Haile Plantation"
+    zipCodes: ["32608"]
+  - name: "Tioga"
+    zipCodes: ["32608"]
+  - name: "Duck Pond"
+    zipCodes: ["32601"]
+  - name: "Pleasant Street Historic District"
+    zipCodes: ["32601"]
+  - name: "Innovation Square"
+    zipCodes: ["32601"]
+  - name: "Tower Square"
+    zipCodes: ["32605"]
+  - name: "Sorority Row"
+    zipCodes: ["32603"]
+  - name: "Fraternity Row"
+    zipCodes: ["32603"]
+  - name: "Butler Plaza Area"
+    zipCodes: ["32608"]
+  - name: "Newberry Road"
+    zipCodes: ["32606"]
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+nearbyCities: [
+  {
+    "name": "- name:",
+    "slug": "jacksonville",
+    "distance": 25,
+    "isSuburb": false
+  },
+  {
+    "name": "",
+    "slug": "orlando",
+    "distance": 25,
+    "isSuburb": false
+  },
+  {
+    "name": "",
+    "slug": "tampa",
+    "distance": 25,
+    "isSuburb": false
+  }
+]pageContent:
+  heroDescription: >-
+    Professional mattress removal throughout Gainesville's vibrant college town and University of Florida campus community. 
+    We serve students, faculty, staff, and residents with 
+    specialized understanding of semester transitions, student housing turnovers, and university town scheduling requirements.
+  
+  aboutService: >-
+    Gainesville's identity as home to the University of Florida creates unique mattress removal challenges that require 
+    specialized timing and logistics expertise. Our professional crew handles everything from cramped student apartment 
+    pickups to faculty home relocations, navigating tight stairwells, coordinated roommate moves, and strict apartment 
+    complex access requirements that define this college town environment.
+    
+    From University Avenue high-rise student complexes requiring elevator scheduling to Haile Plantation faculty homes 
+    with standard residential access, we coordinate mattress and box spring removal around academic calendars, 
+    graduation deadlines, and lease turnover dates across America's third-largest public university campus. Our licensed 
+    team provides upfront pricing, next-day availability, and complete disposal handling while working within the unique 
+    constraints of a community where 60,000+ students create massive seasonal moving patterns.
+
+  serviceAreasIntro: >-
+    We provide comprehensive mattress removal throughout Gainesville's diverse college town geography, from 
+    downtown student districts to faculty neighborhoods near campus. Our service covers 
+    all university areas, student housing complexes, and residential communities with specialized 
+    understanding of academic scheduling and college town logistics.
+
+  regulationsCompliance: >-
+    Our service streamlines Alachua County and City of Gainesville compliance through coordinated bulk waste 
+    collection and licensed waste hauling documentation. We prioritize recycling over 80% of mattresses through certified facilities, with 
+    only non-recyclable materials requiring approved disposal. We handle all regulatory requirements 
+    while bypassing the City of Gainesville's weekly bulk collection coordination and university housing disposal restrictions.
+  
+  environmentalImpact: >-
+    Gainesville's university community values environmental responsibility, reflecting 
+    UF's commitment to sustainability and the college town's progressive environmental awareness. We try to recycle as many 
+    mattresses as possible and recycle over 80% of the mattresses we pick up through certified recycling 
+    facilities and donation networks.
+    
+    Our professional service supports Gainesville's academic community by handling environmentally responsible 
+    disposal for student relocations, faculty transitions, and university housing changes while 
+    maintaining sustainable practices that align with the college town's educational mission and environmental values.
+
+  howItWorksScheduling: >-
+    Next-day pickup available throughout all Gainesville neighborhoods with scheduling coordinated around 
+    academic calendar transitions, semester breaks, and university community timelines. We work 
+    with student housing management protocols and faculty relocation schedules.
+
+  howItWorksService: >-
+    Our licensed team handles student apartment complexes, university area access, and academic community 
+    logistics across Gainesville's college town network. We manage semester scheduling protocols, 
+    graduation move coordination, and university staff relocations with documentation for regulatory compliance.
+
+  howItWorksDisposal: >-
+    We prioritize recycling through certified facilities and donation networks, successfully recycling over 80% 
+    of collected mattresses. Only non-recyclable materials go to licensed Alachua County facilities with complete 
+    regulatory documentation. Professional waste hauling permits ensure proper disposal while providing 
+    compliance records suitable for university and college town environmental reporting requirements.
+
+reviews:
+  count: 183
+  rating: 4.9
+  featured:
+    - author: "UF Graduate Student - Sarah P."
+      neighborhood: "University Area"
+      rating: 5
+      text: "Moving from campus housing to off-campus apartment required quick furniture disposal during finals week. Team handled our student complex access protocols, worked around semester scheduling, and provided affordable pricing perfect for grad school budget. Essential for university transitions."
+      
+    - author: "Faculty Member - Dr. James M." 
+      neighborhood: "Haile Plantation"
+      rating: 5
+      text: "University relocation from another state meant coordinated bedroom furniture removal during summer break. Crew arrived exactly on schedule, handled our suburban neighborhood professionally, and pricing worked perfectly for academic move timing."
+      
+    - author: "College Student - Tyler R."
+      neighborhood: "Midtown"
+      rating: 5
+      text: "End-of-lease apartment turnover required professional mattress removal before parents visited for graduation. Team coordinated with property management, handled multiple pieces efficiently, and understood college town logistics. Reliable service that gets student life."
+
+faqs:
+  - question: "How quickly can you remove mattresses in Gainesville?"
+    answer: "Next-day pickup available throughout all Gainesville neighborhoods including University area and student housing complexes. Call 720-263-6094 or book online to schedule service anywhere in the Alachua County region."
+    
+  - question: "Do you work with student housing and university schedules?"
+    answer: "Yes, we specialize in college town relocations and understand academic calendar scheduling. We coordinate with student apartment management, university housing, and faculty moves while accommodating semester transitions and graduation timing."
+    
+  - question: "What's included in the $125 starting price?"
+    answer: "Complete removal from any location including student apartments, professional crew, transportation, and licensed disposal at Alachua County facilities. No hidden fees for university area access or student housing coordination."
+    
+  - question: "Can you handle end-of-semester and graduation moves?"
+    answer: "Absolutely. We coordinate with academic calendar requirements, student housing turnovers, and graduation move-out schedules. Our service manages complex college town logistics including apartment lease transitions and dormitory changes."
+    
+  - question: "Do you serve all Gainesville neighborhoods and student areas?"
+    answer: "Yes, complete coverage including University area, Downtown, Midtown, student housing districts, and faculty neighborhoods. Full service across ZIP codes 32601-32653."
+    
+  - question: "How do you handle university housing regulations?"
+    answer: "We maintain all required documentation including disposal records and regulatory compliance certificates. We work within university housing guidelines and understand student apartment complex requirements for furniture disposal."
+    
+  - question: "What if I need multiple mattresses removed from my student apartment?"
+    answer: "Two pieces for $155, three pieces for $180. Perfect for student relocations, graduation moves, or roommate transitions throughout Gainesville's college community."
+    
+  - question: "Are you licensed for Alachua County disposal requirements?"
+    answer: "Yes, fully licensed waste haulers with proper permits focusing on recycling partnerships and responsible disposal. We recycle over 80% of mattresses through certified facilities. Complete regulatory compliance handled with documentation suitable for university and college town environmental standards."
+---

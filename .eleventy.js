@@ -10,12 +10,15 @@ module.exports = function(eleventyConfig) {
 
   // Copy static assets
   eleventyConfig.addPassthroughCopy("src/images");
+  eleventyConfig.addPassthroughCopy("filtered-images");
   eleventyConfig.addPassthroughCopy("src/favicon.png");
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("src/js");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
   eleventyConfig.addPassthroughCopy("src/sitemap.xml");
+  eleventyConfig.addPassthroughCopy("src/_redirects");
+  eleventyConfig.addPassthroughCopy("src/.htaccess");
 
   // Minify HTML in production
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
@@ -24,23 +27,58 @@ module.exports = function(eleventyConfig) {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true,
+        removeRedundantAttributes: true,
+        removeEmptyAttributes: true,
+        removeScriptTypeAttributes: true,
+        removeStyleLinkTypeAttributes: true,
         minifyCSS: true,
-        minifyJS: true
+        minifyJS: true,
+        removeAttributeQuotes: true,
+        collapseBooleanAttributes: true,
+        conservativeCollapse: true,
+        preventAttributesEscaping: true
       });
       return minified;
     }
     return content;
   });
 
-  // Minify CSS filter
+  // Enhanced CSS minification with optimization
   eleventyConfig.addFilter("cssmin", function(code) {
-    return new CleanCSS({}).minify(code).styles;
+    return new CleanCSS({
+      level: 2,
+      format: false,
+      compatibility: 'ie8'
+    }).minify(code).styles;
   });
+
+  // Production-only optimizations
+  if (process.env.NODE_ENV === "production") {
+    // Add cache busting for static assets
+    eleventyConfig.addShortcode("cacheBust", function(url) {
+      const timestamp = Date.now();
+      return `${url}?v=${timestamp}`;
+    });
+
+    // Preload critical resources
+    eleventyConfig.addShortcode("preloadResource", function(href, as, type = '') {
+      const typeAttr = type ? ` type="${type}"` : '';
+      return `<link rel="preload" href="${href}" as="${as}"${typeAttr}>`;
+    });
+  }
 
   // Date formatting filter
   eleventyConfig.addFilter("dateFormat", function(date) {
     const options = { year: 'numeric', month: 'long', day: 'numeric' };
     return new Date(date).toLocaleDateString('en-US', options);
+  });
+
+  // ISO date filter for sitemaps
+  eleventyConfig.addFilter("isoDate", function(date) {
+    if (date === "now") {
+      return new Date().toISOString().split('T')[0];
+    }
+    return new Date(date).toISOString().split('T')[0];
   });
 
   // Slug filter for URLs
@@ -71,13 +109,26 @@ module.exports = function(eleventyConfig) {
 
   // Collection for city mattress removal pages
   eleventyConfig.addCollection("mattressRemovalCities", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("src/mattress-removal/*/*.md")
+    return collectionApi.getFilteredByGlob("src/mattress-removal/**/*.md")
       .filter(item => !item.inputPath.endsWith('index.md'));
   });
 
   // Helper to get cities by state
   eleventyConfig.addFilter("citiesByState", function(cities, state) {
     return cities.filter(city => city.data.state === state);
+  });
+
+  // Collection for blog posts
+  eleventyConfig.addCollection("blogPosts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/blog/*.md")
+      .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
+  });
+
+  // Collection for service posts (for separate listing if needed)
+  eleventyConfig.addCollection("servicePosts", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("src/*.md")
+      .filter(item => !item.inputPath.includes('/blog/') && !item.inputPath.includes('/mattress-removal/'))
+      .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
   });
 
   // Helper for JSON-LD schema
@@ -96,6 +147,82 @@ module.exports = function(eleventyConfig) {
     if (!array || !array.length) return [];
     const shuffled = [...array].sort(() => 0.5 - Math.random());
     return shuffled.slice(0, count);
+  });
+
+  // Array slice filter for internal links
+  eleventyConfig.addFilter("slice", function(array, start, end) {
+    if (!array || !Array.isArray(array)) return [];
+    return array.slice(start, end);
+  });
+
+  // Array concatenation filter for internal links
+  eleventyConfig.addFilter("concat", function(array1, array2) {
+    if (!Array.isArray(array1)) array1 = [];
+    if (!Array.isArray(array2)) array2 = [];
+    return array1.concat(array2);
+  });
+
+  // Filter to exclude specific item from array
+  eleventyConfig.addFilter("filterExclude", function(array, excludeItem) {
+    if (!Array.isArray(array)) return [];
+    return array.filter(item => item !== excludeItem);
+  });
+
+  // Get all suburbs for a given metro
+  eleventyConfig.addFilter("suburbsForMetro", function(allCities, metroName) {
+    if (!Array.isArray(allCities) || !metroName) return [];
+    return allCities.filter(city => {
+      return city.data && city.data.parentMetro === metroName;
+    });
+  });
+
+  // Get varied sibling suburbs based on alphabetical proximity
+  eleventyConfig.addFilter("getNearestSiblings", function(allCities, currentCity, parentMetro, state, count = 3) {
+    if (!Array.isArray(allCities) || !currentCity || !parentMetro) return [];
+
+    // Get all siblings (excluding current city)
+    const siblings = allCities.filter(city => {
+      return city.data &&
+             city.data.parentMetro === parentMetro &&
+             city.data.state === state &&
+             city.data.city !== currentCity;
+    });
+
+    if (siblings.length <= count) return siblings;
+
+    // Sort alphabetically to ensure consistent ordering
+    siblings.sort((a, b) => a.data.city.localeCompare(b.data.city));
+
+    // Find current city's position in alphabetical order
+    const currentIndex = siblings.findIndex(city => city.data.city > currentCity);
+    const insertPosition = currentIndex === -1 ? siblings.length : currentIndex;
+
+    // Select siblings based on proximity to alphabetical position
+    const selected = [];
+
+    // Get 1 before, 1 at/after, 1 after that (wrapping around)
+    for (let i = 0; i < count; i++) {
+      const index = (insertPosition - 1 + i + siblings.length) % siblings.length;
+      if (siblings[index]) selected.push(siblings[index]);
+    }
+
+    return selected.slice(0, count);
+  });
+
+  // Get major metros for a state (tier 1 cities)
+  eleventyConfig.addFilter("majorMetrosForState", function(allCities, stateName) {
+    if (!Array.isArray(allCities) || !stateName) return [];
+    return allCities.filter(city => {
+      return city.data && city.data.state === stateName && city.data.tier === 1;
+    });
+  });
+
+  // Get cities by state
+  eleventyConfig.addFilter("citiesInState", function(allCities, stateName) {
+    if (!Array.isArray(allCities) || !stateName) return [];
+    return allCities.filter(city => {
+      return city.data && city.data.state === stateName;
+    });
   });
 
   // Add current year helper
@@ -137,6 +264,15 @@ module.exports = function(eleventyConfig) {
 
   // Watch for changes
   eleventyConfig.setWatchThrottleWaitTime(100);
+
+  // Production build optimizations
+  if (process.env.NODE_ENV === "production") {
+    // Set quiet mode for cleaner build output
+    eleventyConfig.setQuietMode(true);
+
+    // Disable template caching for production builds to ensure fresh output
+    eleventyConfig.setUseGitIgnore(false);
+  }
 
   return {
     dir: {

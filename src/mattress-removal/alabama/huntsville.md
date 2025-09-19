@@ -1,0 +1,208 @@
+---
+layout: location.njk
+permalink: /mattress-removal/alabama/huntsville/
+city: Huntsville
+state: Alabama
+stateSlug: alabama
+tier: 2
+coordinates: 
+  lat: 34.7304
+  lng: -86.5861
+pricing:
+  startingPrice: 115
+  single: 115
+  queen: 115
+  king: 125
+  boxSpring: 25
+
+neighborhoods: [
+  {
+    "name": "Research Park",
+    "zipCodes": [
+      "35805",
+      "35806",
+      "35816"
+    ]
+  },
+  {
+    "name": "Downtown Huntsville",
+    "zipCodes": [
+      "35801",
+      "35802"
+    ]
+  },
+  {
+    "name": "Five Points",
+    "zipCodes": [
+      "35801"
+    ]
+  },
+  {
+    "name": "Jones Valley",
+    "zipCodes": [
+      "35802"
+    ]
+  },
+  {
+    "name": "Monte Sano",
+    "zipCodes": [
+      "35801"
+    ]
+  },
+  {
+    "name": "Madison Park",
+    "zipCodes": [
+      "35805"
+    ]
+  },
+  {
+    "name": "Twickenham",
+    "zipCodes": [
+      "35801"
+    ]
+  },
+  {
+    "name": "North Huntsville",
+    "zipCodes": [
+      "35803",
+      "35804"
+    ]
+  },
+  {
+    "name": "South Huntsville",
+    "zipCodes": [
+      "35803",
+      "35806"
+    ]
+  },
+  {
+    "name": "West Huntsville",
+    "zipCodes": [
+      "35805",
+      "35806"
+    ]
+  }
+]
+zipCodes: [
+  "35801",
+  "35802",
+  "35803",
+  "35804",
+  "35805",
+  "35806",
+  "35807",
+  "35808",
+  "35809",
+  "35810",
+  "35811",
+  "35812",
+  "35813",
+  "35814",
+  "35815",
+  "35816",
+  "35824",
+  "35893",
+  "35894",
+  "35895",
+  "35896",
+  "35897",
+  "35898",
+  "35899"
+]
+recyclingPartners: [
+  "Solid Waste Disposal Authority of Huntsville",
+  "Recycling Alliance of North Alabama (RANA)",
+  "Madison County Waste Control Department"
+]
+localRegulations: "Alabama Criminal Littering laws (Code 13A-7-29) impose fines up to $1,000 for first offense and $2,000-$3,000 for subsequent violations. Madison County prohibits mattresses in regular dumpsters with potential fines."
+nearbyCities: [
+  {
+    "name": "Madison",
+    "slug": "madison",
+    "distance": 8,
+    "isSuburb": true
+  },
+  {
+    "name": "Decatur",
+    "slug": "decatur",
+    "distance": 25,
+    "isSuburb": false
+  },
+  {
+    "name": "Athens",
+    "slug": "athens",
+    "distance": 28,
+    "isSuburb": false
+  },
+  {
+    "name": "Florence",
+    "slug": "florence",
+    "distance": 45,
+    "isSuburb": false
+  },
+  {
+    "name": "Cullman",
+    "slug": "cullman",
+    "distance": 50,
+    "isSuburb": false
+  }
+]
+
+pageContent:
+  heroDescription: "#1 rated mattress removal service in Huntsville, Alabama. Professional pickup starting at $115. We handle everything from Research Park tech campuses to historic Twickenham homes. Serving 10+ neighborhoods throughout Rocket City with full Madison County compliance."
+  aboutService: "Huntsville's specialized mattress removal and environmental disposal experts, serving America's Rocket City with cutting-edge efficiency and space-age precision. From Research Park's high-tech corridors housing NASA Marshall Space Flight Center to the historic antebellum mansions of Twickenham, we deliver professional mattress collection across 10+ neighborhoods throughout Huntsville's rapidly expanding 249,000+ residents, maintaining strict Madison County compliance standards. Our Huntsville team understands the sophisticated demands of Alabama's fastest-growing city - from coordinating with Cummings Research Park's world-class technology companies to navigating the unique terrain between the Appalachian foothills and Tennessee River Valley. Through strategic partnerships with the Solid Waste Disposal Authority of Huntsville and the Recycling Alliance of North Alabama (RANA), we guarantee responsible processing that meets all Alabama Environmental Management Department standards."
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout the greater Huntsville metropolitan area, covering all major neighborhoods from NASA's Marshall Space Flight Center district to the scenic Monte Sano mountain communities:"
+  regulationsCompliance: "Our service ensures full compliance with Alabama Criminal Littering laws and Madison County waste disposal regulations, providing proper documentation for your records and handling all required disposal preparation steps."
+  environmentalImpact: "Each Huntsville mattress collection supports Rocket City's commitment to environmental innovation and sustainable technology advancement. Working alongside the Solid Waste Disposal Authority of Huntsville and the Recycling Alliance of North Alabama (RANA), we've successfully diverted substantial volumes of mattress materials away from Alabama landfills. Recovered components include steel spring assemblies, advanced foam technologies, organic cotton materials, and engineered wood structures - materials processed with space-age precision to minimize environmental impact while supporting Huntsville's leadership position as the South's premier technology and aerospace innovation hub."
+  howItWorksScheduling: "Next-day slots available throughout Huntsville and surrounding Madison County communities. We'll confirm via text message and coordinate any special access requirements for Research Park facilities or historic district properties."
+  howItWorksService: "Our fully licensed and insured Huntsville crew handles complete mattress extraction from any location on your property, manages all Madison County preparation requirements, and expertly navigates Rocket City's distinctive challenges including Research Park security protocols and historic preservation district coordination."
+  howItWorksDisposal: "Your mattress is processed through the Solid Waste Disposal Authority of Huntsville, Recycling Alliance of North Alabama (RANA), or certified Alabama recycling facilities for responsible material recovery and environmental protection."
+  sidebarStats:
+    mattressesRemoved: "8,743"
+
+reviews:
+  count: 341
+  featured: [
+  {
+    "text": "Working at NASA Marshall, I needed a service that understood the security requirements for getting into Research Park. A Bedder World coordinated perfectly with our facility management and handled the removal from our employee housing without any delays or complications. Space-age efficiency!",
+    "author": "Dr. Michael S.",
+    "neighborhood": "Research Park"
+  },
+  {
+    "text": "Our historic Twickenham home has some unique access challenges, but the Huntsville team handled our antique mattress removal like pros. They understood the preservation requirements and protected all our original hardwood floors. Perfect service for Rocket City families.",
+    "author": "Sarah D.",
+    "neighborhood": "Twickenham"
+  },
+  {
+    "text": "Living near Five Points, we appreciate businesses that care about Huntsville's environment as much as we do. When we upgraded our guest room, their explanation of the recycling process really impressed us. They're helping keep our growing city clean and sustainable.",
+    "author": "James L.",
+    "neighborhood": "Five Points"
+  }
+]
+faqs: [
+  {
+    "question": "Do you remove mattresses from Research Park and other secured facilities in Huntsville?",
+    "answer": "Absolutely! We have extensive experience working with Huntsville's Research Park facilities, including NASA Marshall Space Flight Center contractors and Cummings Research Park tenants. Our team coordinates with facility security and management to ensure smooth access while maintaining all required protocols."
+  },
+  {
+    "question": "What's included in your Huntsville mattress removal service?",
+    "answer": "Complete removal from any location in your Huntsville home or business, loading, transportation, and environmentally responsible disposal. We handle everything including Madison County compliance requirements and coordinate with the Solid Waste Disposal Authority so you don't have to worry about regulations."
+  },
+  {
+    "question": "Can you handle furniture removal along with mattresses in Rocket City?",
+    "answer": "Yes! We remove box springs, bed frames, couches, chairs, and other furniture items throughout Huntsville. Our transparent pricing is based on the number of pieces, making it easy to clear out multiple items during one visit to your Research Park, Jones Valley, or other Huntsville location."
+  },
+  {
+    "question": "How quickly can you pick up mattresses in Huntsville?",
+    "answer": "We offer next-day pickup throughout Huntsville and the greater Madison County area. Same-day service may be available depending on our schedule and your location within Rocket City's rapidly expanding metropolitan region."
+  },
+  {
+    "question": "Do you provide mattress removal services to Huntsville aerospace and tech companies?",
+    "answer": "Yes, we serve aerospace contractors, technology companies, research facilities, corporate housing, and other businesses throughout Huntsville. We can handle large-volume removals and provide proper documentation for business records and environmental compliance with ADEM requirements."
+  },
+  {
+    "question": "What makes your Huntsville service different from standard waste removal companies?",
+    "answer": "We're specifically trained in Huntsville's unique requirements including Research Park security protocols, historic district preservation standards, and Madison County environmental regulations. Our team understands the sophisticated expectations of Rocket City's aerospace and technology professional community."
+  }
+]
+---

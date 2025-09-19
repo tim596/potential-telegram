@@ -1,0 +1,103 @@
+# Apache .htaccess configuration for A Bedder World site migration
+# Use this if hosting on Apache servers instead of Netlify
+
+# Enable rewrite engine
+RewriteEngine On
+
+# Force HTTPS and www canonicalization
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+RewriteRule ^ https://www.%1%{REQUEST_URI} [R=301,L]
+
+# Block WordPress admin and system files
+RewriteRule ^wp-admin/.* - [F,L]
+RewriteRule ^wp-content/.* - [F,L]
+RewriteRule ^wp-includes/.* - [F,L]
+RewriteRule ^wp-json/.* - [F,L]
+RewriteRule ^xmlrpc\.php$ - [F,L]
+RewriteRule ^wp-login\.php$ - [F,L]
+RewriteRule ^wp-config\.php$ - [F,L]
+RewriteRule ^readme\.html$ - [F,L]
+RewriteRule ^license\.txt$ - [F,L]
+
+# Redirect old WordPress patterns
+RewriteRule ^mattress-removal-service/?$ /mattress-removal/ [R=301,L]
+RewriteRule ^pricing-information/?$ /pricing/ [R=301,L]
+RewriteRule ^how-our-service-works/?$ /how-it-works/ [R=301,L]
+RewriteRule ^items-we-accept/?$ /what-we-take/ [R=301,L]
+RewriteRule ^business-services/?$ /commercial/ [R=301,L]
+
+# Location page redirects - OLD FORMAT: /city-state/ NEW FORMAT: /mattress-removal/state/metro/city/
+# Major metro examples
+RewriteRule ^gilbert-az/?$ /mattress-removal/arizona/phoenix/gilbert/ [R=301,L]
+RewriteRule ^boulder-co/?$ /mattress-removal/colorado/boulder/ [R=301,L]
+RewriteRule ^los-angeles-ca/?$ /mattress-removal/california/los-angeles/ [R=301,L]
+RewriteRule ^new-york-ny/?$ /mattress-removal/new-york/new-york-city/ [R=301,L]
+RewriteRule ^chicago-il/?$ /mattress-removal/illinois/chicago/ [R=301,L]
+RewriteRule ^dallas-tx/?$ /mattress-removal/texas/dallas/ [R=301,L]
+RewriteRule ^miami-fl/?$ /mattress-removal/florida/miami/ [R=301,L]
+
+# Pattern for all city-state format URLs (add specific rules for all 800+ pages)
+# RewriteRule ^([a-z-]+)-([a-z]{2})/?$ /mattress-removal/[state]/[metro]/$1/ [R=301,L]
+
+# Blog redirects
+RewriteRule ^([^/]+)/?$ /blog/$1/ [R=301,L]
+
+# Asset redirects
+RewriteRule ^assets/(.*)$ /images/$1 [R=301,L]
+RewriteRule ^uploads/(.*)$ /images/$1 [R=301,L]
+
+# Homepage variations
+RewriteRule ^index\.html$ / [R=301,L]
+RewriteRule ^home/?$ / [R=301,L]
+RewriteRule ^home\.html$ / [R=301,L]
+
+# Block old file extensions
+RewriteRule \.php$ - [F,L]
+RewriteRule \.asp$ - [F,L]
+RewriteRule \.aspx$ - [F,L]
+
+# WordPress query parameters
+RewriteCond %{QUERY_STRING} ^p=
+RewriteRule ^.*$ /404.html? [R=404,L]
+RewriteCond %{QUERY_STRING} ^page_id=
+RewriteRule ^.*$ /404.html? [R=404,L]
+
+# Security headers
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options nosniff
+    Header always set X-Frame-Options DENY
+    Header always set X-XSS-Protection "1; mode=block"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+</IfModule>
+
+# Compression
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/plain
+    AddOutputFilterByType DEFLATE text/html
+    AddOutputFilterByType DEFLATE text/xml
+    AddOutputFilterByType DEFLATE text/css
+    AddOutputFilterByType DEFLATE application/xml
+    AddOutputFilterByType DEFLATE application/xhtml+xml
+    AddOutputFilterByType DEFLATE application/rss+xml
+    AddOutputFilterByType DEFLATE application/javascript
+    AddOutputFilterByType DEFLATE application/x-javascript
+</IfModule>
+
+# Caching
+<IfModule mod_expires.c>
+    ExpiresActive on
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 month"
+    ExpiresByType image/svg+xml "access plus 1 month"
+    ExpiresByType image/webp "access plus 1 month"
+</IfModule>
+
+# Custom 404 page
+ErrorDocument 404 /404.html

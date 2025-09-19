@@ -1,0 +1,15 @@
+# Generated 301 redirects from CSV mapping
+
+RewriteRule ^locations/?$ /mattress-removal/ [R=301,L]
+RewriteRule ^book\-online/?$ /pricing/ [R=301,L]
+RewriteRule ^blog/?$ // [R=301,L]
+RewriteRule ^search/?$ // [R=301,L]
+RewriteRule ^about\-us/?$ /about/ [R=301,L]
+RewriteRule ^about\-us\.html/?$ /about/ [R=301,L]
+RewriteRule ^contact\-us/?$ /contact/ [R=301,L]
+RewriteRule ^pricing\-2/?$ /pricing/ [R=301,L]
+RewriteRule ^colorado\-pricing/?$ /pricing/ [R=301,L]
+RewriteRule ^box\-spring\-disposal\-2/?$ /pricing/ [R=301,L]
+RewriteRule ^my\-account/?$ // [R=301,L]
+RewriteRule ^affiliate\-disclosure/?$ /privacy/ [R=301,L]
+RewriteRule ^mpg_url/?$ // [R=301,L]

@@ -1,0 +1,164 @@
+---
+layout: location.njk
+
+description: "Professional mattress removal in Aurora, Colorado's third-largest city. Serving military housing, apartment complexes, and residential customers with next-day pickup "
+h1: "Mattress Removal in Aurora"
+h2: "Colorado's third-largest city mattress pickup service"
+city: "Aurora"
+state: "Colorado"
+stateSlug: "colorado"
+parentMetro: "Denver"
+permalink: "/mattress-removal/colorado/denver/aurora/"
+stateCode: "CO"
+coordinates:
+  lat: 39.7294
+  lng: -104.8319
+tier: 2
+neighborhoods:
+  - name: "Aurora Highlands"
+    zipCodes: ["80014"]
+  - name: "Aurora Hills"
+    zipCodes: ["80012"] 
+  - name: "Aurora Knolls-Hutchinson Heights"
+    zipCodes: ["80012"]
+  - name: "Carriage Place"
+    zipCodes: ["80015"]
+  - name: "Center Pointe"
+    zipCodes: ["80011"]
+  - name: "Centretech"
+    zipCodes: ["80011"]
+  - name: "Chambers Heights"
+    zipCodes: ["80011"]
+  - name: "City Center"
+    zipCodes: ["80010"]
+  - name: "Dayton Triangle"
+    zipCodes: ["80010"]
+  - name: "Delmar Parkway"
+    zipCodes: ["80011"]
+  - name: "East Ridge-Ptarmigan Park"
+    zipCodes: ["80016"]
+  - name: "Expo Park"
+    zipCodes: ["80010"]
+  - name: "Heather Gardens"
+    zipCodes: ["80013"]
+  - name: "Heather Ridge"
+    zipCodes: ["80013"]
+  - name: "Heritage Eagle Bend"
+    zipCodes: ["80016"]
+  - name: "Highland Park"
+    zipCodes: ["80010"]
+  - name: "Horseshoe Park"
+    zipCodes: ["80017"]
+  - name: "Jewell Heights-Hoffman Heights"
+    zipCodes: ["80010"]
+  - name: "Kingsborough"
+    zipCodes: ["80015"]
+  - name: "Lakeshore"
+    zipCodes: ["80014"]
+  - name: "Meadow Hills"
+    zipCodes: ["80017"]
+  - name: "Mission Viejo"
+    zipCodes: ["80012"]
+  - name: "Seven Hills"
+    zipCodes: ["80016"]
+  - name: "Shenandoah"
+    zipCodes: ["80015"]
+  - name: "Sterling Hills"
+    zipCodes: ["80016"]
+  - name: "Tallyn's Reach"
+    zipCodes: ["80016"]
+  - name: "Village East"
+    zipCodes: ["80012"]
+zipCodes:
+  - "80010"
+  - "80011"
+  - "80012"
+  - "80013"
+  - "80014"
+  - "80015"
+  - "80016"
+  - "80017"
+  - "80019"
+  - "80040"
+  - "80041"
+  - "80042"
+  - "80044"
+  - "80045"
+  - "80046"
+  - "80047"
+pricing:
+  one: 125
+  two: 155
+  three: 180
+  mostPopular: "two"
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+reviews:
+  count: 47
+  featured:
+    - text: "Moving from our military housing at former Fitzsimons required professional mattress pickup. Team handled everything efficiently during our PCS move and understood military timing requirements."
+      author: "Sergeant Maria R."
+      neighborhood: "Heather Ridge"
+    - text: "Large apartment building needed multiple mattress pickups coordinated efficiently. Team handled scheduling perfectly and worked around all our residents' different schedules without any issues."
+      author: "David M."
+      neighborhood: "Chambers Heights"
+    - text: "Apartment complex management recommended them for our multi-unit building. They coordinated perfectly with all residents and provided complete documentation needed for our property records."
+      author: "Jennifer L."
+      neighborhood: "City Center"
+nearbyCities:
+  - name: "Denver"
+    distance: 16
+    slug: "denver"
+    isSuburb: false
+  - name: "Centennial"
+    distance: 8
+    slug: "centennial"
+    isSuburb: true
+  - name: "Thornton"
+    distance: 18
+    slug: "thornton"
+    isSuburb: true
+  - name: "Westminster"
+    distance: 22
+    slug: "westminster"
+    isSuburb: true
+faqs:
+  - question: "Do you work with property managers and apartment complexes?"
+    answer: "Yes, we regularly coordinate with property management companies and apartment complexes throughout Aurora for bulk pickups, tenant turnovers, and scheduled maintenance removals."
+  - question: "Can you service military housing and veteran communities in Aurora?"
+    answer: "Absolutely. We regularly serve military families, veteran housing developments, and properties on former military installations including the Fitzsimons area with understanding of PCS moves and military scheduling."
+  - question: "How do you handle service across Aurora's multiple counties?"
+    answer: "Aurora spans Arapahoe, Adams, and Douglas counties. We provide consistent service throughout all Aurora neighborhoods regardless of county jurisdiction and handle all disposal compliance requirements."
+  - question: "Do you coordinate with Aurora's large apartment complexes and housing communities?"
+    answer: "Yes, we work with property managers throughout Aurora's numerous apartment complexes and coordinate scheduling for multi-unit buildings with varying tenant schedules and property management requirements."
+  - question: "What disposal facilities do you use for Aurora mattress recycling?"
+    answer: "We work with Denver Arapahoe Disposal Site (DADS), Spring Back Colorado, and other certified facilities to ensure proper recycling and disposal compliance for Aurora residents."
+  - question: "Can you handle bulk pickups for large apartment buildings and complexes?"
+    answer: "Yes, we coordinate bulk mattress removal for Aurora's numerous apartment complexes and multi-family housing developments, working around varying tenant schedules and property management requirements."
+  - question: "How quickly can you provide service in Aurora's different neighborhoods?"
+    answer: "We offer next-day pickup throughout all Aurora neighborhoods from Aurora Highlands to Tallyn's Reach, coordinating service across the city's extensive geographic area."
+  - question: "Do you understand Aurora's unique housing challenges and military family needs?"
+    answer: "Yes, we specialize in serving Aurora's military families, veteran housing developments, large apartment complexes, and rapid housing transitions including PCS moves and property turnovers."
+pageContent:
+  heroDescription: "Professional mattress removal service in Aurora, Colorado's third-largest city. Next-day pickup throughout Arapahoe, Adams, and Douglas counties  Licensed team serving military housing, apartment complexes, and residential customers with flexible scheduling."
+  
+  aboutService: "Aurora's specialized mattress removal service has served Colorado's third-largest city since 2011. We understand large-scale community logistics. Our expertise covers military housing, veteran communities, and apartment complexes throughout Aurora's extensive neighborhoods. Each pickup maintains compliance with multi-county regulations across Arapahoe, Adams, and Douglas counties. Our team navigates Aurora's complex geography serving 395,000 residents across 27+ neighborhoods. We coordinate with military housing transitions, property management companies, and apartment complex turnovers throughout Colorado's fastest-growing suburban community."
+  
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout Aurora's extensive neighborhoods, covering all communities from military housing developments to large apartment complexes:"
+  
+  regulationsCompliance: "Our service navigates regulations across three counties - Arapahoe, Adams, and Douglas - ensuring consistent compliance throughout Aurora's jurisdiction. We understand Aurora's complex housing landscape with large apartment buildings and military installations. Military housing developments have specific requirements we handle professionally. Property managers often need additional documentation support which we provide. Our team manages the regulatory complexity of serving Colorado's third-largest city while coordinating with various housing authorities and management companies."
+  
+  environmentalImpact: "Aurora residents value environmental stewardship and responsible waste management. Each mattress we process diverts approximately 40 pounds of materials from Colorado landfills through certified facilities. We work with Denver Arapahoe Disposal Site and Spring Back Colorado for proper recycling. Steel springs support metal recycling markets. Foam components convert to industrial applications. Fabric materials become new products. This approach supports environmental goals while serving Aurora's community sustainability priorities."
+  
+  howItWorksScheduling: "Next-day slots available throughout Aurora and surrounding areas. We confirm via text message and coordinate around resident schedules, military requirements, apartment complex needs, and property management timing requirements."
+  
+  howItWorksService: "Our licensed and insured team removes mattresses from anywhere on your property. We handle all county-required preparation across Aurora's three-county jurisdiction. Our team coordinates with military housing protocols and manages complex logistics for apartment buildings and multi-unit properties throughout Aurora's extensive neighborhood network."
+  
+  howItWorksDisposal: "Mattresses are processed through Denver Arapahoe Disposal Site, Spring Back Colorado, and other certified facilities for responsible material recovery. Our recycling approach supports both environmental goals and Aurora's community sustainability priorities."
+  
+  sidebarStats:
+    mattressesRemoved: "2,400"
+localRegulations: "Aurora spans three counties - Arapahoe, Adams, and Douglas - each with specific disposal requirements. Denver Arapahoe Disposal Site (DADS) at 3500 S. Gun Club Road serves the area. Adams County coordinates with Spring Back Colorado for mattress recycling. Residents can contact Aurora's 'At Your Door Special Collection' hazardous waste program. Military housing developments may have additional requirements. Property managers often need disposal documentation for housing authorities."
+---

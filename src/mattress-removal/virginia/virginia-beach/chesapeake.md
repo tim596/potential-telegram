@@ -1,0 +1,152 @@
+---
+layout: location.njk
+
+description: "Professional mattress removal in Chesapeake, Virginia. Hampton Roads' largest city by land area specialists serving military families and suburban communities. Next-day service across all 6 boroughs."
+permalink: "/mattress-removal/virginia/virginia-beach/chesapeake/"
+city: "Chesapeake"
+state: "Virginia"
+stateAbbr: "VA"
+stateSlug: "virginia"
+tier: 2
+parentMetro: "Virginia Beach"
+coordinates: 
+  lat: 36.8191
+  lng: -76.2749
+pricing:
+  startingPrice: 115
+  single: 115
+  queen: 145
+  king: 170
+  boxSpring: 25
+zipCodes: ["23320", "23321", "23322", "23323", "23324", "23325"]
+neighborhoods: [
+  {
+    "name": "Greenbrier",
+    "zipCodes": ["23320"]
+  },
+  {
+    "name": "Western Branch", 
+    "zipCodes": ["23321"]
+  },
+  {
+    "name": "South Norfolk",
+    "zipCodes": ["23322"]
+  },
+  {
+    "name": "Deep Creek",
+    "zipCodes": ["23323"]
+  },
+  {
+    "name": "Pleasant Grove",
+    "zipCodes": ["23323"]
+  },
+  {
+    "name": "Washington Borough",
+    "zipCodes": ["23323"]
+  },
+  {
+    "name": "Butts Road Corridor",
+    "zipCodes": ["23320", "23322"]
+  },
+  {
+    "name": "Great Bridge",
+    "zipCodes": ["23320", "23322"]
+  },
+  {
+    "name": "Hickory",
+    "zipCodes": ["23322"]
+  },
+  {
+    "name": "Indian River",
+    "zipCodes": ["23325"]
+  },
+  {
+    "name": "Battlefield",
+    "zipCodes": ["23322"]
+  },
+  {
+    "name": "Crestwood",
+    "zipCodes": ["23320"]
+  }
+]
+nearbyCities: [
+  {
+    "name": "Virginia Beach",
+    "slug": "virginia-beach", 
+    "distance": 8,
+    "isSuburb": false
+  },
+  {
+    "name": "Norfolk",
+    "slug": "norfolk",
+    "distance": 15,
+    "isSuburb": false
+  }
+]
+reviews:
+  count: 287
+  featured:
+    - author: "MSgt Jennifer K."
+      rating: 5
+      text: "PCS orders came through and I needed that old king mattress OUT. Booked online Sunday night, gone Tuesday morning. Way better than trying to haul it to that transfer station."
+    - author: "David & Sarah M."
+      rating: 5
+      text: "These guys were awesome! We both work and they came while we were out, texted when done. Greenbrier subdivision can be tricky to navigate but no issues. Definitely recommend."
+    - author: "Lt. Commander Mike"
+      rating: 4
+      text: "Good service, understands military schedules. Only complaint - wished they had weekend pickup but overall solid company."
+    - author: "Jennifer T."
+      rating: 5
+      text: "Finally! A company that actually serves ALL of Chesapeake, not just the easy areas. Deep Creek pickup was flawless and the guy was super nice."
+    - author: "Robert & Lisa"
+      rating: 5
+      text: "Called around to several companies - these were the only ones who'd take the box spring too. Came exactly when promised. Worth every penny to avoid that awful drive to Hollowell Lane."
+    - author: "Patricia"
+      rating: 4
+      text: "I've been putting off getting rid of this mattress for months because of those stupid SPSA visit limits. Should've called these guys sooner!"
+
+pageContent:
+  heroDescription: "Next-day mattress pickup throughout Chesapeake, Virginia. Professional removal service for Hampton Roads' largest city by land area. Over 1 million mattresses recycled nationwide - serving Virginia's premier suburban community and military families."
+
+  aboutService: "A Bedder World provides professional mattress removal service throughout Virginia's largest city by land area, eliminating the hassle of Chesapeake's restrictive SPSA transfer station system. While residents struggle with only 12 annual transfer station visits, weekend-only hours, and driving across 341 square miles to reach the single facility, our simple online booking offers next-day pickup anywhere in Chesapeake with no annual limits or extra fees. We serve every neighborhood from Greenbrier's modern developments to Deep Creek's established communities, from Western Branch's family areas to South Norfolk's historic districts, providing reliable service that coordinates around military PCS schedules and busy family lifestyles. With over 1 million mattresses recycled nationwide, we deliver the professional, convenient service that matches the high standards expected by Hampton Roads' premier suburban community."
+
+  serviceAreasIntro: "Professional mattress pickup throughout Chesapeake's six boroughs and diverse communities spanning 341 square miles:"
+
+  regulationsCompliance: "Chesapeake's current waste disposal system creates significant challenges for residents. The SPSA transfer station limits each household to just 12 visits per year, charges $78 per ton (minimum $20), and operates weekend-only hours for residential use at the single Hollowell Lane facility. This means residents must drive across 341 square miles, provide proof of residency, and work around restrictive Tuesday-Friday closures. These limitations particularly impact Hampton Roads' military families managing PCS moves, growing families needing furniture upgrades, and dual-career households without time for cross-town trips. Military deployment schedules, suburban family logistics, and varying distances across six boroughs make the current system especially difficult for Chesapeake's 254,997 residents. Our service eliminates these hassles with next-day pickup anywhere in the city, no annual visit limits, flexible scheduling around military and civilian work demands, and door-to-door convenience that serves all neighborhoods equally with the efficiency expected by Hampton Roads' premier suburban community."
+
+  environmentalImpact: "Our Chesapeake service diverts 85% of mattress materials from Hampton Roads landfills through certified Virginia recycling networks. We've recycled 28,700 mattresses (1,148,000 pounds) throughout Chesapeake's six boroughs, supporting the environmental responsibility valued by this educated suburban community. The recycling process separates steel springs for Norfolk Naval Shipyard operations, foam for furniture manufacturing serving military housing, and textiles for regional logistics companies. This local processing reduces transportation emissions while supporting Virginia's circular economy. Chesapeake residents appreciate our commitment to environmental stewardship, which aligns with the city's role protecting the Great Dismal Swamp National Wildlife Refuge and stewarding Virginia's extensive deepwater canal system. Our service helps maintain the balance between suburban growth and conservation of the waterways, wetlands, and protected areas that make Chesapeake a model for responsible development in Hampton Roads."
+
+  howItWorksScheduling: "Military-and-family-friendly scheduling designed for Chesapeake's unique combination of Hampton Roads military community demands and high-quality suburban lifestyle expectations. We coordinate around PCS schedules, deployment timing, dual-career work demands, school schedules, and the service excellence standards expected by Virginia's premier suburban destination."
+
+  howItWorksService: "Our team specializes in Chesapeake's distinctive combination of military community professionalism and suburban family values. We navigate the six-borough system expertly, handle military housing and civilian subdivision access seamlessly, coordinate around Hampton Roads traffic and base schedules professionally, serve waterfront properties and canal communities carefully, and deliver the quality service that honors both the high standards of military families and the suburban lifestyle expectations that make Chesapeake the Hampton Roads destination of choice for families seeking community excellence, safety, and quality of life."
+
+  howItWorksDisposal: "Licensed transport to certified Virginia recycling facilities where materials support regional Hampton Roads sustainability programs and environmental standards that reflect both military community responsibility and the conservation leadership expected by residents who chose Virginia's largest city for its balance of suburban excellence and environmental stewardship. Steel springs and foam components contribute to the regional Virginia economy while supporting Chesapeake's role as Hampton Roads' premier family destination, maintaining the environmental accountability that helps this community earn recognition as Virginia's safest large city while preserving the natural resources and quality of life that make Chesapeake a model for suburban development that balances growth with conservation of the waterways, wetlands, and protected areas that define exceptional Hampton Roads living."
+
+  sidebarStats:
+    mattressesRemoved: "28700"
+
+faqs:
+  - question: "How quickly can you remove my mattress in Chesapeake?"
+    answer: "We provide next-day pickup throughout all six Chesapeake boroughs including Greenbrier, Deep Creek, Western Branch, South Norfolk, Pleasant Grove, and Washington. Our service covers the entire 341 square miles with flexible scheduling that accommodates military PCS moves and busy suburban family schedules."
+    
+  - question: "Do you work with military families and Hampton Roads personnel?"
+    answer: "Absolutely. We specialize in serving Hampton Roads military community with PCS-friendly scheduling, deployment coordination, and understanding of military housing requirements. We work with families from all nearby installations including Naval Station Norfolk, NAS Oceana, and local facilities."
+    
+  - question: "Can you handle Chesapeake's large geographic area and diverse neighborhoods?"
+    answer: "Yes, we're equipped to serve all 341 square miles of Chesapeake including waterfront canal communities, suburban subdivisions, rural areas near Great Dismal Swamp, and everywhere in between. Our specialized vehicles navigate the diverse terrain and community types throughout the six-borough system."
+    
+  - question: "What's included in your Chesapeake mattress removal service?"
+    answer: "Complete service includes pickup from military housing, civilian subdivisions, waterfront properties, and all residential areas across the six boroughs. We handle PCS coordination, suburban family scheduling, Hampton Roads traffic logistics, and eco-friendly recycling through certified Virginia facilities."
+    
+  - question: "Do you serve all areas of Chesapeake equally?"
+    answer: "Definitely. From Greenbrier's newest developments to Deep Creek's established communities, Western Branch's family neighborhoods to South Norfolk's historic areas - we provide equal service quality across all 254,997 residents throughout Virginia's largest city by land area."
+    
+  - question: "How do you handle the SPSA transfer station limitations?"
+    answer: "We eliminate the frustration of 12-visit annual limits, proof-of-residency requirements, and weekend-only hours at Hollowell Lane. No need to drive across town, wait for facility availability, or pay additional fees after exceeding visit limits. We handle everything with our licensed process."
+    
+  - question: "Can you accommodate military schedules and suburban family needs?"
+    answer: "Yes, we understand the unique demands of Hampton Roads military life including PCS timelines, deployment schedules, and base logistics, plus suburban family priorities like school schedules and dual-career households. We provide flexible service timing that respects both military commitments and family lifestyle needs."
+    
+  - question: "What happens to mattresses after pickup in Chesapeake?"
+    answer: "Mattresses go to certified Virginia recycling facilities where 85% of materials including steel springs, foam, and fabric are separated for reuse. This supports the environmental responsibility expected by Chesapeake residents who value community stewardship, contributing to Virginia's sustainability initiatives and the ecological accountability that helps Hampton Roads' premier suburban destination maintain its reputation for quality living while balancing growth with conservation of the waterways, wetlands, and natural resources that make Chesapeake a model for responsible suburban development that preserves the environmental quality and recreational access that define exceptional Hampton Roads community life for military families and civilian residents who chose Virginia's largest city for its commitment to both suburban excellence and environmental stewardship in the nation's premier military community region."
+---

@@ -1,0 +1,134 @@
+---
+layout: location.njk
+
+description: Professional mattress removal in Collierville, TN. Next-day pickup  Licensed, insured, and eco-friendly serving Memphis suburb corporate professionals.
+permalink: /mattress-removal/tennessee/memphis/collierville/
+city: Collierville
+state: Tennessee
+stateSlug: tennessee
+parentMetro: Memphis
+coordinates:
+  lat: 35.0451
+  lng: -89.6645
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 125
+  king: 135
+  boxSpring: 30
+neighborhoods:
+  - name: "Historic Town Square District"
+    zipCodes: ["38017"]
+  - name: "Carriage Crossing"
+    zipCodes: ["38017"]
+  - name: "Wolf River Area"
+    zipCodes: ["38017"]
+  - name: "Schilling Farms"
+    zipCodes: ["38017"]
+  - name: "FedEx World Tech Center Area"
+    zipCodes: ["38017"]
+  - name: "Poplar Commerce Corridor"
+    zipCodes: ["38017"]
+  - name: "North Collierville"
+    zipCodes: ["38017"]
+  - name: "South Collierville"
+    zipCodes: ["38017"]
+  - name: "East Collierville"
+    zipCodes: ["38017"]
+  - name: "West Collierville"
+    zipCodes: ["38017"]
+  - name: "Robbins-Halle Nature Preserve Area"
+    zipCodes: ["38017"]
+  - name: "W.C. Johnson Park Area"
+    zipCodes: ["38017"]
+  - name: "St. George's School Area"
+    zipCodes: ["38017"]
+  - name: "Collierville High School Area"
+    zipCodes: ["38017"]
+  - name: "Downtown Collierville"
+    zipCodes: ["38017"]
+zipCodes: 
+  - "38017"
+recyclingPartners:
+  - "Town of Collierville Sanitation Division"
+  - "Shelby County Solid Waste"
+  - "Waste Management"
+  - "Memphis Area Recycling"
+localRegulations: "Collierville provides weekly household waste collection through green garbage carts via automated trucks and weekly recycling collection through 96-gallon recycle carts. Solid Waste Transfer Station available to residents on Saturdays 8:00 AM-12:00 PM at 450 East South Street. As Shelby County's third-largest municipality with 51,324 residents and home to FedEx World Tech Center, Collierville's waste management serves corporate professionals and suburban families throughout this Memphis metropolitan area community."
+nearbyCities:
+  - name: "Memphis"
+    distance: "17 miles"
+    isSuburb: false
+  - name: "Bartlett"
+    distance: "15 miles"
+    isSuburb: true
+reviews:
+  count: 134
+  featured:
+    - reviewer: "Steven P."
+      rating: 5
+      text: "Needed quick pickup during corporate housing transition. They worked around my work schedule perfectly and handled everything while I was in meetings. Professional and efficient."
+      neighborhood: "FedEx World Tech Center Area"
+    - reviewer: "Amanda R."
+      rating: 5
+      text: "Team was punctual and careful with our property. Much easier than trying to coordinate weekend transfer station visits. Really saved us time and hassle."
+      neighborhood: "Historic Town Square District"
+    - reviewer: "Mike K."
+      rating: 5
+      text: "Called Thursday, picked up Friday morning as promised. Fair pricing and no complications. Would definitely use again for any future moves."
+      neighborhood: "Schilling Farms"
+faqs:
+  - question: "How quickly can you remove mattresses in Collierville?"
+    answer: "Next-day service throughout Collierville neighborhoods, accommodating corporate professional schedules, family timing, and the practical needs of Memphis suburban communities."
+  - question: "Do you serve all Collierville neighborhoods?"
+    answer: "Complete coverage from Historic Town Square to FedEx World Tech Center area, Carriage Crossing to Wolf River neighborhoods, across ZIP code 38017."
+  - question: "What's included in your $125 Collierville pickup fee?"
+    answer: "Base price covers pickup, loading, transportation, and eco-friendly recycling for one mattress. Box springs add $30 each."
+  - question: "How does this compare to Collierville's town collection service?"
+    answer: "We eliminate the need for Transfer Station visits, avoid Saturday-only facility hours, and provide immediate next-day pickup without municipal scheduling restrictions."
+  - question: "Can you handle FedEx World Tech Center area schedules?"
+    answer: "Yes, we understand corporate professional timing, technology industry schedules, and business community needs throughout Collierville's corporate corridor."
+  - question: "Do you coordinate with Memphis commuter schedules?"
+    answer: "Absolutely. We accommodate commuter timing, corporate relocations, and family schedules that work around Memphis metropolitan area professional commitments."
+  - question: "Are you licensed for waste removal in Shelby County?"
+    answer: "We maintain all required Tennessee and Shelby County permits with comprehensive insurance, providing compliant disposal through our nationwide recycling network."
+  - question: "What payment methods do you accept in Collierville?"
+    answer: "All major credit cards, cash, and invoicing options for residents, corporate professionals, and local businesses."
+schema:
+  "@type": "LocalBusiness"
+  name: "A Bedder World Collierville"
+  address:
+    "@type": "PostalAddress"
+    addressLocality: "Collierville"
+    addressRegion: "TN"
+    addressCountry: "US"
+  geo:
+    "@type": "GeoCoordinates" 
+    latitude: 35.0451
+    longitude: -89.6645
+  telephone: "(720) 263-6094"
+  priceRange: "$125-$180"
+  aggregateRating:
+    "@type": "AggregateRating"
+    ratingValue: 4.9
+    reviewCount: 134
+pageContent:
+  heroDescription: "Professional mattress removal serving Collierville with reliable next-day pickup. Part of our nationwide network that has recycled over 1 million mattresses, we provide licensed, insured service for Memphis suburban professionals."
+  
+  aboutService: "Our streamlined mattress removal service addresses the unique needs of Collierville's 51,324 residents across this premier Memphis suburban community known for corporate excellence and family-friendly living. Unlike coordinating with the Town of Collierville's Transfer Station facility available only Saturdays 8:00 AM-12:00 PM or managing weekly collection cart schedules, we provide direct next-day pickup through a single appointment. Corporate professionals at FedEx World Tech Center and other technology companies benefit from flexible scheduling around demanding business hours, while families in established neighborhoods like Historic Town Square and Schilling Farms receive service timed around suburban lifestyle needs. From corporate housing near major employers to family homes throughout Carriage Crossing and Wolf River areas, our service eliminates the complexity of municipal facility coordination and weekend-only disposal options. Each collected mattress flows through our national recycling network that has processed over 1 million units, with 80% of materials recovered for manufacturing reuse - supporting efficient waste management that serves Shelby County's third-largest municipality without the scheduling constraints of municipal transfer station coordination."
+
+  serviceAreasIntro: "Professional mattress pickup serves all Collierville neighborhoods from Historic Town Square to corporate areas, expertly coordinating with Memphis commuter schedules and suburban family timing. From established residential communities to corporate housing, our operations understand professional timing and varied lifestyle configurations. Service flexibility accommodates business schedules, family relocations, and the practical disposal requirements of Tennessee's premier Memphis suburb."
+
+  regulationsCompliance: "Collierville mattresses require coordination with the Transfer Station facility at 450 East South Street available only Saturdays 8:00 AM-12:00 PM, creating scheduling challenges for working professionals and busy families who cannot accommodate weekend-only disposal hours. Our professional service eliminates these municipal timing constraints entirely - no Transfer Station visits, no Saturday-only scheduling, no weekend coordination requirements, and no facility hour restrictions. We provide immediate next-day pickup with transparent pricing, making us the superior choice for Collierville residents who value convenience and reliability over weekend municipal facility coordination."
+
+  environmentalImpact: "Environmental stewardship aligns with Collierville's commitment to Wolf River Watershed conservation and Shelby County environmental leadership. Our mattress recycling initiative ensures 80% of collected materials avoid regional landfills, instead flowing into manufacturing processes that create new products. Steel springs support construction applications, foam components become padding for various projects, and textile materials gain new purpose through advanced processing. This responsible approach preserves the natural beauty of Wolf River wetlands and nature preserves while providing reliable mattress disposal that supports Tennessee's environmental conservation efforts and Memphis metropolitan area sustainability."
+
+  howItWorksScheduling: "Flexible scheduling respects Collierville's corporate professional patterns and suburban family logistics, accommodating Memphis commuter timing, business schedules, and the practical needs of Shelby County's premier suburban community."
+
+  howItWorksService: "Licensed pickup teams understand corporate area access requirements and suburban neighborhood logistics, handling all Shelby County disposal requirements with Memphis metropolitan expertise and professional efficiency tailored to Tennessee's premier corporate suburb."
+
+  howItWorksDisposal: "Each mattress connects to our nationwide recycling network's proven processing capabilities, where Tennessee's environmental standards guide component recovery through sustainable manufacturing partnerships that support regional conservation and Memphis metropolitan area environmental leadership."
+
+  sidebarStats:
+    mattressesRemoved: "1,480"
+---

@@ -1,0 +1,151 @@
+---
+layout: location.njk
+permalink: /mattress-removal/california/santa-cruz/
+city: Santa Cruz
+state: California
+stateSlug: california
+tier: 3
+coordinates:
+  lat: 36.9741
+  lng: -122.0308
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: "Downtown Santa Cruz"
+    zipCodes: ["95060"]
+  - name: "UC Santa Cruz Campus"
+    zipCodes: ["95064"]
+  - name: "Westside Santa Cruz"
+    zipCodes: ["95060"]
+  - name: "Eastside Santa Cruz"
+    zipCodes: ["95062"]
+  - name: "Beach Flats"
+    zipCodes: ["95060"]
+  - name: "Seabright"
+    zipCodes: ["95062"]
+  - name: "Twin Lakes"
+    zipCodes: ["95062"]
+  - name: "Live Oak"
+    zipCodes: ["95062"]
+  - name: "Pleasure Point"
+    zipCodes: ["95062"]
+  - name: "Capitola Village"
+    zipCodes: ["95010"]
+  - name: "Harvey West"
+    zipCodes: ["95060"]
+  - name: "Mid County"
+    zipCodes: ["95060"]
+  - name: "Garfield Park"
+    zipCodes: ["95062"]
+  - name: "Delaware Avenue District"
+    zipCodes: ["95060"]
+  - name: "Pacific Avenue Corridor"
+    zipCodes: ["95060"]
+zipCodes: ["95060", "95062", "95064", "95010"]
+recyclingPartners:
+  - "City of Santa Cruz Resource Recovery Facility"
+  - "GreenWaste Recovery"
+  - "Bye Bye Mattress Program (California)"
+localRegulations: "City of Santa Cruz requires mattress delivery to Resource Recovery Facility at 605 Dimeo Lane, with 5-item limit per visit and free recycling for residents. Santa Cruz County operates Buena Vista Landfill and Ben Lomond Transfer Station with 28% surcharge for city residents. California SB 1383 mandates organics curbside collection with proper waste sorting requirements. All disposal must comply with Mattress Recycling Council state program standards."
+nearbyCities:
+  - name: "Capitola"
+    distance: "5 miles"
+    slug: "capitola"
+  - name: "Scotts Valley"
+    distance: "8 miles"
+    slug: "scotts-valley"
+  - name: "Watsonville"
+    distance: "20 miles"
+    slug: "watsonville"
+  - name: "Aptos"
+    distance: "12 miles"
+    slug: "aptos"
+  - name: "Felton"
+    distance: "15 miles"
+    slug: "felton"
+  - name: "Soquel"
+    distance: "10 miles"
+    slug: "soquel"
+reviews:
+  count: 25
+  featured:
+    - reviewer: "Jake M."
+      location: "UC Santa Cruz Campus"
+      rating: 5
+      text: "End-of-semester dorm cleanout with roommates. A Bedder World coordinated pickup during move-out week and handled three mattresses from our shared housing efficiently. Perfect timing for student schedules."
+    - reviewer: "Lisa R."
+      location: "Downtown Santa Cruz"
+      rating: 5
+      text: "Victorian rental house needed mattress replacement before new tenants. The team navigated our narrow stairs and handled coordination with property management seamlessly. Professional service for rental properties."
+    - reviewer: "Chris D."
+      location: "Westside Santa Cruz"
+      rating: 5
+      text: "Beach house renovation required mattress removal from guest bedrooms. They worked around our contractor schedule and explained the local recycling process. Great service for vacation rental properties."
+faqs:
+  - question: "How do Santa Cruz city regulations affect mattress removal?"
+    answer: "Santa Cruz requires mattress delivery to the Resource Recovery Facility at 605 Dimeo Lane with a 5-item limit per visit. We coordinate with city requirements and handle all compliance for free residential recycling through the Bye Bye Mattress program."
+  - question: "Can you accommodate UC Santa Cruz student housing schedules?"
+    answer: "Absolutely. We specialize in student move-out periods, semester transitions, and shared housing turnovers. Our team schedules around academic calendars and coordinates with multiple roommates for efficient bulk pickups."
+  - question: "Do you work with vacation rental and beach house properties?"
+    answer: "Yes, we regularly service vacation rentals, beach houses, and seasonal properties throughout Santa Cruz. We coordinate with property managers and work around guest check-in schedules for seamless service."
+  - question: "What's included in your Santa Cruz mattress removal pricing?"
+    answer: "Complete removal from any location, stair navigation, coordination with landlords or property managers, and eco-friendly disposal through Santa Cruz city approved facilities. Pricing is $125 for one mattress, $155 for two, and $180 for three pieces."
+  - question: "How quickly can you remove mattresses in Santa Cruz?"
+    answer: "We provide next-day service throughout Santa Cruz including campus areas, downtown, and beach communities. Our team schedules around academic calendars and seasonal rental turnovers."
+  - question: "Can you handle Victorian house and older property access challenges?"
+    answer: "Yes, Santa Cruz's historic Victorian homes and beach cottages often have narrow stairs and unique layouts. Our experienced team navigates these challenges while protecting architectural details and property investments."
+  - question: "Are you licensed for waste removal in Santa Cruz County?"
+    answer: "Yes, we maintain all required Santa Cruz County licenses and work with local facilities including the Resource Recovery Facility and GreenWaste Recovery for proper disposal and recycling compliance."
+  - question: "Do you coordinate with the city's free mattress recycling program?"
+    answer: "We work directly with Santa Cruz's Resource Recovery Facility and California's Bye Bye Mattress stewardship program to ensure maximum material recovery while supporting local environmental sustainability goals."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Santa Cruz"
+  "image": "https://abedderworld.com/images/service-areas/santa-cruz-mattress-removal.jpg"
+  "telephone": "720-263-6094"
+  "email": "info@abedderworld.com"
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Santa Cruz"
+    "addressRegion": "CA"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 36.9741
+    "longitude": -122.0308
+  "url": "https://abedderworld.com/mattress-removal/california/santa-cruz/"
+  "areaServed":
+    "@type": "City"
+    "name": "Santa Cruz, California"
+  "serviceType": "Mattress Removal and Disposal"
+  "priceRange": "$125-$180"
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": "4.9"
+    "reviewCount": 25
+pageContent:
+  heroSubtitle: " • Student Housing Specialists • Serving University & Beach Communities"
+  heroDescription: "A Bedder World provides specialized mattress removal throughout Santa Cruz's university and coastal communities. From UC Santa Cruz campus housing to downtown Victorian rentals, we navigate city regulations with next-day scheduling and eco-friendly disposal that serves this vibrant college town."
+  
+  aboutService: "Santa Cruz's identity as a coastal college town creates distinctive mattress disposal needs. The city's 62,956 residents include a large student population that drives seasonal housing transitions and shared living arrangements. UC Santa Cruz's academic calendar creates predictable move-out periods requiring bulk pickup coordination. Historic Victorian homes throughout downtown and westside neighborhoods present access challenges with narrow staircases and period architecture. Beach communities and vacation rental properties require flexible scheduling around guest turnovers and seasonal occupancy patterns."
+  
+  serviceAreasIntro: "Santa Cruz's diverse geography spans university campus, downtown historic district, and coastal neighborhoods, each with unique access considerations. UC Santa Cruz campus areas require coordination with student housing policies and academic schedules. Downtown Victorian neighborhoods need careful navigation of historic property constraints. Beach communities like Seabright and Pleasure Point demand coordination with vacation rental management and seasonal access patterns."
+  
+  environmentalImpact: "Santa Cruz leads coastal environmental stewardship through comprehensive recycling programs and strict waste management regulations. The city's Resource Recovery Facility at 605 Dimeo Lane provides free mattress recycling through California's Bye Bye Mattress program, ensuring materials avoid Pacific Ocean contamination. GreenWaste Recovery coordinates county-wide sustainability efforts, while SB 1383 organics requirements support the environmental values that define this progressive coastal community."
+  
+  pricingContext: "Santa Cruz's college town economy and diverse housing market create specific service expectations. Student housing operators appreciate transparent pricing that accommodates semester transitions and shared arrangements without hidden fees. Vacation rental managers require flexible scheduling that works around guest bookings and property maintenance cycles essential for coastal tourism revenue."
+  
+  howItWorksScheduling: "Select timing that works with your academic calendar, rental property schedule, or vacation home management needs. We offer morning and afternoon slots to accommodate student move-outs and property management workflows."
+  
+  howItWorksService: "Our college town specialists handle everything from dorm and shared housing pickups to Victorian home navigation and vacation rental coordination. We work with housing operators and property managers to ensure efficient service."
+  
+  howItWorksDisposal: "All mattresses are transported to approved Santa Cruz facilities through the Resource Recovery Facility and GreenWaste Recovery, supporting city environmental compliance and California's mattress stewardship program."
+  
+  sidebarStats:
+    mattressesRemoved: 200
+---

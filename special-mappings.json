@@ -1,0 +1,22 @@
+{
+  "https://www.abedderworld.com/about": "/about/",
+  "https://www.abedderworld.com/about/": "/about/",
+  "https://www.abedderworld.com/blog": "/blog/",
+  "https://www.abedderworld.com/blog/": "/blog/",
+  "https://www.abedderworld.com/book-online": "/pricing/",
+  "https://www.abedderworld.com/book-online/": "/pricing/",
+  "https://www.abedderworld.com/commercial": "/commercial/",
+  "https://www.abedderworld.com/commercial/": "/commercial/",
+  "https://www.abedderworld.com/contact": "/contact/",
+  "https://www.abedderworld.com/contact/": "/contact/",
+  "https://www.abedderworld.com/disposal-talk": "/disposal-talk/",
+  "https://www.abedderworld.com/disposal-talk/": "/disposal-talk/",
+  "https://www.abedderworld.com/faqs": "/faqs/",
+  "https://www.abedderworld.com/faqs/": "/faqs/",
+  "https://www.abedderworld.com/how-it-works": "/how-it-works/",
+  "https://www.abedderworld.com/how-it-works/": "/how-it-works/",
+  "https://www.abedderworld.com/pricing": "/pricing/",
+  "https://www.abedderworld.com/pricing/": "/pricing/",
+  "https://www.abedderworld.com/what-we-take": "/what-we-take/",
+  "https://www.abedderworld.com/what-we-take/": "/what-we-take/"
+}

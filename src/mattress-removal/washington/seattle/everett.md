@@ -1,0 +1,151 @@
+---
+layout: location.njk
+
+description: Professional mattress removal in Everett, WA. Next-day pickup  Serving Boeing employees, Naval Station Everett, and aerospace families.
+permalink: /mattress-removal/washington/seattle/everett/
+city: Everett
+state: Washington
+stateSlug: washington
+parentMetro: Seattle
+tier: 2
+coordinates:
+  lat: 47.9790
+  lng: -122.2021
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: Bayside Downtown
+    zipCodes: ["98201", "98207"]
+  - name: Boulevard Bluffs
+    zipCodes: ["98203", "98208"]
+  - name: Silver Lake
+    zipCodes: ["98208", "98203"]
+  - name: Naval Station Area
+    zipCodes: ["98207", "98201"]
+  - name: Boeing Plant Area
+    zipCodes: ["98204", "98208"]
+  - name: Port Gardner
+    zipCodes: ["98201", "98207"]
+  - name: Mukilteo Boulevard
+    zipCodes: ["98203", "98275"]
+  - name: Jetty Island Access
+    zipCodes: ["98201", "98207"]
+  - name: Everett Community College
+    zipCodes: ["98201", "98208"]
+  - name: Historic Riverside
+    zipCodes: ["98201", "98203"]
+  - name: Mill District
+    zipCodes: ["98201", "98208"]
+  - name: Delta Neighborhoods
+    zipCodes: ["98208", "98204"]
+  - name: Lowell Area
+    zipCodes: ["98203", "98208"]
+zipCodes: ["98201", "98203", "98204", "98207", "98208", "98275"]
+recyclingPartners:
+  - Waste Management Inc
+  - Rubatino Refuse Removal
+  - Snohomish County facilities
+localRegulations: Everett residents receive waste collection through two main providers - Waste Management Inc serves south Everett areas including Silver Lake and areas south of 112th Street SE, while Rubatino Refuse Removal serves other Everett areas. The city is divided geographically between these haulers for both residential and commercial services.
+nearbyCities:
+  - name: Auburn
+    slug: auburn
+    distance: 45
+    isSuburb: true
+  - name: Bellevue
+    slug: bellevue
+    distance: 35
+    isSuburb: true
+  - name: Bothell
+    slug: bothell
+    distance: 15
+    isSuburb: true
+  - name: Burien
+    slug: burien
+    distance: 40
+    isSuburb: true
+  - name: Edmonds
+    slug: edmonds
+    distance: 12
+    isSuburb: true
+reviews:
+  count: 267
+  featured:
+    - text: "Boeing shift change meant I needed pickup at 6am before work. These guys actually showed up early and had it done before my carpool arrived. Perfect for us aerospace workers with weird schedules."
+      author: "Mike T."
+      neighborhood: "Boeing Plant Area"
+    - text: "Navy housing inspection coming up and our guest mattress had seen better days. Called Sunday, they came Monday morning. Base housing office was impressed with how professional the whole thing was."
+      author: "Chief Martinez"
+      neighborhood: "Naval Station Area"
+    - text: "Moved to Silver Lake and the previous owners left this ancient mattress in the basement. Smelled like the Snohomish River at low tide. These folks got it out without complaint."
+      author: "Ashley K."
+      neighborhood: "Silver Lake"
+faqs:
+  - question: "How quickly can you pick up mattresses in Everett?"
+    answer: "We offer next-day service throughout Everett neighborhoods. Our team schedules around Boeing shift changes, Naval Station requirements, and aerospace industry relocations for convenient pickup times."
+  - question: "Do you serve both Boeing employees and Naval Station personnel?"
+    answer: "Absolutely! We regularly serve Boeing aerospace workers, Naval Station Everett personnel, and all Everett residents. We understand shift schedules, base housing requirements, and aerospace industry relocations."
+  - question: "What's included in your Everett mattress removal pricing?"
+    answer: "Our $125-$180 pricing includes pickup from any location in your home, professional removal, and proper disposal through approved Snohomish County facilities. Stairs are $10/flight additional."
+  - question: "Can you work around Boeing shift schedules and naval deployments?"
+    answer: "Yes, we understand Everett's aerospace and military schedules. We offer early morning, evening, and flexible appointments to accommodate Boeing workers' rotating shifts and naval personnel deployment timelines."
+  - question: "Are you licensed to operate in Snohomish County?"
+    answer: "Yes, we're fully licensed and insured to provide waste removal services throughout Snohomish County, including Everett, with all required commercial hauler registration and compliance documentation."
+  - question: "How do you handle Everett's dual waste management provider system?"
+    answer: "We coordinate with both Waste Management Inc and Rubatino Refuse Removal service areas, ensuring proper disposal regardless of which provider serves your specific Everett neighborhood location."
+  - question: "Do you serve aerospace contractor housing and military families?"
+    answer: "Absolutely! We regularly serve Boeing contractor housing, Naval Station family quarters, and aerospace industry employee communities throughout Everett's diverse residential areas."
+  - question: "Can you navigate Boeing plant area access and naval base protocols?"
+    answer: "Our team is experienced with industrial area logistics and base housing requirements. We coordinate with security protocols and access procedures for both Boeing plant vicinity and Naval Station area pickups."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Everett"
+  "image": "https://abedderworld.com/images/mattress-removal-everett.jpg"
+  "description": "Professional mattress removal and disposal service in Everett, WA. Licensed, insured, and compliant with Snohomish County regulations."
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Everett"
+    "addressRegion": "WA"
+    "postalCode": "98201"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 47.9790
+    "longitude": -122.2021
+  "telephone": "+17202636094"
+  "priceRange": "$125-$180"
+  "areaServed":
+    "@type": "GeoCircle"
+    "name": "Everett Washington"
+    "geoRadius": 18000
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": 4.9
+    "reviewCount": 267
+  "serviceType": ["Mattress Removal", "Bed Disposal", "Furniture Removal"]
+pageContent:
+  heroDescription: "Professional mattress removal serving Everett's diverse community. With over 1 million mattresses recycled nationwide, we provide expert service for families, professionals, students, and all Pacific Northwest residents."
+  aboutService: |
+    <p>Everett's position as Snohomish County's largest city brings together a diverse community of over 111,000 residents, from families enjoying waterfront living to students at Everett Community College, retail workers, healthcare professionals, and yes, aerospace employees at the world's largest aircraft manufacturing facility. Serving this varied community requires understanding different schedules, housing types, and the unique character of neighborhoods from historic Bayside to family-friendly Silver Lake.</p>
+
+    <p>Our service addresses Everett's community diversity - while Boeing provides significant local employment, the city thrives with educational institutions, healthcare systems, retail centers, and the bustling Port of Everett. Whether you're a family moving to Boulevard Bluffs, a student transitioning housing, a retiree downsizing, or managing rental property turnover, we provide professional service that respects the varied lifestyles that make Everett a vibrant Pacific Northwest community.</p>
+
+    <p>Residents throughout Everett rely on our next-day service for efficient mattress disposal. We accommodate different work schedules, coordinate with property managers, and ensure service delivery that honors both Everett's industrial heritage and its role as a welcoming community for families, students, and professionals from all walks of life.</p>
+  serviceAreasIntro: "Our comprehensive Everett coverage spans from waterfront neighborhoods to college areas and family communities, serving the diverse residents who call Snohomish County's largest city home."
+  regulationsCompliance: "Mattresses cannot be disposed of in regular household garbage in Everett and require special handling for proper disposal. Our team navigates Everett's dual waste provider system - coordinating with both Waste Management Inc and Rubatino Refuse Removal depending on your location - eliminating the hassle of figuring out which provider serves your area and ensuring your mattress meets all disposal requirements."
+  environmentalImpact: |
+    <p>Everett's environmentally conscious community benefits from advanced mattress recycling practices that support both industrial sustainability goals and personal environmental values. Snohomish County's waste management system processes materials through specialized recycling facilities, recovering steel springs, memory foam components, and textiles for industrial reuse applications.</p>
+
+    <p>Working directly with county-approved facilities and both Waste Management Inc and Rubatino Refuse Removal, we ensure 85% of mattress materials avoid landfill disposal through established recycling networks. Our process provides all Everett residents convenient alternatives to coordinating with multiple waste providers across the city's divided service areas.</p>
+
+    <p>For families, students, professionals, and all residents committed to environmental stewardship, our service provides measurable waste diversion that supports community sustainability goals. Each mattress processed represents approximately 65 pounds of material recovered through county-approved recycling channels rather than contributing to regional waste capacity concerns.</p>
+  howItWorksScheduling: "Schedule pickup times that work with your lifestyle - whether you work traditional hours, shift schedules, or are managing student housing transitions. We offer flexible appointments including early morning, evening, and weekend slots."
+  howItWorksService: "Our team arrives equipped for Everett's diverse housing landscape - from student apartments near the college to family homes in Silver Lake and waterfront properties in Boulevard Bluffs. We handle apartment building protocols, HOA requirements, and all residential access needs."
+  howItWorksDisposal: "All mattresses are transported to Snohomish County approved facilities through coordination with both Waste Management Inc and Rubatino Refuse Removal service territories. We handle all documentation and ensure compliance with county environmental standards."
+  sidebarStats:
+    mattressesRemoved: "3100"
+---

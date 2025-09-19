@@ -1,0 +1,389 @@
+---
+layout: base.njk
+---
+
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+    <div class="container">
+        <a href="/">Home</a>
+        <span>›</span>
+        <a href="/blog/">Blog</a>
+        <span>›</span>
+        <span>{{ title }}</span>
+    </div>
+</div>
+
+<!-- Blog Post Hero -->
+<section class="blog-hero">
+    <div class="container">
+        <div class="blog-header">
+            <div class="blog-meta">
+                {% if categories %}
+                <div class="blog-categories">
+                    {% for category in categories %}
+                    <span class="blog-category">{{ category }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
+                <time class="blog-date" datetime="{{ date }}">
+                    {{ date | dateFormat }}
+                </time>
+            </div>
+
+            <h1 class="blog-title">{{ title }}</h1>
+
+            {% if coverImage %}
+            <div class="blog-featured-image">
+                <img src="/images/blog/{{ coverImage }}" alt="{{ title }}" loading="eager">
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</section>
+
+<!-- Blog Content -->
+<article class="blog-content">
+    <div class="container">
+        <div class="blog-content-wrapper">
+            <div class="blog-main">
+                <div class="prose">
+                    {{ content | safe }}
+                </div>
+
+                <!-- Blog Post Footer -->
+                <div class="blog-post-footer">
+                    <div class="blog-cta">
+                        <h3>Need Mattress Removal?</h3>
+                        <p>Professional pickup service with next-day availability. Eco-friendly disposal guaranteed.</p>
+                        <a href="#" class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                            Book Your Pickup Now →
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sidebar -->
+            <aside class="blog-sidebar">
+                <div class="sidebar-widget">
+                    <h3>Popular Services</h3>
+                    <ul class="service-links">
+                        <li><a href="/mattress-removal/">Mattress Removal</a></li>
+                        <li><a href="/how-to-get-rid-of-a-couch/">Couch Removal</a></li>
+                        <li><a href="/bed-frame-disposal/">Bed Frame Disposal</a></li>
+                        <li><a href="/commercial/">Commercial Services</a></li>
+                    </ul>
+                </div>
+
+                <div class="sidebar-widget">
+                    <h3>Recent Posts</h3>
+                    <div class="recent-posts">
+                        {% for post in collections.blogPosts | slice(0, 5) %}
+                        {% if post.url != page.url %}
+                        <article class="recent-post">
+                            <h4><a href="{{ post.url }}">{{ post.data.title }}</a></h4>
+                            <time>{{ post.data.date | dateFormat }}</time>
+                        </article>
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </div>
+</article>
+
+<style>
+/* Blog Post Specific Styles */
+.blog-hero {
+    background: var(--gray-50);
+    padding: 60px 0 40px;
+}
+
+.blog-header {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.blog-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+}
+
+.blog-categories {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.blog-category {
+    background: var(--primary-green);
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.blog-date {
+    color: var(--gray-600);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.blog-title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1.1;
+    color: var(--gray-900);
+    margin-bottom: 40px;
+    letter-spacing: -0.02em;
+}
+
+.blog-featured-image {
+    border-radius: var(--border-radius-lg);
+    overflow: hidden;
+    box-shadow: var(--shadow-lg);
+    margin-bottom: 20px;
+}
+
+.blog-featured-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.blog-content {
+    padding: 60px 0;
+}
+
+.blog-content-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 300px;
+    gap: 60px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.blog-main {
+    min-width: 0;
+}
+
+.prose {
+    color: var(--gray-800);
+    line-height: 1.7;
+    font-size: 16px;
+}
+
+.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 {
+    color: var(--gray-900);
+    font-weight: 700;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    line-height: 1.3;
+}
+
+.prose h1 { font-size: 2.5rem; }
+.prose h2 { font-size: 2rem; }
+.prose h3 { font-size: 1.5rem; }
+.prose h4 { font-size: 1.25rem; }
+
+.prose p {
+    margin-bottom: 1.5em;
+}
+
+.prose ul, .prose ol {
+    margin-bottom: 1.5em;
+    padding-left: 1.5em;
+}
+
+.prose li {
+    margin-bottom: 0.5em;
+}
+
+.prose a {
+    color: var(--primary-green);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.prose a:hover {
+    color: var(--primary-green-dark);
+    text-decoration-thickness: 2px;
+}
+
+.prose img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--border-radius);
+    margin: 2em 0;
+    box-shadow: var(--shadow-sm);
+}
+
+.prose blockquote {
+    border-left: 4px solid var(--primary-green);
+    padding-left: 1.5em;
+    margin: 2em 0;
+    font-style: italic;
+    color: var(--gray-700);
+}
+
+.prose code {
+    background: var(--gray-100);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.9em;
+}
+
+.prose pre {
+    background: var(--gray-100);
+    padding: 1.5em;
+    border-radius: var(--border-radius);
+    overflow-x: auto;
+    margin: 2em 0;
+}
+
+.blog-post-footer {
+    margin-top: 60px;
+    padding-top: 40px;
+    border-top: 2px solid var(--gray-200);
+}
+
+.blog-cta {
+    background: var(--gray-50);
+    padding: 40px;
+    border-radius: var(--border-radius-lg);
+    text-align: center;
+    border: 2px solid var(--gray-200);
+}
+
+.blog-cta h3 {
+    margin-bottom: 16px;
+    color: var(--gray-900);
+}
+
+.blog-cta p {
+    margin-bottom: 24px;
+    color: var(--gray-600);
+}
+
+.blog-sidebar {
+    position: sticky;
+    top: 40px;
+    height: fit-content;
+}
+
+.sidebar-widget {
+    background: var(--white);
+    border: 2px solid var(--gray-200);
+    border-radius: var(--border-radius-lg);
+    padding: 32px;
+    margin-bottom: 32px;
+}
+
+.sidebar-widget h3 {
+    margin-bottom: 24px;
+    color: var(--gray-900);
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+.service-links {
+    list-style: none;
+    padding: 0;
+}
+
+.service-links li {
+    margin-bottom: 12px;
+}
+
+.service-links a {
+    color: var(--gray-700);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.service-links a:hover {
+    color: var(--primary-green);
+}
+
+.recent-posts {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.recent-post h4 {
+    margin-bottom: 4px;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.recent-post h4 a {
+    color: var(--gray-800);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.recent-post h4 a:hover {
+    color: var(--primary-green);
+}
+
+.recent-post time {
+    font-size: 12px;
+    color: var(--gray-500);
+}
+
+/* Mobile Responsive */
+@media (max-width: 1024px) {
+    .blog-content-wrapper {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .blog-sidebar {
+        order: -1;
+        position: static;
+    }
+}
+
+@media (max-width: 768px) {
+    .blog-hero {
+        padding: 40px 0 20px;
+    }
+
+    .blog-title {
+        font-size: 2rem;
+    }
+
+    .blog-meta {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .blog-content {
+        padding: 40px 0;
+    }
+
+    .sidebar-widget {
+        padding: 24px;
+    }
+
+    .prose {
+        font-size: 15px;
+    }
+
+    .prose h1 { font-size: 2rem; }
+    .prose h2 { font-size: 1.75rem; }
+    .prose h3 { font-size: 1.5rem; }
+}
+</style>

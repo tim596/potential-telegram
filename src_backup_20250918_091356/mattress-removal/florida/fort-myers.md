@@ -1,0 +1,159 @@
+---
+layout: location.njk
+title: Fort Myers Mattress Removal & Disposal Service
+description: Professional mattress removal in Fort Myers, FL. Next-day pickup  Licensed, insured, and eco-friendly. Serving River District, McGregor Boulevard, Edison Park, and all neighborhoods.
+permalink: /mattress-removal/florida/fort-myers/
+city: Fort Myers
+state: Florida
+stateSlug: florida
+tier: 2
+coordinates:
+  lat: 26.6406
+  lng: -81.8723
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: "Downtown River District"
+    zipCodes: ["33901"]
+  - name: "McGregor Boulevard Historic"
+    zipCodes: ["33901"]
+  - name: "Edison Park"
+    zipCodes: ["33901"]
+  - name: "Royal Palm Estates"
+    zipCodes: ["33901"]
+  - name: "Dean Park"
+    zipCodes: ["33901"]
+  - name: "Seminole Park"
+    zipCodes: ["33901"]
+  - name: "Gulf Harbour"
+    zipCodes: ["33901"]
+  - name: "Palmetto Point"
+    zipCodes: ["33901"]
+  - name: "Town & River Estates"
+    zipCodes: ["33901"]
+  - name: "York Manor"
+    zipCodes: ["33901"]
+  - name: "Bell Tower Area"
+    zipCodes: ["33907"]
+  - name: "Gateway"
+    zipCodes: ["33907"]
+  - name: "Colonial Lakes"
+    zipCodes: ["33908"]
+  - name: "Sanibel Outlets Area"
+    zipCodes: ["33908"]
+  - name: "Manatee Park Area"
+    zipCodes: ["33916"]
+zipCodes: ["33901", "33905", "33907", "33908", "33916"]
+recyclingPartners:
+  - "Lee County Solid Waste Division"
+  - "WM (Waste Management)"
+  - "Waste Pro USA"
+  - "Republic Services"
+localRegulations: ""
+nearbyCities:
+reviews:
+  count: 173
+  featured:
+    - author: "Patricia M."
+      neighborhood: "McGregor Boulevard Historic"
+      rating: 5
+      text: "Excellent service along the historic district! They navigated our narrow driveway between the royal palms perfectly and handled our antique bed frame removal with care. The crew understood the neighborhood character and worked quietly during morning hours."
+    - author: "James R."
+      neighborhood: "Downtown River District"
+      rating: 5
+      text: "Called them Monday afternoon, pickup was Tuesday morning. Living downtown, parking is always tricky but they managed everything smoothly. Fair pricing and the team was professional throughout. Saved me from dealing with city bulk pickup schedules."
+    - author: "Maria G."
+      neighborhood: "Edison Park"
+      rating: 5
+      text: "We were renovating our Edison Park home and needed three mattresses gone quickly. They squeezed us in next day and handled the upstairs removal without any wall damage. Really impressed with how careful they were with our hardwood floors."
+    - author: "David K."
+      neighborhood: "Bell Tower Area"
+      rating: 5
+      text: "Great experience from start to finish! They coordinated around our shopping center traffic patterns and arrived exactly when promised. The crew was efficient and made the whole process stress-free. Will definitely use again."
+    - author: "Sharon T."
+      neighborhood: "Gulf Harbour"
+      rating: 5
+      text: "Living in a waterfront community, we needed someone who understood our access requirements. They worked perfectly with our HOA guidelines and handled everything professionally. Much easier than figuring out county disposal rules."
+    - author: "Michael D."
+      neighborhood: "Colonial Lakes"
+      rating: 5
+      text: "Quick turnaround when we needed mattress removal for our rental property. They understood the urgency of tenant changeovers and provided same-week service. Pricing was transparent with no surprises. Highly recommend for property managers."
+faqs:
+  - question: "How quickly can you pick up mattresses in Fort Myers?"
+    answer: "We provide next-day pickup service throughout Fort Myers including the River District, McGregor Boulevard, Edison Park, and all Lee County neighborhoods. Call (720) 263-6094 or book online to schedule your removal."
+  - question: "Do you serve all Fort Myers neighborhoods and historic areas?"
+    answer: "Yes, we serve all areas including downtown River District, historic McGregor Boulevard estates, Edison Park, Gulf Harbour, and all residential communities throughout Fort Myers. We understand local access requirements and HOA protocols."
+  - question: "What's included in your Fort Myers mattress removal service?"
+    answer: "Complete service includes pickup from any location, stair navigation, careful handling around historic home features, and eco-friendly disposal. No hidden fees anywhere in Fort Myers or Lee County."
+  - question: "Can you handle waterfront properties and gated communities?"
+    answer: "Absolutely. Our team regularly serves Gulf Harbour, Palmetto Point, and other waterfront communities throughout Fort Myers. We coordinate with HOA requirements and understand access protocols for premium neighborhoods."
+  - question: "Do you work around downtown traffic and parking limitations?"
+    answer: "Yes, we schedule around River District events, downtown business hours, and parking restrictions. Our local knowledge ensures efficient service even during busy periods in Fort Myers' downtown core."
+  - question: "What are your rates for Fort Myers mattress removal?"
+    answer: "Pricing starts at $125 for one piece, $155 for two pieces, and $180 for three pieces. This covers pickup anywhere in Fort Myers with no additional fees for waterfront access or historic district properties."
+  - question: "Are you licensed for Lee County regulations?"
+    answer: "Yes, we're fully licensed and compliant with all Lee County waste disposal regulations and coordinate with local haulers including WM, Waste Pro, and Republic Services for proper disposal documentation."
+  - question: "How do you handle disposal and recycling in Lee County?"
+    answer: "We recycle over 80% of mattresses we collect and donate when possible. All disposal meets Lee County environmental standards through certified facilities, supporting Fort Myers' environmental stewardship of the Caloosahatchee River watershed."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Fort Myers"
+  "image": "https://www.abedderworld.com/images/mattress-removal-service.jpg"
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Fort Myers"
+    "addressRegion": "FL"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 26.6406
+    "longitude": -81.8723
+  "telephone": "(720) 263-6094"
+  "url": "https://www.abedderworld.com/mattress-removal/florida/fort-myers/"
+  "priceRange": "$125-$180"
+  "serviceArea": "Fort Myers, FL"
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": "4.9"
+    "reviewCount": "173"
+  "openingHours": "Mo-Su 08:00-20:00"
+pageContent:
+  heroDescription: |
+    Professional mattress removal service for Fort Myers' diverse communities from the historic River District to waterfront estates along McGregor Boulevard. We handle downtown logistics, historic home requirements, and HOA protocols while providing eco-friendly disposal throughout Lee County.
+
+  aboutService: |
+    Fort Myers' 92,000 residents enjoy life in Southwest Florida's "City of Palms," featuring the vibrant downtown River District, historic McGregor Boulevard lined with royal palms, and waterfront communities along the Caloosahatchee River. The city's mix of historic neighborhoods, downtown condos, and luxury waterfront estates creates specific mattress removal challenges requiring local expertise and careful coordination.
+    
+    Lee County provides bulk waste collection through various haulers, but scheduling limitations and 4-cubic-yard restrictions make professional removal the preferred choice for residents in downtown high-rises, historic properties, and waterfront communities where convenience and proper coordination matter most.
+
+  serviceAreasIntro: |
+    We provide comprehensive mattress removal throughout Fort Myers' distinctive neighborhoods, from downtown River District condos to historic McGregor Boulevard estates. Our service handles waterfront access, HOA coordination, and downtown parking logistics while respecting the character of historic communities.
+
+  regulationsCompliance: |
+    Lee County regulations require residents to schedule bulk waste through approved haulers (WM, Waste Pro, Republic Services) with 4-cubic-yard weekly limits and strict placement rules. Our service bypasses these restrictions entirely - we provide immediate pickup without scheduling delays, handle all regulatory compliance ourselves, and transport directly to certified facilities so you avoid the county's cumbersome bulk waste system.
+
+  environmentalImpact: |
+    Our eco-friendly service recycles over 80% of mattresses we collect, diverting them from Lee County landfills while protecting Fort Myers' Caloosahatchee River watershed and coastal environment. We donate mattresses in good condition when possible and recover steel springs, foam, and fabric through certified recycling partnerships that support Southwest Florida's environmental priorities.
+
+  howItWorksScheduling: |
+    Next-day pickup available throughout Fort Myers with scheduling that works around downtown events, historic district requirements, and waterfront community access protocols. We coordinate with property management and respect neighborhood standards throughout Lee County.
+
+  howItWorksService: |
+    Our team handles everything from downtown high-rise elevator logistics to historic home preservation requirements. We navigate waterfront property access, work with HOA guidelines, and manage River District parking challenges while maintaining the service standards expected throughout Fort Myers' premium communities.
+
+  howItWorksDisposal: |
+    Direct transport to certified Lee County facilities with full environmental compliance documentation. All disposal handled to meet county standards while supporting Fort Myers' commitment to protecting the Caloosahatchee River and coastal ecosystem through responsible waste management.
+
+  sidebarStats:
+    mattressesRemoved: "3,500"
+
+  contactContent: |
+    Schedule Fort Myers mattress removal by calling (720) 263-6094 or booking online. Our service coordinates with downtown logistics, historic property requirements, and waterfront community protocols. We provide confirmed arrival windows and work within neighborhood standards.
+
+    Priority pickup serves urgent situations like downtown condo turnovers, historic property renovations, or waterfront rental preparation. Our understanding of Fort Myers' unique mix of urban, historic, and waterfront living ensures efficient service that respects community character throughout the City of Palms.
+---

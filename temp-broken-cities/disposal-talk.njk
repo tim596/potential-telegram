@@ -1,0 +1,432 @@
+---
+title: "Disposal Talk - Complete Guide to Mattress & Furniture Disposal"
+description: "Your comprehensive resource for mattress disposal, furniture recycling, and eco-friendly removal options across the US. Expert guides for every situation."
+layout: base.njk
+permalink: /disposal-talk/
+---
+
+<section class="hero-section">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title">Disposal Talk</h1>
+            <p class="hero-subtitle">Your complete guide to responsible mattress and furniture disposal</p>
+            <div class="hero-stats">
+                <div class="stat">
+                    <strong>{{ collections.servicePosts | length }}</strong>
+                    <span>Expert Guides</span>
+                </div>
+                <div class="stat">
+                    <strong>50+</strong>
+                    <span>Cities Covered</span>
+                </div>
+                <div class="stat">
+                    <strong>1M+</strong>
+                    <span>Items Recycled</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="disposal-content">
+    <div class="container">
+        <!-- Search/Filter Section -->
+        <div class="filter-section">
+            <div class="search-box">
+                <input type="text" id="searchPosts" placeholder="Search disposal guides..." aria-label="Search posts">
+                <button type="button" aria-label="Search">🔍</button>
+            </div>
+            <div class="filter-tabs">
+                <button class="filter-btn active" data-filter="all">All Guides</button>
+                <button class="filter-btn" data-filter="mattress">Mattress Disposal</button>
+                <button class="filter-btn" data-filter="furniture">Furniture Disposal</button>
+                <button class="filter-btn" data-filter="recycling">Recycling Info</button>
+                <button class="filter-btn" data-filter="diy">DIY Guides</button>
+            </div>
+        </div>
+
+        <!-- Posts Grid -->
+        <div class="posts-grid" id="postsGrid">
+            {% for post in collections.servicePosts %}
+            <article class="post-card" data-category="{% if 'mattress' in post.data.title.toLowerCase() %}mattress{% elif 'couch' in post.data.title.toLowerCase() or 'furniture' in post.data.title.toLowerCase() %}furniture{% elif 'recycle' in post.data.title.toLowerCase() or 'diy' in post.data.title.toLowerCase() %}recycling{% else %}mattress{% endif %}">
+                <div class="post-content">
+                    <h2 class="post-title">
+                        <a href="{{ post.url }}">{{ post.data.title }}</a>
+                    </h2>
+
+                    {% if post.data.date %}
+                    <time class="post-date" datetime="{{ post.data.date }}">
+                        {{ post.data.date | date }}
+                    </time>
+                    {% endif %}
+
+                    <div class="post-excerpt">
+                        {% if 'mattress' in post.data.title.toLowerCase() %}
+                            {% if 'how to get rid' in post.data.title.toLowerCase() %}
+                                Local mattress disposal options and recycling services.
+                            {% else %}
+                                Professional mattress removal and disposal guide.
+                            {% endif %}
+                        {% elif 'couch' in post.data.title.toLowerCase() %}
+                            Complete guide to couch and sofa disposal options.
+                        {% elif 'box spring' in post.data.title.toLowerCase() %}
+                            Box spring removal and recycling information.
+                        {% elif 'bed frame' in post.data.title.toLowerCase() %}
+                            Bed frame disposal and recycling guide.
+                        {% elif 'diy' in post.data.title.toLowerCase() %}
+                            Step-by-step DIY recycling instructions.
+                        {% else %}
+                            Professional disposal and recycling guidance.
+                        {% endif %}
+                    </div>
+
+                    <div class="post-meta">
+                        {% if 'mattress' in post.data.title.toLowerCase() %}
+                            <span class="post-category mattress">Mattress Disposal</span>
+                        {% elif 'couch' in post.data.title.toLowerCase() or 'furniture' in post.data.title.toLowerCase() %}
+                            <span class="post-category furniture">Furniture Disposal</span>
+                        {% elif 'diy' in post.data.title.toLowerCase() or 'recycle' in post.data.title.toLowerCase() %}
+                            <span class="post-category recycling">Recycling Info</span>
+                        {% else %}
+                            <span class="post-category mattress">Disposal Guide</span>
+                        {% endif %}
+
+                        {% if post.data.title.toLowerCase().includes('al') or post.data.title.toLowerCase().includes('tx') or post.data.title.toLowerCase().includes('ca') or post.data.title.toLowerCase().includes('ny') %}
+                            <span class="post-location">📍 Local Guide</span>
+                        {% endif %}
+                    </div>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+
+        <!-- Load More Button -->
+        <div class="load-more-section" style="display: none;">
+            <button class="btn btn-secondary" id="loadMoreBtn">Load More Guides</button>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Section -->
+<section class="cta-section">
+    <div class="container">
+        <div class="cta-content">
+            <h2>Need Professional Removal Service?</h2>
+            <p>Skip the hassle and let our experts handle your mattress or furniture disposal. Licensed, insured, and eco-friendly service nationwide.</p>
+            <div class="cta-buttons">
+                <a href="#" class="btn btn-primary zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">Book Pickup Service</a>
+                <a href="/pricing/" class="btn btn-secondary">View Pricing</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+/* Disposal Talk Specific Styles */
+.hero-section {
+    background: linear-gradient(135deg, var(--primary-green) 0%, #8bb832 100%);
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.hero-title {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    letter-spacing: -1px;
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    margin-bottom: 2rem;
+    opacity: 0.9;
+}
+
+.hero-stats {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+
+.stat {
+    text-align: center;
+}
+
+.stat strong {
+    display: block;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+}
+
+.stat span {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.disposal-content {
+    padding: 60px 0;
+}
+
+.filter-section {
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.search-box {
+    position: relative;
+    max-width: 500px;
+    margin: 0 auto 2rem;
+}
+
+.search-box input {
+    width: 100%;
+    padding: 12px 50px 12px 20px;
+    border: 2px solid var(--gray-200);
+    border-radius: 25px;
+    font-size: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+.search-box input:focus {
+    outline: none;
+    border-color: var(--primary-green);
+}
+
+.search-box button {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.filter-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.filter-btn {
+    padding: 8px 20px;
+    background: var(--gray-100);
+    border: 2px solid transparent;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+}
+
+.filter-btn:hover,
+.filter-btn.active {
+    background: var(--primary-green);
+    color: white;
+    border-color: var(--primary-green);
+}
+
+.posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+}
+
+.post-card {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    border: 1px solid var(--gray-200);
+    transition: all 0.3s ease;
+    height: fit-content;
+}
+
+.post-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    border-color: var(--primary-green);
+}
+
+.post-title {
+    margin-bottom: 0.5rem;
+}
+
+.post-title a {
+    color: var(--gray-900);
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+.post-title a:hover {
+    color: var(--primary-green);
+}
+
+.post-date {
+    color: var(--gray-600);
+    font-size: 0.9rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.post-excerpt {
+    color: var(--gray-700);
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+.post-meta {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.post-category {
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.post-category.mattress {
+    background: #e8f5e8;
+    color: #2d5a2d;
+}
+
+.post-category.furniture {
+    background: #fff3e0;
+    color: #bf6000;
+}
+
+.post-category.recycling {
+    background: #e3f2fd;
+    color: #1565c0;
+}
+
+.post-location {
+    font-size: 0.8rem;
+    color: var(--gray-600);
+}
+
+.cta-section {
+    background: var(--gray-50);
+    padding: 60px 0;
+    text-align: center;
+}
+
+.cta-content h2 {
+    margin-bottom: 1rem;
+    color: var(--gray-900);
+}
+
+.cta-content p {
+    margin-bottom: 2rem;
+    color: var(--gray-700);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cta-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.load-more-section {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero-title {
+        font-size: 2.5rem;
+    }
+
+    .hero-stats {
+        gap: 1.5rem;
+    }
+
+    .stat strong {
+        font-size: 1.5rem;
+    }
+
+    .posts-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .filter-tabs {
+        gap: 0.5rem;
+    }
+
+    .filter-btn {
+        padding: 6px 15px;
+        font-size: 0.9rem;
+    }
+
+    .cta-buttons {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+</style>
+
+<script>
+// Search and filter functionality
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('searchPosts');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    const postCards = document.querySelectorAll('.post-card');
+
+    let currentFilter = 'all';
+
+    // Search functionality
+    searchInput.addEventListener('input', function() {
+        const searchTerm = this.value.toLowerCase();
+        filterPosts(searchTerm, currentFilter);
+    });
+
+    // Filter functionality
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', function() {
+            // Update active button
+            filterBtns.forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+
+            currentFilter = this.dataset.filter;
+            const searchTerm = searchInput.value.toLowerCase();
+            filterPosts(searchTerm, currentFilter);
+        });
+    });
+
+    function filterPosts(searchTerm, category) {
+        postCards.forEach(card => {
+            const title = card.querySelector('.post-title a').textContent.toLowerCase();
+            const excerpt = card.querySelector('.post-excerpt').textContent.toLowerCase();
+            const cardCategory = card.dataset.category;
+
+            const matchesSearch = searchTerm === '' ||
+                                title.includes(searchTerm) ||
+                                excerpt.includes(searchTerm);
+            const matchesFilter = category === 'all' || cardCategory === category;
+
+            if (matchesSearch && matchesFilter) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+});
+</script>

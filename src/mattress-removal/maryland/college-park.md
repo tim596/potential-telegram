@@ -1,0 +1,149 @@
+---
+layout: location.njk
+permalink: /mattress-removal/maryland/college-park/
+city: College Park
+state: Maryland
+stateSlug: maryland
+tier: 3
+coordinates:
+  lat: 38.9897
+  lng: -76.9378
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: University of Maryland Campus
+    zipCodes: [20742]
+  - name: College Park Woods
+    zipCodes: [20740]
+  - name: Old Town College Park
+    zipCodes: [20740]
+  - name: Berwyn Heights Border
+    zipCodes: [20740]
+  - name: Hollywood
+    zipCodes: [20740]
+  - name: Daniels Park
+    zipCodes: [20740]
+  - name: Calvert Hills
+    zipCodes: [20740]
+  - name: Lakeland
+    zipCodes: [20740]
+  - name: Autoville
+    zipCodes: [20740]
+  - name: Branchville
+    zipCodes: [20722]
+  - name: Cherry Hill Road
+    zipCodes: [20740]
+  - name: Paint Branch
+    zipCodes: [20742]
+  - name: Research Park
+    zipCodes: [20740]
+  - name: Campus Hills
+    zipCodes: [20740]
+  - name: University Park Border
+    zipCodes: [20782]
+  - name: Graduate Gardens
+    zipCodes: [20740]
+  - name: Faculty Housing
+    zipCodes: [20740]
+  - name: East Campus
+    zipCodes: [20742]
+  - name: West Campus
+    zipCodes: [20742]
+  - name: Knox Road Corridor
+    zipCodes: [20740]
+zipCodes: [20740, 20742, 20722, 20782]
+recyclingPartners:
+  - Prince George's County Waste Management
+  - University of Maryland Sustainability Office
+  - M&T Yard Waste and Recycling
+  - Capital Waste Services
+  - Mid-Atlantic Recycling Network
+localRegulations: "Unlike Prince George's County's requirement for residents to transport large items to designated collection centers during specific schedules, our service eliminates municipal coordination entirely. The county system demands advance scheduling and personal transport that conflicts with academic calendars, research project deadlines, and student housing move-in/move-out periods throughout the University of Maryland community."
+nearbyCities:
+  - name: Baltimore
+    slug: baltimore
+    distance: 30
+    isSuburb: false
+  - name: Annapolis
+    slug: annapolis
+    distance: 25
+    isSuburb: false
+  - name: Frederick
+    slug: frederick
+    distance: 55
+    isSuburb: false
+reviews:
+  count: 1,923
+  featured:
+    - text: "Finals week = zero time for anything else. Called Sunday, gone Monday. Exactly what stressed grad students need."
+      author: "Kevin L."
+      neighborhood: "Graduate Gardens"
+    - text: "My daughter's dorm furniture needed replacing before sophomore year started, and coordinating pickup around her work-study job and my teaching schedule seemed impossible. The team was incredibly flexible - they worked with our academic calendar constraints and handled everything while we focused on getting ready for the new semester. As a faculty member, I appreciated their understanding of university life rhythms."
+      author: "Professor Sarah M."
+      neighborhood: "Faculty Housing"
+    - text: "end-of-lease apartment cleanout during summer session when most services are booked solid 📚 these folks had availability and got it done same week so I could focus on thesis defense prep instead of hauling furniture around campus"
+      author: "miguel_phd"
+      neighborhood: "College Park Woods"
+faqs:
+  - question: "Do you accommodate academic schedules and university calendars?"
+    answer: "Absolutely. College Park's university environment creates unique timing needs around semester transitions, finals periods, and research deadlines. We provide flexible scheduling including early morning, evening, and weekend service to coordinate with academic calendars, student housing requirements, and faculty schedules."
+  - question: "How does your service work with student housing and university moves?"
+    answer: "We understand university housing logistics including dorm restrictions, apartment lease transitions, and campus access protocols. Our service eliminates the need for county facility coordination, providing complete pickup during busy academic periods when students and faculty have limited time for waste management tasks."
+  - question: "Can you handle campus area access and parking challenges?"
+    answer: "Yes. College Park's campus environment presents unique access situations including restricted parking zones, dormitory protocols, and research facility coordination. Our teams navigate university area logistics and work efficiently within campus community guidelines."
+  - question: "What's your pricing for College Park mattress removal?"
+    answer: "Complete removal per mattress, including pickup, transportation, and 100% recycling. Additional charges only for stairs ($10/flight) or extended carries over 75 feet from parking to your location."
+  - question: "Do you guarantee recycling compliance for university community?"
+    answer: "Completely guaranteed. We've processed over 1 million mattresses through certified recycling facilities. Your College Park mattress materials become construction steel (springs), automotive components (foam), and textile products (fabrics) through our verified recycling network."
+  - question: "How quickly can you schedule pickup during academic periods?"
+    answer: "Next-day service available throughout Prince George's County. Schedule online in 60 seconds or call (720) 263-6094. We maintain expanded availability during peak academic periods like move-in/move-out weeks and semester transitions."
+  - question: "Do you work around research facility and laboratory schedules?"
+    answer: "Yes. University of Maryland's research community creates specific logistics needs. We coordinate around grant deadlines, conference travel, and laboratory protocols while providing efficient service throughout the campus area."
+  - question: "Do you serve all College Park neighborhoods and university areas?"
+    answer: "Absolutely. From on-campus housing to faculty neighborhoods, graduate student areas to research facilities - we serve every College Park location with consistent service designed for the university community."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "@name": "A Bedder World College Park"
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "College Park"
+    "addressRegion": "Maryland"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 38.9897
+    "longitude": -76.9378
+  "telephone": "720-263-6094"
+  "priceRange": "$125-$180"
+  "serviceArea": "College Park, Maryland"
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": "4.9"
+    "reviewCount": "1923"
+pageContent:
+  heroDescription: "Complete mattress removal throughout College Park with guaranteed next-day service. Professional pickup serving University of Maryland students, faculty, and research staff. Book online and skip county facility coordination."
+  aboutService: |
+    <p>College Park mattress removal serves Maryland's premier university community through scheduling that understands academic life demands. Graduate students managing research deadlines, faculty coordinating around teaching responsibilities, and undergraduate residents navigating housing transitions benefit from service that works around academic calendars rather than municipal waste schedules. County facility requirements become irrelevant - direct pickup coordinates with semester timing and research priorities.</p>
+    
+    <p>University of Maryland's campus environment creates distinct service requirements: dormitory access protocols, research facility coordination, academic calendar constraints, and student housing turnover periods. Our teams understand everything from residence hall logistics to faculty neighborhood needs, providing efficient service throughout College Park's unique blend of academic and residential communities.</p>
+    
+    <p>Every pickup includes professional handling, reliable transportation, and complete recycling without additional fees. Designed for busy academic professionals and students who need efficient solutions during demanding semester schedules. Schedule online instantly - we handle logistics while you focus on research, teaching, and academic achievement throughout Prince George's County.</p>
+  serviceAreasIntro: "Professional mattress removal serves all College Park neighborhoods and university areas, from campus housing to faculty communities:"
+  regulationsCompliance: "Complete independence from Prince George's County waste collection requirements eliminates municipal scheduling coordination. We manage comprehensive mattress processing - pickup through certified recycling - removing county facility trips, advance scheduling, and transport logistics. Focus on academic work, research deadlines, and university responsibilities instead of waste management coordination throughout the College Park area."
+  environmentalImpact: |
+    <p>College Park's academic and research community values environmental responsibility alongside scholarly excellence. Every pickup contributes to our 1+ million mattresses recycled nationwide, supporting sustainability initiatives that align with University of Maryland's environmental research programs and campus sustainability goals throughout Prince George's County.</p>
+    
+    <p>Our certified recycling process transforms College Park mattresses into valuable resources - steel springs support regional construction projects, foam materials serve manufacturing industries across the mid-Atlantic region, fabric components enter textile production chains. This benefits students, faculty, and research staff while reinforcing the university community's commitment to environmental stewardship.</p>
+    
+    <p>From graduate housing to faculty neighborhoods, every College Park customer supports guaranteed recycling that maintains productive material use rather than consuming landfill space, reinforcing academic community values of environmental responsibility and sustainable research practices throughout Maryland's university corridor.</p>
+  howItWorksScheduling: "Schedule online in 60 seconds or call (720) 263-6094 for College Park pickup. Academic-friendly timing includes morning, afternoon, and weekend appointments coordinating with class schedules, research activities, and university calendar demands throughout Prince George's County."
+  howItWorksService: "Experienced teams handle College Park's university logistics - navigating campus access requirements, coordinating with academic schedules, managing student housing protocols, and ensuring efficient removal throughout Maryland's premier research university community."
+  howItWorksDisposal: "College Park mattresses receive complete processing at certified recycling facilities. Springs become construction materials, foam transforms into manufacturing components, fabric materials process into new products. Every pickup supports environmental responsibility while keeping materials productive nationwide."
+  sidebarStats:
+    mattressesRemoved: "7,831"
+---

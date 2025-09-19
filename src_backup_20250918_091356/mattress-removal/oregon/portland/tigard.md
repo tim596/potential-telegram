@@ -1,0 +1,174 @@
+---
+layout: location.njk
+title: "Tigard Mattress Removal & Recycling | A Bedder World"
+description: "Professional mattress removal in Tigard, OR. Same-day quotes for apartment complexes, families, and seniors. Bull Mountain specialists starting $125."
+permalink: "/mattress-removal/oregon/portland/tigard/"
+city: "Tigard"
+state: "Oregon"
+stateAbbr: "OR"
+stateSlug: "oregon"
+parentMetro: "Portland"
+tier: 3
+coordinates: 
+  lat: 45.4312
+  lng: -122.7715
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+zipCodes: ["97223", "97224", "97281"]
+neighborhoods: [
+  {
+    "name": "Cook Park",
+    "zipCodes": ["97224"]
+  },
+  {
+    "name": "Metzger",
+    "zipCodes": ["97223"]
+  },
+  {
+    "name": "Bull Mountain",
+    "zipCodes": ["97224"]
+  },
+  {
+    "name": "King City",
+    "zipCodes": ["97224"]
+  },
+  {
+    "name": "Greenberg Road Area",
+    "zipCodes": ["97223"]
+  },
+  {
+    "name": "Bonita",
+    "zipCodes": ["97223"]
+  },
+  {
+    "name": "Derry Dell",
+    "zipCodes": ["97224"]
+  },
+  {
+    "name": "Willowbrook",
+    "zipCodes": ["97224"]
+  },
+  {
+    "name": "Summerbrook",
+    "zipCodes": ["97224"]
+  },
+  {
+    "name": "Scholls",
+    "zipCodes": ["97223"]
+  },
+  {
+    "name": "Englewood",
+    "zipCodes": ["97224"]
+  },
+  {
+    "name": "North Tigard",
+    "zipCodes": ["97223"]
+  },
+  {
+    "name": "Washington Square Area",
+    "zipCodes": ["97223"]
+  },
+  {
+    "name": "Fanno Creek Area",
+    "zipCodes": ["97223", "97224"]
+  },
+  {
+    "name": "Downtown Main Street",
+    "zipCodes": ["97223"]
+  }
+]
+nearbyCities:
+  - name: "Portland"
+    slug: "portland"
+    distance: 10
+    isSuburb: false
+  - name: "Beaverton"
+    slug: "beaverton"
+    distance: 5
+    isSuburb: true
+  - name: "Lake Oswego"
+    slug: "lake-oswego"
+    distance: 8
+    isSuburb: true
+  - name: "Hillsboro"
+    slug: "hillsboro"
+    distance: 10
+    isSuburb: true
+reviews:
+  count: 11
+  featured:
+    - author: "Michelle P."
+      rating: 5
+      text: "They handled our Bull Mountain house stairs perfectly and worked around our garage storage. Called Friday, gone Monday - exactly what we needed for our apartment move prep."
+      neighborhood: "Bull Mountain"
+    - author: "Frank & Carol S."
+      rating: 5
+      text: "Great service for our King City community. Team was respectful of our 55+ neighborhood guidelines and made pickup simple during our downsizing project."
+      neighborhood: "King City"
+    - author: "Brandon L."
+      rating: 4
+      text: "Professional crew navigated our Cook Park townhome layout efficiently. Fair pricing and they worked around our weekend family river activities."
+      neighborhood: "Cook Park"
+    - author: "Amy K."
+      rating: 5
+      text: "Needed our guest room ready for visiting parents. Team arrived on time and handled our split-level home without any complications or damage."
+      neighborhood: "Metzger"
+    - author: "Property Manager Janet"
+      rating: 5
+      text: "They coordinate well with our Washington Square area complex policies. Quick turnaround helps keep our apartment units move-in ready without dumpster violations."
+      neighborhood: "Washington Square Area"
+    - author: "Dave M."
+      rating: 5
+      text: "Solid service during our home renovation. They understood our Fanno Creek neighborhood access and timing needs perfectly."
+      neighborhood: "Fanno Creek Area"
+pageContent:
+  heroDescription: "Professional Mattress Removal in Tigard! Serving apartment complexes, families, and seniors throughout Oregon's friendly suburban community with easy online booking starting $125. Bull Mountain to Cook Park specialists - over 1 million mattresses recycled nationwide."
+
+  aboutService: "Our Tigard mattress pickup service understands the unique needs of Oregon's 12th most populous city, where 55,970+ residents enjoy small-town friendliness with big-city convenience. We specialize in the diverse housing challenges Tigard presents - from Bull Mountain's elevated hillside homes to King City's 55+ community requirements, Cook Park's riverfront townhomes to Washington Square area apartments with strict bulk item policies. Our experienced teams navigate Tigard's distinctive geography, handling split-level homes common throughout the Tualatin Valley, coordinating with apartment complex managers across the city's extensive multifamily housing stock, and respecting community guidelines in master-planned neighborhoods. With transparent pricing and specialized experience serving both family homes and senior communities, we eliminate the complications of Oregon's evolving mattress disposal landscape while supporting the environmental values that make Tigard a model suburban community. Having recycled over 1 million mattresses nationwide, our Tigard operation serves families upgrading in Metzger's tree-lined neighborhoods, professionals relocating through Consumer Cellular and local business growth, and the diverse community of residents who chose this blend of urban access and suburban comfort along the Tualatin River corridor."
+
+  serviceAreasIntro: "Complete mattress pickup throughout Tigard's diverse neighborhoods and housing types, from hillside family homes to apartment complexes:"
+
+  regulationsCompliance: "We handle Oregon's mattress stewardship program requirements and Washington County disposal regulations while coordinating with apartment complex policies and senior community guidelines. Our service provides proper documentation for property managers, works within King City's community standards, and accommodates the busy schedules of Tigard's commuting workforce."
+
+  environmentalImpact: "Our Tigard service demonstrates community environmental leadership through partnerships with Washington County recycling facilities and certified disposal sites. Each mattress pickup diverts 40 pounds from regional landfills while supporting materials recovery that benefits continued suburban development throughout the Tualatin Valley. After serving Tigard residents, we've recycled 840 mattresses (33,600 pounds) that directly support the sustainable growth principles valued in this environmentally conscious community. This local processing approach reduces transport emissions while creating jobs that serve the diverse economic base including Consumer Cellular, Stash Tea, and the 3,400+ businesses employing 45,000 workers throughout Tigard. By choosing professional mattress removal, Tigard families contribute to the environmental stewardship that complements the city's commitment to maintaining its balance of suburban character with urban amenities along Oregon's I-5 corridor."
+
+  howItWorksScheduling: "Family and apartment-friendly scheduling with easy online booking throughout Tigard. Flexible appointments accommodate King City senior community needs, apartment complex coordination requirements, and the diverse schedules of Oregon's friendly suburban community."
+
+  howItWorksService: "Our team specializes in Tigard's unique housing mix and topography. We handle Bull Mountain's hillside access, coordinate with apartment complex managers, navigate Cook Park's riverfront layouts, and respect King City's 55+ community guidelines while serving all areas efficiently."
+
+  howItWorksDisposal: "Licensed transport to certified Washington County recycling facilities where materials support regional infrastructure development. Steel springs and foam components contribute to continued sustainable growth throughout Oregon's Tualatin Valley corridor."
+
+  sidebarStats:
+    mattressesRemoved: "840"
+
+localRegulations: "Tigard residents must comply with Oregon's mattress stewardship program which requires proper disposal through licensed facilities and prohibits mattresses in regular household waste. Washington County regulations require plastic wrapping before transport to approved sites including Forest Grove Transfer Station and Pride Recycling Depot in Sherwood. Apartment complexes throughout Tigard prohibit mattresses in dumpsters and require coordination with property management for bulk item pickup. King City's 55+ community has additional guidelines for large item removal that must be followed. Our professional service eliminates these mattress disposal complications by handling all stewardship program compliance, coordinating with apartment complex policies and senior community requirements, providing proper preparation and documentation, and working within the specific guidelines that govern Tigard's diverse housing types from hillside homes to multifamily complexes."
+
+faqs:
+  - question: "How quickly can you remove my mattress in Tigard?"
+    answer: "We provide easy online booking with next-day pickup throughout all Tigard ZIP codes, designed for apartment turnovers, family schedules, and King City senior community timing. Flexible appointments accommodate property manager coordination and the diverse needs of Tigard's suburban community."
+    
+  - question: "Do you work with apartment complexes and property managers?"
+    answer: "Absolutely. We coordinate regularly with Tigard's extensive apartment complex network, understanding bulk item policies and providing documentation for property managers. Our service works within complex guidelines while ensuring quick turnaround for unit preparation."
+    
+  - question: "Can you handle Bull Mountain's hillside homes and difficult access?"
+    answer: "Yes, our team specializes in Tigard's elevated terrain including Bull Mountain's 700-foot elevation homes. We understand steep driveways, split-level layouts, and the access challenges common throughout Tigard's diverse topography."
+    
+  - question: "What's included in your Tigard mattress removal service?"
+    answer: "Complete residential service includes pickup from any location including hillside homes and apartment complexes, coordination with property management requirements, specialized handling for senior community guidelines, and proper disposal through certified Washington County recycling facilities."
+    
+  - question: "Do you serve King City and other 55+ communities?"
+    answer: "Yes, we provide specialized service for King City and other senior communities throughout Tigard. Our team understands 55+ community guidelines, works within established protocols, and provides respectful service tailored to senior residents' needs."
+    
+  - question: "How do you coordinate with different housing types in Tigard?"
+    answer: "We adapt our service to Tigard's housing diversity - from Bull Mountain hillside homes to Cook Park townhomes, Washington Square area apartments to King City senior communities. Each location receives specialized handling appropriate to its specific requirements and access challenges."
+    
+  - question: "Can you handle Cook Park and Tualatin River area access?"
+    answer: "Definitely. We understand Tigard's riverfront geography including Cook Park's boat ramp area and the unique access considerations along the Tualatin River corridor. Our service accommodates both residential homes and recreational area constraints."
+    
+  - question: "What happens to mattresses after pickup in Tigard?"
+    answer: "Mattresses go to licensed Washington County recycling facilities where steel springs, foam, and fabric are separated for reuse in regional construction projects. This supports Tigard's environmental values while creating a local circular economy that benefits continued sustainable development throughout the Tualatin Valley."
+---

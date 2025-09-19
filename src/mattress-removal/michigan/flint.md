@@ -1,0 +1,138 @@
+---
+layout: location.njk
+permalink: "/mattress-removal/michigan/flint/"
+city: "Flint"
+state: "Michigan"
+stateSlug: "michigan"
+tier: 2
+coordinates: { lat: 43.0125, lng: -83.6875 }
+
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+
+neighborhoods:
+  - name: "Downtown Flint"
+    zipCodes: ["48502", "48503"]
+  - name: "East Village"
+    zipCodes: ["48503"]
+  - name: "University Park"
+    zipCodes: ["48504"]
+  - name: "Carriage Town"
+    zipCodes: ["48503"]
+  - name: "Mott Park"
+    zipCodes: ["48504"]
+  - name: "Flint River District"
+    zipCodes: ["48502"]
+  - name: "North End"
+    zipCodes: ["48505"]
+  - name: "South Side"
+    zipCodes: ["48507"]
+  - name: "West Side"
+    zipCodes: ["48504"]
+  - name: "Eastside"
+    zipCodes: ["48506"]
+  - name: "Glenwood Hills"
+    zipCodes: ["48504"]
+  - name: "Civic Park"
+    zipCodes: ["48503"]
+  - name: "Kettering University Area"
+    zipCodes: ["48504"]
+  - name: "UM-Flint Campus"
+    zipCodes: ["48502"]
+  - name: "Berston Field House Area"
+    zipCodes: ["48505"]
+  - name: "Flint Institute of Arts District"
+    zipCodes: ["48503"]
+  - name: "Thread Lake"
+    zipCodes: ["48507"]
+  - name: "Grand Traverse"
+    zipCodes: ["48506"]
+
+zipCodes: ["48502", "48503", "48504", "48505", "48506", "48507"]
+
+localRegulations: "Flint requires mattresses to be properly wrapped in plastic for curbside disposal. The city works with Republic Services and requires all mattress disposal to be handled by licensed waste haulers with proper environmental compliance documentation."
+
+nearbyCities:
+  - name: "Grand Rapids"
+    slug: "grand-rapids"
+    distance: 65
+    isSuburb: false
+  - name: "Lansing"
+    slug: "lansing"
+    distance: 55
+    isSuburb: false
+  - name: "Saginaw"
+    slug: "saginaw"
+    distance: 35
+    isSuburb: false
+  - name: "Battle Creek"
+    slug: "battle-creek"
+    distance: 75
+    isSuburb: false
+  - name: "Detroit"
+    slug: "detroit"
+    distance: 70
+    isSuburb: false
+
+reviews:
+  count: 73
+  featured:
+    - author: "Kim D."
+      neighborhood: "University Park"
+      text: "Scheduled online, next-day pickup. Exactly $125 like they said."
+    - author: "Marcus J."
+      neighborhood: "East Village"
+      text: "Moving out of my place near downtown and needed to get rid of this massive king-size mattress that came with the apartment. Called these folks and they had someone out the next day. The two guys who showed up were really cool - they explained their whole recycling process while they worked. Apparently the springs get melted down and turned into new steel, which is pretty wild when you think about it. They handled the narrow stairway like pros and had it wrapped up and out of there in no time. $155 total, no hidden fees or anything sketchy."
+    - author: "Patricia W."
+      neighborhood: "Mott Park"
+      text: "Outstanding service! Our family needed urgent mattress removal before our UM-Flint student daughter moved back home for the semester. The team arrived precisely on schedule and worked efficiently despite our older home's challenging narrow doorways and steep front steps. They maintained excellent communication throughout the process, provided all necessary documentation for our records, and completed the eco-friendly disposal exactly as promised. The $155 pricing was transparent from start to finish. We particularly appreciated their respectful approach and thorough cleanup afterward. Highly recommend for anyone in the greater Flint community."
+
+faqs:
+  - question: "How quickly can you remove my mattress in Flint?"
+    answer: "We provide next-day mattress removal service throughout Flint, with same-day pickup often available for morning bookings. Call (720) 263-6094 to check today's availability."
+  - question: "Do you serve UM-Flint and Kettering University areas?"
+    answer: "Yes, we regularly service university housing, student apartments, and dormitory areas around both UM-Flint and Kettering University campuses with flexible scheduling."
+  - question: "What's included in Flint mattress removal pricing?"
+    answer: "Our pricing includes pickup from any location in your home, city-compliant plastic wrapping, transportation, and eco-friendly recycling. Additional fees may apply for stairs or long carries."
+  - question: "Can you handle mattresses from older Flint homes?"
+    answer: "Absolutely. Our Flint team has extensive experience with older homes, narrow doorways, steep stairs, and challenging access situations common in historic neighborhoods."
+  - question: "Do you serve all Flint ZIP codes and neighborhoods?"
+    answer: "Yes, we provide service throughout all Flint neighborhoods including Downtown, East Village, University Park, Mott Park, and surrounding areas across all ZIP codes."
+  - question: "Is your Flint service licensed and environmentally compliant?"
+    answer: "Yes, we're fully licensed and insured for Flint operations and follow all environmental compliance requirements for proper mattress disposal and recycling."
+  - question: "What if my mattress is damaged or has structural issues?"
+    answer: "Our Flint team handles all mattress conditions, including damaged, wet, or structurally compromised mattresses with appropriate safety protocols and disposal methods."
+  - question: "Do you provide commercial mattress removal in Flint?"
+    answer: "Yes, we serve Flint hotels, student housing, medical facilities, and other commercial properties with bulk removal services and competitive commercial rates."
+
+pageContent:
+  heroDescription: "Advanced mattress removal serving Flint's diverse community. From UM-Flint student housing to downtown Victorian homes, we deliver professional extraction and materials recovery "
+
+  aboutService: |
+    <p>Mattress removal expertise meets Flint's unique housing landscape. Our service excels at extracting every mattress type - from memory foam sets in UM-Flint residence halls to vintage innersprings from restored Carriage Town Victorians. Advanced recycling capabilities ensure 85% material recovery, transforming discarded bedroom furniture into valuable industrial inputs that support Michigan's manufacturing sectors.</p>
+    
+    <p>Technical precision defines our recycling operations. Innerspring steel becomes high-grade alloy feedstock for medical device manufacturing and renewable energy components - growth industries throughout Michigan. Polyurethane foam finds new applications as specialized insulation materials, while natural fibers transform into industrial filtration systems. This molecular-level processing maximizes value extraction from every pickup.</p>
+    
+    <p>Service scheduling adapts to Flint's academic and residential patterns. We coordinate expertly around UM-Flint's semester transitions, managing the concentrated disposal volume from 8,000 students. Kettering University's co-op program creates predictable housing turnover cycles that our crews navigate efficiently. From student apartment complexes to established neighborhoods, we provide reliable pickup service with proper documentation for all property types.</p>
+
+  serviceAreasIntro: "Flint's 18 neighborhoods present diverse removal challenges. From University Park's high-density student housing to East Village's historic Victorian architecture, our specialists deliver expert service across all community types."
+
+  regulationsCompliance: "Our Flint team ensures complete compliance with all city disposal requirements, including mandatory plastic wrapping and coordination with Republic Services. We provide necessary documentation for student housing, rental properties, and standard residential pickups."
+
+  environmentalImpact: |
+    <p>Advanced mattress recycling creates maximum material value in Flint. Steel springs transform into precision alloy feedstock for Michigan's growing medical device and clean energy sectors. Memory foam becomes specialized insulation for industrial applications, while natural fiber components serve as filtration media for water treatment systems - supporting infrastructure development throughout the region.</p>
+    
+    <p>This comprehensive recycling network keeps 85% of materials within Genesee County, supporting local manufacturing while preventing landfill waste. Your mattress disposal generates raw materials for Michigan's diversifying economy - from medical technology to renewable energy systems, bedroom furniture becomes tomorrow's industrial infrastructure.</p>
+
+  howItWorksScheduling: "Select your preferred pickup window with next-day availability that works around university schedules and local timing needs. We confirm appointments and coordinate any campus access or building requirements."
+
+  howItWorksService: "Our licensed team arrives on time with appropriate equipment for Flint's housing types - historic homes, university housing, apartment complexes, and rental properties. We handle all Republic Services wrapping requirements and documentation."
+
+  howItWorksDisposal: "Your mattress is transported to certified recycling facilities where steel, foam, and fabric components are separated and processed into new materials. You receive confirmation of proper disposal and recycling completion."
+
+  sidebarStats:
+    mattressesRemoved: "1,650"
+---

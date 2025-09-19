@@ -1,0 +1,207 @@
+---
+layout: location.njk
+title: Vallejo Mattress Removal & Disposal Service
+description: Professional mattress removal in Vallejo, California. Next-day pickup  Licensed, insured, and eco-friendly. Serving 20+ neighborhoods from Mare Island to Glen Cove.
+permalink: /mattress-removal/california/san-francisco/vallejo/
+city: Vallejo
+state: California
+stateSlug: california
+parentMetro: San Francisco
+tier: 3
+coordinates:
+  lat: 38.1041
+  lng: -122.2566
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+pageContent:
+  heroDescription: "North Bay's regional hub mattress removal service in Vallejo, California. Professional pickup  From historic Mare Island to hillside Glen Cove, we navigate Vallejo's unique island geography and diverse communities with expertise."
+  aboutService: "Vallejo's comprehensive mattress removal service designed for the North Bay's distinctive regional center. Our team understands the unique logistics of serving this waterside community - from coordinating bridge access to Mare Island's naval heritage neighborhoods to navigating the hillside terrain of Glen Cove and Carquinez Highlands. We provide professional pickup throughout 20+ distinct neighborhoods, ensuring 80% of materials are recycled through California's Mattress Stewardship Program administered by Recology Vallejo. Our service addresses the specific challenges of Vallejo's geography and community character - from timing pickups around the growing artist community's studio schedules to handling furniture transitions in the redeveloping Mare Island district where historic naval housing meets modern residential construction."
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout Vallejo, covering all neighborhoods from waterfront districts to mountain communities:"
+  regulationsCompliance: "Our service ensures full compliance with Solano County waste management regulations administered through Recology Vallejo and California's Mattress Stewardship Program, with specialized knowledge of island access protocols and historic district preservation requirements."
+  environmentalImpact: "Vallejo's transformation from naval base to thriving artist community drives demand for sustainable waste solutions that honor both historical preservation and environmental innovation. Our recycling processes support the city's renaissance - steel components from processed mattresses contribute to the ongoing Mare Island redevelopment projects, foam materials support packaging needs for the growing artist community's shipped artworks, and organic materials contribute to waterfront restoration initiatives throughout the North Bay. Each mattress processed reflects Vallejo's commitment to sustainable growth while preserving its rich naval heritage and supporting the creative community that's driving the city's cultural renewal."
+  howItWorksScheduling: "Next-day slots available throughout Vallejo's 20+ neighborhoods. We coordinate with artist studio schedules, Mare Island development projects, and the unique access requirements of waterfront and hillside communities throughout the North Bay."
+  howItWorksService: "Our licensed and insured team specializes in Vallejo's geographic challenges - from bridge access to Mare Island to hillside navigation in Glen Cove, handling both historic naval housing logistics and modern gated community protocols."
+  howItWorksDisposal: "Your mattress is processed through Solano County certified facilities including Recology Vallejo and the Recology Vacaville Solano Buy Back Center, ensuring maximum material recovery under California's Mattress Stewardship Program."
+  sidebarStats:
+    mattressesRemoved: "2,634"
+neighborhoods: [
+  {
+    "name": "Glen Cove",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Mare Island",
+    "zipCodes": ["94592"]
+  },
+  {
+    "name": "Hiddenbrooke",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Downtown/Old Town",
+    "zipCodes": ["94590"]
+  },
+  {
+    "name": "Beverly Hills",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Carquinez Highlands",
+    "zipCodes": ["94589"]
+  },
+  {
+    "name": "Country Club Crest",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "North Hills",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "South Vallejo",
+    "zipCodes": ["94590"]
+  },
+  {
+    "name": "Vallejo Heights",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Crystal Point",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Bridgeport",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Somerset Highlands",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "St. Vincent's Hill",
+    "zipCodes": ["94590"]
+  },
+  {
+    "name": "Seaview",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Bayview Terrace",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Homeacres",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Washington Park",
+    "zipCodes": ["94590"]
+  },
+  {
+    "name": "Northgate",
+    "zipCodes": ["94591"]
+  },
+  {
+    "name": "Architectural Heritage District",
+    "zipCodes": ["94590"]
+  }
+]
+zipCodes: [
+  "94589", "94590", "94591", "94592"
+]
+recyclingPartners: [
+  "Recology Vallejo",
+  "Recology Vacaville Solano Buy Back Center",
+  "ByeBye Mattress Drop-off Locations"
+]
+localRegulations: "Vallejo operates under Solano County waste management regulations administered by Recology Vallejo with unique challenges created by the city's island geography and diverse housing stock. Mare Island's peninsula location requires advance coordination for bridge access during peak traffic periods. The growing artist community in downtown creates specialized bulk waste needs for studio cleanouts and large artwork disposal. Hiddenbrooke's gated community requires security clearance for service vehicles. Historic naval housing on Mare Island has specific access protocols due to ongoing redevelopment activities. Vallejo's hillside communities in Glen Cove and Carquinez Highlands may require specialized equipment for steep terrain access. Our service navigates these geographic and community-specific requirements while ensuring compliance with California's Mattress Stewardship Program and Solano County environmental standards."
+nearbyCities: [
+  {
+    "name": "Benicia",
+    "slug": "benicia",
+    "distance": 8,
+    "isSuburb": true
+  },
+  {
+    "name": "Fairfield",
+    "slug": "fairfield",
+    "distance": 12,
+    "isSuburb": true
+  },
+  {
+    "name": "American Canyon",
+    "slug": "american-canyon",
+    "distance": 10,
+    "isSuburb": true
+  },
+  {
+    "name": "Martinez",
+    "slug": "martinez",
+    "distance": 15,
+    "isSuburb": true
+  },
+  {
+    "name": "Napa",
+    "slug": "napa",
+    "distance": 19,
+    "isSuburb": true
+  }
+]
+reviews:
+  count: 167
+  featured: [
+    {
+      "text": "Artist studio cleanout in downtown Vallejo during our move to a larger workspace. The team understood the unique challenges of removing furniture from a converted industrial space and coordinated perfectly with our building's loading dock access. Professional service that gets the creative community's needs.",
+      "author": "Maya R.",
+      "neighborhood": "Downtown/Old Town"
+    },
+    {
+      "text": "Mare Island pickup from our historic naval housing unit during renovation. The crew navigated the bridge access and understood the unique layout of these older military buildings. They worked efficiently around the ongoing redevelopment construction in the area.",
+      "author": "James K.",
+      "neighborhood": "Mare Island"
+    },
+    {
+      "text": "Hillside home pickup in Glen Cove with challenging driveway access. These guys handled the steep terrain like professionals and coordinated timing to avoid our neighborhood's narrow street congestion. Excellent service that understands Vallejo's unique geography.",
+      "author": "Patricia S.",
+      "neighborhood": "Glen Cove"
+    }
+  ]
+faqs: [
+  {
+    "question": "How quickly can you pick up a mattress in Vallejo?",
+    "answer": "We offer next-day pickup throughout Vallejo's neighborhoods, including weekends. Most areas from downtown to Mare Island can be serviced within 24 hours, depending on bridge access timing and your schedule preferences."
+  },
+  {
+    "question": "Do you handle pickup from Mare Island and navigate the bridge access?",
+    "answer": "Yes, our team is experienced with Mare Island's peninsula location and bridge access requirements. We plan routes to avoid peak traffic congestion and coordinate timing to ensure efficient service to both historic naval housing and new residential developments."
+  },
+  {
+    "question": "Can you handle Vallejo's hillside neighborhoods and steep terrain?",
+    "answer": "Absolutely. We're equipped for challenging terrain in areas like Glen Cove, Carquinez Highlands, and Vallejo Heights. Our team brings appropriate equipment for safe removal from hillside properties with steep driveways and difficult access."
+  },
+  {
+    "question": "Do you work with the artist community and studio spaces?",
+    "answer": "Yes, we regularly serve Vallejo's growing artist community with pickups from studios, converted industrial spaces, and creative work environments. We understand the unique scheduling needs and access requirements of downtown artist studios and warehouse spaces."
+  },
+  {
+    "question": "What are Vallejo's mattress disposal regulations?",
+    "answer": "Vallejo follows Solano County waste management regulations administered by Recology Vallejo and California's Mattress Stewardship Program. Mattresses must be properly recycled through certified facilities. We handle all compliance requirements and coordinate with local waste management protocols."
+  },
+  {
+    "question": "Can you access gated communities like Hiddenbrooke?",
+    "answer": "Our team can coordinate access to gated communities including Hiddenbrooke. We work with residents to arrange security clearance and coordinate with community management to ensure smooth service delivery within access protocols."
+  },
+  {
+    "question": "Is there extra charge for different areas or challenging access in Vallejo?",
+    "answer": "Our standard pricing covers removal from anywhere within Vallejo, whether from downtown studios, Mare Island historic housing, or hillside homes in Glen Cove. There are no additional fees based on location or terrain challenges within the city."
+  },
+  {
+    "question": "What happens to my mattress after pickup in Vallejo?",
+    "answer": "Your mattress is processed through Solano County certified facilities including Recology Vallejo and the Recology Vacaville Solano Buy Back Center. Approximately 80% of materials are recycled, supporting North Bay environmental standards and contributing to regional sustainability initiatives."
+  }
+]
+---

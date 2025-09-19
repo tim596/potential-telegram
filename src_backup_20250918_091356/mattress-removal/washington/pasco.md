@@ -1,0 +1,145 @@
+---
+layout: location.njk
+title: Pasco WA Mattress Removal & Disposal Service
+description: Professional mattress removal in Pasco, WA. Next-day pickup  Serving Tri-Cities area, Hanford workers, and agricultural communities.
+permalink: /mattress-removal/washington/pasco/
+city: Pasco
+state: Washington
+stateSlug: washington
+tier: 1
+coordinates:
+  lat: 46.2396
+  lng: -119.1006
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: Downtown Pasco
+    zipCodes: ["99301"]
+  - name: West Pasco
+    zipCodes: ["99301"]
+  - name: East Hill
+    zipCodes: ["99301"]
+  - name: Road 68 Corridor
+    zipCodes: ["99301"]
+  - name: HAPO Center Area
+    zipCodes: ["99301"]
+  - name: Columbia River District
+    zipCodes: ["99301"]
+  - name: Franklin County Government Area
+    zipCodes: ["99301"]
+  - name: Agricultural District
+    zipCodes: ["99302"]
+  - name: Snake River Area
+    zipCodes: ["99302"]
+  - name: Industrial Zone
+    zipCodes: ["99301", "99302"]
+  - name: Heritage Corridor
+    zipCodes: ["99301"]
+  - name: Pasco Heights
+    zipCodes: ["99301"]
+zipCodes: ["99301", "99302"]
+recyclingPartners:
+  - Basin Disposal
+  - Republic Services
+  - Waste Connections
+  - Franklin County transfer facilities
+localRegulations: Pasco residents receive waste collection through multiple providers including Basin Disposal (serving since 1941) and Republic Services. Franklin County operates transfer stations that accept mattresses with proper disposal fees. The city's rapid growth has increased demand for specialized waste services, and mattresses cannot be placed in regular household garbage collection.
+nearbyCities:
+  - name: Kennewick
+    slug: kennewick
+    distance: 8
+    isSuburb: false
+  - name: Richland
+    slug: richland
+    distance: 15
+    isSuburb: false
+  - name: Spokane
+    slug: spokane
+    distance: 140
+    isSuburb: false
+  - name: Yakima
+    slug: yakima
+    distance: 80
+    isSuburb: false
+reviews:
+  count: 287
+  featured:
+    - text: "Hanford shift change at 6am meant we needed early pickup. These folks handled it perfectly - got our guest mattress before I left for work. Great for us nuclear workers with unusual schedules."
+      author: "Roberto M."
+      neighborhood: "Road 68 Corridor"
+    - text: "Moved to Pasco for the food processing job at Tyson. Old apartment mattress was destroyed from the move, but these people came out same week and took care of everything. Made settling into the Tri-Cities so much easier."
+      author: "Maria Santos"
+      neighborhood: "West Pasco"
+    - text: "Columbia Basin College student housing transition - three roommates, three old mattresses. Quick call, next day pickup. Done."
+      author: "Alex J."
+      neighborhood: "Downtown Pasco"
+faqs:
+  - question: "How quickly can you pick up mattresses in Pasco?"
+    answer: "We offer next-day service throughout Pasco and the Tri-Cities area. Our team schedules around Hanford shift changes, agricultural work patterns, and the growing community's diverse work schedules."
+  - question: "Do you serve all Pasco neighborhoods and the broader Tri-Cities?"
+    answer: "Absolutely! We serve downtown areas, West Pasco, Road 68 corridor, agricultural districts, and all Pasco neighborhoods. We understand the Tri-Cities region and coordinate service across Franklin County."
+  - question: "What's included in your Pasco mattress removal pricing?"
+    answer: "Our $125-$180 pricing includes pickup from any location in your home, professional removal, and proper disposal through Franklin County approved facilities. Stairs are $10/flight additional."
+  - question: "Can you work around Hanford schedules and agricultural work patterns?"
+    answer: "Yes, we understand Pasco's nuclear industry and agricultural workforce schedules. We offer flexible appointments including early morning, evening, and weekend slots to accommodate shift workers and seasonal employment patterns."
+  - question: "Are you licensed to operate in Franklin County?"
+    answer: "Yes, we're fully licensed and insured to provide waste removal services throughout Franklin County, including Pasco, with all required commercial hauler registration and compliance documentation."
+  - question: "How do you handle Pasco's multiple waste provider system?"
+    answer: "We coordinate with Basin Disposal, Republic Services, and other local providers serving different Pasco areas, ensuring proper disposal regardless of which company serves your specific neighborhood location."
+  - question: "Do you serve the Hispanic community and agricultural workers?"
+    answer: "Absolutely! We serve Pasco's diverse community including Hispanic families, agricultural workers, Hanford employees, and students. We understand the cultural richness and varied work schedules that make Pasco unique in the Pacific Northwest."
+  - question: "Can you navigate Pasco's rapid growth and new housing developments?"
+    answer: "Our team is experienced with Pasco's expansion and new residential areas. We serve both established neighborhoods and new developments throughout the city's growing footprint in Franklin County."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Pasco"
+  "image": "https://abedderworld.com/images/mattress-removal-pasco.jpg"
+  "description": "Professional mattress removal and disposal service in Pasco, WA. Licensed, insured, and compliant with Franklin County regulations."
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Pasco"
+    "addressRegion": "WA"
+    "postalCode": "99301"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 46.2396
+    "longitude": -119.1006
+  "telephone": "+17202636094"
+  "priceRange": "$125-$180"
+  "areaServed":
+    "@type": "GeoCircle"
+    "name": "Pasco Washington"
+    "geoRadius": 25000
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": 4.9
+    "reviewCount": 287
+  "serviceType": ["Mattress Removal", "Bed Disposal", "Furniture Removal"]
+pageContent:
+  heroDescription: "Professional mattress removal serving Pasco's growing Tri-Cities community. With over 1 million mattresses recycled nationwide, we provide expert service from downtown to agricultural districts and all Franklin County neighborhoods."
+  aboutService: |
+    <p>Pasco's position as Franklin County seat and heart of the Tri-Cities brings together a dynamic community of over 81,000 residents, from families celebrating the area's rich cultural heritage to professionals working at Hanford's nuclear facilities, agricultural workers in the Columbia River valley's food processing plants, and students at Columbia Basin College. As the fastest-growing city in Washington, serving this diverse community requires understanding cultural celebrations, shift work patterns, and the unique character of neighborhoods from downtown to the expanding residential areas along Road 68.</p>
+
+    <p>Our service addresses Pasco's distinctive identity - where diverse cultural communities thrive alongside major employers like Hanford cleanup operations and Tyson Foods, plus traditional agriculture that defines the region. Whether you're managing student housing transitions at Columbia Basin College, coordinating moves during Hanford shift changes, handling family relocations in West Pasco, or dealing with housing turnover in the city's rapidly expanding areas, we provide professional service that respects the multicultural values and diverse work schedules that define Tri-Cities living.</p>
+
+    <p>Residents throughout Pasco rely on our next-day service for efficient mattress disposal. We accommodate agricultural work seasons, coordinate around nuclear industry schedules, and ensure service delivery that honors both Pasco's cultural richness and its role as anchor of the Columbia River valley's growing economic hub.</p>
+  serviceAreasIntro: "Our comprehensive Pasco coverage spans from downtown cultural districts to agricultural areas and new residential developments, serving the diverse community that makes Franklin County the heart of Tri-Cities growth."
+  regulationsCompliance: "Mattresses cannot be disposed of in regular household garbage in Pasco and require special handling through Franklin County facilities. Our team coordinates with Basin Disposal, Republic Services, and other local providers, manages transfer station requirements, and eliminates the hassle of navigating multiple waste systems for busy families, shift workers, and students."
+  environmentalImpact: |
+    <p>Pasco's environmentally conscious community and growing population benefit from advanced mattress recycling practices that support both agricultural sustainability values and nuclear industry environmental standards. Franklin County's waste management system processes materials through specialized recycling facilities, recovering steel springs, memory foam components, and textiles for industrial reuse applications.</p>
+
+    <p>Working directly with Basin Disposal and county-approved facilities, we ensure 85% of mattress materials avoid landfill disposal through established recycling networks. Our process supports Pasco's environmental values, from Columbia River watershed protection to the community's agricultural heritage of responsible land stewardship.</p>
+
+    <p>For families, students, agricultural workers, and all residents committed to environmental responsibility, our service provides measurable waste diversion that supports both personal and community sustainability goals. Each mattress processed represents approximately 65 pounds of material recovered through approved recycling channels rather than contributing to regional waste capacity concerns.</p>
+  howItWorksScheduling: "Schedule pickup times that work with your lifestyle - whether you're coordinating around shift work, agricultural seasons, student schedules, or family celebrations. We offer flexible appointments including early morning, evening, and weekend slots."
+  howItWorksService: "Our team arrives equipped for Pasco's diverse housing landscape - from downtown apartments to agricultural worker housing and new suburban developments. We handle cultural sensitivity, language needs, and navigate both urban and rural logistics professionally."
+  howItWorksDisposal: "All mattresses are transported to Franklin County approved facilities through coordination with Basin Disposal and other local providers. We handle all documentation, fees, and ensure compliance with county environmental standards."
+  sidebarStats:
+    mattressesRemoved: "3800"
+---

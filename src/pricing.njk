@@ -1,8 +1,10 @@
 ---
 layout: base.njk
-title: Mattress Removal Pricing - Starting at $125
-description: Transparent mattress removal pricing starting at $125. No hidden fees. Get exact pricing for single mattress, box spring, bed frame removal and more.
+title: Mattress Removal Pricing
+metaTitle: "Mattress Removal Pricing | Instant Online Quotes | A Bedder World"
+metaDescription: "Transparent mattress removal pricing. No phone calls needed - see your exact price and book online in 60 seconds. Starting at $89. Price match guarantee."
 ---
+
 
 <!-- Breadcrumbs -->
 <div class="breadcrumbs">
@@ -13,318 +15,36 @@ description: Transparent mattress removal pricing starting at $125. No hidden fe
     </div>
 </div>
 
-<!-- Hero Section -->
-<section class="hero" style="background: var(--primary-green);">
+<!-- Simple Pricing CTA -->
+<section class="section" style="background-color: var(--gray-50); padding: 80px 0;">
     <div class="container">
-        <div class="hero-content">
-            <h1 class="hero-title">Simple, Transparent Pricing</h1>
-            <p class="hero-subtitle">Starting at ${{ pricing.startingPrice }} • No Hidden Fees</p>
-            <p class="hero-description">
-                Our straightforward pricing includes pickup, transportation, and eco-friendly disposal. 
-                See exactly what you'll pay before you book.
-            </p>
-        </div>
-    </div>
-</section>
-
-<!-- Main Pricing Section -->
-<section class="section">
-    <div class="container">
-        <h2 class="section-title">Base Pricing</h2>
-        <p class="section-description">
-            Choose your service level based on the items you need removed
-        </p>
-        
-        <div class="pricing-grid">
-            <div class="pricing-card">
-                <h3 class="pricing-title">1st Piece</h3>
-                <div class="pricing-price">${{ pricing.mattressOnly }}</div>
-                <div class="pricing-subtitle">Single mattress (any size)</div>
-                <ul class="pricing-features">
-                    <li>✓ Twin to California King</li>
-                    <li>✓ Memory foam or spring</li>
-                    <li>✓ Curbside or in-home pickup</li>
-                    <li>✓ Eco-friendly recycling</li>
-                    <li>✓ Next-day service available</li>
-                </ul>
-                <a href="#" class="btn btn-primary btn-block zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                    Book This Service →
-                </a>
+        <div class="modern-pricing-section">
+            <h1 class="pricing-main-title">Get Your Exact Price Online Before You Book</h1>
+            <p class="pricing-main-subtitle">Select items → Choose pickup day → Pay online. It's that simple.</p>
+            
+            <div class="pricing-cta-box">
+                <button class="pricing-primary-btn zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                    See My Upfront Price →
+                </button>
+                <p class="pricing-guarantee">100% transparent pricing • No surprises at your door</p>
             </div>
             
-            <div class="pricing-card pricing-featured">
-                <div class="popular-badge">MOST POPULAR</div>
-                <h3 class="pricing-title">2 Pieces</h3>
-                <div class="pricing-price">${{ pricing.mattressBoxSpring }}</div>
-                <div class="pricing-subtitle">Mattress + Box Spring</div>
-                <ul class="pricing-features">
-                    <li>✓ Complete bed set removal</li>
-                    <li>✓ Any mattress size</li>
-                    <li>✓ Box spring or foundation</li>
-                    <li>✓ Eco-friendly recycling</li>
-                    <li>✓ Next-day service available</li>
-                </ul>
-                <a href="#" class="btn btn-primary btn-block zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                    Book This Service →
-                </a>
+            <div class="pricing-benefits">
+                <div class="pricing-benefit">
+                    <span>💰 Half the price of major junk companies</span>
+                </div>
+                <div class="pricing-benefit">
+                    <span>♻️ Over 1 million mattresses recycled</span>
+                </div>
             </div>
             
-            <div class="pricing-card">
-                <h3 class="pricing-title">3 Pieces</h3>
-                <div class="pricing-price">${{ pricing.mattressBoxSpringFrame }}</div>
-                <div class="pricing-subtitle">Mattress + Box Spring + Frame</div>
-                <ul class="pricing-features">
-                    <li>✓ Full bedroom set</li>
-                    <li>✓ Includes bed frame</li>
-                    <li>✓ Metal or wood frames</li>
-                    <li>✓ Complete disassembly</li>
-                    <li>✓ Next-day service available</li>
-                </ul>
-                <a href="#" class="btn btn-primary btn-block zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                    Book This Service →
+            <div class="commercial-cta-prominent">
+                <p class="commercial-label">Need bulk removal for your business?</p>
+                <a href="/commercial/" class="commercial-btn">
+                    🏢 Get Commercial Pricing →
                 </a>
             </div>
         </div>
     </div>
 </section>
 
-<!-- Add-On Options Section -->
-<section class="section" style="background-color: var(--gray-50);">
-    <div class="container">
-        <h2 class="section-title">Add-On Options</h2>
-        <p class="section-description">
-            Additional services that may apply to your pickup
-        </p>
-        
-        <div class="addon-grid">
-            <div class="addon-card">
-                <div class="addon-icon">
-                    <img src="/images/icons/mattress-icon.png" alt="Extra Mattress" width="48" height="48">
-                </div>
-                <h4>Extra Mattress</h4>
-                <div class="addon-price">+${{ pricing.services.extraMattress }}</div>
-                <p>Each additional mattress beyond the first</p>
-            </div>
-            
-            <div class="addon-card">
-                <div class="addon-icon">
-                    <img src="/images/icons/check-mark-icon.png" alt="Box Spring" width="48" height="48">
-                </div>
-                <h4>Box Spring Only</h4>
-                <div class="addon-price">+${{ pricing.items.boxSpring }}</div>
-                <p>When added separately</p>
-            </div>
-            
-            <div class="addon-card">
-                <div class="addon-icon">
-                    <img src="/images/icons/home-icon.png" alt="Bed Frame" width="48" height="48">
-                </div>
-                <h4>Bed Frame Only</h4>
-                <div class="addon-price">+${{ pricing.items.bedFrame }}</div>
-                <p>Metal or wood frame</p>
-            </div>
-            
-            <div class="addon-card">
-                <div class="addon-icon">
-                    <img src="/images/icons/location-icon.png" alt="Stairs" width="48" height="48">
-                </div>
-                <h4>Stairs</h4>
-                <div class="addon-price">+${{ pricing.services.stairsPerFlight }}/flight</div>
-                <p>For 2nd floor and above</p>
-            </div>
-            
-            <div class="addon-card">
-                <div class="addon-icon">
-                    <img src="/images/icons/removal-icon.png" alt="Long Carry" width="48" height="48">
-                </div>
-                <h4>Long Carry</h4>
-                <div class="addon-price">+${{ pricing.services.longCarry }}</div>
-                <p>Over 75 feet to truck</p>
-            </div>
-            
-            <div class="addon-card">
-                <div class="addon-icon">
-                    <img src="/images/icons/trusted-service-icon.png" alt="Heavy Item" width="48" height="48">
-                </div>
-                <h4>Heavy Item</h4>
-                <div class="addon-price">+${{ pricing.services.heavyItem }}</div>
-                <p>Adjustable bases, sleep number beds</p>
-            </div>
-        </div>
-        
-        <div class="pricing-cta-section">
-            <h3>Get an Exact Price</h3>
-            <p>Click below to get an exact price 100% upfront for your pickup</p>
-            <a href="#" class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                Get Your Exact Quote →
-            </a>
-        </div>
-    </div>
-</section>
-
-<!-- Other Items Section -->
-<section class="section">
-    <div class="container">
-        <h2 class="section-title">Other Items We Remove</h2>
-        <p class="section-description">
-            We also handle these specialty items
-        </p>
-        
-        <div class="other-items-grid">
-            <div class="item-price-card">
-                <h4>Futon</h4>
-                <div class="item-price">${{ pricing.items.futon }}</div>
-            </div>
-            <div class="item-price-card">
-                <h4>Sleep Sofa</h4>
-                <div class="item-price">${{ pricing.items.sleepSofa }}</div>
-            </div>
-            <div class="item-price-card">
-                <h4>Adjustable Base</h4>
-                <div class="item-price">${{ pricing.items.adjustableBase }}</div>
-            </div>
-            <div class="item-price-card">
-                <h4>Crib Mattress</h4>
-                <div class="item-price">${{ pricing.items.crib }}</div>
-            </div>
-            <div class="item-price-card">
-                <h4>Rollaway Bed</h4>
-                <div class="item-price">${{ pricing.items.rollaway }}</div>
-            </div>
-            <div class="item-price-card">
-                <h4>King Size</h4>
-                <div class="item-price">${{ pricing.items.king }}</div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Commercial Quote Section -->
-<section class="section" style="background-color: var(--primary-green); color: white;">
-    <div class="container">
-        <div class="commercial-cta">
-            <h2 style="color: white;">Need Commercial or Bulk Removal?</h2>
-            <p style="color: rgba(255,255,255,0.9);">
-                Hotels, apartments, and businesses get volume discounts. 
-                We handle large-scale removals with minimal disruption.
-            </p>
-            <a href="/commercial/" class="btn btn-white btn-lg">
-                Get a Commercial Quote →
-            </a>
-        </div>
-    </div>
-</section>
-
-<!-- Final CTA -->
-<section class="section">
-    <div class="container">
-        <div class="final-cta">
-            <h2>Ready to Book Your Removal?</h2>
-            <p>Professional mattress removal starting at ${{ pricing.startingPrice }}. Book online in 60 seconds.</p>
-            <div class="cta-actions">
-                <a href="#" class="btn btn-primary btn-lg zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
-                    Book Online →
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<style>
-/* Pricing Page Styles */
-.pricing-cta-section {
-    text-align: center;
-    margin-top: 48px;
-    padding: 32px;
-    background: white;
-    border-radius: var(--border-radius-lg);
-    box-shadow: var(--shadow-md);
-}
-
-.pricing-cta-section h3 {
-    margin-bottom: 16px;
-}
-
-.addon-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 24px;
-    margin-top: 32px;
-}
-
-.addon-card {
-    background: white;
-    padding: 24px;
-    border-radius: var(--border-radius);
-    text-align: center;
-    box-shadow: var(--shadow-sm);
-}
-
-.addon-icon {
-    margin-bottom: 16px;
-}
-
-.addon-icon img {
-    filter: brightness(0) saturate(100%) invert(58%) sepia(89%) saturate(358%) hue-rotate(39deg) brightness(95%) contrast(92%);
-}
-
-.addon-price {
-    font-size: 24px;
-    font-weight: bold;
-    color: var(--primary-green);
-    margin: 8px 0;
-}
-
-.other-items-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 20px;
-    margin-top: 32px;
-}
-
-.item-price-card {
-    background: var(--gray-50);
-    padding: 20px;
-    border-radius: var(--border-radius);
-    text-align: center;
-}
-
-.item-price-card h4 {
-    margin-bottom: 8px;
-    font-size: 16px;
-}
-
-.item-price {
-    font-size: 28px;
-    font-weight: bold;
-    color: var(--primary-green);
-}
-
-.commercial-cta {
-    text-align: center;
-    padding: 32px 0;
-}
-
-.popular-badge {
-    position: absolute;
-    top: -12px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: var(--primary-green);
-    color: white;
-    padding: 4px 16px;
-    border-radius: 20px;
-    font-size: 12px;
-    font-weight: 600;
-}
-
-.pricing-card {
-    position: relative;
-}
-
-.btn-block {
-    width: 100%;
-    display: block;
-    text-align: center;
-}
-</style>

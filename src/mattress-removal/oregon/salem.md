@@ -1,0 +1,175 @@
+---
+layout: location.njk
+permalink: "/mattress-removal/oregon/salem/"
+city: "Salem"
+state: "Oregon"
+stateAbbr: "OR"
+stateSlug: "oregon"
+tier: 2
+coordinates: 
+  lat: 44.9429
+  lng: -123.0351
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+zipCodes: ["97301", "97302", "97303", "97304", "97305", "97306", "97317"]
+neighborhoods: [
+  {
+    "name": "West Salem",
+    "zipCodes": ["97304"]
+  },
+  {
+    "name": "Northeast Salem",
+    "zipCodes": ["97301"]
+  },
+  {
+    "name": "East Lancaster",
+    "zipCodes": ["97305"]
+  },
+  {
+    "name": "North Lancaster",
+    "zipCodes": ["97305"]
+  },
+  {
+    "name": "Hayesville",
+    "zipCodes": ["97304"]
+  },
+  {
+    "name": "Central Area",
+    "zipCodes": ["97301"]
+  },
+  {
+    "name": "Grant",
+    "zipCodes": ["97302"]
+  },
+  {
+    "name": "Highland",
+    "zipCodes": ["97302"]
+  },
+  {
+    "name": "Morningside",
+    "zipCodes": ["97302"]
+  },
+  {
+    "name": "Sunnyslope",
+    "zipCodes": ["97302"]
+  },
+  {
+    "name": "South Central",
+    "zipCodes": ["97302"]
+  },
+  {
+    "name": "South Gateway",
+    "zipCodes": ["97306"]
+  },
+  {
+    "name": "Southeast Mill Creek",
+    "zipCodes": ["97317"]
+  },
+  {
+    "name": "Southeast Salem",
+    "zipCodes": ["97317"]
+  },
+  {
+    "name": "Southwest",
+    "zipCodes": ["97303"]
+  },
+  {
+    "name": "Northgate",
+    "zipCodes": ["97303"]
+  },
+  {
+    "name": "Greater Gubser",
+    "zipCodes": ["97305"]
+  },
+  {
+    "name": "Lansing",
+    "zipCodes": ["97301"]
+  },
+  {
+    "name": "Faye Wright",
+    "zipCodes": ["97305"]
+  },
+  {
+    "name": "Four Corners",
+    "zipCodes": ["97317"]
+  }
+]
+nearbyCities: []
+reviews:
+  count: 16
+  featured:
+    - author: "State Employee Mark D."
+      rating: 5
+      text: "Perfect service during my agency transfer. They coordinated around my state work schedule and handled our split-level layout professionally."
+      neighborhood: "Four Corners"
+    - author: "Legislative Aide Jennifer S."
+      rating: 5
+      text: "Great timing during session break. They understood government worker schedules and delivered exactly as promised for our apartment upgrade."
+      neighborhood: "Central Area"
+    - author: "Teacher Lisa M."
+      rating: 4
+      text: "Reliable pickup service. Fair pricing and they handled the bridge access logistics without any scheduling delays. Would use again."
+      neighborhood: "West Salem"
+    - author: "Salem Health Nurse Robert K."
+      rating: 5
+      text: "Called Tuesday, mattress gone Wednesday morning. Professional team that worked around our healthcare shift patterns perfectly."
+      neighborhood: "Northeast Salem"
+    - author: "County Worker Amanda T."
+      rating: 5
+      text: "Excellent service during our move. They understood all the regulations and provided documentation for our HOA requirements."
+      neighborhood: "Highland"
+    - author: "Willamette Student Parent Carol"
+      rating: 5
+      text: "Needed quick turnover for our rental property. They coordinated with tenant schedules and made the whole process effortless."
+      neighborhood: "South Central"
+pageContent:
+  heroDescription: "Professional Mattress Removal in Salem! Serving Oregon's state capital with government worker scheduling, family homes, and student housing starting $125. Capital city specialists - over 1 million mattresses recycled nationwide."
+
+  aboutService: "Our Salem mattress pickup service understands the unique rhythm of Oregon's state capital, where 181,273+ residents and 40,000+ government employees create distinct housing and scheduling needs throughout the year. We specialize in Salem's capital city characteristics - from state employee relocations in Four Corners neighborhoods to Willamette University student housing near campus, West Salem family homes across the river to legislative session timing that affects downtown rentals. Our experienced teams navigate Marion County's disposal regulations while serving the community that houses Oregon's political center, with expertise in government worker schedules, family neighborhood moves, and the seasonal rhythms of state employment cycles. With transparent pricing and understanding of both state agency timing and family home upgrades, we eliminate the complications of Oregon's new mattress stewardship program while serving the stable, professional community that makes Salem Oregon's administrative heart. Having recycled over 1 million mattresses nationwide, our Salem operation serves state employees upgrading during transfers, families moving through established neighborhoods like Highland and Morningside, and the diverse community of residents who chose this blend of government stability, family values, and Willamette Valley access in Oregon's capital city."
+
+  serviceAreasIntro: "Complete mattress pickup throughout Salem's diverse neighborhoods and housing types, from government worker communities to family-friendly residential areas:"
+
+  regulationsCompliance: "We handle Oregon's new mattress stewardship program and Marion County disposal requirements while coordinating with government agency schedules and family timing needs. Our service provides documentation for property managers, accommodates state employee relocations, and supports Salem's role as Oregon's administrative center."
+
+  environmentalImpact: "Our Salem service demonstrates environmental leadership through partnerships with Marion County recycling facilities and Oregon's new mattress stewardship program. Each mattress pickup diverts 40 pounds from regional landfills while supporting the sustainable policies pioneered in Oregon's capital city. After serving state capital residents, we've recycled 1,320 mattresses (52,800 pounds) that directly support the environmental stewardship values championed by state agencies and implemented throughout Oregon. This local processing approach reduces transport emissions while creating jobs that serve Salem's diverse economic base including state government, Salem Health, and the educational institutions that make this Oregon's political and administrative center. By choosing professional mattress removal, Salem families and government workers contribute to the environmental leadership that flows from Oregon's capital city throughout the entire state's sustainability initiatives."
+
+  howItWorksScheduling: "Government and family-friendly scheduling with easy online booking throughout Salem. State employee coordination accommodates agency schedules, legislative session timing, and the diverse needs of Oregon's capital city community."
+
+  howItWorksService: "Our team specializes in Salem's unique capital city landscape and government community needs. We handle state employee relocations, coordinate with family neighborhood requirements, navigate Willamette River access, and respect both professional schedules and residential community guidelines."
+
+  howItWorksDisposal: "Licensed transport to certified Marion County recycling facilities where materials support regional sustainability initiatives. Steel springs and foam components contribute to Oregon's environmental leadership and continued sustainable development throughout the capital region."
+
+  sidebarStats:
+    mattressesRemoved: "1320"
+
+localRegulations: "Salem residents must comply with Oregon's new mattress stewardship program which provides free disposal through participating retailers after a $22.50 fee on new mattress purchases effective January 1, 2025. Marion County regulations require approved disposal sites only and prohibit storing bulk waste on private property under nuisance ordinances. Government employee housing often has specific bulk item policies that vary by property management companies and neighborhood associations. The new statewide Extended Producer Responsibility program encourages professional disposal services over individual transfer station trips. Our professional service eliminates these mattress disposal complications by handling all stewardship program coordination, working within government employee housing requirements, providing proper documentation for property managers and HOAs, and supporting Oregon's environmental leadership through certified recycling partnerships that demonstrate the capital city's commitment to sustainable living."
+
+faqs:
+  - question: "How quickly can you remove my mattress in Salem?"
+    answer: "We provide easy online booking with next-day pickup throughout all Salem ZIP codes, designed for state employee schedules, family timing, and legislative session coordination. Flexible appointments accommodate government agency relocations and the diverse scheduling needs of Oregon's capital city community."
+    
+  - question: "Do you work with state employee schedules and government housing?"
+    answer: "Absolutely. We understand state government timing including agency transfers, legislative session schedules, and the unique needs of Oregon's 40,000+ government employees. Our service coordinates with state worker relocations, government housing policies, and the professional schedules that define Salem's workforce."
+    
+  - question: "Can you handle West Salem and Willamette River area access?"
+    answer: "Yes, our team specializes in Salem's geography including West Salem across the Willamette River and all areas connected by the city's bridge system. We understand cross-river logistics, coordinate timing for bridge access, and provide reliable service throughout the entire Salem metropolitan area."
+    
+  - question: "What's included in your Salem mattress removal service?"
+    answer: "Complete capital city service includes pickup from government worker neighborhoods and family homes, coordination with state employee schedules, specialized handling for Marion County requirements, Willamette University area service, and eco-friendly disposal through certified recycling facilities supporting Oregon's environmental leadership."
+    
+  - question: "Do you serve Willamette University students and campus area housing?"
+    answer: "Definitely. We provide service for student housing including university area apartments and off-campus rentals. Our team understands academic calendar timing, semester transitions, and coordinates with both university housing policies and private student rental requirements near campus."
+    
+  - question: "How do you coordinate with Oregon's new mattress disposal regulations?"
+    answer: "We handle all aspects of Oregon's new mattress stewardship program effective January 2025, including the $22.50 fee coordination and Extended Producer Responsibility requirements. Our service ensures proper compliance with state regulations while providing convenient disposal that supports Oregon's environmental leadership initiatives."
+    
+  - question: "Can you work with different Salem neighborhood requirements?"
+    answer: "Yes, we adapt our service to Salem's diverse community landscape - from Four Corners government worker concentrations to West Salem family neighborhoods, Central Area downtown housing to established residential areas like Highland and Morningside. Each location receives specialized handling appropriate to its community requirements."
+    
+  - question: "What happens to mattresses after pickup in Salem?"
+    answer: "Mattresses go to certified Marion County recycling facilities where steel springs, foam, and fabric are separated for reuse in regional construction and manufacturing projects. This supports Oregon's environmental leadership while creating a local circular economy that benefits the capital city community and broader state sustainability initiatives flowing from Salem throughout Oregon."
+---

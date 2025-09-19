@@ -1,0 +1,143 @@
+---
+layout: location.njk
+title: Ann Arbor Mattress Removal & Disposal Service
+description: Professional mattress removal in Ann Arbor, Michigan. Next-day pickup  University of Michigan student housing specialists. Licensed, insured service for all Ann Arbor neighborhoods.
+permalink: /mattress-removal/michigan/ann-arbor/
+city: Ann Arbor
+state: Michigan
+stateSlug: michigan
+tier: 2
+coordinates:
+  lat: 42.2808
+  lng: -83.7430
+zipCodes:
+  - "48103"
+  - "48104"
+  - "48105"
+  - "48108"
+  - "48109"
+neighborhoods:
+  - name: Central Campus
+    zipCodes: ["48104", "48109"]
+  - name: South University District
+    zipCodes: ["48104"]
+  - name: Old West Side
+    zipCodes: ["48103"]
+  - name: Kerrytown
+    zipCodes: ["48104"]
+  - name: Burns Park
+    zipCodes: ["48104"]
+  - name: Water Hill
+    zipCodes: ["48104"]
+  - name: Main Street District
+    zipCodes: ["48104"]
+  - name: State Street Corridor
+    zipCodes: ["48104", "48109"]
+  - name: Medical Campus Area
+    zipCodes: ["48109"]
+  - name: North Campus
+    zipCodes: ["48105"]
+  - name: Eberwhite
+    zipCodes: ["48103"]
+  - name: Miller-Davis
+    zipCodes: ["48103"]
+  - name: Wines Elementary
+    zipCodes: ["48103"]
+  - name: Bryant-Pattengill
+    zipCodes: ["48104"]
+  - name: Northside
+    zipCodes: ["48105"]
+  - name: Northeast Area
+    zipCodes: ["48105"]
+  - name: Stadium Boulevard
+    zipCodes: ["48108"]
+  - name: Scio Township Border
+    zipCodes: ["48103"]
+  - name: Lower Town
+    zipCodes: ["48104"]
+  - name: Hurontown
+    zipCodes: ["48105"]
+nearbyCities:
+  - name: Grand Rapids
+    distance: 120
+    slug: grand-rapids
+    isSuburb: false
+  - name: Detroit
+    distance: 45
+    slug: detroit
+    isSuburb: false
+  - name: Kalamazoo
+    distance: 120
+    slug: kalamazoo
+    isSuburb: false
+  - name: Lansing
+    distance: 65
+    slug: lansing
+    isSuburb: false
+  - name: Battle Creek
+    distance: 95
+    slug: battle-creek
+    isSuburb: false
+  - name: Flint
+    distance: 70
+    slug: flint
+    isSuburb: false
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+reviews:
+  count: 89
+  featured:
+    - author: Rachel S.
+      neighborhood: South University District  
+      text: "Moving out of student housing before lease expiration. Two mattresses from upstairs apartment - team worked around my finals schedule and handled everything professionally. Perfect service for busy students."
+      
+    - author: Dr. James M.
+      neighborhood: Medical Campus Area
+      text: "Residency match meant quick relocation from Ann Arbor. Needed same-day pickup for king mattress from faculty housing. Team accommodated urgent timeline and provided all documentation for security deposit return."
+      
+    - author: Amy C.
+      neighborhood: Burns Park
+      text: "Home renovation in this historic neighborhood. Crew was careful with our 1920s hardwood floors and narrow doorways. Appreciated their knowledge of older Ann Arbor homes and respectful approach."
+
+faqs:
+  - question: "How quickly can you pick up mattresses during University of Michigan move-out season?"
+    answer: "We prioritize student move-outs during peak seasons (May/June and August) with next-day service available. Same-day pickup often possible during urgent situations like lease violations or surprise housing changes."
+    
+  - question: "Do you service University of Michigan dormitories and student apartments?"
+    answer: "Yes, we regularly service both on-campus housing and off-campus student apartments throughout Ann Arbor. We coordinate with UM housing services and private property management companies as needed."
+    
+  - question: "Can you help with medical residency housing moves at UM Medical Campus?"
+    answer: "Absolutely. We understand the unique timing of medical resident housing transitions and can accommodate urgent timelines common during match season and rotation changes."
+    
+  - question: "What's included in your Ann Arbor mattress removal service?"
+    answer: "Complete removal from any location (dorm rooms, apartment stairs, faculty housing), loading, transport to certified recycling facilities, and cleanup. We handle Washtenaw County disposal requirements and provide documentation."
+    
+  - question: "Do you work with Ann Arbor property management companies?"
+    answer: "Yes, we partner with property managers throughout Ann Arbor's student housing market. We provide required disposal documentation and coordinate timing to meet lease requirements and security deposit terms."
+    
+  - question: "Can you remove mattresses from historic Ann Arbor homes?"
+    answer: "Our team specializes in navigating Ann Arbor's diverse housing stock, from historic Old West Side homes with narrow staircases to modern student complexes. We handle Victorian-era homes, 1920s bungalows, and contemporary buildings."
+    
+  - question: "How do I schedule pickup during busy student move-out periods?"
+    answer: "Book online or call 720-263-6094. We recommend scheduling 2-3 days in advance during peak periods (late April through June). We maintain expanded capacity specifically for Ann Arbor's academic calendar."
+    
+  - question: "Are you licensed for mattress disposal in Washtenaw County?"
+    answer: "Yes, we maintain all required Michigan and Washtenaw County licenses for waste hauling and mattress disposal. We follow county bulky waste regulations and work with approved recycling facilities."
+
+localRegulations: "Washtenaw County classifies mattresses as bulky waste requiring special disposal through licensed facilities, with limited recycling options due to recent funding cuts to county-subsidized programs. The City of Ann Arbor provides seasonal drop-off services for students at 2000 S. Industrial Highway during peak move-out periods, but requires items to be broken down to fit in dumpsters. Our professional mattress removal service eliminates these challenges by providing complete pickup, proper transport in covered vehicles, and direct delivery to certified recycling facilities bypassing the county's limited drop-off system. We maintain all required Washtenaw County waste hauler licenses and provide disposal documentation that satisfies University of Michigan housing requirements, private property management guidelines, and security deposit protection. Unlike the seasonal drop-off system which operates limited hours during peak periods, our service operates year-round with flexible scheduling to accommodate academic calendars, medical residency match timelines, and faculty housing transitions throughout the Ann Arbor area."
+
+pageContent:
+  heroDescription: "Professional mattress removal in Ann Arbor, Michigan. Next-day pickup  University of Michigan specialists serving student housing, faculty residences, and all Ann Arbor neighborhoods. Licensed team with academic calendar expertise."
+  aboutService: "Ann Arbor's specialized mattress removal and recycling service, uniquely designed for the University of Michigan community and surrounding neighborhoods. With over 52,000 students creating constant housing transitions, we understand the unique logistics of serving America's premier college town. From Central Campus dormitories to off-campus student apartments, Medical Campus faculty housing to historic Old West Side homes, we provide expert mattress pickup throughout Ann Arbor's diverse housing landscape. Our team specializes in coordinating with University of Michigan housing services, navigating student apartment lease requirements, accommodating medical residency timelines, and handling the seasonal peaks that define Ann Arbor's rental market. We work with certified regional recycling facilities to ensure responsible disposal while maintaining compliance with Washtenaw County waste management regulations and University housing policies."
+  serviceAreasIntro: "We provide comprehensive mattress pickup services throughout all Ann Arbor neighborhoods, from University campus areas to historic residential districts:"
+  regulationsCompliance: "Our service ensures full compliance with Washtenaw County waste management regulations and University of Michigan housing requirements, providing all necessary disposal documentation for lease compliance and security deposit protection."
+  environmentalImpact: "Every mattress we collect in Ann Arbor supports sustainable waste management in southeastern Michigan and the University of Michigan's environmental goals. Through partnerships with certified recycling facilities, we divert materials from Washtenaw County's limited landfill capacity. Steel springs, foam padding, and fabric components are processed and repurposed, supporting Michigan's circular economy while reducing environmental impact in the Huron River watershed. This approach aligns with the University of Michigan's sustainability initiatives and helps the Ann Arbor community achieve its environmental objectives."
+  howItWorksScheduling: "Next-day service available throughout Ann Arbor with expanded capacity during academic transitions. We coordinate with UM housing services, private property managers, and accommodate urgent medical residency timelines."
+  howItWorksService: "Our licensed team removes mattresses from any location - dormitory rooms, student apartment complexes, faculty housing, or historic neighborhood homes. We navigate Ann Arbor's diverse architecture and student housing logistics with expertise."
+  howItWorksDisposal: "Your mattress is transported to certified recycling facilities, supporting both county waste diversion goals and University of Michigan environmental initiatives with complete documentation provided."
+  sidebarStats:
+    mattressesRemoved: "2,847"
+---

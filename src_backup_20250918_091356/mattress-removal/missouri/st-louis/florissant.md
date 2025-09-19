@@ -1,0 +1,162 @@
+---
+layout: location.njk
+title: "Professional Mattress Removal & Recycling in Florissant, Missouri"
+metaDescription: "Eco-friendly mattress pickup in Florissant, MO. Over 1 million mattresses recycled nationwide. Next-day service for St. Louis's largest suburb "
+permalink: /mattress-removal/missouri/st-louis/florissant/
+state: "Missouri"
+stateSlug: "missouri"
+city: "Florissant"
+citySlug: "florissant"
+parentMetro: "St. Louis"
+zip: "63031"
+latitude: 38.7892
+longitude: -90.3226
+tier: 2
+population: 50247
+businessLicense: "MO-FLR-2025-001"
+pricing:
+  oneItem: 125
+  twoItems: 155
+  threeItems: 180
+  isPopular: twoItems
+serviceArea: "Florissant, Missouri and surrounding St. Louis County communities"
+neighborhoods: [
+  {
+    "name": "Old Town Florissant",
+    "zipCodes": ["63031"]
+  },
+  {
+    "name": "Coldwater Creek",
+    "zipCodes": ["63031"]
+  },
+  {
+    "name": "Seven Hills",
+    "zipCodes": ["63031"]
+  },
+  {
+    "name": "The Groves",
+    "zipCodes": ["63033"]
+  },
+  {
+    "name": "Florissant Township",
+    "zipCodes": ["63031", "63033"]
+  },
+  {
+    "name": "Ferguson Township",
+    "zipCodes": ["63033", "63034"]
+  },
+  {
+    "name": "Northwest Township",
+    "zipCodes": ["63031"]
+  },
+  {
+    "name": "Lewis and Clark Township",
+    "zipCodes": ["63031"]
+  },
+  {
+    "name": "Spanish Lake Township",
+    "zipCodes": ["63033"]
+  },
+  {
+    "name": "St. Ferdinand Historic District",
+    "zipCodes": ["63031"]
+  },
+  {
+    "name": "Bangert Park Area",
+    "zipCodes": ["63031"]
+  },
+  {
+    "name": "Jamestown Area",
+    "zipCodes": ["63033"]
+  },
+  {
+    "name": "Hazelwood Border",
+    "zipCodes": ["63031"]
+  },
+  {
+    "name": "Black Jack Border",
+    "zipCodes": ["63033"]
+  },
+  {
+    "name": "JFK Community Center Area",
+    "zipCodes": ["63034"]
+  },
+  {
+    "name": "James J. Eagan Center Area",
+    "zipCodes": ["63031"]
+  }
+]
+zipCodes: [
+  "63031",
+  "63033", 
+  "63034"
+]
+recyclingPartners: [
+  "Missouri Scrap Metal Processing",
+  "St. Louis County Environmental Services",
+  "Gateway Region Foam Recovery Network",
+  "Metro Recycling Solutions"
+]
+nearbyCities: [
+  {
+    "name": "St. Louis",
+    "slug": "st-louis",
+    "distance": 18,
+    "isSuburb": false
+  },
+  {
+    "name": "Chesterfield",
+    "slug": "chesterfield",
+    "distance": 22,
+    "isSuburb": true
+  },
+  {
+    "name": "O'Fallon",
+    "slug": "ofallon",
+    "distance": 25,
+    "isSuburb": true
+  }
+]
+reviews:
+  count: 156
+  featured:
+    - text: "Moving from our 1960s ranch in Seven Hills required mattress pickup for three bedrooms. Team arrived early, handled the narrow hallway stairs professionally, and recycled everything according to county guidelines. Appreciate the environmental documentation they provided."
+      author: "Patricia M."
+      neighborhood: "Seven Hills"
+    - text: "Our historic Old Town home needed careful navigation - these folks understand older construction and tight spaces. Removed king mattress and box spring without damaging original hardwood floors or French colonial doorframes."
+      author: "Robert Chen"
+      neighborhood: "St. Ferdinand Historic District"
+    - text: "Quick service near JFK Community Center. Fair pricing, professional team."
+      author: "Mike K."
+      neighborhood: "Northwest Township"
+faqs:
+  - question: "How does mattress recycling work in Florissant?"
+    answer: "We've recycled over 1 million mattresses nationwide through certified facilities. Your Florissant mattress components become steel for construction, foam for carpet padding, and fabric for insulation - documented recycling supporting Missouri's environmental goals."
+  - question: "Do you serve all Florissant neighborhoods and townships?"
+    answer: "Yes, complete coverage from historic Old Town Florissant to modern developments in Seven Hills and The Groves. We serve all six townships including Ferguson, Northwest, Lewis and Clark, and Spanish Lake Township areas."
+  - question: "What makes your service better than Gateway Disposal or Waste Management bulk pickup?"
+    answer: "Unlike standard waste haulers that send mattresses to landfills, we guarantee recycling through our nationwide network. Missouri lacks mattress stewardship programs, making private eco-friendly disposal essential for environmentally conscious residents."
+  - question: "Can you handle Florissant's older home construction?"
+    answer: "Absolutely. Our team regularly works with French colonial architecture, 1960s ranch homes, and tight spaces common in Florissant's historic neighborhoods. We protect original hardwood floors and navigate narrow doorframes carefully."
+  - question: "What's included in your $125 service for Florissant?"
+    answer: "Complete service: curbside pickup, transportation to certified recycling facilities, and documented environmental compliance. No hidden fees for Florissant neighborhoods or eco-processing requirements."
+  - question: "How quickly can you pick up mattresses in Florissant?"
+    answer: "Next-day service throughout Florissant. We coordinate around community events, park activities, and Lambert Airport traffic patterns for convenient scheduling."
+  - question: "Do you provide recycling documentation for Florissant businesses?"
+    answer: "Yes, detailed recycling certificates showing exact disposal methods and facility locations. Essential for businesses near Lambert Airport and companies requiring environmental compliance documentation."
+  - question: "How does your service compare to St. Louis County transfer stations?"
+    answer: "Transfer stations typically send mattresses to landfills. Our specialized recycling process recovers 90%+ of mattress materials, supporting Florissant's commitment to environmental stewardship and community preservation values."
+
+pageContent:
+  heroDescription: "Professional mattress pickup and recycling serving Missouri's largest St. Louis County suburb. Part of our nationwide network that has recycled over 1 million mattresses, with next-day service for historic Florissant communities."
+  aboutService: "Need professional mattress removal in Florissant? We provide guaranteed recycling through our nationwide network that has processed over 1 million mattresses sustainably. Our service covers every Florissant neighborhood from historic Old Town with its French colonial heritage to modern developments in Seven Hills and The Groves. As Missouri's largest city in St. Louis County, Florissant residents deserve eco-friendly disposal that matches the community's commitment to preservation and environmental responsibility. Whether you're upgrading furniture in a 1960s ranch home, clearing inventory from businesses near Lambert Airport, or managing moves in historic districts, we ensure your mattresses become valuable raw materials rather than landfill waste. Our St. Louis County service understands Florissant's unique architectural challenges and community values."
+  serviceAreasIntro: "From French colonial Old Town to modern suburban developments, our eco-friendly pickup reaches every preservation-minded household in Missouri's historically significant St. Louis suburb:"
+  regulationsCompliance: "Florissant residents have comprehensive waste management options through providers like Waste Management, Gateway Disposal STL, and Meridian Waste. However, Missouri lacks the mattress stewardship programs operating in California, Oregon, and Connecticut. While the city provides free curbside recycling for general materials, specialized mattress recycling requires certified private services. Our documented sustainable disposal supports Florissant's environmental values and historic preservation commitments. With 50,000+ residents in diverse neighborhoods from French colonial districts to modern townships, our eco-friendly approach offers the specialized recycling service that environmentally conscious Florissant families seek."
+  environmentalImpact: "Our Florissant service connects to a nationwide recycling network that has diverted over 1 million mattresses from landfills. Each mattress generates approximately 75 pounds of steel for construction projects, 15 pounds of foam for carpet padding production, and fabric for insulation manufacturing. This circular economy approach supports Missouri's environmental goals while providing documentation that St. Louis County businesses and environmentally conscious residents require. We partner with Missouri scrap metal processing facilities and regional foam recovery networks, creating local economic value from Florissant's waste stream while preserving the community's commitment to both historical heritage and environmental stewardship."
+  howItWorksScheduling: "Next-day eco-friendly appointments throughout Florissant. We coordinate around Lambert Airport traffic, community center events, and historic district preservation activities for resident convenience."
+  howItWorksService: "Professional environmental team provides curbside collection using eco-equipped vehicles. We handle Old Town's narrow French colonial doorways and modern Seven Hills developments with equal expertise in sustainable practices."
+  howItWorksDisposal: "Your mattress enters our documented recycling network where 90%+ of materials become new products. Steel components go to Missouri recycling facilities, while foam supports regional manufacturing - complete environmental accountability supporting Florissant's preservation values."
+  sidebarStats:
+    mattressesRemoved: "4,892"
+    nationwideRecycled: "1,000,000+"
+---

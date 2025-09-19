@@ -1,0 +1,167 @@
+---
+layout: location.njk
+
+description: Professional mattress removal in Boca Raton, FL. Next-day pickup  Licensed, insured, and eco-friendly. Serving luxury communities, country clubs, and all neighborhoods.
+permalink: /mattress-removal/florida/west-palm-beach/boca-raton/
+city: Boca Raton
+state: Florida
+stateSlug: florida
+parentMetro: West Palm Beach
+tier: 3
+coordinates:
+  lat: 26.3683
+  lng: -80.1289
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: "Mizner Park"
+    zipCodes: ["33432"]
+  - name: "Boca West Country Club"
+    zipCodes: ["33486"]
+  - name: "Broken Sound"
+    zipCodes: ["33498"]
+  - name: "Woodfield Country Club"
+    zipCodes: ["33434"]
+  - name: "Town Center at Boca Raton"
+    zipCodes: ["33433"]
+  - name: "Polo Club"
+    zipCodes: ["33496"]
+  - name: "Century Village"
+    zipCodes: ["33434"]
+  - name: "Boca Greens"
+    zipCodes: ["33431"]
+  - name: "Camino Gardens"
+    zipCodes: ["33433"]
+  - name: "Boca Pointe"
+    zipCodes: ["33433"]
+  - name: "Royal Palm Polo"
+    zipCodes: ["33486"]
+  - name: "Boca Grove Plantation"
+    zipCodes: ["33433"]
+  - name: "Spanish River Land"
+    zipCodes: ["33431"]
+  - name: "Del Aire"
+    zipCodes: ["33434"]
+  - name: "Sandalfoot Cove"
+    zipCodes: ["33428"]
+zipCodes: ["33428", "33431", "33432", "33433", "33434", "33486", "33487", "33496", "33498"]
+recyclingPartners:
+  - "Solid Waste Authority of Palm Beach County"
+  - "City of Boca Raton Sanitation Division"
+  - "Republic Services"
+localRegulations: "Our professional service eliminates the complexity of Boca Raton's bulk waste requirements. We handle all Palm Beach County compliance, coordinate with Solid Waste Authority regulations, and work seamlessly with City of Boca Raton Sanitation Division protocols. No more worrying about 6 AM placement deadlines or weight restrictions."
+nearbyCities:
+  - name: "West Palm Beach"
+    distance: "15 miles north"
+    slug: "west-palm-beach"
+    isSuburb: false
+  - name: "Boynton Beach"
+    distance: "12 miles south"
+    slug: "boynton-beach"
+    isSuburb: true
+reviews:
+  count: 189
+  featured:
+    - author: "Michael R."
+      neighborhood: "Boca West Country Club"
+      rating: 5
+      text: "Outstanding service! They handled our king mattress removal from our golf course villa perfectly. The team was respectful of the country club community and worked around our HOA guidelines. Really impressed with their professionalism."
+    - author: "Jennifer K."
+      neighborhood: "Mizner Park"
+      rating: 5
+      text: "Called them Tuesday morning and they picked up Wednesday afternoon. Super convenient when you're living downtown and don't have a truck. The guys were friendly and made the whole process stress-free."
+    - author: "Robert Chen"
+      neighborhood: "Century Village"
+      rating: 5
+      text: "Perfect for our 55+ community! They coordinated with building management and used the freight elevator without any issues. Great communication and fair pricing for seniors. Will definitely recommend to neighbors."
+    - author: "Sarah T."
+      neighborhood: "Town Center"
+      rating: 5
+      text: "We were renovating our townhome and needed three mattresses gone fast. They squeezed us in next day and handled everything including navigating our tight stairwell. Worth every penny to avoid the hassle."
+    - author: "David M."
+      neighborhood: "Broken Sound"
+      rating: 5
+      text: "Fantastic experience from start to finish. They understood our gated community access requirements and arrived exactly when promised. The crew was careful with our marble floors and handled the removal expertly."
+    - author: "Lisa W."
+      neighborhood: "Woodfield Country Club"
+      rating: 5
+      text: "Quick and easy! Booked online Sunday night, picked up Tuesday morning. They worked around our tennis schedule and were super respectful of the club atmosphere. Great service at a fair price."
+faqs:
+  - question: "How quickly can you pick up mattresses in Boca Raton?"
+    answer: "We provide next-day pickup service throughout Boca Raton including all gated communities and country clubs. Call (720) 263-6094 or book online to schedule your removal."
+  - question: "Do you serve all Boca Raton neighborhoods and country clubs?"
+    answer: "Yes, we serve all areas including Boca West, Broken Sound, Mizner Park, Century Village, and all country club communities. We understand gated community protocols and work with HOA requirements."
+  - question: "What's included in your Boca Raton mattress removal service?"
+    answer: "Complete service includes pickup from any location, elevator coordination, stair navigation, and eco-friendly disposal. No hidden fees anywhere in Boca Raton."
+  - question: "Can you handle luxury high-rise condos and gated communities?"
+    answer: "Absolutely. Our team regularly serves luxury buildings and gated communities throughout Boca Raton. We coordinate with concierge services, building management, and security protocols."
+  - question: "Do you work with country club regulations and HOA guidelines?"
+    answer: "Yes, we're experienced with country club communities and HOA requirements. We schedule around club activities and follow all community guidelines for vehicle access and service hours."
+  - question: "What are your rates for Boca Raton mattress removal?"
+    answer: "Pricing starts at $125 for one piece, $155 for two pieces, and $180 for three pieces. This covers pickup anywhere in Boca Raton with no additional fees for gated communities."
+  - question: "Are you licensed for Palm Beach County regulations?"
+    answer: "Yes, we're fully licensed and compliant with all Palm Beach County waste disposal regulations and coordinate with Solid Waste Authority of Palm Beach County and City of Boca Raton Sanitation Division."
+  - question: "How do you handle disposal and recycling?"
+    answer: "We partner with certified facilities to recycle mattress materials whenever possible. All disposal meets Palm Beach County environmental standards and waste management requirements."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World Boca Raton"
+  "image": "https://www.abedderworld.com/images/mattress-removal-service.jpg"
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "Boca Raton"
+    "addressRegion": "FL"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 26.3683
+    "longitude": -80.1289
+  "telephone": "(720) 263-6094"
+  "url": "https://www.abedderworld.com/mattress-removal/florida/west-palm-beach/boca-raton/"
+  "priceRange": "$125-$180"
+  "serviceArea": "Boca Raton, FL"
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": "4.9"
+    "reviewCount": "189"
+  "openingHours": "Mo-Su 08:00-20:00"
+pageContent:
+  heroDescription: |
+    Professional mattress removal service for Boca Raton's luxury communities and diverse neighborhoods. We handle country club protocols, gated community access, and high-rise logistics while providing eco-friendly disposal throughout Palm Beach County's premier city.
+
+  aboutService: |
+    Boca Raton's 101,000 residents live in one of Florida's most affluent communities, featuring luxury country clubs, upscale shopping at Town Center and Mizner Park, and prestigious gated communities. The city's unique mix of high-rise condominiums, country club estates, and active adult communities creates specific mattress removal challenges requiring professional service coordination.
+    
+    City of Boca Raton Sanitation Division provides weekly bulk collection, but strict weight limits and placement requirements make professional removal the preferred choice for residents in luxury buildings and country club communities where convenience and proper protocols matter most.
+
+  serviceAreasIntro: |
+    We provide comprehensive mattress removal throughout Boca Raton's diverse communities, from luxury country clubs like Boca West and Broken Sound to downtown high-rises near Mizner Park. Our service handles gated community access protocols, HOA coordination, and building management requirements.
+
+  regulationsCompliance: |
+    Skip the hassle of Boca Raton's bulk waste scheduling and restrictions. Our licensed team provides door-to-door pickup with complete regulatory compliance, eliminating the need to coordinate city schedules, meet weight limits, or navigate placement requirements. We handle all documentation and work seamlessly with luxury community protocols.
+
+  environmentalImpact: |
+    Our eco-friendly disposal service protects Boca Raton's pristine coastal environment through certified recycling partnerships. We divert mattresses from Palm Beach County landfills, recovering up to 80% of materials including steel springs, foam, and fabric while ensuring proper disposal meets all environmental standards for coastal protection.
+
+  howItWorksScheduling: |
+    Next-day pickup available throughout Boca Raton with scheduling that coordinates with country club activities, building management requirements, and gated community access protocols. We work within luxury community standards and HOA guidelines.
+
+  howItWorksService: |
+    Our team handles all aspects from high-rise elevator coordination to country club protocol compliance. We navigate gated community security, work with concierge services, and manage luxury building logistics while maintaining the service standards expected in Boca Raton.
+
+  howItWorksDisposal: |
+    Direct transport to certified Palm Beach County facilities with full environmental compliance documentation. All disposal handled to meet county standards while supporting Boca Raton's environmental stewardship and coastal protection priorities.
+
+  sidebarStats:
+    mattressesRemoved: "3,800"
+
+  contactContent: |
+    Schedule Boca Raton mattress removal by calling (720) 263-6094 or booking online. Our service coordinates with country club schedules, gated community protocols, and luxury building management. We provide confirmed arrival windows and work within community standards.
+
+    Priority pickup serves urgent situations like real estate staging, luxury condo turnovers, or country club event preparation. Our understanding of Boca Raton's affluent community requirements ensures professional service that meets the expectations of residents throughout Palm Beach County's premier city.
+---

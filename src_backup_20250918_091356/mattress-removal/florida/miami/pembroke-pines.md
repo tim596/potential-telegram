@@ -1,0 +1,157 @@
+---
+layout: location.njk
+title: Pembroke Pines, FL Mattress Removal & Disposal Service
+description: Professional mattress removal in Pembroke Pines, Florida. Next-day pickup  Licensed, insured, and eco-friendly. Serving West Pines, Chapel Trail, Silver Lakes, and 20+ neighborhoods.
+permalink: /mattress-removal/florida/miami/pembroke-pines/
+city: Pembroke Pines
+state: Florida
+stateSlug: florida
+parentMetro: "Miami"
+tier: 3
+coordinates:
+  lat: 26.0073
+  lng: -80.2962
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: West Pines
+    zipCodes: ["33028"]
+  - name: Chapel Trail
+    zipCodes: ["33028"]
+  - name: Silver Lakes
+    zipCodes: ["33028"]
+  - name: Pembroke Lakes
+    zipCodes: ["33028"]
+  - name: Pembroke Falls
+    zipCodes: ["33028"]
+  - name: Pembroke Shores
+    zipCodes: ["33028"]
+  - name: Century Village
+    zipCodes: ["33028"]
+  - name: Towngate
+    zipCodes: ["33028"]
+  - name: Lakeside South
+    zipCodes: ["33028"]
+  - name: Westfork
+    zipCodes: ["33028"]
+  - name: Stoneridge Lake Estates
+    zipCodes: ["33028"]
+  - name: Hollywood Lakes Country Club
+    zipCodes: ["33332"]
+  - name: Lakes of Western Pines
+    zipCodes: ["33028"]
+  - name: Ameritrail
+    zipCodes: ["33028"]
+  - name: Encantada
+    zipCodes: ["33028"]
+  - name: Pembroke Pointe
+    zipCodes: ["33332"]
+  - name: Walnut Creek
+    zipCodes: ["33332"]
+  - name: Ivanhoe West
+    zipCodes: ["33028"]
+zipCodes:
+  - "33028"
+  - "33332"
+recyclingPartners:
+  - "Waste Pro USA Pembroke Pines"
+  - "Eastern Waste Services"
+  - "Pembroke Park Transfer Station"
+localRegulations: "Pembroke Pines residents receive bulk pickup service for mattresses through Eastern Waste Services or Waste Pro USA. Bulk items including mattresses must not exceed 10 cubic yards per household, with residents allowed two requests per year to exceed this limit. Good condition mattresses should be donated to charity before disposal. Proof of Pembroke Pines residency required for county hazardous waste disposal services."
+nearbyCities:
+  - name: Hollywood
+    distance: "8 miles"
+    slug: "hollywood"
+    isSuburb: true
+  - name: Davie
+    distance: "12 miles" 
+    slug: "davie"
+    isSuburb: true
+  - name: Coral Springs
+    distance: "15 miles"
+    slug: "coral-springs" 
+    isSuburb: true
+  - name: Fort Lauderdale
+    distance: "18 miles"
+    slug: "fort-lauderdale"
+    isSuburb: true
+  - name: Hialeah
+    distance: "20 miles"
+    slug: "hialeah"
+    isSuburb: true
+  - name: Homestead
+    distance: "25 miles"
+    slug: "homestead"
+    isSuburb: true
+reviews:
+  count: 89
+  featured:
+    - author: "Jennifer L."
+      neighborhood: "Chapel Trail"
+      rating: 5
+      text: "Super easy booking online and they showed up right on time. Had to get past our gate but they coordinated with security no problem. Two guys came in, wrapped up our old king mattress and box spring, carried it downstairs and loaded it up. Whole thing took maybe 15 minutes. Way better than trying to haul it ourselves!"
+    - author: "Robert K."
+      neighborhood: "West Pines"
+      rating: 5
+      text: "Called them Tuesday morning and they came Wednesday afternoon. Pricing was exactly what they quoted - no surprises. The team was super professional, even helped move our new mattress into position after they took the old one out. Would definitely use them again."
+    - author: "Maria C."
+      neighborhood: "Silver Lakes"
+      rating: 5
+      text: "These guys were awesome. My mom was nervous about strangers in the house but they were so polite and careful with everything. They even put on shoe covers without being asked. Quick, clean, and reasonably priced. Saved us a huge headache trying to figure out how to dispose of her old mattress ourselves."
+faqs:
+  - question: "How quickly can you pick up mattresses in Pembroke Pines?"
+    answer: "We offer next-day service throughout Pembroke Pines including all gated communities and subdivisions from Chapel Trail to Silver Lakes. Book online or call (720) 263-6094 before 2 PM and we'll typically pick up the following day. We work with HOA security gates and understand community access protocols."
+  - question: "What's included in your Pembroke Pines mattress removal fee?"
+    answer: "Our $125 base price covers pickup, loading, transportation, and eco-friendly recycling of one mattress. Box springs add $30 each. We handle gated community access, work with HOA requirements, and ensure Broward County regulation compliance without extra charges."
+  - question: "Do you serve gated communities like Chapel Trail and Pembroke Falls?"
+    answer: "Yes, we regularly service Pembroke Pines' numerous gated communities and master-planned developments. We understand HOA protocols, security gate procedures, and community guidelines. Our teams work efficiently in family-oriented neighborhoods from West Pines to Silver Lakes."
+  - question: "Can you coordinate with HOA requirements?"
+    answer: "Absolutely. Pembroke Pines' many gated communities have specific guidelines, and we work within these requirements. We coordinate timing with property management, follow security procedures, and ensure our service meets community standards for professional conduct."
+  - question: "What payment methods do you accept in Pembroke Pines?"
+    answer: "We accept cash, all major credit cards, Venmo, and Zelle. Payment is due at time of service. We provide receipts and can coordinate with property management or HOA billing if needed for community services."
+  - question: "Are you licensed and insured for Florida?"
+    answer: "Yes, we're fully licensed and insured throughout Florida including Broward County. We comply with all local waste management regulations and work with county-approved disposal facilities."
+  - question: "What happens to my mattress after pickup?"
+    answer: "Your mattress is transported to Broward County certified recycling facilities where it gets completely dismantled. Metal springs go to scrap recycling, foam becomes carpet padding, and fabric gets processed into insulation materials. We ensure 100% of materials are recycled through our Florida partner network."
+  - question: "How do you handle family-friendly community needs?"
+    answer: "We understand Pembroke Pines' strong family orientation and suburban lifestyle. Our teams work respectfully around children's schedules, coordinate with family moving timelines, and provide the reliable, professional service that family-oriented communities expect from local businesses."
+schema:
+  "@type": "LocalBusiness"
+  name: "A Bedder World Pembroke Pines"
+  address:
+    streetAddress: "Pembroke Pines, FL"
+    addressLocality: "Pembroke Pines"
+    addressRegion: "FL"
+    postalCode: "33028"
+    addressCountry: "US"
+  geo:
+    latitude: 26.0073
+    longitude: -80.2962
+  telephone: "720-263-6094"
+  priceRange: "$125-$240"
+  serviceArea: "Pembroke Pines, Florida"
+  aggregateRating:
+    ratingValue: "4.9"
+    reviewCount: 89
+pageContent:
+  heroDescription: "A Bedder World provides professional mattress removal throughout Pembroke Pines' diverse family-oriented communities. From gated developments like Chapel Trail and Pembroke Falls to established neighborhoods in West Pines and Silver Lakes, we handle pickup, loading, and transport to certified recycling facilities with the reliability suburban families expect."
+  
+  aboutService: "Pembroke Pines represents South Florida's suburban success story, with master-planned communities and family-friendly neighborhoods requiring specialized mattress removal service. West Pines' post-Hurricane Andrew developments feature newer construction with standard access, while gated communities like Chapel Trail and Pembroke Falls require coordination with HOA security and property management protocols. Silver Lakes and Pembroke Lakes offer lakefront living with narrow community streets demanding careful navigation. Century Village serves active seniors with specific scheduling preferences and accessibility needs. The city's diverse housing stock ranges from townhomes and condos to estate homes, each with unique pickup requirements. Our comprehensive approach works seamlessly with community guidelines while ensuring every mattress reaches Broward County certified recycling facilities for complete material recovery."
+  
+  serviceAreasIntro: "Professional mattress pickup throughout Pembroke Pines' gated communities, family neighborhoods, and senior communities. From Chapel Trail's master-planned development and Silver Lakes' waterfront homes to Century Village's active adult living and West Pines' suburban subdivisions, we coordinate with HOA requirements and understand community access protocols."
+  
+  environmentalImpact: "Broward County's comprehensive recycling programs align perfectly with Pembroke Pines' environmental stewardship values, and our certified processing network exceeds local expectations. Every mattress gets completely dismantled at county-approved facilities where metal springs become new steel products, foam transforms into carpet padding, and fabric gets processed into insulation materials. This approach supports the community's environmental consciousness and family-friendly values while eliminating landfill disposal entirely. Our service complements Pembroke Pines' commitment to sustainable suburban living and responsible waste management."
+  
+  howItWorksScheduling: "Next-day pickup available throughout Pembroke Pines with flexible scheduling around family routines, community events, and HOA guidelines. We coordinate timing with gated community security, work around school schedules, accommodate senior community preferences, and respect neighborhood quiet hours."
+  
+  howItWorksService: "Our team understands Pembroke Pines' suburban family dynamics, navigating gated community protocols, coordinating with HOA requirements, working respectfully around children and seniors, and providing the professional service that family-oriented communities expect from local businesses."
+  
+  howItWorksDisposal: "All Pembroke Pines mattresses are transported to Broward County certified recycling facilities for complete material recovery, supporting the community's environmental stewardship and suburban sustainability values through our network of approved Florida partners."
+  
+  sidebarStats:
+    mattressesRemoved: "1,247"
+---

@@ -1,0 +1,166 @@
+---
+layout: location.njk
+
+description: Professional mattress removal in Marietta, Georgia. Next-day pickup  Licensed, insured, and eco-friendly disposal. Serving historic districts and East Cobb communities.
+permalink: /mattress-removal/georgia/atlanta/marietta/
+city: Marietta
+state: Georgia
+stateSlug: georgia
+parentMetro: "Atlanta"
+tier: 3
+coordinates:
+  lat: 33.9526
+  lng: -84.5499
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: Northwest Marietta Historic District
+    zipCodes: ["30060"]
+  - name: Downtown Marietta Square
+    zipCodes: ["30060"]
+  - name: Whitlock Avenue Historic District
+    zipCodes: ["30060"]
+  - name: Somerset Subdivision
+    zipCodes: ["30062"]
+  - name: Highland Pointe
+    zipCodes: ["30062"]
+  - name: Powers Ferry Area
+    zipCodes: ["30067"]
+  - name: Westbury Park
+    zipCodes: ["30066"]
+  - name: Indian Hills Country Club Area
+    zipCodes: ["30067"]
+  - name: Covered Bridge Subdivision
+    zipCodes: ["30067"]
+  - name: Forest Hills Historic District
+    zipCodes: ["30060"]
+  - name: East Cobb
+    zipCodes: ["30062", "30066", "30067", "30068"]
+  - name: Fair Oaks Area
+    zipCodes: ["30064"]
+  - name: Powder Springs Road Corridor
+    zipCodes: ["30064"]
+  - name: Johnson Ferry Road Corridor
+    zipCodes: ["30062"]
+  - name: Sope Creek District
+    zipCodes: ["30067"]
+  - name: Kennesaw Avenue Historic District
+    zipCodes: ["30060"]
+zipCodes:
+  - "30060"
+  - "30062"
+  - "30064"
+  - "30066"
+  - "30067"
+  - "30068"
+recyclingPartners:
+  - "City of Marietta Sanitation Division"
+  - "GFL Environmental Cobb County"
+  - "West Cobb Sanitation"
+  - "Cobb County Transfer Station"
+localRegulations: "We handle all Marietta mattress disposal requirements working with the City of Marietta Sanitation Division and Cobb County Transfer Station protocols. Our service includes pickup, proper loading, and transport to approved recycling facilities. We coordinate with GFL Environmental and county-approved disposal systems to ensure compliance with all Cobb County guidelines for mattress disposal throughout Marietta's historic districts and East Cobb communities."
+nearbyCities:
+  - name: Atlanta
+    distance: "21 miles"
+    slug: "atlanta"
+    isSuburb: false
+  - name: Alpharetta
+    distance: "19 miles"
+    slug: "alpharetta"
+    isSuburb: true
+  - name: Brookhaven
+    distance: "21 miles"
+    slug: "brookhaven"
+    isSuburb: true
+  - name: Sandy Springs
+    distance: "15 miles"
+    slug: "sandy-springs"
+    isSuburb: true
+  - name: Smyrna
+    distance: "8 miles"
+    slug: "smyrna"
+    isSuburb: true
+reviews:
+  count: 156
+  featured:
+    - author: "Tyler M."
+      neighborhood: "Downtown Square"
+      rating: 5
+      text: "Been living in one of those old Victorian houses near the square for three years now. These guys knew exactly how to get our mattress down those narrow stairs without banging up the original hardwood. Real pros who get the whole historic home thing."
+    - author: "Jessica R."
+      neighborhood: "Highland Pointe"
+      rating: 5
+      text: "Just moved to our new place in Highland Pointe and needed the old mattresses gone before the movers delivered our bedroom set. Super easy to book online and they showed up right when they said they would. Worth every penny to not deal with the hassle ourselves."
+    - author: "Mike D."
+      neighborhood: "East Cobb"
+      rating: 5
+      text: "My wife found these folks online after we couldn't figure out how to get rid of our king mattress through regular trash pickup. They came out the next day, handled everything professionally, and charged exactly what they quoted. No surprises, just solid service."
+    - author: "Amanda K."
+      neighborhood: "Powers Ferry"
+      rating: 4
+      text: "Living in one of the golf course communities means everything has to look perfect. These guys were respectful of our landscaping and didn't leave any mess behind. Quick, clean job that kept the HOA happy."
+    - author: "Carlos P."
+      neighborhood: "Fair Oaks"
+      rating: 5
+      text: "Honestly didn't know this kind of service existed until my neighbor recommended them. Called on Tuesday, they came Thursday morning, and boom - mattress gone. Way easier than trying to haul it to the dump myself. Definitely calling them again when we replace the guest room bed."
+    - author: "Rachel W."
+      neighborhood: "Somerset"
+      rating: 5
+      text: "Our teenage daughter finally got a new mattress and we needed the twin gone ASAP. These folks fit us in same week and were super accommodating about our timing. Professional crew that made the whole thing stress-free."
+faqs:
+  - question: "How quickly can you pick up mattresses in Marietta?"
+    answer: "We offer next-day service throughout Marietta including historic downtown districts, East Cobb neighborhoods like Highland Pointe and Somerset, and all areas from Powers Ferry to Fair Oaks. Book online or call (720) 263-6094 before 2 PM and we'll typically schedule pickup for the next business day."
+  - question: "What's included in your Marietta mattress removal fee?"
+    answer: "Our $125 base price covers one mattress pickup, loading, transport, and eco-friendly disposal. Box springs add $30 each. We handle historic home navigation, East Cobb subdivision access, and all Marietta ZIP codes without extra charges. Payment is due at time of service."
+  - question: "Do you service historic homes near the Square?"
+    answer: "Absolutely. We regularly service Marietta's historic districts including downtown Square area, Whitlock Avenue, and Forest Hills. Our team understands the challenges of Victorian-era homes with narrow stairs, original hardwood floors, and period architecture that requires careful handling."
+  - question: "Can you navigate East Cobb neighborhoods and gated communities?"
+    answer: "Yes, we serve all East Cobb areas including Highland Pointe, Somerset, Powers Ferry, and Indian Hills Country Club neighborhoods. Our team knows the area well and coordinates with any community access requirements while maintaining professional standards."
+  - question: "How does your service work with Cobb County waste management?"
+    answer: "We work directly with approved Cobb County disposal facilities and understand local regulations. Unlike municipal pickup that requires special arrangements, we handle everything including coordination with the City of Marietta Sanitation Division protocols when needed."
+  - question: "What payment methods do you accept in Marietta?"
+    answer: "We accept cash, all major credit cards, Venmo, and Zelle. Payment is collected at time of service. We provide receipts and can coordinate with property management for East Cobb communities if needed."
+  - question: "Are you licensed for mattress disposal in Cobb County?"
+    answer: "Yes, we're fully licensed and insured for waste removal throughout Cobb County and Georgia. We comply with all local disposal regulations and work with GFL Environmental and other county-approved recycling facilities for proper disposal."
+  - question: "What happens to my mattress after pickup in Marietta?"
+    answer: "Your mattress goes to Cobb County approved recycling facilities where it's completely dismantled. Metal springs become new steel products, foam gets processed into carpet padding, and fabric becomes insulation materials. We ensure proper disposal through county-approved waste management systems."
+schema:
+  "@type": "LocalBusiness"
+  name: "A Bedder World Marietta"
+  address:
+    streetAddress: "Marietta, GA"
+    addressLocality: "Marietta"
+    addressRegion: "GA"
+    postalCode: "30060"
+    addressCountry: "US"
+  geo:
+    latitude: 33.9526
+    longitude: -84.5499
+  telephone: "720-263-6094"
+  priceRange: "$125-$240"
+  serviceArea: "Marietta, Georgia"
+  aggregateRating:
+    ratingValue: "4.8"
+    reviewCount: 156
+pageContent:
+  heroDescription: "A Bedder World provides professional mattress removal throughout Marietta's unique blend of historic charm and modern suburban living. From Victorian homes near the downtown Square to family neighborhoods in East Cobb like Highland Pointe and Somerset, we handle pickup, loading, and transport to certified recycling facilities with next-day service and transparent pricing."
+  
+  aboutService: "Our mattress removal service is specifically designed for Marietta's distinctive housing landscape and community character. We navigate historic districts with careful attention to Victorian-era architecture and original features, coordinate with East Cobb subdivision protocols in areas like Powers Ferry and Highland Pointe, and efficiently serve everything from downtown Square area apartments to luxury golf course communities. Whether you're in a restored historic home, established East Cobb neighborhood, or modern development, our experienced team handles Cobb County's specific disposal requirements while ensuring every mattress reaches GFL Environmental and other county-approved recycling facilities through proper waste management protocols."
+  
+  serviceAreasIntro: "Professional mattress pickup throughout Marietta's diverse communities, from historic downtown districts near the Square to established East Cobb neighborhoods like Somerset and Highland Pointe. We understand both historic preservation considerations and modern suburban logistics for seamless service delivery across all areas."
+  
+  environmentalImpact: "We transport all Marietta mattresses to certified Cobb County recycling facilities where our partner network ensures complete material recovery. Every mattress we collect gets completely dismantled - metal springs become new steel products, foam transforms into carpet padding, and fabric gets processed into insulation materials. Our eco-friendly disposal process eliminates landfill waste entirely while maintaining compliance with Cobb County environmental regulations and supporting sustainable practices throughout this historic and culturally significant community."
+  
+  howItWorksScheduling: "Next-day pickup available throughout Marietta with flexible scheduling around both historic district considerations and suburban community requirements. We work around downtown Square events, coordinate with East Cobb community protocols, and provide reliable service that respects both historic preservation needs and modern neighborhood standards."
+  
+  howItWorksService: "Our professional team navigates Marietta's unique housing landscape efficiently, from historic Victorian homes requiring careful maneuvering around original features to modern East Cobb subdivisions with standard residential access, always maintaining professional standards while protecting property and following established community procedures."
+  
+  howItWorksDisposal: "We transport all Marietta mattresses to our certified Cobb County recycling partners for complete material recovery. Our responsible disposal process supports local environmental goals while ensuring compliance with county regulations through our established network of approved facilities including GFL Environmental systems."
+  
+  sidebarStats:
+    mattressesRemoved: "2,187"
+---

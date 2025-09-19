@@ -1,0 +1,601 @@
+---
+title: Professional Mattress Removal Service - 1,000+ Cities Nationwide
+description: Professional mattress removal service  Same-day pickup available in 1,000+ cities across all 50 states. Eco-friendly disposal & recycling guaranteed.
+layout: base.njk
+permalink: /mattress-removal/
+schema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Mattress Removal Service",
+    "description": "Professional mattress removal and recycling service in 1,000+ cities nationwide",
+    "provider": {
+      "@type": "Organization",
+      "name": "A Bedder World",
+      "url": "https://abedderworld.com"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "United States"
+    },
+    "priceRange": "$125-$180",
+    "serviceType": "Mattress Removal"
+  }
+---
+
+<!-- Breadcrumbs -->
+<div class="breadcrumbs">
+    <div class="container">
+        <a href="/">Home</a>
+        <span>›</span>
+        <span>Mattress Removal</span>
+    </div>
+</div>
+
+<!-- Hero Section -->
+<section class="hero hero-with-image" style="background-image: url('/images/lifestyle/mattress-pickup-team-1.png')">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title">Mattress Removal Service - Nationwide Coverage</h1>
+            <p class="hero-subtitle">Professional pickup in 1,000+ cities nationwide</p>
+            <p class="hero-description">
+                America's leading mattress removal and recycling service. We provide professional, 
+                eco-friendly mattress disposal in major cities and towns across all 50 states. 
+                Same-day service available with upfront pricing and no hidden fees.
+            </p>
+            <div class="zip-checker">
+                <h3>Check Your Service Area</h3>
+                <div class="zip-form">
+                    <input type="text" 
+                           id="zipInput" 
+                           placeholder="Enter your ZIP code" 
+                           maxlength="5" 
+                           pattern="[0-9]{5}"
+                           class="zip-input">
+                    <button type="button" 
+                            onclick="checkZipCode()" 
+                            class="btn btn-primary">
+                        Check Coverage
+                    </button>
+                </div>
+                <div id="zipResult" class="zip-result"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Quick Stats -->
+<section class="trust-bar">
+    <div class="container">
+        <div class="trust-items">
+            <div class="trust-stat">
+                <div class="trust-number">1,000+</div>
+                <div class="trust-label">Cities Served</div>
+            </div>
+            <div class="trust-stat">
+                <div class="trust-number">50</div>
+                <div class="trust-label">States</div>
+            </div>
+            <div class="trust-stat">
+                <div class="trust-number">24hr</div>
+                <div class="trust-label">Response Time</div>
+            </div>
+            <div class="trust-stat">
+                <div class="trust-number">90%</div>
+                <div class="trust-label">Materials Recycled</div>
+            </div>
+            <div class="trust-stat">
+                <div class="trust-number">4.9★</div>
+                <div class="trust-label">Average Rating</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Service Areas by State -->
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">Mattress Removal by State</h2>
+        <p class="section-description">
+            Professional mattress removal service available in all 50 states. 
+            Click on your state to view cities and schedule pickup.
+        </p>
+        
+        <div class="states-grid">
+            <div class="state-group">
+                <h3>West Coast</h3>
+                <div class="state-links">
+                    <a href="/mattress-removal/california/" class="state-link">
+                        <strong>California</strong>
+                        <span>150+ cities including LA, SF, SD</span>
+                    </a>
+                    <a href="/mattress-removal/washington/" class="state-link">
+                        <strong>Washington</strong>
+                        <span>25+ cities including Seattle, Tacoma</span>
+                    </a>
+                    <a href="/mattress-removal/oregon/" class="state-link">
+                        <strong>Oregon</strong>
+                        <span>20+ cities including Portland, Eugene</span>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="state-group">
+                <h3>Southwest</h3>
+                <div class="state-links">
+                    <a href="/mattress-removal/texas/" class="state-link">
+                        <strong>Texas</strong>
+                        <span>Major cities including Houston, Dallas, Austin</span>
+                    </a>
+                    <a href="/mattress-removal/arizona/" class="state-link">
+                        <strong>Arizona</strong>
+                        <span>35+ cities including Phoenix, Tucson</span>
+                    </a>
+                    <a href="/mattress-removal/nevada/" class="state-link">
+                        <strong>Nevada</strong>
+                        <span>15+ cities including Las Vegas, Reno</span>
+                    </a>
+                    <a href="/mattress-removal/new-mexico/" class="state-link">
+                        <strong>New Mexico</strong>
+                        <span>10+ cities including Albuquerque</span>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="state-group">
+                <h3>Southeast</h3>
+                <div class="state-links">
+                    <a href="/mattress-removal/florida/" class="state-link">
+                        <strong>Florida</strong>
+                        <span>75+ cities including Miami, Orlando, Tampa</span>
+                    </a>
+                    <a href="/mattress-removal/georgia/" class="state-link">
+                        <strong>Georgia</strong>
+                        <span>30+ cities including Atlanta, Savannah</span>
+                    </a>
+                    <a href="/mattress-removal/north-carolina/" class="state-link">
+                        <strong>North Carolina</strong>
+                        <span>40+ cities including Charlotte, Raleigh</span>
+                    </a>
+                    <a href="/mattress-removal/south-carolina/" class="state-link">
+                        <strong>South Carolina</strong>
+                        <span>20+ cities including Charleston</span>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="state-group">
+                <h3>Northeast</h3>
+                <div class="state-links">
+                    <a href="/mattress-removal/new-york/" class="state-link">
+                        <strong>New York</strong>
+                        <span>65+ cities including NYC, Buffalo, Albany</span>
+                    </a>
+                    <a href="/mattress-removal/pennsylvania/" class="state-link">
+                        <strong>Pennsylvania</strong>
+                        <span>35+ cities including Philadelphia, Pittsburgh</span>
+                    </a>
+                    <a href="/mattress-removal/massachusetts/" class="state-link">
+                        <strong>Massachusetts</strong>
+                        <span>25+ cities including Boston, Worcester</span>
+                    </a>
+                    <a href="/mattress-removal/new-jersey/" class="state-link">
+                        <strong>New Jersey</strong>
+                        <span>30+ cities including Newark, Jersey City</span>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="state-group">
+                <h3>Midwest</h3>
+                <div class="state-links">
+                    <a href="/mattress-removal/illinois/" class="state-link">
+                        <strong>Illinois</strong>
+                        <span>45+ cities including Chicago, Aurora</span>
+                    </a>
+                    <a href="/mattress-removal/ohio/" class="state-link">
+                        <strong>Ohio</strong>
+                        <span>35+ cities including Columbus, Cleveland</span>
+                    </a>
+                    <a href="/mattress-removal/michigan/" class="state-link">
+                        <strong>Michigan</strong>
+                        <span>30+ cities including Detroit, Grand Rapids</span>
+                    </a>
+                    <a href="/mattress-removal/wisconsin/" class="state-link">
+                        <strong>Wisconsin</strong>
+                        <span>20+ cities including Milwaukee, Madison</span>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="state-group">
+                <h3>All Other States</h3>
+                <div class="state-links-compact">
+                    <a href="/mattress-removal/alabama/">Alabama</a>
+                    <a href="/mattress-removal/alaska/">Alaska</a>
+                    <a href="/mattress-removal/arkansas/">Arkansas</a>
+                    <a href="/mattress-removal/colorado/">Colorado</a>
+                    <a href="/mattress-removal/connecticut/">Connecticut</a>
+                    <a href="/mattress-removal/delaware/">Delaware</a>
+                    <a href="/mattress-removal/hawaii/">Hawaii</a>
+                    <a href="/mattress-removal/idaho/">Idaho</a>
+                    <a href="/mattress-removal/indiana/">Indiana</a>
+                    <a href="/mattress-removal/iowa/">Iowa</a>
+                    <a href="/mattress-removal/kansas/">Kansas</a>
+                    <a href="/mattress-removal/kentucky/">Kentucky</a>
+                    <a href="/mattress-removal/louisiana/">Louisiana</a>
+                    <a href="/mattress-removal/maine/">Maine</a>
+                    <a href="/mattress-removal/maryland/">Maryland</a>
+                    <a href="/mattress-removal/minnesota/">Minnesota</a>
+                    <a href="/mattress-removal/mississippi/">Mississippi</a>
+                    <a href="/mattress-removal/missouri/">Missouri</a>
+                    <a href="/mattress-removal/montana/">Montana</a>
+                    <a href="/mattress-removal/nebraska/">Nebraska</a>
+                    <a href="/mattress-removal/new-hampshire/">New Hampshire</a>
+                    <a href="/mattress-removal/north-dakota/">North Dakota</a>
+                    <a href="/mattress-removal/oklahoma/">Oklahoma</a>
+                    <a href="/mattress-removal/rhode-island/">Rhode Island</a>
+                    <a href="/mattress-removal/south-dakota/">South Dakota</a>
+                    <a href="/mattress-removal/tennessee/">Tennessee</a>
+                    <a href="/mattress-removal/utah/">Utah</a>
+                    <a href="/mattress-removal/vermont/">Vermont</a>
+                    <a href="/mattress-removal/virginia/">Virginia</a>
+                    <a href="/mattress-removal/washington-dc/">Washington DC</a>
+                    <a href="/mattress-removal/west-virginia/">West Virginia</a>
+                    <a href="/mattress-removal/wyoming/">Wyoming</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Top Cities -->
+<section class="section" style="background-color: var(--gray-50);">
+    <div class="container">
+        <h2 class="section-title">Popular Cities for Mattress Removal</h2>
+        <p class="section-description">
+            Most requested cities for professional mattress removal service
+        </p>
+        
+        <div class="top-cities-grid">
+            <a href="/mattress-removal/california/los-angeles/" class="city-card">
+                <div class="city-name">Los Angeles, CA</div>
+                
+                <div class="city-stats">★★★★★ 4.9 • 500+ reviews</div>
+            </a>
+            
+            <a href="/mattress-removal/texas/houston/" class="city-card">
+                <div class="city-name">Houston, TX</div>
+                
+                <div class="city-stats">★★★★★ 4.9 • 400+ reviews</div>
+            </a>
+            
+            <a href="/mattress-removal/new-york/new-york-city/" class="city-card">
+                <div class="city-name">New York, NY</div>
+                
+                <div class="city-stats">★★★★★ 4.9 • 800+ reviews</div>
+            </a>
+            
+            <a href="/mattress-removal/illinois/chicago/" class="city-card">
+                <div class="city-name">Chicago, IL</div>
+                
+                <div class="city-stats">★★★★★ 4.9 • 350+ reviews</div>
+            </a>
+            
+            <a href="/mattress-removal/arizona/phoenix/" class="city-card">
+                <div class="city-name">Phoenix, AZ</div>
+                
+                <div class="city-stats">★★★★★ 4.9 • 300+ reviews</div>
+            </a>
+            
+            <a href="/mattress-removal/california/san-francisco/" class="city-card">
+                <div class="city-name">San Francisco, CA</div>
+                
+                <div class="city-stats">★★★★★ 4.9 • 275+ reviews</div>
+            </a>
+            
+            <a href="/mattress-removal/florida/miami/" class="city-card">
+                <div class="city-name">Miami, FL</div>
+                
+                <div class="city-stats">★★★★★ 4.9 • 250+ reviews</div>
+            </a>
+            
+            <a href="/mattress-removal/texas/dallas/" class="city-card">
+                <div class="city-name">Dallas, TX</div>
+                
+                <div class="city-stats">★★★★★ 4.9 • 320+ reviews</div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Why Choose Us -->
+<section class="section">
+    <div class="container">
+        <h2 class="section-title">Why Choose A Bedder World?</h2>
+        <div class="services-grid">
+            <div class="service-card">
+                <h3>Transparent Pricing</h3>
+                <p>Starting at ${{ pricing.startingPrice }} with no hidden fees. What you see is what you pay - no surprises on pickup day.</p>
+            </div>
+            <div class="service-card">
+                <h3>Eco-Friendly Disposal</h3>
+                <p>90% of mattress materials are recycled at certified facilities. We keep mattresses out of landfills.</p>
+            </div>
+            <div class="service-card">
+                <h3>Licensed & Insured</h3>
+                <p>Fully licensed and insured team. Your property is protected and our service meets all regulations.</p>
+            </div>
+            <div class="service-card">
+                <h3>Same-Day Service</h3>
+                <p>Need immediate pickup? We offer same-day service in most areas with online booking confirmation.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Final CTA -->
+<section class="section" style="background-color: var(--primary-green); color: white;">
+    <div class="container">
+        <div style="text-align: center;">
+            <h2 style="color: white; margin-bottom: 16px;">Ready to Schedule Your Mattress Removal?</h2>
+            <p style="color: rgba(255,255,255,0.9); font-size: 1.125rem; margin-bottom: 32px;">
+                Professional service with same-day pickup available in most areas.
+            </p>
+            <div class="hero-actions">
+                <a href="#" class="btn btn-white btn-xl" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">
+                    Book Online Now →
+                </a>
+                <a href="tel:7202636094" class="btn" style="background: rgba(255,255,255,0.2); color: white; border-color: rgba(255,255,255,0.3);">
+                    Call (720) 263-6094
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+.states-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
+    margin-top: 48px;
+}
+
+.state-group h3 {
+    color: var(--gray-800);
+    margin-bottom: 20px;
+    font-size: 1.25rem;
+}
+
+.state-links {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.state-link {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    background: var(--white);
+    border: 2px solid var(--gray-200);
+    border-radius: var(--border-radius);
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.state-link:hover {
+    border-color: var(--primary-green);
+    transform: translateX(4px);
+    box-shadow: var(--shadow-md);
+}
+
+.state-link strong {
+    color: var(--gray-900);
+    font-size: 1rem;
+    margin-bottom: 4px;
+}
+
+.state-link span {
+    color: var(--gray-600);
+    font-size: 14px;
+}
+
+.state-links-compact {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 8px;
+}
+
+.state-links-compact a {
+    padding: 12px;
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    border-radius: var(--border-radius);
+    text-decoration: none;
+    color: var(--gray-700);
+    font-weight: 500;
+    text-align: center;
+    transition: var(--transition);
+    font-size: 14px;
+}
+
+.state-links-compact a:hover {
+    border-color: var(--primary-green);
+    background: var(--primary-green);
+    color: white;
+}
+
+.top-cities-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.city-card {
+    background: var(--white);
+    padding: 24px;
+    border-radius: var(--border-radius-lg);
+    border: 2px solid var(--gray-200);
+    text-decoration: none;
+    transition: var(--transition);
+    display: block;
+}
+
+.city-card:hover {
+    border-color: var(--primary-green);
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+}
+
+.city-name {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--gray-900);
+    margin-bottom: 8px;
+}
+
+.city-price {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: var(--primary-green);
+    margin-bottom: 8px;
+}
+
+.city-stats {
+    font-size: 14px;
+    color: var(--gray-600);
+}
+
+@media (max-width: 768px) {
+    .states-grid {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+    
+    .state-links-compact {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Zip Code Checker */
+.zip-checker {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 2rem;
+    border-radius: 12px;
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.zip-checker h3 {
+    color: white;
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.zip-form {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+.zip-input {
+    padding: 12px 16px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.9);
+    font-size: 1rem;
+    width: 200px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.zip-input:focus {
+    outline: none;
+    border-color: var(--primary-green);
+    background: white;
+    box-shadow: 0 0 0 3px rgba(166, 206, 57, 0.2);
+}
+
+.zip-result {
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.zip-result.success {
+    background: rgba(34, 197, 94, 0.2);
+    border: 1px solid rgba(34, 197, 94, 0.4);
+    color: #22c55e;
+}
+
+.zip-result.error {
+    background: rgba(239, 68, 68, 0.2);
+    border: 1px solid rgba(239, 68, 68, 0.4);
+    color: #ef4444;
+}
+
+@media (max-width: 768px) {
+    .zip-form {
+        flex-direction: column;
+        gap: 16px;
+    }
+    
+    .zip-input {
+        width: 100%;
+        max-width: 250px;
+    }
+}
+</style>
+
+<script>
+function checkZipCode() {
+    const zipInput = document.getElementById('zipInput');
+    const zipResult = document.getElementById('zipResult');
+    const zipCode = zipInput.value.trim();
+    
+    // Basic ZIP code validation
+    const zipRegex = /^\d{5}$/;
+    
+    if (!zipCode) {
+        showZipResult('Please enter a ZIP code', 'error');
+        return;
+    }
+    
+    if (!zipRegex.test(zipCode)) {
+        showZipResult('Please enter a valid 5-digit ZIP code', 'error');
+        return;
+    }
+    
+    // Since we accept all US ZIP codes, show success
+    showZipResult(
+        `Great news! We service ${zipCode}. ` +
+        `<br><br><button class="btn btn-primary" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">Book Online Now →</button>`,
+        'success'
+    );
+}
+
+function showZipResult(message, type) {
+    const zipResult = document.getElementById('zipResult');
+    zipResult.innerHTML = message;
+    zipResult.className = `zip-result ${type}`;
+    zipResult.style.display = 'block';
+}
+
+// Allow Enter key to trigger check
+document.getElementById('zipInput').addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+        checkZipCode();
+    }
+});
+</script>

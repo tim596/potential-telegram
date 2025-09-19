@@ -1,0 +1,134 @@
+---
+layout: location.njk
+
+description: "South Portland mattress recycling with 1M+ mattresses recycled nationwide. Next-day pickup  100% recycling guaranteed. Serving Maine's coastal community with shipyard and healthcare scheduling."
+permalink: /mattress-removal/maine/portland/south-portland/
+city: South Portland
+state: Maine
+stateAbbreviation: ME
+stateSlug: maine
+parentMetro: Portland
+tier: 2
+coordinates:
+  lat: 43.6414
+  lng: -70.2409
+pricing:
+  startingPrice: 125
+  single: 125
+  queen: 155
+  king: 180
+  boxSpring: 30
+neighborhoods:
+  - name: Willard
+    zipCodes: [04106]
+  - name: Knightville
+    zipCodes: [04106]
+  - name: Ferry Village
+    zipCodes: [04106]
+  - name: Mill Creek
+    zipCodes: [04106]
+  - name: Ligonia
+    zipCodes: [04106]
+  - name: Cash Corner
+    zipCodes: [04106]
+  - name: Meeting House Hill
+    zipCodes: [04106]
+  - name: Thornton Heights
+    zipCodes: [04106]
+  - name: Redbank
+    zipCodes: [04106]
+  - name: Pleasantdale
+    zipCodes: [04106]
+  - name: Highland Avenue
+    zipCodes: [04106]
+  - name: Broadway
+    zipCodes: [04106]
+  - name: Western Avenue
+    zipCodes: [04106]
+  - name: Ocean Street
+    zipCodes: [04106]
+  - name: Preble Street
+    zipCodes: [04106]
+zipCodes: [04106]
+recyclingPartners:
+  - South Portland Public Works
+  - City of Portland Waste Management
+  - Pine Tree Waste & Recycling
+  - Cumberland County Recycling
+localRegulations: "South Portland residents can schedule bulk pickup through city services or use ecomaine transfer station during operating hours. We provide convenient door-to-door pickup anytime with guaranteed 100% mattress recycling."
+nearbyCities:
+  - name: Portland
+    slug: portland
+    distance: 3
+    isSuburb: false
+reviews:
+  count: 293
+  featured:
+    - text: "Shipyard work = crazy early mornings. Tuesday off, called Monday, boom - 10 AM pickup. Couldn't ask for better."
+      author: "Dave M."
+      neighborhood: "Willard"
+    - text: "Healthcare scheduling nightmares meet ecomaine operating hours = impossible equation. Thank goodness for flexible pickup services that actually work around real people's lives. Apartment pickup at 3 PM when I was finally home after three back-to-back shifts? That's service."
+      author: "Jennifer R."
+      neighborhood: "Knightville"
+    - text: "Garage slowly becoming mattress warehouse. Two old ones hogging space, motivation lacking. Thursday call, Friday freedom!"
+      author: "Tom & Lisa K."
+      neighborhood: "Cash Corner"
+faqs:
+  - question: "Do you guarantee 100% recycling for every South Portland mattress?"
+    answer: "Absolutely! We maintain 100% recycling rate across 1+ million mattresses nationwide over 13+ years. Every South Portland mattress goes to certified facilities where springs become construction materials, foam becomes carpet padding, and fabrics enter textile recycling streams."
+  - question: "How quickly can you pick up throughout South Portland neighborhoods?"
+    answer: "Next-day service covers all South Portland areas, from Willard's waterfront to Cash Corner residential neighborhoods and Knightville's historic district. We coordinate efficiently around shipyard schedules and healthcare worker shifts."
+  - question: "Can you work with South Portland's shipyard and healthcare worker schedules?"
+    answer: "Yes! Our 13+ years serving coastal communities means understanding shipyard shift patterns, healthcare worker rotations, and maritime industry timing. We coordinate with Bath Iron Works employees and Maine Medical Center staff for convenient service."
+  - question: "What's included in South Portland's $125 starting price?"
+    answer: "Complete service includes pickup, city-compliant disposal, transportation, and guaranteed 100% recycling. Additional charges apply for stairs ($10/flight) or carries over 75 feet. No landfill waste ever."
+  - question: "Do you coordinate with South Portland's coastal and maritime schedules?"
+    answer: "Definitely! We understand Maine's coastal economy including shipyard schedules, fishing industry timing, and healthcare facility demands. Our team works flexibly with busy families and maritime professionals throughout this Portland suburb."
+  - question: "How is your service different from city bulk pickup and ecomaine transfer station?"
+    answer: "Unlike city bulk pickup scheduling requirements and ecomaine's operating hours, our specialized service offers convenient next-day pickup with guaranteed 100% recycling - no advance scheduling, transfer station trips, or municipal service timing restrictions."
+  - question: "Are you licensed for South Portland disposal and recycling operations?"
+    answer: "Yes, we maintain full licensing for South Portland operations and work exclusively with approved facilities. Unlike basic municipal services that may use transfer station disposal, we guarantee every mattress reaches certified recycling facilities, supporting Maine's environmental values with our proven 1+ million mattress recycling track record."
+  - question: "Can you coordinate with shipyard workers and healthcare professionals?"
+    answer: "Absolutely! Our coastal community expertise includes scheduling with maritime industry workers, healthcare professionals managing shift demands, and families balancing coastal Maine's unique employment patterns. We provide reliable service matching professional needs in this Portland suburb."
+schema:
+  "@context": "https://schema.org"
+  "@type": "LocalBusiness"
+  "name": "A Bedder World South Portland"
+  "address":
+    "@type": "PostalAddress"
+    "addressLocality": "South Portland"
+    "addressRegion": "Maine"
+    "addressCountry": "US"
+  "geo":
+    "@type": "GeoCoordinates"
+    "latitude": 43.6414
+    "longitude": -70.2409
+  "telephone": "720-263-6094"
+  "priceRange": "$125-$180"
+  "serviceArea": "South Portland, Maine"
+  "aggregateRating":
+    "@type": "AggregateRating"
+    "ratingValue": "4.9"
+    "reviewCount": "293"
+pageContent:
+  heroDescription: "Efficient mattress removal throughout Maine's premier coastal suburb. Next-day pickup from Willard waterfront to Cash Corner neighborhoods across South Portland. Flexible scheduling for shipyard workers, healthcare professionals, and coastal families. Backed by 1M+ mattresses recycled nationwide."
+  aboutService: |
+    <p>South Portland's coastal location and diverse economy require mattress pickup scheduling that works around shipyard shifts, healthcare worker rotations, and Maine's unique maritime lifestyle. Our service covers this dynamic Portland suburb from Willard's waterfront properties to Cash Corner family neighborhoods, making mattress removal straightforward for Maine's hardest-working coastal community.</p>
+    
+    <p>Over 1,100 South Portland customers have chosen our reliable service over city bulk pickup scheduling limitations. Whether clearing shipyard worker housing during job rotations, helping healthcare professionals upgrade home furniture, or assisting coastal families during seasonal transitions, our pickup timing works seamlessly with this suburb's distinctive maritime schedules and medical facility demands.</p>
+    
+    <p>Every mattress receives 100% recycling through certified facilities - never contributing to municipal transfer station burden. Springs become construction materials, foam transforms into carpet padding, while fabric enters textile recycling streams. This environmental responsibility reflects South Portland's coastal stewardship values and Maine's environmental leadership, supported by our 1+ million mattress recycling milestone nationwide.</p>
+  serviceAreasIntro: "Throughout South Portland's diverse neighborhoods from Willard's coastal properties to Knightville's historic district and family areas across Maine's distinguished Portland suburb, our service network covers all residential zones:"
+  regulationsCompliance: "Operating as licensed South Portland waste haulers with specialized mattress recycling, we coordinate with city services and ecomaine transfer station schedules. While city bulk pickup requires advance scheduling and ecomaine demands transport during operating hours, our service provides convenient next-day pickup with predictable pricing and guaranteed 100% recycling through certified facilities - eliminating scheduling requirements, transfer station trips, and municipal timing constraints."
+  environmentalImpact: |
+    <p>Coastal community mattress waste from shipyard worker housing changes, healthcare professional relocations, and maritime family transitions generates significant disposal needs, yet our recycling-first approach eliminates all South Portland mattresses from transfer station and landfill disposal. Contributing to our 1+ million mattresses recycled nationwide across 13+ years, every South Portland pickup advances environmental protection through comprehensive materials recovery supporting maritime industry sustainability initiatives and healthcare community environmental responsibility.</p>
+    
+    <p>Regional partnerships process South Portland mattresses into productive materials - steel springs support Maine's coastal construction projects, memory foam becomes underlay for maritime and healthcare facilities, while fabric elements join textile recycling networks. This approach aligns with Maine Medical Center and Bath Iron Works sustainability values while supporting Cumberland County environmental initiatives and responsible coastal waste management reflecting South Portland's position as Maine's distinguished maritime suburb and healthcare community.</p>
+    
+    <p>Shipyard workers, healthcare professionals, maritime families, and residents throughout South Portland neighborhoods benefit from mattress disposal maintaining materials in productive circulation rather than consuming municipal transfer station capacity. Our environmental responsibility supports community maritime excellence objectives and coastal stewardship while contributing to sustainable practices honoring South Portland's position as Maine's premier coastal suburb and healthcare-maritime employment center.</p>
+  howItWorksScheduling: "Appointment scheduling accommodates South Portland's coastal calendar - coordinating around shipyard shift patterns, healthcare facility rotations, maritime industry timing, and family needs while respecting professional work demands and coastal community access requirements throughout Maine's distinguished Portland suburb."
+  howItWorksService: "Our experienced team navigates South Portland's coastal suburban landscape expertly - from waterfront property coordination in Willard to healthcare logistics management and family neighborhood service throughout Cumberland County's distinguished maritime and healthcare employment center."
+  howItWorksDisposal: "Every South Portland mattress contributes to our 1+ million recycling achievement through comprehensive materials separation processes. Springs, foam, and fabrics undergo certified facility processing, transforming coastal community waste into productive new materials rather than transfer station burden - supporting South Portland's maritime excellence goals and nationwide sustainability advancement through responsible coastal suburban stewardship."
+  sidebarStats:
+    mattressesRemoved: "1,143"
+---

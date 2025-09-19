@@ -1,0 +1,144 @@
+---
+title: "Disposal Talk - Complete Guide to Mattress & Furniture Disposal"
+description: "Your comprehensive resource for mattress disposal, furniture recycling, and eco-friendly removal options across the US. Expert guides for every situation."
+layout: base.njk
+permalink: /disposal-talk/
+---
+
+<section class="hero-section">
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title">Disposal Talk</h1>
+            <p class="hero-subtitle">Your complete guide to responsible mattress and furniture disposal</p>
+            <div class="hero-stats">
+                <div class="stat">
+                    <strong>{{ collections.servicePosts | length }}</strong>
+                    <span>Expert Guides</span>
+                </div>
+                <div class="stat">
+                    <strong>50+</strong>
+                    <span>Cities Covered</span>
+                </div>
+                <div class="stat">
+                    <strong>1M+</strong>
+                    <span>Items Recycled</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="disposal-content">
+    <div class="container">
+        <!-- Search/Filter Section -->
+        <div class="filter-section">
+            <div class="search-box">
+                <input type="text" id="searchPosts" placeholder="Search disposal guides..." aria-label="Search posts">
+                <button type="button" aria-label="Search">🔍</button>
+            </div>
+            <div class="filter-tabs">
+                <button class="filter-btn active" data-filter="all">All Guides</button>
+                <button class="filter-btn" data-filter="mattress">Mattress Disposal</button>
+                <button class="filter-btn" data-filter="furniture">Furniture Disposal</button>
+                <button class="filter-btn" data-filter="recycling">Recycling Info</button>
+                <button class="filter-btn" data-filter="diy">DIY Guides</button>
+            </div>
+        </div>
+
+        <!-- Posts Grid -->
+        <div class="posts-grid" id="postsGrid">
+            {% for post in collections.servicePosts %}
+            <article class="post-card" data-category="mattress">
+                <div class="post-content">
+                    <h2 class="post-title">
+                        <a href="{{ post.url }}">{{ post.data.title or "Disposal Guide" }}</a>
+                    </h2>
+
+                    {% if post.data.date %}
+                    <time class="post-date" datetime="{{ post.data.date }}">
+                        {{ post.data.date | dateFormat }}
+                    </time>
+                    {% endif %}
+
+                    <div class="post-excerpt">
+                        Professional disposal and recycling guidance.
+                    </div>
+
+                    <div class="post-meta">
+                        <span class="post-category mattress">Disposal Guide</span>
+                    </div>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+
+        <!-- Load More Button -->
+        <div class="load-more-section" style="display: none;">
+            <button class="btn btn-secondary" id="loadMoreBtn">Load More Guides</button>
+        </div>
+    </div>
+</section>
+
+<!-- Call to Action Section -->
+<section class="cta-section">
+    <div class="container">
+        <div class="cta-content">
+            <h2>Need Professional Removal Service?</h2>
+            <p>Skip the hassle and let our experts handle your mattress or furniture disposal. Licensed, insured, and eco-friendly service nationwide.</p>
+            <div class="cta-buttons">
+                <a href="#" class="btn btn-primary zenbooker-inline-button" onclick="Zenbooker.showPopupWidget('https://widget.zenbooker.com/book/1607719749466x229623059118359230?embed=true');return false;">Book Pickup Service</a>
+                <a href="/pricing/" class="btn btn-secondary">View Pricing</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script>
+// Search and filter functionality
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('searchPosts');
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    const postCards = document.querySelectorAll('.post-card');
+
+    let currentFilter = 'all';
+
+    // Search functionality
+    searchInput.addEventListener('input', function() {
+        const searchTerm = this.value.toLowerCase();
+        filterPosts(searchTerm, currentFilter);
+    });
+
+    // Filter functionality
+    filterBtns.forEach(btn => {
+        btn.addEventListener('click', function() {
+            // Update active button
+            filterBtns.forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+
+            currentFilter = this.dataset.filter;
+            const searchTerm = searchInput.value.toLowerCase();
+            filterPosts(searchTerm, currentFilter);
+        });
+    });
+
+    function filterPosts(searchTerm, category) {
+        postCards.forEach(card => {
+            const title = card.querySelector('.post-title a').textContent.toLowerCase();
+            const excerpt = card.querySelector('.post-excerpt').textContent.toLowerCase();
+            const cardCategory = card.dataset.category;
+
+            const matchesSearch = searchTerm === '' ||
+                                title.includes(searchTerm) ||
+                                excerpt.includes(searchTerm);
+            const matchesFilter = category === 'all' || cardCategory === category;
+
+            if (matchesSearch && matchesFilter) {
+                card.style.display = 'block';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+});
+</script>

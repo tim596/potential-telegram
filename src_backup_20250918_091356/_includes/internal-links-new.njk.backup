@@ -1,0 +1,352 @@
+{# Internal Links Component - Smart contextual linking based on city type and relationships #}
+
+{# Determine linking strategy based on page type #}
+{% set linkStrategy = "state" %}
+{% if parentMetro %}
+  {% set linkStrategy = "suburb" %}
+{% elif tier == 1 or tier == 2 %}
+  {% set linkStrategy = "metro" %}
+{% endif %}
+
+{# Metro -> Suburbs mapping with proximity relationships #}
+{% set metroSuburbs = {
+  "Los Angeles": {
+    "Anaheim": { "nearest": ["Garden Grove", "Fullerton", "Santa Ana"] },
+    "Costa Mesa": { "nearest": ["Irvine", "Huntington Beach", "Santa Ana"] },
+    "Downey": { "nearest": ["Inglewood", "El Monte", "Glendale"] },
+    "El Monte": { "nearest": ["Downey", "Glendale", "Pasadena"] },
+    "Fullerton": { "nearest": ["Anaheim", "Garden Grove", "Orange"] },
+    "Garden Grove": { "nearest": ["Anaheim", "Fullerton", "Santa Ana"] },
+    "Glendale": { "nearest": ["Pasadena", "El Monte", "Downey"] },
+    "Huntington Beach": { "nearest": ["Costa Mesa", "Irvine", "Long Beach"] },
+    "Inglewood": { "nearest": ["Downey", "Torrance", "El Monte"] },
+    "Irvine": { "nearest": ["Costa Mesa", "Huntington Beach", "Santa Ana"] },
+    "Lancaster": { "nearest": ["Palmdale", "Santa Clarita", "Simi Valley"] },
+    "Long Beach": { "nearest": ["Huntington Beach", "Torrance", "Costa Mesa"] },
+    "Orange": { "nearest": ["Fullerton", "Garden Grove", "Santa Ana"] },
+    "Palmdale": { "nearest": ["Lancaster", "Santa Clarita", "Simi Valley"] },
+    "Pasadena": { "nearest": ["Glendale", "El Monte", "Pomona"] },
+    "Pomona": { "nearest": ["Pasadena", "El Monte", "Orange"] },
+    "Santa Ana": { "nearest": ["Garden Grove", "Irvine", "Costa Mesa"] },
+    "Santa Clarita": { "nearest": ["Simi Valley", "Lancaster", "Palmdale"] },
+    "Simi Valley": { "nearest": ["Santa Clarita", "Thousand Oaks", "Lancaster"] },
+    "Thousand Oaks": { "nearest": ["Simi Valley", "Santa Clarita", "Torrance"] },
+    "Torrance": { "nearest": ["Long Beach", "Inglewood", "Huntington Beach"] }
+  },
+  "Dallas": {
+    "Allen": { "nearest": ["Plano", "McKinney", "Frisco"] },
+    "Arlington": { "nearest": ["Grand Prairie", "Irving", "Fort Worth"] },
+    "Carrollton": { "nearest": ["Lewisville", "Irving", "Richardson"] },
+    "Flower Mound": { "nearest": ["Lewisville", "Frisco", "Carrollton"] },
+    "Fort Worth": { "nearest": ["Arlington", "Grand Prairie", "North Richland Hills"] },
+    "Frisco": { "nearest": ["Allen", "McKinney", "Plano"] },
+    "Garland": { "nearest": ["Richardson", "Irving", "Plano"] },
+    "Grand Prairie": { "nearest": ["Arlington", "Irving", "Fort Worth"] },
+    "Irving": { "nearest": ["Carrollton", "Arlington", "Grand Prairie"] },
+    "Lewisville": { "nearest": ["Carrollton", "Flower Mound", "Frisco"] },
+    "Mansfield": { "nearest": ["Arlington", "Grand Prairie", "North Richland Hills"] },
+    "McKinney": { "nearest": ["Allen", "Frisco", "Plano"] },
+    "North Richland Hills": { "nearest": ["Fort Worth", "Arlington", "Mansfield"] },
+    "Plano": { "nearest": ["Allen", "Richardson", "McKinney"] },
+    "Richardson": { "nearest": ["Plano", "Garland", "Carrollton"] }
+  },
+  "Houston": {
+    "Conroe": { "nearest": ["League City", "Sugar Land", "Pearland"] },
+    "League City": { "nearest": ["Pearland", "Pasadena", "Conroe"] },
+    "Missouri City": { "nearest": ["Sugar Land", "Pearland", "Pasadena"] },
+    "Pasadena": { "nearest": ["League City", "Pearland", "Missouri City"] },
+    "Pearland": { "nearest": ["Sugar Land", "League City", "Missouri City"] },
+    "Sugar Land": { "nearest": ["Missouri City", "Pearland", "Conroe"] }
+  },
+  "Austin": {
+    "Cedar Park": { "nearest": ["Round Rock", "Georgetown", "Leander"] },
+    "Georgetown": { "nearest": ["Round Rock", "Cedar Park", "Pflugerville"] },
+    "Leander": { "nearest": ["Cedar Park", "Round Rock", "Georgetown"] },
+    "Pflugerville": { "nearest": ["Round Rock", "Georgetown", "Cedar Park"] },
+    "Round Rock": { "nearest": ["Georgetown", "Cedar Park", "Pflugerville"] }
+  },
+  "San Antonio": {
+    "New Braunfels": { "nearest": ["Schertz", "Seguin", "Boerne"] },
+    "Schertz": { "nearest": ["New Braunfels", "Seguin", "Universal City"] },
+    "Seguin": { "nearest": ["New Braunfels", "Schertz", "San Marcos"] }
+  },
+  "Phoenix": {
+    "Chandler": { "nearest": ["Gilbert", "Mesa", "Tempe"] },
+    "Gilbert": { "nearest": ["Chandler", "Mesa", "Scottsdale"] },
+    "Glendale": { "nearest": ["Peoria", "Surprise", "Scottsdale"] },
+    "Mesa": { "nearest": ["Chandler", "Gilbert", "Tempe"] },
+    "Peoria": { "nearest": ["Glendale", "Surprise", "Scottsdale"] },
+    "Scottsdale": { "nearest": ["Tempe", "Gilbert", "Paradise Valley"] },
+    "Surprise": { "nearest": ["Peoria", "Glendale", "Sun City"] },
+    "Tempe": { "nearest": ["Mesa", "Chandler", "Scottsdale"] }
+  },
+  "San Francisco": {
+    "Alameda": { "nearest": ["Oakland", "Berkeley", "San Mateo"] },
+    "Berkeley": { "nearest": ["Oakland", "Alameda", "Richmond"] },
+    "Concord": { "nearest": ["Walnut Creek", "Richmond", "Fremont"] },
+    "Daly City": { "nearest": ["San Mateo", "Fremont", "Mountain View"] },
+    "Fremont": { "nearest": ["Hayward", "Daly City", "San Mateo"] },
+    "Hayward": { "nearest": ["Fremont", "San Mateo", "Oakland"] },
+    "Mountain View": { "nearest": ["Palo Alto", "Sunnyvale", "San Jose"] },
+    "Oakland": { "nearest": ["Berkeley", "Alameda", "Hayward"] },
+    "Palo Alto": { "nearest": ["Mountain View", "San Jose", "Sunnyvale"] },
+    "Richmond": { "nearest": ["Berkeley", "Vallejo", "Concord"] },
+    "San Jose": { "nearest": ["Santa Clara", "Sunnyvale", "Mountain View"] },
+    "San Mateo": { "nearest": ["Daly City", "Hayward", "Fremont"] },
+    "Santa Clara": { "nearest": ["San Jose", "Sunnyvale", "Mountain View"] },
+    "Sunnyvale": { "nearest": ["Santa Clara", "Mountain View", "San Jose"] },
+    "Vallejo": { "nearest": ["Richmond", "Berkeley", "Concord"] },
+    "Walnut Creek": { "nearest": ["Concord", "Richmond", "Oakland"] }
+  },
+  "San Diego": {
+    "Alpine": { "nearest": ["El Cajon", "La Mesa", "Santee"] },
+    "Bonita": { "nearest": ["Chula Vista", "National City", "Imperial Beach"] },
+    "Cardiff": { "nearest": ["Del Mar", "Oceanside", "Carlsbad"] },
+    "Carlsbad": { "nearest": ["Oceanside", "Vista", "San Marcos"] },
+    "Chula Vista": { "nearest": ["Bonita", "National City", "Imperial Beach"] },
+    "Del Mar": { "nearest": ["Cardiff", "La Jolla", "Oceanside"] },
+    "El Cajon": { "nearest": ["La Mesa", "Santee", "Alpine"] },
+    "Escondido": { "nearest": ["San Marcos", "Vista", "Poway"] },
+    "Imperial Beach": { "nearest": ["Chula Vista", "Bonita", "National City"] },
+    "Jamul": { "nearest": ["El Cajon", "Santee", "La Mesa"] },
+    "La Jolla": { "nearest": ["Del Mar", "Cardiff", "Poway"] },
+    "La Mesa": { "nearest": ["El Cajon", "Santee", "Lemon Grove"] },
+    "Lemon Grove": { "nearest": ["La Mesa", "National City", "El Cajon"] },
+    "National City": { "nearest": ["Chula Vista", "Bonita", "Lemon Grove"] },
+    "Oceanside": { "nearest": ["Carlsbad", "Vista", "Cardiff"] },
+    "Poway": { "nearest": ["Escondido", "San Marcos", "La Jolla"] },
+    "Ramona": { "nearest": ["Escondido", "Poway", "San Marcos"] },
+    "San Marcos": { "nearest": ["Escondido", "Vista", "Carlsbad"] },
+    "Santee": { "nearest": ["El Cajon", "La Mesa", "Alpine"] },
+    "Vista": { "nearest": ["Oceanside", "Carlsbad", "San Marcos"] }
+  },
+  "Sacramento": {
+    "Elk Grove": { "nearest": ["Roseville", "Folsom", "Davis"] },
+    "Roseville": { "nearest": ["Elk Grove", "Folsom", "Rocklin"] }
+  },
+  "Riverside": {
+    "Corona": { "nearest": ["Moreno Valley", "Norco", "Eastvale"] },
+    "Moreno Valley": { "nearest": ["Corona", "Perris", "Riverside"] }
+  },
+  "San Bernardino": {
+    "Fontana": { "nearest": ["Ontario", "Rancho Cucamonga", "Rialto"] },
+    "Ontario": { "nearest": ["Rancho Cucamonga", "Fontana", "Upland"] },
+    "Rancho Cucamonga": { "nearest": ["Ontario", "Fontana", "Upland"] }
+  }
+} %}
+
+{# State -> All Metros mapping #}
+{% set stateMetros = {
+  "alabama": ["Birmingham", "Huntsville", "Mobile", "Montgomery", "Auburn", "Tuscaloosa"],
+  "alaska": ["Anchorage", "Fairbanks", "Juneau"],
+  "arizona": ["Phoenix", "Tucson", "Flagstaff"],
+  "arkansas": ["Little Rock", "Fayetteville", "Fort Smith"],
+  "california": ["Los Angeles", "San Francisco", "San Diego", "Sacramento", "Bakersfield", "Fresno", "Modesto", "Oxnard", "Riverside", "Salinas", "San Bernardino", "Santa Barbara", "Santa Rosa", "Stockton", "Temecula", "Victorville", "Visalia", "Atascadero", "Big Bear Lake", "Grover Beach", "Lemoore", "London", "Mendocino", "Paso Robles", "Porterville", "Sausalito", "Tahoe City", "Tulare", "Chico", "Davis", "Santa Cruz", "Stanford"],
+  "colorado": ["Denver", "Boulder", "Colorado Springs", "Fort Collins", "Greeley", "Pueblo", "Aspen", "Summit County"],
+  "connecticut": ["Bridgeport", "Danbury", "Hartford", "New Haven", "Stamford", "Waterbury"],
+  "delaware": ["Wilmington", "Dover", "Newark"],
+  "florida": ["Miami", "Tampa", "Orlando", "Jacksonville", "Cape Coral", "Daytona Beach", "Deltona", "Fort Myers", "Gainesville", "Lakeland", "Palm Bay", "Palm Coast", "Port St. Lucie", "Santa Rosa Beach", "Tallahassee", "West Palm Beach"],
+  "georgia": ["Atlanta", "Albany", "Augusta", "Columbus", "Savannah", "Warner Robins", "Athens"],
+  "hawaii": ["Honolulu", "Big Island"],
+  "idaho": ["Boise", "Coeur d'Alene", "Idaho Falls", "Pocatello"],
+  "illinois": ["Chicago", "Bloomington", "Peoria", "Rockford", "Springfield", "Champaign"],
+  "indiana": ["Indianapolis", "Evansville", "Fort Wayne", "Gary", "Hammond", "South Bend", "Bloomington", "Lafayette"],
+  "iowa": ["Des Moines", "Cedar Rapids", "Council Bluffs", "Davenport", "Sioux City", "Waterloo", "Ames", "Iowa City"],
+  "kansas": ["Wichita", "Kansas City", "Topeka", "Lawrence", "Manhattan"],
+  "kentucky": ["Louisville", "Bowling Green", "Frankfort", "Lexington", "Owensboro"],
+  "louisiana": ["New Orleans", "Baton Rouge", "Lafayette", "Lake Charles", "Monroe", "Shreveport"],
+  "maine": ["Portland", "Augusta", "Bangor", "Lewiston"],
+  "maryland": ["Baltimore", "Annapolis", "Frederick", "Hagerstown", "Salisbury", "College Park"],
+  "massachusetts": ["Boston", "Brockton", "Fall River", "Lawrence", "Lowell", "New Bedford", "Plymouth", "Springfield", "Taunton", "Worcester"],
+  "michigan": ["Detroit", "Battle Creek", "Flint", "Grand Rapids", "Kalamazoo", "Lansing", "Saginaw", "Ann Arbor"],
+  "minnesota": ["Minneapolis", "St. Paul", "Duluth", "Rochester", "St. Cloud"],
+  "mississippi": ["Jackson", "Gulfport", "Hattiesburg", "Meridian", "Southaven", "Tupelo"],
+  "missouri": ["Kansas City", "St. Louis", "Jefferson City", "Joplin", "Springfield", "St. Joseph", "Columbia"],
+  "montana": ["Billings", "Butte", "Great Falls", "Helena", "Missoula", "Bozeman"],
+  "nebraska": ["Omaha", "Grand Island", "Lincoln"],
+  "nevada": ["Las Vegas", "Carson City", "Reno"],
+  "new-hampshire": ["Manchester", "Concord", "Nashua", "Rochester"],
+  "new-jersey": ["Jersey City", "Newark", "Camden", "Lakewood", "Paterson", "Toms River", "Trenton", "Vineland", "New Brunswick"],
+  "new-mexico": ["Albuquerque", "Farmington", "Las Cruces", "Roswell", "Santa Fe"],
+  "new-york": ["New York City", "Buffalo", "Albany", "Binghamton", "Rochester", "Syracuse", "Utica", "Ithaca"],
+  "north-carolina": ["Charlotte", "Asheville", "Durham", "Fayetteville", "Goldsboro", "Greensboro", "Hickory", "Jacksonville", "Raleigh", "Rocky Mount", "Wilmington", "Winston-Salem", "Chapel Hill"],
+  "north-dakota": ["Fargo", "Bismarck", "Minot", "Grand Forks"],
+  "ohio": ["Cincinnati", "Cleveland", "Columbus", "Akron", "Canton", "Dayton", "Findlay", "Lancaster", "Lima", "Mansfield", "Newark", "Springfield", "Toledo", "Youngstown"],
+  "oklahoma": ["Oklahoma City", "Tulsa", "Enid", "Lawton", "Norman", "Stillwater"],
+  "oregon": ["Portland", "Albany", "Bend", "Eugene", "Grants Pass", "Medford", "Salem", "Corvallis"],
+  "pennsylvania": ["Philadelphia", "Pittsburgh", "Allentown", "Altoona", "Erie", "Harrisburg", "Lancaster", "Lebanon", "Reading", "Scranton", "Wilkes-Barre", "Williamsport", "York", "State College"],
+  "rhode-island": ["Providence", "Woonsocket"],
+  "south-carolina": ["Charleston", "Anderson", "Columbia", "Florence", "Greenville", "Myrtle Beach", "Rock Hill", "Spartanburg"],
+  "south-dakota": ["Sioux Falls", "Aberdeen", "Pierre", "Rapid City", "Brookings"],
+  "tennessee": ["Memphis", "Nashville", "Chattanooga", "Clarksville", "Cleveland", "Jackson", "Johnson City", "Kingsport", "Knoxville"],
+  "texas": ["Austin", "Dallas", "Houston", "San Antonio", "El Paso", "Abilene", "Amarillo", "Beaumont", "Brownsville", "Bryan", "Corpus Christi", "Denton", "Harlingen", "Killeen", "Laredo", "Longview", "Lubbock", "Midland", "New Braunfels", "Odessa", "San Angelo", "Temple", "Tyler", "Victoria", "Waco", "Wichita Falls", "College Station"],
+  "utah": ["Salt Lake City", "Ogden", "Provo", "St. George", "Logan"],
+  "vermont": ["Burlington", "Montpelier", "Rutland"],
+  "virginia": ["Virginia Beach", "Danville", "Hampton", "Lynchburg", "Newport News", "Norfolk", "Richmond", "Roanoke", "Suffolk", "Blacksburg", "Charlottesville", "Harrisonburg"],
+  "washington-dc": ["Washington DC"],
+  "washington": ["Seattle", "Bellingham", "Kennewick", "Olympia", "Pasco", "Richland", "Spokane", "Tacoma", "Vancouver", "Yakima", "Pullman"],
+  "west-virginia": ["Charleston", "Huntington", "Parkersburg", "Wheeling", "Morgantown"],
+  "wisconsin": ["Milwaukee", "Appleton", "Eau Claire", "Green Bay", "Janesville", "Kenosha", "La Crosse", "Madison", "Oshkosh", "Racine", "Sheboygan"],
+  "wyoming": ["Casper", "Cheyenne", "Laramie"]
+} %}
+
+{# Helper macro to generate city URLs #}
+{% macro cityUrl(cityName, stateName, parentMetroName) %}
+  {% set citySlug = cityName | lower | replace(' ', '-') | replace('.', '') | replace("'", "") %}
+  {% set stateSlug = stateName | lower | replace(' ', '-') %}
+  {% if parentMetroName %}
+    {% set parentSlug = parentMetroName | lower | replace(' ', '-') | replace('.', '') | replace("'", "") %}
+    /mattress-removal/{{ stateSlug }}/{{ parentSlug }}/{{ citySlug }}/
+  {% else %}
+    /mattress-removal/{{ stateSlug }}/{{ citySlug }}/
+  {% endif %}
+{% endmacro %}
+
+{# Main component starts here #}
+<section class="internal-links-section">
+  <div class="container">
+    {% if linkStrategy == "suburb" %}
+      <h2>{{ parentMetro }} Area Locations</h2>
+      <p>Explore mattress removal services throughout the {{ parentMetro }} metropolitan area:</p>
+
+      <div class="internal-links-grid">
+        {# Link to parent metro #}
+        <a href="{{ cityUrl(parentMetro, state) }}" class="internal-link-item">
+          <div class="internal-link-title">{{ parentMetro }}</div>
+          <div class="internal-link-meta">Metro Center • Full Service Area</div>
+        </a>
+
+        {# Link to nearest sibling suburbs #}
+        {% set currentMetroSuburbs = metroSuburbs[parentMetro] %}
+        {% if currentMetroSuburbs and currentMetroSuburbs[city] %}
+          {% set nearestSiblings = currentMetroSuburbs[city].nearest %}
+          {% for sibling in nearestSiblings | slice(0, 3) %}
+            <a href="{{ cityUrl(sibling, state, parentMetro) }}" class="internal-link-item">
+              <div class="internal-link-title">{{ sibling }}</div>
+              <div class="internal-link-meta">{{ parentMetro }} Suburb • Nearby Service</div>
+            </a>
+          {% endfor %}
+        {% endif %}
+
+        {# Link to state index #}
+        <a href="/mattress-removal/{{ stateSlug }}/" class="internal-link-item">
+          <div class="internal-link-title">All {{ state }} Locations</div>
+          <div class="internal-link-meta">State Overview • Complete Service Map</div>
+        </a>
+      </div>
+
+    {% elif linkStrategy == "metro" %}
+      <h2>{{ state }} Metro Areas</h2>
+      <p>Professional mattress removal services throughout {{ state }}:</p>
+
+      <div class="internal-links-grid">
+        {# If this metro has suburbs, link to them #}
+        {% if metroSuburbs[city] %}
+          {% set suburbList = metroSuburbs[city] %}
+          {% for suburbName, suburbData in suburbList %}
+            <a href="{{ cityUrl(suburbName, state, city) }}" class="internal-link-item">
+              <div class="internal-link-title">{{ suburbName }}</div>
+              <div class="internal-link-meta">{{ city }} Suburb • Local Service</div>
+            </a>
+          {% endfor %}
+        {% endif %}
+
+        {# Link to other metros in the state (limit to prevent overcrowding) #}
+        {% set currentStateMetros = stateMetros[stateSlug] %}
+        {% if currentStateMetros %}
+          {% set otherMetros = currentStateMetros | filterExclude(city) %}
+
+          {% for metro in otherMetros | slice(0, 8) %}
+            <a href="{{ cityUrl(metro, state) }}" class="internal-link-item">
+              <div class="internal-link-title">{{ metro }}</div>
+              <div class="internal-link-meta">{{ state }} Metro • Regional Service</div>
+            </a>
+          {% endfor %}
+        {% endif %}
+
+        {# Link to state index #}
+        <a href="/mattress-removal/{{ stateSlug }}/" class="internal-link-item">
+          <div class="internal-link-title">All {{ state }} Locations</div>
+          <div class="internal-link-meta">State Overview • Complete Service Map</div>
+        </a>
+      </div>
+
+    {% else %}
+      {# State-level linking - link to all metros #}
+      <h2>{{ state }} Service Locations</h2>
+      <p>We provide professional mattress removal throughout {{ state }}. Select your city:</p>
+
+      <div class="internal-links-grid">
+        {% set currentStateMetros = stateMetros[stateSlug] %}
+        {% if currentStateMetros %}
+          {% for metro in currentStateMetros %}
+            <a href="{{ cityUrl(metro, state) }}" class="internal-link-item">
+              <div class="internal-link-title">{{ metro }}</div>
+              <div class="internal-link-meta">{{ state }} Metro • Full Service Available</div>
+            </a>
+          {% endfor %}
+        {% endif %}
+      </div>
+    {% endif %}
+  </div>
+</section>
+
+{# Add CSS styles that don't conflict with existing design #}
+<style>
+.internal-links-section {
+  background: var(--gray-50);
+  border-radius: var(--border-radius-lg);
+  padding: 2rem 1.5rem;
+  margin: 3rem 0;
+}
+
+.internal-links-section h2 {
+  color: var(--gray-900);
+  margin-bottom: 0.5rem;
+  font-size: 1.75rem;
+}
+
+.internal-links-section p {
+  color: var(--gray-600);
+  margin-bottom: 1.5rem;
+}
+
+.internal-links-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.internal-link-item {
+  background: white;
+  border: 1px solid var(--gray-200);
+  border-radius: var(--border-radius);
+  padding: 1rem;
+  transition: var(--transition);
+  text-decoration: none;
+  display: block;
+}
+
+.internal-link-item:hover {
+  border-color: var(--primary-green);
+  box-shadow: var(--shadow-sm);
+  text-decoration: none;
+}
+
+.internal-link-title {
+  font-weight: 600;
+  color: var(--gray-900);
+  margin-bottom: 0.25rem;
+  font-size: 1rem;
+}
+
+.internal-link-meta {
+  font-size: 0.875rem;
+  color: var(--gray-600);
+}
+
+.internal-link-item:hover .internal-link-title {
+  color: var(--primary-green);
+}
+</style>
