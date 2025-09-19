@@ -32,7 +32,7 @@ module.exports = function(eleventyConfig) {
         removeScriptTypeAttributes: true,
         removeStyleLinkTypeAttributes: true,
         minifyCSS: true,
-        minifyJS: true,
+        minifyJS: false,
         removeAttributeQuotes: true,
         collapseBooleanAttributes: true,
         conservativeCollapse: true,
