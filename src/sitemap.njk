@@ -97,30 +97,14 @@ eleventyExcludeFromCollections: true
   </url>
   {%- endfor %}
 
-  <!-- City Location Pages (Medium Priority) -->
+  <!-- All Location Pages (All Tiers) -->
   {%- for page in collections.mattressRemovalCities %}
-  {%- if page.data.tier == 1 %}
   <url>
     <loc>https://abedderworld.com{{ page.url }}</loc>
     <lastmod>{{ "now" | isoDate }}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <changefreq>{% if page.data.tier == 1 %}weekly{% else %}monthly{% endif %}</changefreq>
+    <priority>{% if page.data.tier == 1 %}0.7{% elif page.data.tier == 2 %}0.6{% else %}0.5{% endif %}</priority>
   </url>
-  {%- elif page.data.tier == 2 %}
-  <url>
-    <loc>https://abedderworld.com{{ page.url }}</loc>
-    <lastmod>{{ "now" | isoDate }}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  {%- else %}
-  <url>
-    <loc>https://abedderworld.com{{ page.url }}</loc>
-    <lastmod>{{ "now" | isoDate }}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  {%- endif %}
   {%- endfor %}
 
   <!-- Service Pages -->
