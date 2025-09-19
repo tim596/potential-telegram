@@ -16,8 +16,7 @@
 /license.txt /404.html 404
 
 # Force HTTPS and www canonicalization
-http://abedderworld.com/* https://www.abedderworld.com/:splat 301!
-https://abedderworld.com/* https://www.abedderworld.com/:splat 301!
+# Removed www redirect - let Netlify handle domain redirects automatically
 
 # Legacy URL patterns (examples - replace with actual WordPress URLs)
 # Main service pages
