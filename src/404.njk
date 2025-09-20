@@ -238,12 +238,63 @@ eleventyExcludeFromCollections: true
 </div>
 
 <script>
-// Track 404 page views for analytics
-if (typeof gtag !== 'undefined') {
-  gtag('event', 'page_view_404', {
-    'page_location': window.location.href,
-    'page_referrer': document.referrer,
-    'error_type': '404'
+// Track 404 page views for analytics and Google Sheets
+document.addEventListener('DOMContentLoaded', function() {
+  const currentUrl = window.location.href;
+  const referrer = document.referrer;
+  const timestamp = new Date().toISOString();
+  const userAgent = navigator.userAgent;
+
+  // Debug: Check if gtag is available
+  console.log('gtag available:', typeof gtag !== 'undefined');
+  console.log('Current URL:', currentUrl);
+
+  // Send to Google Analytics (existing)
+  if (typeof gtag !== 'undefined') {
+    gtag('event', 'page_view_404', {
+      'page_location': currentUrl,
+      'page_referrer': referrer,
+      'error_type': '404'
+    });
+
+    console.log('404 event sent to GA4:', {
+      'page_location': currentUrl,
+      'page_referrer': referrer,
+      'error_type': '404'
+    });
+  } else {
+    console.log('Google Analytics not loaded - 404 event not sent');
+  }
+
+  // Send to Google Sheets
+  const sheetData = {
+    timestamp: timestamp,
+    url: currentUrl,
+    referrer: referrer,
+    userAgent: userAgent,
+    errorType: '404'
+  };
+
+  // Google Apps Script Web App URL
+  const sheetWebhookUrl = 'https://script.google.com/macros/s/AKfycbw01OcOAuqde36z101lAD76c44w735YtuZphKe9e0CJy37HmCk37MhA3lAwkW_N6UPp/exec';
+
+  fetch(sheetWebhookUrl, {
+    method: 'POST',
+    mode: 'no-cors', // Required for Google Apps Script
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(sheetData)
+  }).then(() => {
+    console.log('404 data sent to Google Sheets:', sheetData);
+  }).catch(error => {
+    console.error('Failed to send to Google Sheets:', error);
+
+    // Fallback: Store locally for manual export
+    let localErrors = JSON.parse(localStorage.getItem('404-errors') || '[]');
+    localErrors.push(sheetData);
+    localStorage.setItem('404-errors', JSON.stringify(localErrors));
+    console.log('404 data stored locally as fallback');
   });
-}
+});
 </script>
