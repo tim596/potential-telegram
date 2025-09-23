@@ -109,6 +109,7 @@ faqs:
   - question: "What payment methods work in Sugar Land?"
     answer: "All major credit cards, cash, and invoicing options for residents, corporate employees, healthcare professionals, and businesses throughout Sugar Land's affluent community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Sugar Land"
   address:
