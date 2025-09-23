@@ -24,11 +24,4 @@ Allow: /js/
 Crawl-delay: 1
 
 # Specific bot configurations
-User-agent: GPTBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: CCBot
-Disallow: /
+# Removed AI bot blocks to allow recommendations by ChatGPT and other AI search tools
