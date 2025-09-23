@@ -113,6 +113,7 @@ faqs:
   - question: "What happens to mattresses after pickup in Savannah?"
     answer: "Your mattress goes to certified recycling facilities where it gets completely dismantled. Metal springs become new steel products, foam gets reprocessed into carpet padding, and fabric becomes insulation materials. We follow Georgia's coastal environmental disposal guidelines."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Savannah"
   address:

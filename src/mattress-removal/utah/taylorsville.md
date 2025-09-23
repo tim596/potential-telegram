@@ -110,6 +110,7 @@ faqs:
     answer: "All major credit cards, digital payments, and cash. We understand family budgets and provide transparent pricing that works for homeowners managing household expenses and children's activities."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Taylorsville"
   address:

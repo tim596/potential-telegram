@@ -114,6 +114,7 @@ faqs:
   - question: "How do you coordinate with Boulder's environmental programs?"
     answer: "We complement Boulder's existing recycling infrastructure like Eco-Cycle CHaRM and Western Disposal programs. Our private service offers convenient pickup while supporting the same environmental goals through our comprehensive recycling process."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Boulder"
   address:

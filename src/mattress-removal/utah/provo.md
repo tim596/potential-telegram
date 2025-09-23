@@ -113,6 +113,7 @@ faqs:
   - question: "What payment options work for students and families?"
     answer: "All major credit cards, cash, and invoicing available for BYU students, tech professionals, growing families, and local businesses throughout Provo's diverse community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Provo"
   address:

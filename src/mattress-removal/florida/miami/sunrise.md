@@ -114,6 +114,7 @@ faqs:
   - question: "How do you handle diverse community needs in Sunrise?"
     answer: "Sunrise is incredibly diverse, and our teams respect all cultural preferences and communication styles. We provide professional service that adapts to different community needs, from active adult communities to family neighborhoods, always maintaining courtesy and flexibility."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Sunrise"
   address:

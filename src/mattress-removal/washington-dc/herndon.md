@@ -93,6 +93,7 @@ faqs:
     answer: "All major credit cards, cash, and invoicing options for tech professionals, defense contractors, families, and D.C. Metro area corporate employees."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Herndon"
   address:

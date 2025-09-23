@@ -120,6 +120,7 @@ faqs:
   - question: "Do you handle mattresses from Thornton's city drop-off events?"
     answer: "We're a private service, separate from Thornton's municipal drop-off events. Unlike city events (which have 4-piece limits and require registration), we offer convenient curbside pickup with no limits on quantity or registration requirements."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Thornton"
   address:

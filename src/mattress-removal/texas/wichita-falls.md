@@ -113,6 +113,7 @@ faqs:
     answer: "All major credit cards, cash, and we understand military pay schedules, per diem allowances, and international banking needs. We work within military family budgets during expensive PCS periods."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Wichita Falls"
   address:

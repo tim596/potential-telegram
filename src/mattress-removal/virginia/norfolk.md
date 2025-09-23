@@ -126,6 +126,7 @@ faqs:
   - question: "What payment methods work for military families?"
     answer: "All major credit cards, cash, and invoicing available for military families, port workers, naval contractors, and residents throughout Norfolk's diverse Hampton Roads community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Norfolk"
   address:

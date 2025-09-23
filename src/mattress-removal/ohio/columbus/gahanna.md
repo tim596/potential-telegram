@@ -101,6 +101,7 @@ faqs:
   - question: "What payment methods do you accept in Gahanna?"
     answer: "All major credit cards, cash, and invoicing options for convenient payment."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Gahanna"
   address:

@@ -108,6 +108,7 @@ faqs:
   - question: "What payment methods work in Pearland?"
     answer: "All major credit cards, cash, and invoicing options for residents, medical professionals, master-planned community members, and businesses throughout Pearland's diverse professional community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Pearland"
   address:

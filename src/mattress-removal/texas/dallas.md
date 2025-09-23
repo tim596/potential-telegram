@@ -215,6 +215,7 @@ faqs:
   - question: "Can you coordinate with building management and HOA requirements?"
     answer: "Yes, we work directly with concierge services, building management, and HOA boards to ensure compliance with community standards, from luxury high-rises in Uptown to exclusive gated communities in Preston Hollow."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Dallas"
   address:

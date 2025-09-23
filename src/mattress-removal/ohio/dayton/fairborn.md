@@ -97,6 +97,7 @@ faqs:
   - question: "What payment methods do you accept in Fairborn?"
     answer: "All major credit cards, cash, and invoicing options for military families, aerospace contractors, and residential properties."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Fairborn"
   address:

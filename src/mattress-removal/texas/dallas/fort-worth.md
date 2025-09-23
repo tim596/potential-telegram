@@ -128,6 +128,7 @@ faqs:
   - question: "What payment methods do you accept in Fort Worth?"
     answer: "All major credit cards, cash, and invoicing options for residents, university community, medical district professionals, and cultural district workers."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Fort Worth"
   address:

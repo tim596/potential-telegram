@@ -100,6 +100,7 @@ faqs:
   - question: "What payment methods do you accept in Reynoldsburg?"
     answer: "All major credit cards, cash, and invoicing options for apartment complexes and property management companies."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Reynoldsburg"
   address:

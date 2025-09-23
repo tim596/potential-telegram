@@ -105,6 +105,7 @@ faqs:
   - question: "What payment methods work for Rutland residents?"
     answer: "All major credit cards, cash, and invoicing available for manufacturing workers, tourism professionals, retirees, and families throughout Rutland's diverse regional community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Rutland"
   address:

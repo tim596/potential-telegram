@@ -105,6 +105,7 @@ faqs:
   - question: "How do you coordinate with Louisville's recreation and community events?"
     answer: "We're familiar with Louisville's community calendar including Front Street Street Faires, summer concerts, and farmers markets. We plan routes and timing to avoid disrupting downtown events and community activities while ensuring reliable service delivery."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Louisville"
   address:

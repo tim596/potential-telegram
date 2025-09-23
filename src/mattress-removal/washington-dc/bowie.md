@@ -143,6 +143,7 @@ faqs:
   - question: "What payment methods do you accept in Bowie?"
     answer: "All major credit cards, cash, and invoicing options for federal employees, contractors, Maryland residents, and DC Metro area professionals."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Bowie"
   address:

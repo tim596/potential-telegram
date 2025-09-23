@@ -141,6 +141,7 @@ faqs:
   - question: "What payment methods do you accept in Leesburg?"
     answer: "All major credit cards, cash, and invoicing options for government employees, contractors, Virginia residents, and DC Metro area professionals and families."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Leesburg"
   address:

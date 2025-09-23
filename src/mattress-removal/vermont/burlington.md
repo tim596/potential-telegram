@@ -110,6 +110,7 @@ faqs:
   - question: "What payment options work for students and downtown residents?"
     answer: "All major credit cards, cash, and invoicing available for UVM students, Church Street professionals, South End artists, and families throughout Burlington's diverse community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Burlington"
   address:

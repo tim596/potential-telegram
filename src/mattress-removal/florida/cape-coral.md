@@ -105,6 +105,7 @@ faqs:
   - question: "Do you offer discounts for multiple mattresses?"
     answer: "Yes, we provide discounted pricing for multiple mattress pickups from the same location. Contact us at (720) 263-6094 for custom pricing on 3+ mattresses or community-wide removal services."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Cape Coral"
   address:

@@ -108,6 +108,7 @@ faqs:
   - question: "What payment methods do you accept in Kent?"
     answer: "All major credit cards, cash, and invoicing options for aerospace workers, manufacturing employees, King County families, and Green River Valley residents."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Kent"
   address:

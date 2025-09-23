@@ -100,6 +100,7 @@ faqs:
   - question: "What payment methods do you accept in Mansfield?"
     answer: "All major credit cards, cash, and invoicing options for healthcare facilities, manufacturing companies, and residential properties."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Mansfield"
   address:

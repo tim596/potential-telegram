@@ -110,6 +110,7 @@ faqs:
   - question: "How do you coordinate with Lafayette's Coal Creek Trail system?"
     answer: "We're familiar with Lafayette's extensive trail network and plan routes to avoid disrupting recreational activities along Coal Creek Regional Trail and neighborhood trail connections. We coordinate timing around peak usage and community events."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Lafayette"
   address:

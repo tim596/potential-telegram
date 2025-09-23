@@ -115,6 +115,7 @@ faqs:
     answer: "While Racine offers bulky item pickup with HBI stickers, professional service provides next-day convenience, proper handling, and guaranteed disposal without navigating municipal scheduling. We focus on recycling and donation options that better support environmental goals."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Racine"
   address:

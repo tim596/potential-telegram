@@ -134,6 +134,7 @@ faqs:
     answer: "All major credit cards, cash, corporate billing for businesses, and apartment complex billing arrangements for property management companies throughout the community."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Lewisville"
   address:

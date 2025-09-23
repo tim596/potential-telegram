@@ -114,6 +114,7 @@ faqs:
   - question: "What payment options work for students and university community?"
     answer: "All major credit cards, cash, and invoicing available for USU students, faculty, staff, and Cache Valley families throughout Logan's diverse university community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Logan"
   address:

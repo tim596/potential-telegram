@@ -110,6 +110,7 @@ faqs:
     answer: "All major credit cards, digital payments, and we understand healthcare payment schedules, medical billing cycles, and the financial planning preferences of established Murray families."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Murray"
   address:

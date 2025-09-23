@@ -91,6 +91,7 @@ faqs:
   - question: "What payment methods do you accept in Huntington?"
     answer: "All major credit cards, cash, and invoicing options for Marshall University students and faculty, Cabell County families, and Ohio River waterfront residents."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Huntington"
   address:

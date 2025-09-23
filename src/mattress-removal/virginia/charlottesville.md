@@ -114,6 +114,7 @@ faqs:
   - question: "What payment methods work for students and faculty?"
     answer: "All major credit cards, cash, and invoicing available for UVA students, faculty, staff, and residents throughout Charlottesville's diverse university community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Charlottesville"
   address:

@@ -94,6 +94,7 @@ faqs:
   - question: "What payment methods do you accept in West Fargo?"
     answer: "We accept cash, all major credit cards, and provide invoicing for agricultural businesses and manufacturing companies."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World West Fargo"
   address:

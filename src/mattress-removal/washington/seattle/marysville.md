@@ -88,6 +88,7 @@ faqs:
     answer: "All major credit cards, cash, and invoicing options for aerospace workers, commuting professionals, families, and local business employees."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Marysville"
   address:

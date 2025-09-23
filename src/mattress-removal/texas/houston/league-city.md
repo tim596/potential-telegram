@@ -108,6 +108,7 @@ faqs:
   - question: "What payment methods work in League City?"
     answer: "All major credit cards, cash, and invoicing options for residents, NASA employees, marina community members, and businesses throughout League City's diverse professional community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World League City"
   address:

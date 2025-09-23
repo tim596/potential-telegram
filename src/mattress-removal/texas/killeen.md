@@ -111,6 +111,7 @@ faqs:
     answer: "All major credit cards, cash, and we work with military family budgets. We also coordinate with moving companies and understand the reimbursement patterns common to military relocations."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Killeen"
   address:

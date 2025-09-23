@@ -100,6 +100,7 @@ faqs:
     answer: "All major credit cards, digital payments, and cash. We understand both professional salaries and retail worker payment schedules with flexible options for South Burlington's diverse workforce."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World South Burlington"
   address:

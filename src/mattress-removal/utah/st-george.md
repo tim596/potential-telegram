@@ -108,6 +108,7 @@ faqs:
   - question: "What payment methods work for retirees and property managers?"
     answer: "All major credit cards, cash, and invoicing options available for retirees, vacation rental operators, property managers, and businesses throughout St. George's diverse service-oriented community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World St. George"
   address:

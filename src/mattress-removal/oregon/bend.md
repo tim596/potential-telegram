@@ -99,6 +99,7 @@ faqs:
   - question: "What payment methods do you accept in Bend?"
     answer: "All major credit cards, cash, and invoicing options for residents, outdoor professionals, and vacation rental properties."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Bend"
   address:

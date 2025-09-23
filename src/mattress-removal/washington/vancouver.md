@@ -102,6 +102,7 @@ faqs:
   - question: "What payment methods do you accept in Vancouver?"
     answer: "All major credit cards, cash, and invoicing options for Clark County families, Portland commuters, and waterfront property residents."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Vancouver"
   address:

@@ -106,6 +106,7 @@ faqs:
   - question: "What payment methods work for students and families?"
     answer: "All major credit cards, digital payments, and cash accepted. We understand student budgets, parent payment preferences, and family coordination needs with flexible options for Blacksburg's diverse university community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Blacksburg"
   address:

@@ -96,6 +96,7 @@ faqs:
   - question: "What payment methods do you accept in Rapid City?"
     answer: "All major credit cards, cash, and invoicing options for residents, military families, tourism businesses, and local companies."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Rapid City"
   address:

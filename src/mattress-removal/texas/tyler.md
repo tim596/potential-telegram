@@ -117,6 +117,7 @@ faqs:
     answer: "All major credit cards, cash, corporate billing for healthcare systems, hospitality businesses, and educational institutions throughout the Rose Capital and broader East Texas region."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Tyler"
   address:

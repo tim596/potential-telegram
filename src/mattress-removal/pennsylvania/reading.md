@@ -99,6 +99,7 @@ faqs:
   - question: "What payment methods do you accept in Reading?"
     answer: "All major credit cards, cash, and invoicing options for residents, businesses, and contractors."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Reading"
   address:

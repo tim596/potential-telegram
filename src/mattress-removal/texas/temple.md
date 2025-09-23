@@ -119,6 +119,7 @@ faqs:
   - question: "What payment methods work in Temple?"
     answer: "All major credit cards, cash, and invoicing available for residents, medical professionals, military families, college personnel, and businesses throughout Temple's diverse healthcare economy."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Temple"
   address:

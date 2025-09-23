@@ -87,6 +87,7 @@ faqs:
     answer: "All major credit cards, cash, and invoicing options for government employees, educators, professionals, and families throughout Washington's capital city."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Olympia"
   address:

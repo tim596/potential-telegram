@@ -120,6 +120,7 @@ faqs:
   - question: "How do you handle family-friendly community needs?"
     answer: "We understand Pembroke Pines' strong family orientation and suburban lifestyle. Our teams work respectfully around children's schedules, coordinate with family moving timelines, and provide the reliable, professional service that family-oriented communities expect from local businesses."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Pembroke Pines"
   address:

@@ -107,6 +107,7 @@ faqs:
   - question: "What happens to my mattress after pickup in West Palm Beach?"
     answer: "Your mattress goes to Palm Beach County approved recycling facilities where it's completely dismantled. Metal springs become new steel products, foam gets processed into carpet padding, and fabric becomes insulation materials. We ensure proper disposal through the Solid Waste Authority's waste management system."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World West Palm Beach"
   address:

@@ -105,6 +105,7 @@ faqs:
   - question: "What payment methods do you accept in Pflugerville?"
     answer: "All major credit cards, cash, and invoicing options for residents, families, and local businesses throughout Pflugerville's growing suburban community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Pflugerville"
   address:

@@ -91,6 +91,7 @@ faqs:
     answer: "All major credit cards, cash, and invoicing options for farming families, healthcare workers, professionals, and residents throughout the Yakima Valley."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Yakima"
   address:

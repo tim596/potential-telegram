@@ -100,6 +100,7 @@ faqs:
   - question: "What payment methods do you accept in Franklin?"
     answer: "All major credit cards, cash, and invoicing options for residents, professionals, and local businesses."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Franklin"
   address:

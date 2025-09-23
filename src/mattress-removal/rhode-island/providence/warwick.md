@@ -98,6 +98,7 @@ faqs:
   - question: "What payment methods do you accept in Warwick?"
     answer: "All major credit cards, cash, and invoicing options for residents, airport businesses, and local organizations."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Warwick"
   address:

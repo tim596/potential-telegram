@@ -162,6 +162,7 @@ faqs:
   - question: "How do you handle Miami's unique business community needs?"
     answer: "We understand Miami's dynamic business environment and provide flexible service coordination. We work with corporate relocations, international moving companies, hospitality management, and building concierge services to ensure seamless mattress removal that meets professional standards and timing requirements."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Miami"
   address:

@@ -118,6 +118,7 @@ faqs:
   - question: "What payment methods work in West Jordan?"
     answer: "All major credit cards, cash, and invoicing available for residents, families, professionals, and businesses throughout West Jordan's diverse suburban community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World West Jordan"
   address:

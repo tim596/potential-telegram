@@ -91,6 +91,7 @@ faqs:
     answer: "All major credit cards, cash, corporate invoicing, and international payment options for global professionals, data center staff, government contractors, and frequent business travelers."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Sterling"
   address:

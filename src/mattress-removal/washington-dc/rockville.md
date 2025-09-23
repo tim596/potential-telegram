@@ -141,6 +141,7 @@ faqs:
   - question: "What payment methods do you accept in Rockville?"
     answer: "All major credit cards, cash, and invoicing options for federal employees, contractors, Montgomery County residents, and DC area professionals and families."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Rockville"
   address:

@@ -120,6 +120,7 @@ faqs:
   - question: "What payment methods work in Sandy?"
     answer: "All major credit cards, cash, and invoicing available for residents, retail employees, shopping center workers, families, and businesses throughout Sandy's diverse suburban community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Sandy"
   address:

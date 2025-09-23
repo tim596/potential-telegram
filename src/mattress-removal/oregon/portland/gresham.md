@@ -105,6 +105,7 @@ faqs:
   - question: "What payment methods do you accept in Gresham?"
     answer: "All major credit cards, cash, and invoicing options for families, tech professionals, and international community members."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Gresham"
   address:

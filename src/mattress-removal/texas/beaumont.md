@@ -115,6 +115,7 @@ faqs:
   - question: "What payment options work in Beaumont?"
     answer: "All major credit cards, cash, and invoicing available for residents, refinery workers, university community, and businesses throughout Beaumont's diverse industrial economy."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Beaumont"
   address:

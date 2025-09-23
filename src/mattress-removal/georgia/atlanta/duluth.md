@@ -117,6 +117,7 @@ faqs:
   - question: "What happens to my mattress after pickup in Duluth?"
     answer: "Your mattress goes to approved recycling facilities where it's completely dismantled. Metal springs become new steel products, foam gets processed into carpet padding, and fabric becomes insulation materials. We ensure proper disposal through Gwinnett County's waste management system."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Duluth"
   address:

@@ -106,6 +106,7 @@ faqs:
   - question: "What payment methods do you accept in Leander?"
     answer: "All major credit cards, cash, and invoicing options for families, new residents, and local businesses throughout the Hill Country suburb."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Leander"
   address:

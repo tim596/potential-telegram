@@ -97,6 +97,7 @@ faqs:
   - question: "What payment methods do you accept in Gastonia?"
     answer: "We accept cash and all major credit cards - much simpler than the county's GarbCard system for recycling centers."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Gastonia"
   address:

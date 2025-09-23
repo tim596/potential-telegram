@@ -97,6 +97,7 @@ faqs:
   - question: "What payment methods do you accept in Mooresville?"
     answer: "We accept cash, all major credit cards, and provide invoicing for NASCAR teams, corporate facilities, and racing-related businesses."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Mooresville"
   address:

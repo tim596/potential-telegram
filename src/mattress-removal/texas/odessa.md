@@ -115,6 +115,7 @@ faqs:
     answer: "All major credit cards, cash, corporate billing for energy companies, oilfield contractors, and accommodation providers throughout the Permian Basin energy corridor. We understand per diem and expense reimbursement patterns."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Odessa"
   address:

@@ -94,6 +94,7 @@ faqs:
   - question: "What payment methods do you accept in Kennewick?"
     answer: "All major credit cards, cash, and invoicing options for Hanford employees, wine industry workers, agricultural families, and Tri-Cities residents."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Kennewick"
   address:

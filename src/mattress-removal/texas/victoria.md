@@ -118,6 +118,7 @@ faqs:
   - question: "What payment methods work in Victoria?"
     answer: "All major credit cards, cash, and invoicing available for residents, manufacturing employees, university personnel, petrochemical workers, and businesses throughout Victoria's diverse industrial economy."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Victoria"
   address:

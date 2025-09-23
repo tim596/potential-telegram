@@ -106,6 +106,7 @@ faqs:
   - question: "What payment methods work in New Braunfels?"
     answer: "All major credit cards, cash, and invoicing available for residents, tourism industry workers, festival vendors, historic property owners, and businesses throughout New Braunfels' diverse heritage economy."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World New Braunfels"
   address:

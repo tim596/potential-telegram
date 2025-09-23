@@ -99,6 +99,7 @@ faqs:
   - question: "What payment methods do you accept in Sioux Falls?"
     answer: "All major credit cards, cash, and invoicing options for residents, healthcare workers, financial services professionals, and local businesses."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Sioux Falls"
   address:

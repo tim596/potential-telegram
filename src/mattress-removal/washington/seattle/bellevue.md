@@ -105,6 +105,7 @@ faqs:
   - question: "What payment methods do you accept in Bellevue?"
     answer: "All major credit cards, cash, and corporate invoicing options for tech companies, international professionals, King County residents, and Seattle area families and businesses."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Bellevue"
   address:

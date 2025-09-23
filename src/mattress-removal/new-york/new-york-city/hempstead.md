@@ -97,6 +97,7 @@ faqs:
   - question: "What payment methods do you accept in Hempstead?"
     answer: "We accept cash, all major credit cards, and can invoice property management companies and landlords for multiple unit pickups."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Hempstead"
   address:

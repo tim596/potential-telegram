@@ -112,6 +112,7 @@ faqs:
     answer: "All major credit cards, cash, and business invoicing for Route 66 tourism operators, ranch operations, Pantex contractors, and the diverse business community throughout the Yellow City."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Amarillo"
   address:

@@ -95,6 +95,7 @@ faqs:
   - question: "What payment methods do you accept in Collierville?"
     answer: "All major credit cards, cash, and invoicing options for residents, corporate professionals, and local businesses."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Collierville"
   address:

@@ -95,6 +95,7 @@ faqs:
     answer: "Yes, Chantilly's ongoing development creates unique access challenges. Our team coordinates with construction schedules and navigates temporary road restrictions common in growing suburban areas."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Chantilly"
   address:

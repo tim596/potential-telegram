@@ -124,6 +124,7 @@ faqs:
   - question: "What payment methods do you accept in Akron?"
     answer: "All major credit cards, cash, and invoicing options for student housing, research facilities, and industrial property management companies."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Akron"
   address:

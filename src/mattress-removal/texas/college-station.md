@@ -118,6 +118,7 @@ faqs:
   - question: "What payment methods work in College Station?"
     answer: "All major credit cards, cash, and invoicing available for residents, students, faculty, staff, and businesses throughout College Station's diverse university economy."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World College Station"
   address:

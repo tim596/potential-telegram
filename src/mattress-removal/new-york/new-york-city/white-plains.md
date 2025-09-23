@@ -98,6 +98,7 @@ faqs:
   - question: "What payment options are available for White Plains customers?"
     answer: "We accept cash, all major credit cards, and provide invoicing for property management companies and corporate clients."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World White Plains"
   address:

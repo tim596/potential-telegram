@@ -100,6 +100,7 @@ faqs:
   - question: "What payment methods do you accept in Lakewood?"
     answer: "We accept cash, all major credit cards, and provide invoicing for property management companies and condominium associations."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Lakewood"
   address:

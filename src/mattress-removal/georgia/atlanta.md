@@ -131,6 +131,7 @@ faqs:
   - question: "What happens to my mattress after pickup in Atlanta?"
     answer: "Your mattress goes to approved recycling facilities where it's completely dismantled. Metal springs become new steel products, foam gets processed into carpet padding, and fabric becomes insulation materials. We ensure proper disposal through Atlanta's waste management system and certified partners."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Atlanta"
   address:

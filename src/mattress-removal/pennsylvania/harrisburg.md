@@ -97,6 +97,7 @@ faqs:
   - question: "What payment methods do you accept in Harrisburg?"
     answer: "All major credit cards, cash, and invoicing options for residents, state employees, and government contractors."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Harrisburg"
   address:

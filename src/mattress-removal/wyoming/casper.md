@@ -107,6 +107,7 @@ faqs:
     answer: "We work with Wyoming DEQ-approved facilities and follow all state environmental standards. Our disposal methods support North Platte River watershed protection and meet the strict environmental compliance standards expected in Wyoming's energy corridor."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Casper"
   address:

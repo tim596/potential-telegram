@@ -107,6 +107,7 @@ faqs:
   - question: "What payment methods do you accept in Broken Arrow?"
     answer: "All major credit cards, cash, and invoicing options for families, tech professionals, and business relocations."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Broken Arrow"
   address:

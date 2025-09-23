@@ -96,6 +96,7 @@ faqs:
   - question: "What payment methods do you accept in Lakewood?"
     answer: "All major credit cards, cash, and invoicing options for military families, Pierce County residents, and JBLM personnel."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Lakewood"
   address:

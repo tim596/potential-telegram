@@ -118,6 +118,7 @@ faqs:
   - question: "What payment methods work in Draper?"
     answer: "All major credit cards, cash, and invoicing available for residents, tech professionals, outdoor enthusiasts, and businesses throughout Draper's diverse high-income community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Draper"
   address:

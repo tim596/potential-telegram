@@ -123,6 +123,7 @@ faqs:
   - question: "What payment methods work for government and university communities?"
     answer: "All major credit cards, digital payments, and cash accepted. We understand government pay schedules, student budgets, and professional payment timing with flexible options for Richmond's diverse community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Richmond"
   address:

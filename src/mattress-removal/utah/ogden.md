@@ -103,6 +103,7 @@ faqs:
     answer: "All major credit cards, digital payments, and cash accepted. We understand military pay schedules and university staff payment timing with flexible options for both communities."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Ogden"
   address:

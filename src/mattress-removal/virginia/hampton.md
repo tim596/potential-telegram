@@ -115,6 +115,7 @@ faqs:
   - question: "What payment methods work for military and NASA families?"
     answer: "All major credit cards, cash, and invoicing available for military families, NASA employees, Hampton University community, and residents throughout Hampton's diverse aerospace community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Hampton"
   address:

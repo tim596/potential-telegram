@@ -106,6 +106,7 @@ faqs:
   - question: "What payment methods do you accept in Redmond?"
     answer: "All major credit cards, cash, and invoicing options for tech employees, corporate housing residents, King County families, and Microsoft campus professionals."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Redmond"
   address:

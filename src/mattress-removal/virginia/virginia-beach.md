@@ -133,6 +133,7 @@ faqs:
   - question: "What payment methods work for military families and property managers?"
     answer: "All major credit cards, digital payments, cash, and invoicing available. We accommodate military pay schedules, property management billing cycles, and resort property operating budgets."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Virginia Beach"
   address:

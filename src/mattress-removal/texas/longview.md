@@ -108,6 +108,7 @@ faqs:
   - question: "What payment methods work in Longview?"
     answer: "All major credit cards, cash, and invoicing available for residents, university faculty, energy industry workers, manufacturing employees, and businesses throughout Longview's diverse industrial economy."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Longview"
   address:

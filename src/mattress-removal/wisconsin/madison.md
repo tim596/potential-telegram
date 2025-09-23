@@ -121,6 +121,7 @@ faqs:
     answer: "While Madison offers drop-off sites, they require personal transport to locations like South Point Road, and items go directly to landfill. Our service provides convenient pickup with focus on donation and recycling options that better support Madison's sustainability goals."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Madison"
   address:

@@ -106,6 +106,7 @@ faqs:
   - question: "How do you support Fort Collins' environmental initiatives?"
     answer: "We complement Fort Collins' aggressive zero waste goals by ensuring 100% material recovery through our comprehensive recycling process. Unlike local disposal options that charge fees, our service includes environmental responsibility in every pickup while supporting the city's sustainability leadership."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Fort Collins"
   address:

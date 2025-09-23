@@ -97,6 +97,7 @@ faqs:
   - question: "What payment methods do you accept in Corvallis?"
     answer: "All major credit cards, cash, and invoicing options for students, faculty, and residents."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Corvallis"
   address:

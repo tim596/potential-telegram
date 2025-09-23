@@ -144,6 +144,7 @@ faqs:
     answer: "All major credit cards, digital payments, and corporate billing arrangements. We understand family budgets, university payment systems, and the diverse economic needs throughout Salt Lake City's communities."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Salt Lake City"
   address:

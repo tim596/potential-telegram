@@ -81,6 +81,7 @@ faqs:
   - question: "How do you coordinate with government and military schedules?"
     answer: "We understand Dover's role as Delaware's state capital and home to Dover AFB. We offer flexible scheduling around Legislative sessions, military exercises, university semesters, and government work hours while maintaining efficient service for all community members."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Dover"
   address:

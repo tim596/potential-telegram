@@ -106,6 +106,7 @@ faqs:
   - question: "What payment options work in Brownsville?"
     answer: "All major credit cards, cash, and invoicing available for residents, aerospace workers, university community, port employees, and businesses throughout Brownsville's diverse border economy."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Brownsville"
   address:

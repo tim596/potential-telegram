@@ -104,6 +104,7 @@ faqs:
   - question: "How do you coordinate with university schedules and student housing?"
     answer: "We understand New Haven's academic calendar and coordinate with Yale's semester transitions. We offer flexible scheduling around finals, move-in/move-out periods, and summer break housing changes while maintaining efficient service for students, faculty, and residents."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World New Haven"
   address:

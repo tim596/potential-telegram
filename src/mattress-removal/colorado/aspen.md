@@ -85,6 +85,7 @@ faqs:
   - question: "How do you coordinate with Aspen's seasonal tourism and events?"
     answer: "We're familiar with Aspen's peak seasons and special events like X Games, Food & Wine Classic, and Music Festival. We plan routes and timing to avoid event traffic and coordinate with the increased activity during ski season and summer festivals while maintaining reliable service delivery."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Aspen"
   address:

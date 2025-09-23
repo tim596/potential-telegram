@@ -106,6 +106,7 @@ faqs:
   - question: "What payment methods do you accept in Lawton?"
     answer: "All major credit cards, cash, and invoicing options for military families, university households, and industrial workers."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Lawton"
   address:

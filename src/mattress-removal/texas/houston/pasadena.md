@@ -114,6 +114,7 @@ faqs:
     answer: "All major credit cards, cash, and flexible payment arrangements. We also work with apartment management companies and provide corporate billing for the many industrial employers throughout Pasadena's petrochemical corridor."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Pasadena"
   address:

@@ -198,6 +198,7 @@ faqs:
   - question: "Can you coordinate with hospitality and tourism businesses?"
     answer: "Yes, we work with River Walk hotels, Fiesta event venues, and tourism accommodations to provide discreet, efficient service that supports San Antonio's $13.6 billion tourism industry and 32+ million annual visitors."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World San Antonio"
   address:

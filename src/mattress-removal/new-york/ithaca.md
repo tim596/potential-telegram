@@ -91,6 +91,7 @@ faqs:
   - question: "What payment methods do you accept in Ithaca?"
     answer: "We accept cash, all major credit cards, and provide invoicing for property management companies and university housing facilities."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Ithaca"
   address:

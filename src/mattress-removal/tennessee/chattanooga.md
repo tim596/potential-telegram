@@ -112,6 +112,7 @@ faqs:
   - question: "What payment methods do you accept in Chattanooga?"
     answer: "All major credit cards, cash, and invoicing options for residents, tech professionals, manufacturing workers, and local businesses throughout the Gig City."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Chattanooga"
   address:

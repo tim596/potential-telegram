@@ -94,6 +94,7 @@ faqs:
   - question: "What payment methods do you accept in Richland?"
     answer: "All major credit cards, cash, and invoicing options for federal employees, PNNL researchers, and Benton County families."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Richland"
   address:

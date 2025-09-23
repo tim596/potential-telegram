@@ -122,6 +122,7 @@ faqs:
   - question: "What happens to my mattress after pickup in Waipahu?"
     answer: "Your mattress goes to approved Honolulu County recycling facilities where it's processed according to Hawaii's environmental standards. We ensure proper disposal through island-appropriate waste management systems that account for Hawaii's unique geographic and environmental considerations."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Waipahu"
   address:

@@ -118,6 +118,7 @@ faqs:
   - question: "What happens to my mattress after removal?"
     answer: "Your mattress is transported to approved disposal facilities following Ada County protocols. We handle all fees, documentation, and ensure compliance with environmental regulations. We actively monitor recycling opportunities as they become available."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Meridian"
   address:

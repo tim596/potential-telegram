@@ -125,6 +125,7 @@ faqs:
   - question: "Can you coordinate with luxury home and estate requirements?"
     answer: "Yes, we work with Twin Creeks country club members, luxury estate owners, and high-end master-planned communities to provide white-glove service that matches Allen's reputation as Dallas's premier family suburb."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Allen"
   address:

@@ -96,6 +96,7 @@ faqs:
   - question: "What payment methods do you accept in Burlington?"
     answer: "We accept cash, all major credit cards, and provide invoicing for major employers like Lab Corp and manufacturing companies."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Burlington"
   address:

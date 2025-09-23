@@ -115,6 +115,7 @@ faqs:
     answer: "The City of Janesville doesn't accept mattresses through standard collection services, and most dumpsters prohibit them. Attempting improper disposal can result in municipal violations, which is why professional hauling services like ours exist to handle these specialized waste streams properly."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Janesville"
   address:

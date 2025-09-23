@@ -102,6 +102,7 @@ faqs:
   - question: "What happens to my mattress after pickup in Palm Coast?"
     answer: "Your mattress goes to Flagler County approved recycling facilities where it's completely dismantled. Metal springs become new steel products, foam gets processed into carpet padding, and fabric becomes insulation materials. We ensure proper disposal through the county's waste management system."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Palm Coast"
   address:

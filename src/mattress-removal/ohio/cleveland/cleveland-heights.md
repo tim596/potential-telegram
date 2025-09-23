@@ -105,6 +105,7 @@ faqs:
   - question: "What payment methods do you accept in Cleveland Heights?"
     answer: "We accept cash, all major credit cards, and provide invoicing for student housing complexes and property management companies."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Cleveland Heights"
   address:

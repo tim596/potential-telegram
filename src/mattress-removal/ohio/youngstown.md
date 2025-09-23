@@ -108,6 +108,7 @@ faqs:
   - question: "What payment methods do you accept in Youngstown?"
     answer: "All major credit cards, cash, and invoicing options for university housing, manufacturing companies, and technology research facilities."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Youngstown"
   address:

@@ -115,6 +115,7 @@ faqs:
   - question: "What payment methods do you accept in Columbus?"
     answer: "We accept cash, all major credit cards, and provide invoicing for property management companies, university housing, and corporate accounts."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Columbus"
   address:

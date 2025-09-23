@@ -112,6 +112,7 @@ faqs:
     answer: "All major credit cards, cash, and corporate billing arrangements for the master-planned community developers, apartment management companies, and lakefront HOAs that manage Conroe's diverse residential landscape."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Conroe"
   address:

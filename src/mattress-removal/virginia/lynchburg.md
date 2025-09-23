@@ -113,6 +113,7 @@ faqs:
   - question: "What payment methods work for students and professionals?"
     answer: "All major credit cards, digital payments, and cash accepted. We understand student budgets and professional payment schedules with flexible options for Lynchburg's diverse educated community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Lynchburg"
   address:

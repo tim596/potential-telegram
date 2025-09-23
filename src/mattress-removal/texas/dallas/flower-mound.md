@@ -120,6 +120,7 @@ faqs:
   - question: "What are your scheduling options for busy families?"
     answer: "We offer flexible scheduling including early morning, evening, and weekend options to work around school schedules, work commutes to Dallas, and family activities at the lake or community events."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Flower Mound"
   address:

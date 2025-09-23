@@ -99,6 +99,7 @@ faqs:
   - question: "What payment methods do you accept in Morgantown?"
     answer: "All major credit cards, cash, and invoicing options for WVU students and faculty, Monongalia County families, and university community members."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Morgantown"
   address:

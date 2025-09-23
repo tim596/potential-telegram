@@ -117,6 +117,7 @@ faqs:
   - question: "What payment methods work for Suffolk residents?"
     answer: "All major credit cards, cash, and invoicing available for agricultural families, manufacturing workers, government contractors, and residents throughout Suffolk's diverse peanut capital community."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Suffolk"
   address:

@@ -105,6 +105,7 @@ faqs:
   - question: "What payment methods work in Harlingen?"
     answer: "All major credit cards, cash, and invoicing available for residents, aviation workers, agricultural employees, transportation professionals, and businesses throughout Harlingen's diverse economy."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Harlingen"
   address:

@@ -123,6 +123,7 @@ faqs:
     answer: "All major credit cards, cash, and corporate billing arrangements for businesses, apartment complexes, and the 1,200+ companies that make NRH a thriving Mid-Cities community."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World North Richland Hills"
   address:

@@ -115,6 +115,7 @@ faqs:
   - question: "What happens to my mattress after pickup in Johns Creek?"
     answer: "Your mattress goes to approved Fulton County recycling facilities where it's completely dismantled. Metal springs become new steel products, foam gets processed into carpet padding, and fabric becomes insulation materials. We ensure proper disposal through county-approved waste management systems."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Johns Creek"
   address:

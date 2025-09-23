@@ -93,6 +93,7 @@ faqs:
   - question: "What payment methods do you accept in Rocky Mount?"
     answer: "We accept cash, all major credit cards, and provide invoicing for railroad companies and logistics businesses in the area."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Rocky Mount"
   address:

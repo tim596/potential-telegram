@@ -136,6 +136,7 @@ faqs:
     answer: "All major credit cards, cash, and business invoicing for property management companies, local businesses, and manufacturing facilities throughout the community."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Garland"
   address:

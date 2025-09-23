@@ -95,6 +95,7 @@ faqs:
     answer: "All major credit cards, cash, and invoicing options for professionals, dual-income households, and families throughout Shoreline's affluent community."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Shoreline"
   address:

@@ -116,6 +116,7 @@ faqs:
     answer: "All major credit cards, cash, corporate billing for military contractors, petrochemical employers, port operations, and vacation rental management throughout the Coastal Bend region."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Corpus Christi"
   address:

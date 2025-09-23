@@ -119,6 +119,7 @@ faqs:
   - question: "How do you handle Orlando's diverse housing needs?"
     answer: "We understand Orlando's unique mix of tourism workers, healthcare professionals, students, and tech employees. Our service accommodates different schedules, housing types (high-rise condos, student apartments, medical housing, resort staff accommodations), and coordinates with various property management companies throughout the metro area."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Orlando"
   address:

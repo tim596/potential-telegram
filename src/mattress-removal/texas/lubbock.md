@@ -118,6 +118,7 @@ faqs:
     answer: "All major credit cards, cash, and corporate billing arrangements for agricultural employers, construction companies, university housing departments, and the diverse economic sectors throughout the Hub City."
 
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Lubbock"
   address:

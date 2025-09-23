@@ -96,6 +96,7 @@ faqs:
   - question: "What payment methods do you accept in Kingsport?"
     answer: "All major credit cards, cash, and invoicing options for residents, industrial workers, and local businesses."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Kingsport"
   address:

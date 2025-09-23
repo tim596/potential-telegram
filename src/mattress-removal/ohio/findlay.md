@@ -92,6 +92,7 @@ faqs:
   - question: "What payment methods do you accept in Findlay?"
     answer: "All major credit cards, cash, and invoicing options for university housing, energy sector companies, and property management firms."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Findlay"
   address:

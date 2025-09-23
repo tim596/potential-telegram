@@ -121,6 +121,7 @@ faqs:
   - question: "Do you offer bulk discounts for multiple mattresses?"
     answer: "Yes, we offer discounted pricing for multiple mattress pickups from the same location. Contact us at (720) 263-6094 for custom pricing on 3+ mattresses or property management accounts."
 schema:
+  "@context": "https://schema.org"
   "@type": "LocalBusiness"
   name: "A Bedder World Largo"
   address:
