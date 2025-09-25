@@ -15,15 +15,20 @@
     "test:build": "npm run build:prod && echo 'Production build successful'",
     "preview": "npm run build:prod && npx http-server dist -p 8082"
   },
-  "keywords": ["mattress removal", "recycling", "eco-friendly"],
+  "keywords": [
+    "mattress removal",
+    "recycling",
+    "eco-friendly"
+  ],
   "author": "A Bedder World",
   "license": "ISC",
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@11ty/eleventy-navigation": "^1.0.4",
+    "@sendgrid/mail": "^8.1.6",
     "clean-css": "^5.3.3",
-    "html-minifier": "^4.0.0",
-    "googleapis": "^144.0.0"
+    "googleapis": "^144.0.0",
+    "html-minifier": "^4.0.0"
   },
   "devDependencies": {
     "@11ty/eleventy-img": "^6.0.4"
