@@ -2,7 +2,7 @@
 title: "Bed Frame Disposal"
 date: 2020-01-09
 layout: service-post.njk
-permalink: "/bed-frame-disposal.html"
+permalink: "/bed-frame-disposal/"
 ---
 
 # Bed Frame Disposal Process

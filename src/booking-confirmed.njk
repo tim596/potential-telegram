@@ -286,33 +286,143 @@ eleventyExcludeFromCollections: true
   </div>
 </div>
 
-<!-- Conversion Tracking -->
+<!-- Enhanced Conversion Tracking with Location Attribution -->
 <script>
-  // Google Analytics Conversion Event
-  if (typeof gtag !== 'undefined') {
-    gtag('event', 'conversion', {
-      'send_to': 'G-P5ZG1W0RHY/booking_confirmed',
-      'transaction_id': Math.random().toString(36).substr(2, 9)
-    });
+  // Enhanced booking completion tracking with location attribution
+  document.addEventListener('DOMContentLoaded', function() {
+
+    // Extract location data from referrer or stored session data
+    const locationData = extractLocationFromBookingFlow();
+
+    // Google Analytics Conversion Event (Updated with your actual GA4 ID)
+    if (typeof gtag !== 'undefined') {
+      gtag('event', 'conversion', {
+        'send_to': 'G-6FYBM1399X/booking_confirmed',
+        'transaction_id': Math.random().toString(36).substr(2, 9),
+        'custom_parameter_1': locationData.state,
+        'custom_parameter_2': locationData.city,
+        'custom_parameter_3': 'booking_completion'
+      });
+
+      // Enhanced GA4 Event with location data
+      gtag('event', 'booking_completed', {
+        'event_category': 'conversion',
+        'event_label': locationData.full_location || 'unknown',
+        'location_state': locationData.state,
+        'location_city': locationData.city,
+        'conversion_value': 1,
+        'booking_source': locationData.booking_source
+      });
+    }
+
+    // Send to our custom analytics system
+    if (typeof window.BedderAnalytics !== 'undefined') {
+      window.BedderAnalytics.track('booking_completed', {
+        location_state: locationData.state,
+        location_city: locationData.city,
+        full_location: locationData.full_location,
+        booking_source: locationData.booking_source,
+        referrer_url: document.referrer,
+        session_duration: getSessionDuration()
+      });
+    } else {
+      // Fallback - send directly to custom endpoint
+      fetch('/api/analytics', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          event: 'booking_completed',
+          data: {
+            location_state: locationData.state,
+            location_city: locationData.city,
+            full_location: locationData.full_location,
+            booking_source: locationData.booking_source,
+            referrer_url: document.referrer,
+            timestamp: new Date().toISOString()
+          }
+        })
+      }).catch(error => console.log('Analytics endpoint not available'));
+    }
+
+    // Store booking completion for session analysis
+    sessionStorage.setItem('booking_completed', JSON.stringify({
+      timestamp: Date.now(),
+      location: locationData.full_location
+    }));
+
+    // Legacy Universal Analytics
+    if (typeof ga !== 'undefined') {
+      ga('send', 'event', 'Booking', 'Confirmed', locationData.full_location || 'Unknown Location', 1);
+    }
+  });
+
+  function extractLocationFromBookingFlow() {
+    // Method 1: Check for stored location data from booking flow
+    const storedLocation = sessionStorage.getItem('booking_location') || localStorage.getItem('last_location');
+    if (storedLocation) {
+      try {
+        return JSON.parse(storedLocation);
+      } catch (e) {}
+    }
+
+    // Method 2: Extract from referrer URL
+    const referrer = document.referrer;
+    if (referrer) {
+      const locationMatch = referrer.match(/mattress-removal\/([^\/]+)\/([^\/]+)/);
+      if (locationMatch) {
+        const state = locationMatch[1].replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+        const city = locationMatch[2].replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+        return {
+          state: state,
+          city: city,
+          state_slug: locationMatch[1],
+          city_slug: locationMatch[2],
+          full_location: `${city}, ${state}`,
+          booking_source: 'location_page',
+          referrer_url: referrer
+        };
+      }
+    }
+
+    // Method 3: Check URL parameters (in case Zenbooker passes them)
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('city') || urlParams.get('location')) {
+      return {
+        state: urlParams.get('state') || 'Unknown',
+        city: urlParams.get('city') || urlParams.get('location') || 'Unknown',
+        full_location: `${urlParams.get('city') || 'Unknown'}, ${urlParams.get('state') || 'Unknown'}`,
+        booking_source: 'url_parameter',
+        referrer_url: document.referrer
+      };
+    }
+
+    // Method 4: Fallback - try to extract from any referrer
+    if (referrer) {
+      return {
+        state: 'Unknown',
+        city: 'Unknown',
+        full_location: 'Unknown Location',
+        booking_source: 'referrer',
+        referrer_url: referrer
+      };
+    }
+
+    // Method 5: Direct booking (no location context)
+    return {
+      state: null,
+      city: null,
+      full_location: 'Direct Booking',
+      booking_source: 'direct',
+      referrer_url: document.referrer
+    };
   }
 
-  // Google Analytics 4 Event
-  if (typeof gtag !== 'undefined') {
-    gtag('event', 'booking_confirmed', {
-      'event_category': 'conversion',
-      'event_label': 'booking_form',
-      'value': 1
-    });
-  }
-
-  // Legacy Universal Analytics
-  if (typeof ga !== 'undefined') {
-    ga('send', 'event', 'Booking', 'Confirmed', 'Form Submission', 1);
-  }
-
-  // Custom conversion tracking hook for future integrations
-  if (typeof window.convertEvent === 'function') {
-    window.convertEvent('booking_confirmed');
+  function getSessionDuration() {
+    const sessionStart = sessionStorage.getItem('session_start');
+    if (sessionStart) {
+      return Math.round((Date.now() - parseInt(sessionStart)) / 1000);
+    }
+    return null;
   }
 </script>
 
