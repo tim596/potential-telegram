@@ -141,7 +141,13 @@ class LocalAnalyticsStorage {
 
     events.forEach(event => {
       if (event.data && event.data.location_city && event.data.location_state) {
-        const locationKey = `${event.data.location_city}, ${event.data.location_state}`;
+        // Build location key with suburb support
+        let locationKey;
+        if (event.data.location_suburb) {
+          locationKey = `${event.data.location_suburb}, ${event.data.location_city}, ${event.data.location_state}`;
+        } else {
+          locationKey = `${event.data.location_city}, ${event.data.location_state}`;
+        }
 
         if (!locations[locationKey]) {
           locations[locationKey] = {

@@ -35,13 +35,41 @@ class BedderWorldAnalytics {
 
   extractLocationData() {
     const path = window.location.pathname;
-    const locationMatch = path.match(/mattress-removal\/([^\/]+)\/([^\/]+)/);
+    const locationMatch = path.match(/mattress-removal\/([^\/]+)\/([^\/]+)(?:\/([^\/]+))?/);
+
+    if (!locationMatch) {
+      return {
+        page_type: 'general',
+        state: null,
+        city: null,
+        suburb: null,
+        page_level: 'general',
+        full_location: null,
+        page_path: path,
+        page_title: document.title
+      };
+    }
+
+    const state = locationMatch[1];
+    const city = locationMatch[2];
+    const suburb = locationMatch[3] || null;
+    const page_level = suburb ? 'suburb' : 'city';
+
+    // Build full location string
+    let full_location;
+    if (suburb) {
+      full_location = `${suburb}, ${city}, ${state}`;
+    } else {
+      full_location = `${city}, ${state}`;
+    }
 
     return {
-      page_type: locationMatch ? 'location' : 'general',
-      state: locationMatch ? locationMatch[1] : null,
-      city: locationMatch ? locationMatch[2] : null,
-      full_location: locationMatch ? `${locationMatch[2]}, ${locationMatch[1]}` : null,
+      page_type: 'location',
+      state: state,
+      city: city,
+      suburb: suburb,
+      page_level: page_level,
+      full_location: full_location,
       page_path: path,
       page_title: document.title
     };
@@ -53,7 +81,8 @@ class BedderWorldAnalytics {
       custom_map: {
         'custom_parameter_1': 'location_state',
         'custom_parameter_2': 'location_city',
-        'custom_parameter_3': 'page_type'
+        'custom_parameter_3': 'location_suburb',
+        'custom_parameter_4': 'page_level'
       }
     });
   }
@@ -64,6 +93,8 @@ class BedderWorldAnalytics {
       page_location: window.location.href,
       location_state: this.locationData.state,
       location_city: this.locationData.city,
+      location_suburb: this.locationData.suburb,
+      page_level: this.locationData.page_level,
       page_type: this.locationData.page_type
     };
 
@@ -115,6 +146,8 @@ class BedderWorldAnalytics {
       event_label: this.locationData.full_location || 'general',
       location_state: this.locationData.state,
       location_city: this.locationData.city,
+      location_suburb: this.locationData.suburb,
+      page_level: this.locationData.page_level,
       page_type: this.locationData.page_type,
       timestamp: new Date().toISOString(),
       ...additional_data
@@ -144,7 +177,9 @@ class BedderWorldAnalytics {
           event_label: `${timeOnPage}s`,
           value: timeOnPage,
           location_state: this.locationData.state,
-          location_city: this.locationData.city
+          location_city: this.locationData.city,
+          location_suburb: this.locationData.suburb,
+          page_level: this.locationData.page_level
         });
       }
     }, 1000);
@@ -156,7 +191,9 @@ class BedderWorldAnalytics {
         event_category: 'engagement',
         time_on_page: finalTimeOnPage,
         location_state: this.locationData.state,
-        location_city: this.locationData.city
+        location_city: this.locationData.city,
+        location_suburb: this.locationData.suburb,
+        page_level: this.locationData.page_level
       });
     });
   }
@@ -184,7 +221,9 @@ class BedderWorldAnalytics {
               event_label: `${threshold}%`,
               value: threshold,
               location_state: this.locationData.state,
-              location_city: this.locationData.city
+              location_city: this.locationData.city,
+              location_suburb: this.locationData.suburb,
+              page_level: this.locationData.page_level
             });
           }
         });
@@ -208,7 +247,9 @@ class BedderWorldAnalytics {
           gtag('event', event_name, {
             event_category: 'content_interaction',
             location_state: this.locationData.state,
-            location_city: this.locationData.city
+            location_city: this.locationData.city,
+            location_suburb: this.locationData.suburb,
+            page_level: this.locationData.page_level
           });
           observer.unobserve(element);
         }
