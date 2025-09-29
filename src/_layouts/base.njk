@@ -45,7 +45,7 @@
     <!-- Schema.org JSON-LD -->
     {% if schema %}
     <script type="application/ld+json">
-    {{ schema | dump | safe }}
+    {{ schema | safe }}
     </script>
     {% endif %}
     
@@ -202,10 +202,10 @@
 
     <!-- Zenbooker Scripts Moved to Head Section -->
     
-    <!-- Enhanced Analytics Tracking -->
-    <script>
+    <!-- Enhanced Analytics Tracking - TEMPORARILY DISABLED FOR CORE WEB VITALS -->
+    <!-- <script>
         {% include "analytics/ga4-enhanced-tracking.js" %}
-    </script>
+    </script> -->
 
     <!-- Main JavaScript -->
     <script>
