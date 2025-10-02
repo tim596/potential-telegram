@@ -315,7 +315,8 @@ eleventyExcludeFromCollections: true
       });
     }
 
-    // Send to our custom analytics system
+    // TEMPORARILY DISABLED FOR CORE WEB VITALS - Custom analytics system
+    /*
     if (typeof window.BedderAnalytics !== 'undefined') {
       window.BedderAnalytics.track('booking_completed', {
         location_state: locationData.state,
@@ -343,6 +344,7 @@ eleventyExcludeFromCollections: true
         })
       }).catch(error => console.log('Analytics endpoint not available'));
     }
+    */
 
     // Store booking completion for session analysis
     sessionStorage.setItem('booking_completed', JSON.stringify({

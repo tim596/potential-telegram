@@ -1,0 +1,300 @@
+Day,URL,City,State,Priority,Notes
+Day 1,https://abedderworld.com/mattress-removal/texas/houston/,Houston,TX,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/texas/dallas/,Dallas,TX,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/texas/austin/,Austin,TX,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/texas/san-antonio/,San Antonio,TX,P1,Major TX expansion
+Day 1,https://abedderworld.com/mattress-removal/texas/fort-worth/,Fort Worth,TX,P1,Dallas metro extension
+Day 1,https://abedderworld.com/mattress-removal/washington/seattle/,Seattle,WA,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/washington-dc/washington/,Washington,DC,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/california/san-diego/,San Diego,CA,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/california/los-angeles/,Los Angeles,CA,P1,Largest metro
+Day 1,https://abedderworld.com/mattress-removal/illinois/chicago/,Chicago,IL,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/arizona/phoenix/,Phoenix,AZ,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/arizona/tucson/,Tucson,AZ,P1,Second largest AZ
+Day 1,https://abedderworld.com/mattress-removal/utah/salt-lake-city/,Salt Lake City,UT,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/alabama/birmingham/,Birmingham,AL,P1,Existing strong market
+Day 1,https://abedderworld.com/mattress-removal/texas/plano/,Plano,TX,P1,Wealthy Dallas suburb
+Day 1,https://abedderworld.com/mattress-removal/texas/arlington/,Arlington,TX,P1,Dallas/Fort Worth corridor
+Day 1,https://abedderworld.com/mattress-removal/washington/spokane/,Spokane,WA,P1,Eastern WA hub
+Day 1,https://abedderworld.com/mattress-removal/washington/tacoma/,Tacoma,WA,P1,Seattle metro extension
+Day 1,https://abedderworld.com/mattress-removal/virginia/arlington/,Arlington,VA,P1,DC metro high income
+Day 1,https://abedderworld.com/mattress-removal/virginia/alexandria/,Alexandria,VA,P1,DC metro affluent
+Day 2,https://abedderworld.com/mattress-removal/california/san-francisco/,San Francisco,CA,P1,High income tech hub
+Day 2,https://abedderworld.com/mattress-removal/california/san-jose/,San Jose,CA,P1,Silicon Valley wealth
+Day 2,https://abedderworld.com/mattress-removal/california/anaheim/,Anaheim,CA,P1,Orange County hub
+Day 2,https://abedderworld.com/mattress-removal/california/irvine/,Irvine,CA,P1,Affluent Orange County
+Day 2,https://abedderworld.com/mattress-removal/illinois/aurora/,Aurora,IL,P1,Chicago suburb growing
+Day 2,https://abedderworld.com/mattress-removal/illinois/rockford/,Rockford,IL,P1,Northern IL hub
+Day 2,https://abedderworld.com/mattress-removal/illinois/peoria/,Peoria,IL,P1,Central Illinois
+Day 2,https://abedderworld.com/mattress-removal/arizona/mesa/,Mesa,AZ,P1,Phoenix metro fast growth
+Day 2,https://abedderworld.com/mattress-removal/colorado/denver/,Denver,CO,P2,Mountain West hub
+Day 2,https://abedderworld.com/mattress-removal/colorado/colorado-springs/,Colorado Springs,CO,P2,Military market
+Day 2,https://abedderworld.com/mattress-removal/new-york/new-york-city/,New York,NY,P2,Largest city premium
+Day 2,https://abedderworld.com/mattress-removal/pennsylvania/philadelphia/,Philadelphia,PA,P2,Major East Coast metro
+Day 2,https://abedderworld.com/mattress-removal/georgia/atlanta/,Atlanta,GA,P2,Southern hub
+Day 2,https://abedderworld.com/mattress-removal/florida/miami/,Miami,FL,P2,International gateway
+Day 2,https://abedderworld.com/mattress-removal/massachusetts/boston/,Boston,MA,P2,High income education
+Day 2,https://abedderworld.com/mattress-removal/tennessee/nashville/,Nashville,TN,P2,Rapid growth music city
+Day 2,https://abedderworld.com/mattress-removal/north-carolina/charlotte/,Charlotte,NC,P2,Banking center growing
+Day 2,https://abedderworld.com/mattress-removal/nevada/las-vegas/,Las Vegas,NV,P2,Tourism hub rapid growth
+Day 2,https://abedderworld.com/mattress-removal/oregon/portland/,Portland,OR,P2,Pacific Northwest eco
+Day 2,https://abedderworld.com/mattress-removal/oklahoma/oklahoma-city/,Oklahoma City,OK,P2,Regional hub affordable
+Day 3,https://abedderworld.com/mattress-removal/tennessee/memphis/,Memphis,TN,P2,Mississippi River hub
+Day 3,https://abedderworld.com/mattress-removal/kentucky/louisville/,Louisville,KY,P2,Ohio River valley
+Day 3,https://abedderworld.com/mattress-removal/florida/jacksonville/,Jacksonville,FL,P2,FL largest by area
+Day 3,https://abedderworld.com/mattress-removal/indiana/indianapolis/,Indianapolis,IN,P2,Midwest hub racing
+Day 3,https://abedderworld.com/mattress-removal/ohio/columbus/,Columbus,OH,P2,State capital growing
+Day 3,https://abedderworld.com/mattress-removal/wisconsin/milwaukee/,Milwaukee,WI,P2,Great Lakes manufacturing
+Day 3,https://abedderworld.com/mattress-removal/missouri/kansas-city/,Kansas City,MO,P2,Regional hub BBQ
+Day 3,https://abedderworld.com/mattress-removal/virginia/virginia-beach/,Virginia Beach,VA,P2,Military coastal market
+Day 3,https://abedderworld.com/mattress-removal/north-carolina/raleigh/,Raleigh,NC,P2,Research Triangle educated
+Day 3,https://abedderworld.com/mattress-removal/nebraska/omaha/,Omaha,NE,P2,Insurance hub Warren Buffett
+Day 3,https://abedderworld.com/mattress-removal/california/long-beach/,Long Beach,CA,P2,LA metro port city
+Day 3,https://abedderworld.com/mattress-removal/california/fresno/,Fresno,CA,P2,Central Valley hub
+Day 3,https://abedderworld.com/mattress-removal/utah/west-valley-city/,West Valley City,UT,P3,SLC suburb growing
+Day 3,https://abedderworld.com/mattress-removal/utah/provo/,Provo,UT,P3,University town families
+Day 3,https://abedderworld.com/mattress-removal/florida/tampa/,Tampa,FL,P3,Gulf Coast hub growing
+Day 3,https://abedderworld.com/mattress-removal/florida/orlando/,Orlando,FL,P3,Theme parks tourism
+Day 3,https://abedderworld.com/mattress-removal/florida/st-petersburg/,St. Petersburg,FL,P3,Tampa metro retirees
+Day 3,https://abedderworld.com/mattress-removal/florida/hialeah/,Hialeah,FL,P3,Miami metro Hispanic
+Day 3,https://abedderworld.com/mattress-removal/florida/fort-lauderdale/,Fort Lauderdale,FL,P3,South Florida wealthy
+Day 4,https://abedderworld.com/mattress-removal/north-carolina/greensboro/,Greensboro,NC,P3,Triad manufacturing
+Day 4,https://abedderworld.com/mattress-removal/north-carolina/durham/,Durham,NC,P3,Research Triangle Duke
+Day 4,https://abedderworld.com/mattress-removal/north-carolina/winston-salem/,Winston-Salem,NC,P3,Piedmont Triad
+Day 4,https://abedderworld.com/mattress-removal/north-carolina/fayetteville/,Fayetteville,NC,P3,Military market
+Day 4,https://abedderworld.com/mattress-removal/ohio/cincinnati/,Cincinnati,OH,P3,Ohio River P&G HQ
+Day 4,https://abedderworld.com/mattress-removal/ohio/cleveland/,Cleveland,OH,P3,Great Lakes healthcare
+Day 4,https://abedderworld.com/mattress-removal/ohio/toledo/,Toledo,OH,P3,Glass city manufacturing
+Day 4,https://abedderworld.com/mattress-removal/ohio/akron/,Akron,OH,P3,Rubber city Goodyear
+Day 4,https://abedderworld.com/mattress-removal/alabama/mobile/,Mobile,AL,P3,Port city Gulf Coast
+Day 4,https://abedderworld.com/mattress-removal/alabama/huntsville/,Huntsville,AL,P3,Space city tech hub
+Day 4,https://abedderworld.com/mattress-removal/alabama/montgomery/,Montgomery,AL,P3,State capital
+Day 4,https://abedderworld.com/mattress-removal/minnesota/minneapolis/,Minneapolis,MN,P3,Twin Cities Fortune 500
+Day 4,https://abedderworld.com/mattress-removal/minnesota/st-paul/,St. Paul,MN,P3,State capital twin city
+Day 4,https://abedderworld.com/mattress-removal/minnesota/rochester/,Rochester,MN,P3,Mayo Clinic medical
+Day 4,https://abedderworld.com/mattress-removal/louisiana/baton-rouge/,Baton Rouge,LA,P3,State capital petrochemical
+Day 4,https://abedderworld.com/mattress-removal/louisiana/new-orleans/,New Orleans,LA,P3,Tourism culture rebuilding
+Day 4,https://abedderworld.com/mattress-removal/new-mexico/albuquerque/,Albuquerque,NM,P4,High desert Sandia Labs
+Day 4,https://abedderworld.com/mattress-removal/idaho/boise/,Boise,ID,P4,Fastest growing tech hub
+Day 4,https://abedderworld.com/mattress-removal/montana/billings/,Billings,MT,P4,Montana largest
+Day 4,https://abedderworld.com/mattress-removal/wyoming/cheyenne/,Cheyenne,WY,P4,State capital energy
+Day 5,https://abedderworld.com/mattress-removal/new-jersey/newark/,Newark,NJ,P4,NYC metro transportation
+Day 5,https://abedderworld.com/mattress-removal/new-york/buffalo/,Buffalo,NY,P4,Great Lakes revival
+Day 5,https://abedderworld.com/mattress-removal/maryland/baltimore/,Baltimore,MD,P4,Inner Harbor medical
+Day 5,https://abedderworld.com/mattress-removal/virginia/richmond/,Richmond,VA,P4,State capital historic
+Day 5,https://abedderworld.com/mattress-removal/south-carolina/charleston/,Charleston,SC,P4,Historic tourism wealthy
+Day 5,https://abedderworld.com/mattress-removal/iowa/des-moines/,Des Moines,IA,P4,Insurance capital agriculture
+Day 5,https://abedderworld.com/mattress-removal/iowa/cedar-rapids/,Cedar Rapids,IA,P4,Eastern Iowa hub
+Day 5,https://abedderworld.com/mattress-removal/south-dakota/sioux-falls/,Sioux Falls,SD,P4,Regional hub no state tax
+Day 5,https://abedderworld.com/mattress-removal/michigan/grand-rapids/,Grand Rapids,MI,P4,Furniture city healthcare
+Day 5,https://abedderworld.com/mattress-removal/wisconsin/madison/,Madison,WI,P4,State capital university
+Day 5,https://abedderworld.com/mattress-removal/louisiana/shreveport/,Shreveport,LA,P4,Oil gas casinos
+Day 5,https://abedderworld.com/mattress-removal/mississippi/jackson/,Jackson,MS,P4,State capital
+Day 5,https://abedderworld.com/mattress-removal/arkansas/little-rock/,Little Rock,AR,P4,State capital Clinton
+Day 5,https://abedderworld.com/mattress-removal/oklahoma/tulsa/,Tulsa,OK,P4,Oil capital art deco
+Day 5,https://abedderworld.com/mattress-removal/california/sacramento/,Sacramento,CA,P4,State capital government
+Day 5,https://abedderworld.com/mattress-removal/california/stockton/,Stockton,CA,P4,Central Valley port
+Day 5,https://abedderworld.com/mattress-removal/california/bakersfield/,Bakersfield,CA,P4,Oil agriculture
+Day 5,https://abedderworld.com/mattress-removal/alaska/anchorage/,Anchorage,AK,P4,Isolated high prices
+Day 5,https://abedderworld.com/mattress-removal/hawaii/honolulu/,Honolulu,HI,P4,Island market high income
+Day 5,https://abedderworld.com/mattress-removal/kansas/wichita/,Wichita,KS,P4,Aviation capital central
+Day 6,https://abedderworld.com/mattress-removal/michigan/detroit/,Detroit,MI,P2,Motor City revival automotive
+Day 6,https://abedderworld.com/mattress-removal/california/oakland/,Oakland,CA,P2,SF Bay Area diversity
+Day 6,https://abedderworld.com/mattress-removal/california/riverside/,Riverside,CA,P2,Inland Empire growth
+Day 6,https://abedderworld.com/mattress-removal/california/santa-ana/,Santa Ana,CA,P2,Orange County Hispanic hub
+Day 6,https://abedderworld.com/mattress-removal/texas/corpus-christi/,Corpus Christi,TX,P2,Gulf Coast oil refining
+Day 6,https://abedderworld.com/mattress-removal/texas/lubbock/,Lubbock,TX,P2,West Texas university agriculture
+Day 6,https://abedderworld.com/mattress-removal/texas/garland/,Garland,TX,P2,Dallas metro manufacturing
+Day 6,https://abedderworld.com/mattress-removal/texas/irving/,Irving,TX,P2,Dallas corporate headquarters
+Day 6,https://abedderworld.com/mattress-removal/texas/laredo/,Laredo,TX,P2,Border trade logistics
+Day 6,https://abedderworld.com/mattress-removal/florida/cape-coral/,Cape Coral,FL,P2,SW Florida retirement growth
+Day 7,https://abedderworld.com/mattress-removal/florida/tallahassee/,Tallahassee,FL,P3,State capital university
+Day 7,https://abedderworld.com/mattress-removal/florida/gainesville/,Gainesville,FL,P3,University of Florida college
+Day 7,https://abedderworld.com/mattress-removal/florida/hollywood/,Hollywood,FL,P3,Broward County beach community
+Day 7,https://abedderworld.com/mattress-removal/california/modesto/,Modesto,CA,P3,Central Valley agriculture
+Day 7,https://abedderworld.com/mattress-removal/california/huntington-beach/,Huntington Beach,CA,P3,OC surf city beach
+Day 7,https://abedderworld.com/mattress-removal/california/glendale/,Glendale,CA,P3,LA metro Armenian community
+Day 7,https://abedderworld.com/mattress-removal/california/santa-clarita/,Santa Clarita,CA,P3,LA County suburban families
+Day 7,https://abedderworld.com/mattress-removal/california/garden-grove/,Garden Grove,CA,P3,Orange County Vietnamese hub
+Day 7,https://abedderworld.com/mattress-removal/california/oceanside/,Oceanside,CA,P3,San Diego County military
+Day 7,https://abedderworld.com/mattress-removal/california/rancho-cucamonga/,Rancho Cucamonga,CA,P3,Inland Empire affluent suburb
+Day 8,https://abedderworld.com/mattress-removal/california/fontana/,Fontana,CA,P3,San Bernardino County logistics
+Day 8,https://abedderworld.com/mattress-removal/california/oxnard/,Oxnard,CA,P3,Ventura County agriculture coast
+Day 8,https://abedderworld.com/mattress-removal/california/moreno-valley/,Moreno Valley,CA,P3,Riverside County growth
+Day 8,https://abedderworld.com/mattress-removal/new-york/rochester/,Rochester,NY,P3,Upstate NY tech medical
+Day 8,https://abedderworld.com/mattress-removal/new-york/yonkers/,Yonkers,NY,P3,NYC metro Westchester border
+Day 8,https://abedderworld.com/mattress-removal/new-york/syracuse/,Syracuse,NY,P3,Central NY university
+Day 8,https://abedderworld.com/mattress-removal/new-york/albany/,Albany,NY,P3,State capital government
+Day 8,https://abedderworld.com/mattress-removal/pennsylvania/pittsburgh/,Pittsburgh,PA,P3,Steel city tech renaissance
+Day 8,https://abedderworld.com/mattress-removal/pennsylvania/allentown/,Allentown,PA,P3,Lehigh Valley manufacturing
+Day 8,https://abedderworld.com/mattress-removal/pennsylvania/erie/,Erie,PA,P3,Great Lakes port city
+Day 9,https://abedderworld.com/mattress-removal/illinois/joliet/,Joliet,IL,P3,Chicago southwest suburb logistics
+Day 9,https://abedderworld.com/mattress-removal/illinois/naperville/,Naperville,IL,P3,Chicago affluent tech suburb
+Day 9,https://abedderworld.com/mattress-removal/illinois/elgin/,Elgin,IL,P3,Chicago northwest suburb
+Day 9,https://abedderworld.com/mattress-removal/illinois/waukegan/,Waukegan,IL,P3,Lake County manufacturing
+Day 9,https://abedderworld.com/mattress-removal/georgia/savannah/,Savannah,GA,P3,Historic port tourism
+Day 9,https://abedderworld.com/mattress-removal/georgia/columbus/,Columbus,GA,P3,Military Fort Benning
+Day 9,https://abedderworld.com/mattress-removal/georgia/augusta/,Augusta,GA,P3,Masters golf medical
+Day 9,https://abedderworld.com/mattress-removal/north-carolina/wilmington/,Wilmington,NC,P3,Coastal film tourism
+Day 9,https://abedderworld.com/mattress-removal/south-carolina/columbia/,Columbia,SC,P3,State capital university
+Day 9,https://abedderworld.com/mattress-removal/south-carolina/greenville/,Greenville,SC,P3,Upstate manufacturing BMW
+Day 10,https://abedderworld.com/mattress-removal/arizona/chandler/,Chandler,AZ,P3,Phoenix tech suburb Intel
+Day 10,https://abedderworld.com/mattress-removal/arizona/scottsdale/,Scottsdale,AZ,P3,Phoenix affluent resort tourism
+Day 10,https://abedderworld.com/mattress-removal/arizona/glendale/,Glendale,AZ,P3,Phoenix west suburb sports
+Day 10,https://abedderworld.com/mattress-removal/arizona/tempe/,Tempe,AZ,P3,ASU university town
+Day 10,https://abedderworld.com/mattress-removal/colorado/aurora/,Aurora,CO,P3,Denver east suburb diverse
+Day 10,https://abedderworld.com/mattress-removal/colorado/fort-collins/,Fort Collins,CO,P3,CSU university brewery culture
+Day 10,https://abedderworld.com/mattress-removal/colorado/lakewood/,Lakewood,CO,P3,Denver west suburb
+Day 10,https://abedderworld.com/mattress-removal/colorado/thornton/,Thornton,CO,P3,Denver north suburb growth
+Day 10,https://abedderworld.com/mattress-removal/colorado/arvada/,Arvada,CA,P3,Denver northwest suburb
+Day 10,https://abedderworld.com/mattress-removal/colorado/pueblo/,Pueblo,CO,P3,South Colorado steel history
+Day 11,https://abedderworld.com/mattress-removal/washington/vancouver/,Vancouver,WA,P3,Portland metro no income tax
+Day 11,https://abedderworld.com/mattress-removal/washington/bellevue/,Bellevue,WA,P3,Seattle eastside tech affluent
+Day 11,https://abedderworld.com/mattress-removal/washington/kent/,Kent,WA,P3,Seattle south logistics warehouse
+Day 11,https://abedderworld.com/mattress-removal/washington/renton/,Renton,WA,P3,Seattle south Boeing
+Day 11,https://abedderworld.com/mattress-removal/washington/federal-way/,Federal Way,WA,P3,South King County
+Day 11,https://abedderworld.com/mattress-removal/oregon/salem/,Salem,OR,P3,State capital government
+Day 11,https://abedderworld.com/mattress-removal/oregon/eugene/,Eugene,OR,P3,University of Oregon college
+Day 11,https://abedderworld.com/mattress-removal/oregon/gresham/,Gresham,OR,P3,Portland east suburb
+Day 11,https://abedderworld.com/mattress-removal/oregon/hillsboro/,Hillsboro,OR,P3,Portland tech Nike silicon forest
+Day 11,https://abedderworld.com/mattress-removal/oregon/bend/,Bend,OR,P3,Central Oregon outdoor recreation
+Day 12,https://abedderworld.com/mattress-removal/nevada/reno/,Reno,NV,P3,Northern Nevada Tahoe gambling
+Day 12,https://abedderworld.com/mattress-removal/nevada/henderson/,Henderson,NV,P3,Las Vegas suburb affluent
+Day 12,https://abedderworld.com/mattress-removal/utah/ogden/,Ogden,UT,P3,Northern Utah mountain outdoor
+Day 12,https://abedderworld.com/mattress-removal/utah/orem/,Orem,UT,P3,Utah County BYU tech
+Day 12,https://abedderworld.com/mattress-removal/utah/sandy/,Sandy,UT,P3,Salt Lake south suburb
+Day 12,https://abedderworld.com/mattress-removal/new-mexico/las-cruces/,Las Cruces,NM,P4,Border university agriculture
+Day 12,https://abedderworld.com/mattress-removal/new-mexico/santa-fe/,Santa Fe,NM,P4,State capital arts tourism
+Day 12,https://abedderworld.com/mattress-removal/wyoming/casper/,Casper,WY,P4,Energy oil natural gas
+Day 12,https://abedderworld.com/mattress-removal/montana/missoula/,Missoula,MT,P4,University of Montana college
+Day 12,https://abedderworld.com/mattress-removal/montana/great-falls/,Great Falls,MT,P4,Central Montana military base
+Day 13,https://abedderworld.com/mattress-removal/idaho/nampa/,Nampa,ID,P4,Boise metro agriculture
+Day 13,https://abedderworld.com/mattress-removal/idaho/meridian/,Meridian,ID,P4,Boise affluent suburb fastest growth
+Day 13,https://abedderworld.com/mattress-removal/idaho/idaho-falls/,Idaho Falls,ID,P4,Eastern Idaho nuclear research
+Day 13,https://abedderworld.com/mattress-removal/idaho/pocatello/,Pocatello,ID,P4,Southeast Idaho university
+Day 13,https://abedderworld.com/mattress-removal/alaska/fairbanks/,Fairbanks,AK,P4,Interior Alaska university oil
+Day 13,https://abedderworld.com/mattress-removal/alaska/juneau/,Juneau,AK,P4,State capital cruise tourism
+Day 13,https://abedderworld.com/mattress-removal/hawaii/pearl-city/,Pearl City,HI,P4,Honolulu suburb military
+Day 13,https://abedderworld.com/mattress-removal/hawaii/hilo/,Hilo,HI,P4,Big Island university
+Day 13,https://abedderworld.com/mattress-removal/hawaii/kailua/,Kailua,HI,P4,Oahu beach tourism military
+Day 13,https://abedderworld.com/mattress-removal/hawaii/kaneohe/,Kaneohe,HI,P4,Oahu windward military
+Day 14,https://abedderworld.com/mattress-removal/minnesota/plymouth/,Plymouth,MN,P3,Twin Cities northwest affluent
+Day 14,https://abedderworld.com/mattress-removal/minnesota/minnetonka/,Minnetonka,MN,P3,Twin Cities west lakes affluent
+Day 14,https://abedderworld.com/mattress-removal/minnesota/duluth/,Duluth,MN,P3,Lake Superior port shipping
+Day 14,https://abedderworld.com/mattress-removal/minnesota/blaine/,Blaine,MN,P3,Twin Cities north suburb
+Day 14,https://abedderworld.com/mattress-removal/wisconsin/green-bay/,Green Bay,WI,P3,Packers NFL manufacturing
+Day 14,https://abedderworld.com/mattress-removal/wisconsin/kenosha/,Kenosha,WI,P3,Lake Michigan manufacturing
+Day 14,https://abedderworld.com/mattress-removal/wisconsin/racine/,Racine,WI,P3,Southeast Wisconsin manufacturing
+Day 14,https://abedderworld.com/mattress-removal/wisconsin/appleton/,Appleton,WI,P3,Fox Valley paper manufacturing
+Day 14,https://abedderworld.com/mattress-removal/iowa/waterloo/,Waterloo,IA,P4,Northeast Iowa agriculture machinery
+Day 14,https://abedderworld.com/mattress-removal/iowa/davenport/,Davenport,IA,P4,Quad Cities Mississippi River
+Day 15,https://abedderworld.com/mattress-removal/missouri/st-louis/,St. Louis,MO,P2,Gateway Arch brewing heritage
+Day 15,https://abedderworld.com/mattress-removal/missouri/springfield/,Springfield,MO,P3,Southwest Missouri Ozarks
+Day 15,https://abedderworld.com/mattress-removal/missouri/independence/,Independence,MO,P3,Kansas City suburb Truman
+Day 15,https://abedderworld.com/mattress-removal/missouri/columbia/,Columbia,MO,P3,University of Missouri college
+Day 15,https://abedderworld.com/mattress-removal/kansas/overland-park/,Overland Park,KS,P3,Kansas City affluent suburb
+Day 15,https://abedderworld.com/mattress-removal/kansas/kansas-city/,Kansas City,KS,P3,Cross-border metro
+Day 15,https://abedderworld.com/mattress-removal/kansas/topeka/,Topeka,KS,P4,State capital government
+Day 15,https://abedderworld.com/mattress-removal/kansas/lawrence/,Lawrence,KS,P4,University of Kansas college
+Day 15,https://abedderworld.com/mattress-removal/nebraska/lincoln/,Lincoln,NE,P3,State capital university
+Day 15,https://abedderworld.com/mattress-removal/nebraska/bellevue/,Bellevue,NE,P4,Omaha suburb military
+Day 16,https://abedderworld.com/mattress-removal/california/sunnyvale/,Sunnyvale,CA,P1,Pop: 155,805, Income: $153,464, Score: 9.73
+Day 16,https://abedderworld.com/mattress-removal/texas/frisco/,Frisco,TX,P1,Pop: 200,509, Income: $125,451, Score: 9.56
+Day 16,https://abedderworld.com/mattress-removal/california/santa-clara/,Santa Clara,CA,P1,Pop: 127,134, Income: $124,054, Score: 9.34
+Day 16,https://abedderworld.com/mattress-removal/texas/sugar-land/,Sugar Land,TX,P1,Pop: 111,026, Income: $122,238, Score: 9.27
+Day 16,https://abedderworld.com/mattress-removal/texas/southlake/,Southlake,TX,P1,Pop: 31,684, Income: $172,032, Score: 9.22
+Day 16,https://abedderworld.com/mattress-removal/texas/allen/,Allen,TX,P1,Pop: 105,623, Income: $111,730, Score: 9.14
+Day 16,https://abedderworld.com/mattress-removal/texas/the-woodlands/,The Woodlands,TX,P1,Pop: 116,278, Income: $103,417, Score: 9.10
+Day 17,https://abedderworld.com/mattress-removal/georgia/johns-creek/,Johns Creek,GA,P1,Pop: 85,139, Income: $116,120, Score: 9.09
+Day 17,https://abedderworld.com/mattress-removal/texas/flower-mound/,Flower Mound,TX,P1,Pop: 78,854, Income: $118,926, Score: 9.09
+Day 17,https://abedderworld.com/mattress-removal/texas/pearland/,Pearland,TX,P1,Pop: 125,817, Income: $98,543, Score: 9.09
+Day 17,https://abedderworld.com/mattress-removal/texas/league-city/,League City,TX,P1,Pop: 109,387, Income: $102,938, Score: 9.07
+Day 17,https://abedderworld.com/mattress-removal/arizona/gilbert/,Gilbert,AZ,P1,Pop: 267,918, Income: $95,400, Score: 8.38
+Day 17,https://abedderworld.com/mattress-removal/texas/mckinney/,McKinney,TX,P1,Pop: 207,507, Income: $95,833, Score: 8.28
+Day 17,https://abedderworld.com/mattress-removal/california/chula-vista/,Chula Vista,CA,P1,Pop: 275,487, Income: $81,816, Score: 8.26
+Day 18,https://abedderworld.com/mattress-removal/virginia/chesapeake/,Chesapeake,VA,P1,Pop: 249,422, Income: $78,806, Score: 8.18
+Day 18,https://abedderworld.com/mattress-removal/california/berkeley/,Berkeley,CA,P1,Pop: 124,321, Income: $91,888, Score: 8.01
+Day 18,https://abedderworld.com/mattress-removal/colorado/centennial/,Centennial,CO,P1,Pop: 108,418, Income: $96,779, Score: 8.00
+Day 18,https://abedderworld.com/mattress-removal/california/orange/,Orange,CA,P1,Pop: 139,911, Income: $85,449, Score: 8.00
+Day 18,https://abedderworld.com/mattress-removal/new-jersey/edison/,Edison,NJ,P1,Pop: 107,588, Income: $96,283, Score: 7.99
+Day 18,https://abedderworld.com/mattress-removal/california/pasadena/,Pasadena,CA,P1,Pop: 138,699, Income: $83,068, Score: 7.97
+Day 18,https://abedderworld.com/mattress-removal/california/torrance/,Torrance,CA,P1,Pop: 147,067, Income: $79,002, Score: 7.96
+Day 19,https://abedderworld.com/mattress-removal/tennessee/franklin/,Franklin,TN,P1,Pop: 83,454, Income: $103,456, Score: 7.96
+Day 19,https://abedderworld.com/mattress-removal/california/hayward/,Hayward,CA,P1,Pop: 162,954, Income: $73,177, Score: 7.94
+Day 19,https://abedderworld.com/mattress-removal/florida/coral-springs/,Coral Springs,FL,P1,Pop: 134,394, Income: $81,065, Score: 7.94
+Day 19,https://abedderworld.com/mattress-removal/florida/pembroke-pines/,Pembroke Pines,FL,P1,Pop: 171,178, Income: $69,890, Score: 7.93
+Day 19,https://abedderworld.com/mattress-removal/california/concord/,Concord,CA,P2,Pop: 129,295, Income: $81,463, Score: 7.93
+Day 19,https://abedderworld.com/mattress-removal/texas/round-rock/,Round Rock,TX,P2,Pop: 133,372, Income: $79,816, Score: 7.92
+Day 19,https://abedderworld.com/mattress-removal/new-jersey/woodbridge/,Woodbridge,NJ,P2,Pop: 103,639, Income: $89,546, Score: 7.91
+Day 20,https://abedderworld.com/mattress-removal/california/fullerton/,Fullerton,CA,P2,Pop: 143,617, Income: $75,074, Score: 7.91
+Day 20,https://abedderworld.com/mattress-removal/texas/richardson/,Richardson,TX,P2,Pop: 119,469, Income: $82,147, Score: 7.90
+Day 20,https://abedderworld.com/mattress-removal/georgia/sandy-springs/,Sandy Springs,GA,P2,Pop: 108,080, Income: $86,017, Score: 7.89
+Day 20,https://abedderworld.com/mattress-removal/texas/carrollton/,Carrollton,TX,P2,Pop: 139,248, Income: $74,782, Score: 7.89
+Day 20,https://abedderworld.com/mattress-removal/texas/cedar-park/,Cedar Park,TX,P2,Pop: 77,595, Income: $94,738, Score: 7.84
+Day 20,https://abedderworld.com/mattress-removal/connecticut/norwalk/,Norwalk,CT,P2,Pop: 91,184, Income: $86,215, Score: 7.82
+Day 20,https://abedderworld.com/mattress-removal/texas/keller/,Keller,TX,P2,Pop: 47,339, Income: $114,583, Score: 7.82
+Day 21,https://abedderworld.com/mattress-removal/georgia/roswell/,Roswell,GA,P2,Pop: 94,884, Income: $83,826, Score: 7.82
+Day 21,https://abedderworld.com/mattress-removal/massachusetts/somerville/,Somerville,MA,P2,Pop: 81,045, Income: $90,512, Score: 7.81
+Day 21,https://abedderworld.com/mattress-removal/florida/miramar/,Miramar,FL,P2,Pop: 140,823, Income: $65,590, Score: 7.80
+Day 21,https://abedderworld.com/mattress-removal/colorado/westminster/,Westminster,CO,P2,Pop: 116,317, Income: $73,599, Score: 7.80
+Day 21,https://abedderworld.com/mattress-removal/texas/wylie/,Wylie,TX,P2,Pop: 57,526, Income: $103,472, Score: 7.79
+Day 21,https://abedderworld.com/mattress-removal/massachusetts/quincy/,Quincy,MA,P2,Pop: 101,636, Income: $76,164, Score: 7.77
+Day 21,https://abedderworld.com/mattress-removal/colorado/boulder/,Boulder,CO,P2,Pop: 108,777, Income: $71,604, Score: 7.75
+Day 22,https://abedderworld.com/mattress-removal/new-hampshire/nashua/,Nashua,NH,P2,Pop: 91,322, Income: $78,996, Score: 7.75
+Day 22,https://abedderworld.com/mattress-removal/michigan/ann-arbor/,Ann Arbor,MI,P2,Pop: 123,851, Income: $65,745, Score: 7.75
+Day 22,https://abedderworld.com/mattress-removal/new-jersey/hamilton/,Hamilton,NJ,P2,Pop: 88,464, Income: $77,982, Score: 7.73
+Day 22,https://abedderworld.com/mattress-removal/connecticut/danbury/,Danbury,CT,P2,Pop: 86,518, Income: $77,509, Score: 7.71
+Day 22,https://abedderworld.com/mattress-removal/texas/grapevine/,Grapevine,TX,P2,Pop: 54,151, Income: $89,456, Score: 7.63
+Day 22,https://abedderworld.com/mattress-removal/texas/grand-prairie/,Grand Prairie,TX,P2,Pop: 196,100, Income: $58,896, Score: 6.88
+Day 22,https://abedderworld.com/mattress-removal/virginia/norfolk/,Norfolk,VA,P2,Pop: 238,005, Income: $49,210, Score: 6.87
+Day 23,https://abedderworld.com/mattress-removal/california/escondido/,Escondido,CA,P2,Pop: 151,038, Income: $67,231, Score: 6.85
+Day 23,https://abedderworld.com/mattress-removal/california/antioch/,Antioch,CA,P3,Pop: 115,291, Income: $76,401, Score: 6.83
+Day 23,https://abedderworld.com/mattress-removal/virginia/newport-news/,Newport News,VA,P3,Pop: 186,247, Income: $54,982, Score: 6.82
+Day 23,https://abedderworld.com/mattress-removal/tennessee/clarksville/,Clarksville,TN,P3,Pop: 166,722, Income: $55,384, Score: 6.78
+Day 23,https://abedderworld.com/mattress-removal/tennessee/murfreesboro/,Murfreesboro,TN,P3,Pop: 152,769, Income: $58,791, Score: 6.77
+Day 23,https://abedderworld.com/mattress-removal/texas/lewisville/,Lewisville,TX,P3,Pop: 111,822, Income: $69,024, Score: 6.74
+Day 23,https://abedderworld.com/mattress-removal/texas/mesquite/,Mesquite,TX,P3,Pop: 150,108, Income: $55,792, Score: 6.73
+Day 24,https://abedderworld.com/mattress-removal/new-jersey/toms-river/,Toms River,NJ,P3,Pop: 95,438, Income: $75,326, Score: 6.73
+Day 24,https://abedderworld.com/mattress-removal/texas/denton/,Denton,TX,P3,Pop: 148,338, Income: $55,500, Score: 6.73
+Day 24,https://abedderworld.com/mattress-removal/california/pomona/,Pomona,CA,P3,Pop: 151,124, Income: $54,234, Score: 6.72
+Day 24,https://abedderworld.com/mattress-removal/florida/brandon/,Brandon,FL,P3,Pop: 114,626, Income: $64,782, Score: 6.71
+Day 24,https://abedderworld.com/mattress-removal/washington/everett/,Everett,WA,P3,Pop: 113,127, Income: $63,988, Score: 6.69
+Day 24,https://abedderworld.com/mattress-removal/florida/west-palm-beach/,West Palm Beach,FL,P3,Pop: 117,415, Income: $62,038, Score: 6.69
+Day 24,https://abedderworld.com/mattress-removal/michigan/livonia/,Livonia,MI,P3,Pop: 93,971, Income: $71,708, Score: 6.69
+Day 25,https://abedderworld.com/mattress-removal/virginia/hampton/,Hampton,VA,P3,Pop: 137,148, Income: $54,027, Score: 6.68
+Day 25,https://abedderworld.com/mattress-removal/north-carolina/concord/,Concord,NC,P3,Pop: 96,341, Income: $67,788, Score: 6.66
+Day 25,https://abedderworld.com/mattress-removal/california/norwalk/,Norwalk,CA,P3,Pop: 102,773, Income: $64,710, Score: 6.66
+Day 25,https://abedderworld.com/mattress-removal/texas/pasadena/,Pasadena,TX,P3,Pop: 151,227, Income: $47,806, Score: 6.66
+Day 25,https://abedderworld.com/mattress-removal/virginia/suffolk/,Suffolk,VA,P3,Pop: 94,324, Income: $68,102, Score: 6.66
+Day 25,https://abedderworld.com/mattress-removal/new-jersey/elizabeth/,Elizabeth,NJ,P3,Pop: 137,298, Income: $50,847, Score: 6.65
+Day 25,https://abedderworld.com/mattress-removal/florida/palm-bay/,Palm Bay,FL,P3,Pop: 119,760, Income: $56,104, Score: 6.64
+Day 26,https://abedderworld.com/mattress-removal/massachusetts/lowell/,Lowell,MA,P3,Pop: 115,554, Income: $56,786, Score: 6.63
+Day 26,https://abedderworld.com/mattress-removal/michigan/dearborn/,Dearborn,MI,P3,Pop: 109,976, Income: $58,934, Score: 6.63
+Day 26,https://abedderworld.com/mattress-removal/rhode-island/warwick/,Warwick,RI,P3,Pop: 82,823, Income: $70,481, Score: 6.62
+Day 26,https://abedderworld.com/mattress-removal/colorado/greeley/,Greeley,CO,P3,Pop: 108,795, Income: $58,194, Score: 6.62
+Day 26,https://abedderworld.com/mattress-removal/new-hampshire/manchester/,Manchester,NH,P3,Pop: 115,644, Income: $54,506, Score: 6.61
+Day 26,https://abedderworld.com/mattress-removal/rhode-island/cranston/,Cranston,RI,P4,Pop: 82,934, Income: $67,637, Score: 6.60
+Day 26,https://abedderworld.com/mattress-removal/florida/clearwater/,Clearwater,FL,P4,Pop: 117,292, Income: $52,099, Score: 6.59
+Day 27,https://abedderworld.com/mattress-removal/florida/lakeland/,Lakeland,FL,P4,Pop: 112,641, Income: $50,183, Score: 6.55
+Day 27,https://abedderworld.com/mattress-removal/florida/pompano-beach/,Pompano Beach,FL,P4,Pop: 112,046, Income: $48,936, Score: 6.54
+Day 27,https://abedderworld.com/mattress-removal/north-carolina/high-point/,High Point,NC,P4,Pop: 114,059, Income: $47,073, Score: 6.53
+Day 27,https://abedderworld.com/mattress-removal/massachusetts/brockton/,Brockton,MA,P4,Pop: 105,643, Income: $50,013, Score: 6.52
+Day 27,https://abedderworld.com/mattress-removal/new-york/cheektowaga/,Cheektowaga,NY,P4,Pop: 88,226, Income: $57,823, Score: 6.52
+Day 27,https://abedderworld.com/mattress-removal/washington/bellingham/,Bellingham,WA,P4,Pop: 93,896, Income: $53,867, Score: 6.51
+Day 27,https://abedderworld.com/mattress-removal/massachusetts/lynn/,Lynn,MA,P4,Pop: 94,654, Income: $48,224, Score: 6.46
+Day 28,https://abedderworld.com/mattress-removal/ohio/parma/,Parma,OH,P4,Pop: 79,825, Income: $53,982, Score: 6.44
+Day 28,https://abedderworld.com/mattress-removal/georgia/warner-robins/,Warner Robins,GA,P4,Pop: 80,308, Income: $51,983, Score: 6.42
+Day 28,https://abedderworld.com/mattress-removal/north-carolina/chapel-hill/,Chapel Hill,NC,P4,Pop: 61,960, Income: $61,826, Score: 6.41
+Day 28,https://abedderworld.com/mattress-removal/new-york/hempstead/,Hempstead,NY,P4,Pop: 59,169, Income: $62,331, Score: 6.40
+Day 28,https://abedderworld.com/mattress-removal/michigan/westland/,Westland,MI,P4,Pop: 81,713, Income: $47,721, Score: 6.39
+Day 28,https://abedderworld.com/mattress-removal/pennsylvania/bethlehem/,Bethlehem,PA,P4,Pop: 75,781, Income: $46,393, Score: 6.34
+Day 28,https://abedderworld.com/mattress-removal/new-york/west-seneca/,West Seneca,NY,P4,Pop: 44,710, Income: $63,543, Score: 6.29
+Day 29,https://abedderworld.com/mattress-removal/new-jersey/paterson/,Paterson,NJ,P4,Pop: 159,732, Income: $39,278, Score: 6.10
+Day 29,https://abedderworld.com/mattress-removal/virginia/roanoke/,Roanoke,VA,P4,Pop: 99,897, Income: $49,832, Score: 6.00
+Day 29,https://abedderworld.com/mattress-removal/ohio/dayton/,Dayton,OH,P4,Pop: 137,644, Income: $35,174, Score: 5.99
+Day 29,https://abedderworld.com/mattress-removal/connecticut/waterbury/,Waterbury,CT,P4,Pop: 108,802, Income: $45,364, Score: 5.99
+Day 29,https://abedderworld.com/mattress-removal/virginia/portsmouth/,Portsmouth,VA,P4,Pop: 97,915, Income: $48,759, Score: 5.98
+Day 29,https://abedderworld.com/mattress-removal/washington/yakima/,Yakima,WA,P4,Pop: 96,968, Income: $42,352, Score: 5.91
+Day 29,https://abedderworld.com/mattress-removal/massachusetts/new-bedford/,New Bedford,MA,P4,Pop: 101,079, Income: $39,140, Score: 5.90
+Day 30,https://abedderworld.com/mattress-removal/north-carolina/gastonia/,Gastonia,NC,P4,Pop: 80,411, Income: $45,826, Score: 5.86
+Day 30,https://abedderworld.com/mattress-removal/virginia/lynchburg/,Lynchburg,VA,P4,Pop: 79,009, Income: $44,581, Score: 5.84
