@@ -36,6 +36,12 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
 
+# HTML caching for better performance
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=300, s-maxage=86400"
+
 [[headers]]
   for = "/css/*"
   [headers.values]
