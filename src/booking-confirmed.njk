@@ -315,36 +315,6 @@ eleventyExcludeFromCollections: true
       });
     }
 
-    // TEMPORARILY DISABLED FOR CORE WEB VITALS - Custom analytics system
-    /*
-    if (typeof window.BedderAnalytics !== 'undefined') {
-      window.BedderAnalytics.track('booking_completed', {
-        location_state: locationData.state,
-        location_city: locationData.city,
-        full_location: locationData.full_location,
-        booking_source: locationData.booking_source,
-        referrer_url: document.referrer,
-        session_duration: getSessionDuration()
-      });
-    } else {
-      // Fallback - send directly to custom endpoint
-      fetch('/api/analytics', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          event: 'booking_completed',
-          data: {
-            location_state: locationData.state,
-            location_city: locationData.city,
-            full_location: locationData.full_location,
-            booking_source: locationData.booking_source,
-            referrer_url: document.referrer,
-            timestamp: new Date().toISOString()
-          }
-        })
-      }).catch(error => console.log('Analytics endpoint not available'));
-    }
-    */
 
     // Store booking completion for session analysis
     sessionStorage.setItem('booking_completed', JSON.stringify({
