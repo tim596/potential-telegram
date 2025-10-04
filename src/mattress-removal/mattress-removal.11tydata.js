@@ -83,9 +83,9 @@ module.exports = {
       // Handle city location pages (those with city)
       if (data.city) {
         if (data.city.length <= 15) {
-          return `Join 1M+ customers who've recycled with us. We pick up mattresses throughout ${data.city}. Book online in 60 seconds. Next-day service. Eco-certified.`;
+          return `Eco-friendly mattress removal in ${data.city}. Next-day curbside pickup, 13+ years experience. 1M+ mattresses recycled. Book online in 60 seconds.`;
         } else {
-          return `Join 1M+ customers who've recycled with us. Serving all ${data.city}. Book online in 60 seconds. Next-day pickup. Eco-certified.`;
+          return `Eco-friendly mattress removal serving all ${data.city}. Next-day curbside pickup, 13+ years experience. 1M+ mattresses recycled. Book online in 60 seconds.`;
         }
       }
 
