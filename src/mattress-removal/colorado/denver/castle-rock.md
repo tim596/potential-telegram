@@ -116,7 +116,7 @@ schema:
   "@type": "LocalBusiness"
   "name": "A Bedder World Castle Rock"
   "image": "https://abedderworld.com/images/service-areas/castle-rock-mattress-removal.jpg"
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "email": "info@abedderworld.com"
   "address":
     "@type": "PostalAddress"

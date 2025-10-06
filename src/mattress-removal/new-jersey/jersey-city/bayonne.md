@@ -113,7 +113,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 40.6687
     "longitude": -74.1143
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/new-jersey/jersey-city/bayonne/"
   "priceRange": "$125-$180"
   "serviceArea": "Bayonne, NJ"

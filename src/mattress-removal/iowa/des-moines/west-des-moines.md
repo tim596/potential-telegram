@@ -123,7 +123,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 41.5769
     "longitude": -93.7118
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "West Des Moines, Iowa"
   "aggregateRating":

@@ -140,7 +140,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 39.9259
     "longitude": -75.1196
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/new-jersey/camden/"
   "priceRange": "$125-$180"
   "serviceArea": "Camden, NJ"

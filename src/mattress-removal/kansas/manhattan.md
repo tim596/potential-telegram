@@ -121,7 +121,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 39.1836
     "longitude": -96.5717
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Manhattan, Kansas"
   "aggregateRating":

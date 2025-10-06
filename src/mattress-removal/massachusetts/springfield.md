@@ -208,7 +208,7 @@ schema: |
     "name": "A Bedder World Springfield",
     "description": "Professional mattress removal service in Springfield, Massachusetts. Licensed service for Western Massachusetts's largest city with Basketball Hall of Fame and diverse community expertise.",
     "url": "https://abedderworld.com/mattress-removal/massachusetts/springfield/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Springfield",

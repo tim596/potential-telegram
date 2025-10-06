@@ -125,7 +125,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 38.2098
     "longitude": -84.5588
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Georgetown, Kentucky"
   "aggregateRating":

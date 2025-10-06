@@ -121,7 +121,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 42.3370
     "longitude": -83.2732
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Dearborn Heights, Michigan"
   "aggregateRating":

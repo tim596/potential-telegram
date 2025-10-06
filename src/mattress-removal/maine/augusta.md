@@ -188,7 +188,7 @@ schema: |
     "name": "A Bedder World Augusta",
     "description": "Professional mattress removal service in Augusta, Maine. Licensed, insured service for Maine's capital city with government-friendly scheduling.",
     "url": "https://abedderworld.com/mattress-removal/maine/augusta/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Augusta",

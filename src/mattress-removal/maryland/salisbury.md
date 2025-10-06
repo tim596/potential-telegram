@@ -203,7 +203,7 @@ schema: |
     "name": "A Bedder World Salisbury",
     "description": "Professional mattress removal service in Salisbury, Maryland. Licensed service for Eastern Shore's capital city with university and commercial hub convenience.",
     "url": "https://abedderworld.com/mattress-removal/maryland/salisbury/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Salisbury",

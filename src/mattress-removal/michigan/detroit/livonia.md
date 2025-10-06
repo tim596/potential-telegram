@@ -101,7 +101,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 42.3684
     "longitude": -83.3528
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Livonia, Michigan"
   "aggregateRating":

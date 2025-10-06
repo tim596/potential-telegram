@@ -150,7 +150,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 34.3917
     "longitude": -118.5426
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "areaServed": "Santa Clarita, CA"
   "aggregateRating":

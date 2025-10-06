@@ -101,7 +101,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 42.6584
     "longitude": -83.1497
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Rochester Hills, Michigan"
   "aggregateRating":

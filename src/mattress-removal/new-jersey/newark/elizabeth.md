@@ -119,7 +119,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 40.6640
     "longitude": -74.2107
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/new-jersey/newark/elizabeth/"
   "priceRange": "$125-$180"
   "serviceArea": "Elizabeth, NJ"

@@ -121,7 +121,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 40.4167
     "longitude": -86.8753
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Lafayette, Indiana"
   "aggregateRating":

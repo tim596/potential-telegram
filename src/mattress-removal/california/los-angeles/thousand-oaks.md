@@ -168,7 +168,7 @@ schema: |
     "name": "A Bedder World Thousand Oaks",
     "description": "Professional mattress removal and recycling service in Thousand Oaks, California",
     "url": "https://abedderworld.com/mattress-removal/california/los-angeles/thousand-oaks/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress", 
       "addressLocality": "Thousand Oaks",

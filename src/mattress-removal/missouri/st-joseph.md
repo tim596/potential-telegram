@@ -145,7 +145,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 39.7674
     "longitude": -94.8467
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/missouri/st-joseph/"
   "priceRange": "$125-$180"
   "serviceArea": "St. Joseph, MO"

@@ -202,7 +202,7 @@ schema: |
     "name": "A Bedder World Annapolis",
     "description": "Professional mattress removal service in Annapolis, Maryland. Licensed service for Maryland's capital city with Naval Academy and government district convenience.",
     "url": "https://abedderworld.com/mattress-removal/maryland/annapolis/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Annapolis",

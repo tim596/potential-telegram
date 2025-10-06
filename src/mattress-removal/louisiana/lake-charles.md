@@ -118,7 +118,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 30.2266
     "longitude": -93.2174
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Lake Charles, Louisiana"
   "aggregateRating":

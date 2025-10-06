@@ -118,7 +118,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 39.4143
     "longitude": -77.4105
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Frederick, Maryland"
   "aggregateRating":

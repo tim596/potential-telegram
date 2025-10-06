@@ -98,7 +98,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 43.0936
     "longitude": -89.5126
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Middleton, WI"
   "aggregateRating":

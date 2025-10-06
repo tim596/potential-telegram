@@ -131,7 +131,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 42.0334
     "longitude": -87.7334
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Skokie, Illinois"
   "aggregateRating":

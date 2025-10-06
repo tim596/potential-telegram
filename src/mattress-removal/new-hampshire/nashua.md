@@ -121,7 +121,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 42.7654
     "longitude": -71.4676
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/new-hampshire/nashua/"
   "priceRange": "$125-$180"
   "serviceArea": "Nashua, NH"

@@ -122,7 +122,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 30.2241
     "longitude": -92.0198
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Lafayette, Louisiana"
   "aggregateRating":

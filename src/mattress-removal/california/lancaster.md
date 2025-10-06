@@ -254,7 +254,7 @@ schema: |
     "name": "A Bedder World Lancaster",
     "description": "Professional mattress removal and recycling service in Lancaster, California",
     "url": "https://abedderworld.com/mattress-removal/california/los-angeles/lancaster/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Lancaster",

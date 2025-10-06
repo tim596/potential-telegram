@@ -229,7 +229,7 @@ schema: |
     "name": "A Bedder World Paterson",
     "description": "Professional mattress removal and recycling service in Paterson, New Jersey",
     "url": "https://abedderworld.com/mattress-removal/new-jersey/paterson/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Paterson",

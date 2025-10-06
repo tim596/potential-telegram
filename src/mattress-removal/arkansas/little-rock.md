@@ -208,7 +208,7 @@ schema: |
     "name": "A Bedder World Little Rock",
     "description": "Professional mattress removal and recycling service in Little Rock, Arkansas",
     "url": "https://abedderworld.com/mattress-removal/arkansas/little-rock/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress", 
       "addressLocality": "Little Rock",

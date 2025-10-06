@@ -117,7 +117,7 @@ schema:
   "@type": "LocalBusiness"
   "name": "A Bedder World Firestone"
   "image": "https://abedderworld.com/images/service-areas/firestone-mattress-removal.jpg"
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "email": "info@abedderworld.com"
   "address":
     "@type": "PostalAddress"

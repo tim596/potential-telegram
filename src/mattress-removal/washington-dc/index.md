@@ -135,7 +135,7 @@ schema: |
     "image": "https://abedderworld.com/images/mattress-removal-service.jpg",
     "@id": "https://abedderworld.com/mattress-removal/washington-dc/",
     "url": "https://abedderworld.com/mattress-removal/washington-dc/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Washington",

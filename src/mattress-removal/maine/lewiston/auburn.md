@@ -204,7 +204,7 @@ schema: |
     "name": "A Bedder World Auburn",
     "description": "Professional mattress removal service in Auburn, Maine. Licensed service for Lewiston-Auburn twin cities with mill town convenience.",
     "url": "https://abedderworld.com/mattress-removal/maine/lewiston/auburn/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Auburn",

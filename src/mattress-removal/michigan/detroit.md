@@ -303,7 +303,7 @@ schema: |
     "name": "A Bedder World Detroit",
     "description": "Professional mattress removal service in Detroit, Michigan. Licensed service for the Motor City's growing neighborhoods with Victorian mansion and modern development expertise.",
     "url": "https://abedderworld.com/mattress-removal/michigan/detroit/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Detroit",

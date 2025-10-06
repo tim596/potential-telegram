@@ -114,7 +114,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 39.0228
     "longitude": -94.7152
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Shawnee, Kansas"
   "aggregateRating":

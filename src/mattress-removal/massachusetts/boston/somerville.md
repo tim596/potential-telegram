@@ -205,7 +205,7 @@ schema: |
     "name": "A Bedder World Somerville",
     "description": "Professional mattress removal service in Somerville, Massachusetts. Licensed service for Boston's creative community with triple-decker and artist studio expertise.",
     "url": "https://abedderworld.com/mattress-removal/massachusetts/boston/somerville/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Somerville",

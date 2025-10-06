@@ -124,7 +124,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 41.7298
     "longitude": -93.6055
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Ankeny, Iowa"
   "aggregateRating":

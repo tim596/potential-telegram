@@ -218,7 +218,7 @@ schema: |
     "name": "A Bedder World Cherry Hill",
     "description": "Professional mattress removal and recycling service in Cherry Hill, New Jersey",
     "url": "https://abedderworld.com/mattress-removal/new-jersey/camden/cherry-hill/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Cherry Hill",

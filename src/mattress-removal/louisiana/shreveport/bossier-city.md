@@ -184,7 +184,7 @@ schema: |
     "name": "A Bedder World Bossier City",
     "description": "Professional mattress removal service in Bossier City, Louisiana. Military-friendly service for Barksdale AFB families and Shreveport metro residents.",
     "url": "https://abedderworld.com/mattress-removal/louisiana/shreveport/bossier-city/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Bossier City",

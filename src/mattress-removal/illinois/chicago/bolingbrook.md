@@ -121,7 +121,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 41.6986
     "longitude": -88.0784
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Bolingbrook, Illinois"
   "aggregateRating":

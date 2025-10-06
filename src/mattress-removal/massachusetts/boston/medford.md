@@ -205,7 +205,7 @@ schema: |
     "name": "A Bedder World Medford",
     "description": "Professional mattress removal service in Medford, Massachusetts. Licensed service for Boston's authentic working-class suburb with diverse community expertise.",
     "url": "https://abedderworld.com/mattress-removal/massachusetts/boston/medford/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Medford",

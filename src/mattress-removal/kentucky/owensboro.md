@@ -122,7 +122,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 37.7719
     "longitude": -87.1111
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Owensboro, Kentucky"
   "aggregateRating":

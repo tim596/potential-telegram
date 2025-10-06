@@ -154,7 +154,7 @@ schema:
   "@type": "LocalBusiness"
   "name": "A Bedder World Mattress Removal - Fontana"
   "description": "Professional mattress removal service in Fontana, California"
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "address":
     "@type": "PostalAddress"
     "addressLocality": "Fontana"

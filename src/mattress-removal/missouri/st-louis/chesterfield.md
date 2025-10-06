@@ -139,7 +139,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 38.6631
     "longitude": -90.5770
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/missouri/st-louis/chesterfield/"
   "priceRange": "$125-$180"
   "serviceArea": "Chesterfield, MO"

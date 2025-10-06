@@ -209,7 +209,7 @@ schema: |
     "name": "A Bedder World New Brunswick",
     "description": "Professional mattress removal and recycling service in New Brunswick, New Jersey",
     "url": "https://abedderworld.com/mattress-removal/new-jersey/new-brunswick/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "New Brunswick",

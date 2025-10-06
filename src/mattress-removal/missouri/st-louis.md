@@ -151,7 +151,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 38.6270
     "longitude": -90.1994
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/missouri/st-louis/"
   "priceRange": "$125-$180"
   "serviceArea": "St. Louis Metro Area, MO"

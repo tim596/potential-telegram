@@ -205,7 +205,7 @@ schema: |
     "name": "A Bedder World Brookline",
     "description": "Professional mattress removal service in Brookline, Massachusetts. Licensed service for Boston's independent enclave with premium apartment and condo expertise.",
     "url": "https://abedderworld.com/mattress-removal/massachusetts/boston/brookline/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Brookline",

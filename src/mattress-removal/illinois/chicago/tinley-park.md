@@ -126,7 +126,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 41.5731
     "longitude": -87.7845
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Tinley Park, Illinois"
   "aggregateRating":

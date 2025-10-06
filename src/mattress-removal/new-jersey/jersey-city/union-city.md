@@ -115,7 +115,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 40.7696
     "longitude": -74.0263
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/new-jersey/jersey-city/union-city/"
   "priceRange": "$125-$180"
   "serviceArea": "Union City, NJ"

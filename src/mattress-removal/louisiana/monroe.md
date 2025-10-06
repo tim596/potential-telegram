@@ -209,7 +209,7 @@ schema: |
     "name": "A Bedder World Monroe",
     "description": "Professional mattress removal and recycling service in Monroe, Louisiana. Part of nationwide 1M+ mattress recycling program.",
     "url": "https://abedderworld.com/mattress-removal/louisiana/monroe/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Monroe",

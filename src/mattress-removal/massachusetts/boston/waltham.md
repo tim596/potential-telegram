@@ -121,7 +121,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 42.3765
     "longitude": -71.2356
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Waltham, Massachusetts"
   "aggregateRating":

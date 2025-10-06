@@ -113,7 +113,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 40.9264
     "longitude": -98.3420
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/nebraska/grand-island/"
   "priceRange": "$125-$180"
   "serviceArea": "Grand Island, NE"

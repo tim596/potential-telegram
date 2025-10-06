@@ -144,7 +144,7 @@ schema:
   "image": "https://abedderworld.com/images/meridian-mattress-removal.jpg"
   "@id": "https://abedderworld.com/mattress-removal/mississippi/meridian/"
   "url": "https://abedderworld.com/mattress-removal/mississippi/meridian/"
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "address":
     "@type": "PostalAddress"
     "streetAddress": "Service Area"

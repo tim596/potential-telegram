@@ -132,7 +132,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 41.7508
     "longitude": -88.1535
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Naperville, Illinois"
   "aggregateRating":

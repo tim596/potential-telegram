@@ -130,7 +130,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 38.2527
     "longitude": -85.7585
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Louisville, Kentucky"
   "aggregateRating":

@@ -117,7 +117,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 39.1612
     "longitude": -86.5264
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Bloomington, Indiana"
   "aggregateRating":

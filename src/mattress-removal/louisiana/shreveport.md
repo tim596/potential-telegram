@@ -122,7 +122,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 32.5252
     "longitude": -93.7502
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Shreveport, Louisiana"
   "aggregateRating":

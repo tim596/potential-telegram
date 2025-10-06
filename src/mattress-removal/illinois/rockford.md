@@ -116,7 +116,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 42.2711
     "longitude": -89.0940
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Rockford, Illinois"
   "aggregateRating":

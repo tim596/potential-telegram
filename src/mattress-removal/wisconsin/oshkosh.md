@@ -110,7 +110,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 44.0247
     "longitude": -88.5426
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Oshkosh, WI"
   "aggregateRating":

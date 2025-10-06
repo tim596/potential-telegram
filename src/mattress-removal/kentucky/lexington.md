@@ -132,7 +132,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 38.0406
     "longitude": -84.5037
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Lexington, Kentucky"
   "aggregateRating":

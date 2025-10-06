@@ -212,7 +212,7 @@ schema: |
     "name": "A Bedder World Palmdale",
     "description": "Professional mattress removal and recycling service in Palmdale, California",
     "url": "https://abedderworld.com/mattress-removal/california/los-angeles/palmdale/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Palmdale",

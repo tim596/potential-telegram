@@ -193,7 +193,7 @@ schema: |
     "name": "A Bedder World Pontiac",
     "description": "Professional mattress removal service in Pontiac, Michigan. Licensed service for Detroit's diverse automotive heritage community with Franklin Boulevard historic homes and urban renewal neighborhoods.",
     "url": "https://abedderworld.com/mattress-removal/michigan/detroit/pontiac/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Pontiac",

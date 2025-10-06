@@ -94,7 +94,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 42.6334
     "longitude": -71.3162
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Lowell, Massachusetts"
   "aggregateRating":

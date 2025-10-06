@@ -128,7 +128,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 29.9511
     "longitude": -90.0715
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "New Orleans, Louisiana"
   "aggregateRating":

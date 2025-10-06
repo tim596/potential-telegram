@@ -117,7 +117,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 41.5868
     "longitude": -87.3467
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Gary, Indiana"
   "aggregateRating":

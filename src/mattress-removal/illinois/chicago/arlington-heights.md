@@ -139,7 +139,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 42.0884
     "longitude": -87.9806
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Arlington Heights, Illinois"
   "aggregateRating":

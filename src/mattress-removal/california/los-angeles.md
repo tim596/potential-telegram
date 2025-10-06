@@ -332,7 +332,7 @@ schema: |
     "name": "A Bedder World Los Angeles",
     "description": "Professional mattress removal and recycling service in Los Angeles, California",
     "url": "https://abedderworld.com/mattress-removal/california/los-angeles/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Los Angeles",

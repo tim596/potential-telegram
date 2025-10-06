@@ -190,7 +190,7 @@ schema: |
     "name": "A Bedder World Rio Rancho",
     "description": "Professional mattress removal and recycling service in Rio Rancho, New Mexico",
     "url": "https://abedderworld.com/mattress-removal/new-mexico/albuquerque/rio-rancho/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Rio Rancho",

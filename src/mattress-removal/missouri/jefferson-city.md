@@ -142,7 +142,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 38.5720
     "longitude": -92.1890
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "url": "https://abedderworld.com/mattress-removal/missouri/jefferson-city/"
   "priceRange": "$125-$180"
   "serviceArea": "Jefferson City, MO"

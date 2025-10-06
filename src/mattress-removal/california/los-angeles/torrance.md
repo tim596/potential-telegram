@@ -176,7 +176,7 @@ schema: |
     "name": "A Bedder World Torrance",
     "description": "Professional mattress removal and recycling service in Torrance, California",
     "url": "https://abedderworld.com/mattress-removal/california/los-angeles/torrance/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress", 
       "addressLocality": "Torrance",

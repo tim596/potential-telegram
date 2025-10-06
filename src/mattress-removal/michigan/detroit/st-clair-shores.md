@@ -225,7 +225,7 @@ schema: |
     "name": "A Bedder World St. Clair Shores",
     "description": "Professional mattress removal service in St. Clair Shores, Michigan. Licensed service for this lakeside Detroit suburb with waterfront condos and ranch home expertise.",
     "url": "https://abedderworld.com/mattress-removal/michigan/detroit/st-clair-shores/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "St. Clair Shores",

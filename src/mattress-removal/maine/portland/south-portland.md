@@ -103,7 +103,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 43.6414
     "longitude": -70.2409
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "South Portland, Maine"
   "aggregateRating":

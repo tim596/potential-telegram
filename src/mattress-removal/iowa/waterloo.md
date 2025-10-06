@@ -121,7 +121,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 40.7267
     "longitude": -92.3426
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Waterloo, Iowa"
   "aggregateRating":

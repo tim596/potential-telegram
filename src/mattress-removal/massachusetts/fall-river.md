@@ -204,7 +204,7 @@ schema: |
     "name": "A Bedder World Fall River",
     "description": "Professional mattress removal service in Fall River, Massachusetts. Licensed service for America's most Portuguese city with textile heritage and triple-decker expertise.",
     "url": "https://abedderworld.com/mattress-removal/massachusetts/fall-river/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Fall River",

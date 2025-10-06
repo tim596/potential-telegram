@@ -200,7 +200,7 @@ schema: |
     "name": "A Bedder World Farmington Hills",
     "description": "Professional mattress removal service in Farmington Hills, Michigan. Licensed service for metro Detroit's affluent suburban communities with Heritage Park and Brady Bunch era homes expertise.",
     "url": "https://abedderworld.com/mattress-removal/michigan/detroit/farmington-hills/",
-    "telephone": "720-263-6094",
+    "telephone": "+1-720-263-6094",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Farmington Hills",

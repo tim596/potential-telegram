@@ -145,7 +145,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 34.2694
     "longitude": -118.7815
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "areaServed": "Simi Valley, CA"
   "aggregateRating":

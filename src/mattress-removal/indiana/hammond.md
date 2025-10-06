@@ -121,7 +121,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 41.5834
     "longitude": -87.5001
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Hammond, Indiana"
   "aggregateRating":

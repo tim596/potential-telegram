@@ -114,7 +114,7 @@ schema:
     "@type": "GeoCoordinates"
     "latitude": 39.6417
     "longitude": -77.7200
-  "telephone": "720-263-6094"
+  "telephone": "+1-720-263-6094"
   "priceRange": "$125-$180"
   "serviceArea": "Hagerstown, Maryland"
   "aggregateRating":
