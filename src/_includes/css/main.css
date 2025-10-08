@@ -2899,6 +2899,7 @@ main .container {
     }
 }
 
+
 @media (max-width: 480px) {
     .hero-title-location {
         font-size: 2rem;
