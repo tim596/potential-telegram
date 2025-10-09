@@ -7,7 +7,7 @@ module.exports = {
         const stateAbbrev = stateAbbreviations[data.stateSlug];
 
         if (stateAbbrev) {
-          return `Mattress Removal & Recycling in ${data.city}, ${stateAbbrev}`;
+          return `${data.city} Mattress Removal ~ Book Online in 60 Seconds`;
         }
       }
 
@@ -72,7 +72,7 @@ module.exports = {
 
         const stateName = stateNames[stateSlug];
         if (stateName) {
-          return `Mattress Removal & Recycling in ${stateName} | A Bedder World`;
+          return `${stateName} Mattress Removal ~ Book Online in 60 Seconds`;
         }
       }
 
