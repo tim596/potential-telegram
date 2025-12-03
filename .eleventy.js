@@ -17,8 +17,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/js");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
   eleventyConfig.addPassthroughCopy("src/sitemap.xml");
+  eleventyConfig.addPassthroughCopy("src/llms.txt");
   eleventyConfig.addPassthroughCopy("src/_redirects");
   eleventyConfig.addPassthroughCopy("src/.htaccess");
+  eleventyConfig.addPassthroughCopy("functions");
 
   // Minify HTML in production
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
@@ -134,6 +136,16 @@ module.exports = function(eleventyConfig) {
   // Helper for JSON-LD schema
   eleventyConfig.addShortcode("jsonLd", function(data) {
     return `<script type="application/ld+json">${JSON.stringify(data, null, 2)}</script>`;
+  });
+
+  // Filter to safely serialize schema data to JSON
+  eleventyConfig.addFilter("toJson", function(data) {
+    if (typeof data === 'string') {
+      // If it's already a string, assume it's already valid JSON
+      return data;
+    }
+    // If it's an object, serialize it
+    return JSON.stringify(data, null, 2);
   });
 
   // Format number with commas
