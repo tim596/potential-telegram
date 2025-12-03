@@ -331,6 +331,65 @@ schema: |
     </div>
 </section>
 
+<!-- Industry Research & Insights -->
+<section class="section" style="background-color: var(--gray-50);">
+    <div class="container">
+        <h2 class="section-title">Industry Research & Insights</h2>
+        <p class="section-description">
+            Comprehensive analysis and data-driven insights from over 1 million mattress disposals
+        </p>
+
+        <div class="research-card-container">
+            <div class="research-card">
+                <div class="research-content">
+                    <div class="research-badge">
+                        <span>New Research Report</span>
+                    </div>
+                    <h3 class="research-title">The 2026 State of Mattress Removal Report</h3>
+                    <p class="research-description">
+                        Comprehensive analysis of mattress disposal costs, recycling programs, and regulations across all 50 states.
+                        Based on data from 1.15+ million mattresses processed by A Bedder World and industry partners.
+                    </p>
+                    <div class="research-highlights">
+                        <div class="highlight">✓ State-by-state cost analysis</div>
+                        <div class="highlight">✓ Recycling program comparisons</div>
+                        <div class="highlight">✓ Industry outlook 2026-2027</div>
+                    </div>
+                    <a href="/research/2026-state-of-mattress-removal-report/" class="btn btn-primary">
+                        Read Full Report →
+                    </a>
+                    <div class="research-meta">
+                        <span>Published December 2025 • Free Download</span>
+                    </div>
+                </div>
+                <div class="research-visual">
+                    <div class="report-preview">
+                        <div class="report-icon">
+                            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M3 3V21H21V3H3Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path d="M9 9H15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path d="M9 13H15" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                <path d="M9 17H13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </div>
+                        <div class="report-title-small">2026 Industry Report</div>
+                        <div class="report-stats">
+                            <div class="stat">
+                                <div class="stat-number">50</div>
+                                <div class="stat-label">States</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-number">1.15M+</div>
+                                <div class="stat-label">Data Points</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- Final CTA -->
 <section class="section">
     <div class="container">
@@ -765,7 +824,6 @@ schema: |
     grid-template-rows: 1fr 1fr;
     gap: 12px;
     border-radius: 20px;
-    overflow: hidden;
     background: var(--gray-100);
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
     aspect-ratio: 4/3;
@@ -775,6 +833,7 @@ schema: |
     position: relative;
     overflow: hidden;
     background: var(--gray-200);
+    border-radius: 12px;
 }
 
 .collage-main {
@@ -830,6 +889,7 @@ schema: |
     position: absolute;
     bottom: 20px;
     right: 20px;
+    z-index: 10;
 }
 
 .stat-card {
@@ -841,20 +901,37 @@ schema: |
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
 }
 
-.stat-number {
+.image-overlay .stat-number {
     font-size: 24px;
     font-weight: 800;
-    color: var(--primary-green);
+    color: var(--primary-green) !important;
     line-height: 1;
     margin-bottom: 4px;
 }
 
-.stat-label {
+.image-overlay .stat-label {
     font-size: 12px;
-    color: var(--gray-600);
+    color: var(--gray-600) !important;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.5px;
+}
+
+.report-stats .stat-number {
+    font-size: 1.5rem;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: 4px;
+    color: white !important;
+}
+
+.report-stats .stat-label {
+    font-size: 11px;
+    opacity: 0.9;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.9) !important;
 }
 
 /* Animations */
@@ -963,6 +1040,215 @@ schema: |
     .feature {
         flex-direction: row;
         justify-content: center;
+    }
+}
+
+/* Research Card Styles */
+.research-card-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+}
+
+.research-card {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 40px;
+    align-items: center;
+    background: var(--white);
+    padding: 40px;
+    border-radius: var(--border-radius-lg);
+    border: 2px solid var(--gray-200);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    max-width: 900px;
+    width: 100%;
+    transition: var(--transition);
+}
+
+.research-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    border-color: var(--primary-green);
+}
+
+.research-badge {
+    display: inline-block;
+    background: var(--primary-green);
+    color: var(--white);
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 16px;
+}
+
+.research-title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: var(--gray-900);
+    margin-bottom: 16px;
+    line-height: 1.2;
+}
+
+.research-description {
+    color: var(--gray-600);
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+
+.research-highlights {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 32px;
+}
+
+.highlight {
+    color: var(--gray-700);
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+.research-meta {
+    margin-top: 16px;
+    color: var(--gray-500);
+    font-size: 14px;
+    font-style: italic;
+}
+
+.research-visual {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.report-preview {
+    background: linear-gradient(135deg, var(--primary-green), #8ab82d);
+    padding: 32px 24px;
+    border-radius: var(--border-radius-lg);
+    text-align: center;
+    color: white;
+    box-shadow: 0 12px 35px rgba(166, 206, 57, 0.25);
+    width: 220px;
+    position: relative;
+    overflow: hidden;
+}
+
+.report-preview::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(circle at 30% 20%, rgba(255, 255, 255, 0.15) 0%, transparent 50%);
+    pointer-events: none;
+}
+
+.report-icon {
+    margin-bottom: 16px;
+    display: block;
+}
+
+.report-title-small {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    opacity: 0.95;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.report-stats {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.stat {
+    text-align: center;
+    flex: 1;
+}
+
+.stat-number {
+    font-size: 1.5rem;
+    font-weight: 800;
+    line-height: 1;
+    margin-bottom: 4px;
+    color: white;
+}
+
+.stat-label {
+    font-size: 11px;
+    opacity: 0.9;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .research-card {
+        grid-template-columns: 1fr;
+        gap: 32px;
+        padding: 32px 24px;
+        text-align: center;
+    }
+
+    .research-title {
+        font-size: 1.5rem;
+    }
+
+    .research-highlights {
+        align-items: center;
+    }
+
+    .report-preview {
+        width: 200px;
+        padding: 28px 20px;
+    }
+
+    .report-title-small {
+        font-size: 13px;
+        margin-bottom: 16px;
+    }
+
+    .stat-number {
+        font-size: 1.25rem;
+    }
+
+    .stat-label {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .research-card {
+        padding: 24px 20px;
+    }
+
+    .research-title {
+        font-size: 1.3rem;
+    }
+
+    .research-description {
+        font-size: 1rem;
+    }
+
+    .report-preview {
+        width: 180px;
+        padding: 24px 18px;
+    }
+
+    .report-title-small {
+        font-size: 12px;
+        margin-bottom: 14px;
     }
 }
 </style>

@@ -46,7 +46,7 @@
     <!-- Schema.org JSON-LD -->
     {% if schema %}
     <script type="application/ld+json">
-    {{ schema | safe }}
+    {{ schema | toJson | safe }}
     </script>
     {% endif %}
     

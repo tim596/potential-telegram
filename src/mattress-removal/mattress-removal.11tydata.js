@@ -82,11 +82,7 @@ module.exports = {
     pageMetaDescription: (data) => {
       // Handle city location pages (those with city)
       if (data.city) {
-        if (data.city.length <= 15) {
-          return `Eco-friendly mattress removal in ${data.city}. Next-day curbside pickup, 13+ years experience. 1M+ mattresses recycled. Book online in 60 seconds.`;
-        } else {
-          return `Eco-friendly mattress removal serving all ${data.city}. Next-day curbside pickup, 13+ years experience. 1M+ mattresses recycled. Book online in 60 seconds.`;
-        }
+        return `${data.city}'s trusted mattress recycler for 13+ years. We pick up & recycle every mattress responsibly. Book a pickup online today.`;
       }
 
       // Handle state hub pages (those with permalink like /mattress-removal/[state]/)
@@ -149,7 +145,7 @@ module.exports = {
 
         const stateName = stateNames[stateSlug];
         if (stateName) {
-          return `Eco-friendly mattress removal across ${stateName}. Next-day pickup in major cities. Licensed service with 1M+ mattresses recycled nationwide.`;
+          return `${stateName}'s trusted mattress recycler for 13+ years. We pick up & recycle every mattress responsibly. Book a pickup online today.`;
         }
       }
 
