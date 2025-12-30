@@ -150,7 +150,47 @@ layout: base.njk
                 <!-- About Service in City -->
                 <h2>Professional Mattress Removal in {{ city }}, {{ state }}</h2>
                 {{ pageContent.aboutService | safe }}
-                
+
+                <!-- Work Gallery -->
+                <div class="work-gallery">
+                    <h3 class="work-gallery-title">Our Team in Action</h3>
+                    <p class="work-gallery-subtitle">Real pickups and recycling</p>
+                    <div class="gallery-grid">
+                        <div class="gallery-item" onclick="openLightbox(0)">
+                            <img src="/images/gallery/gallery-01.jpg" alt="Mattress pickup" loading="lazy">
+                        </div>
+                        <div class="gallery-item" onclick="openLightbox(1)">
+                            <img src="/images/gallery/gallery-02.jpg" alt="Mattress pickup" loading="lazy">
+                        </div>
+                        <div class="gallery-item" onclick="openLightbox(2)">
+                            <img src="/images/gallery/gallery-03.jpg" alt="Mattress recycling" loading="lazy">
+                        </div>
+                        <div class="gallery-item" onclick="openLightbox(3)">
+                            <img src="/images/gallery/gallery-04.jpg" alt="Mattress pickup" loading="lazy">
+                        </div>
+                        <div class="gallery-item" onclick="openLightbox(4)">
+                            <img src="/images/gallery/gallery-05.jpg" alt="Mattress recycling" loading="lazy">
+                        </div>
+                        <div class="gallery-item" onclick="openLightbox(5)">
+                            <img src="/images/gallery/gallery-06.jpg" alt="Mattress pickup" loading="lazy">
+                        </div>
+                        <div class="gallery-item" onclick="openLightbox(6)">
+                            <img src="/images/gallery/gallery-07.jpg" alt="Mattress recycling" loading="lazy">
+                        </div>
+                        <div class="gallery-item" onclick="openLightbox(7)">
+                            <img src="/images/gallery/gallery-08.jpg" alt="Mattress pickup" loading="lazy">
+                        </div>
+                    </div>
+                    <div class="gallery-view-more">
+                        <button class="gallery-view-more-btn" onclick="openLightbox(0)">
+                            View All Photos
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M5 12h14M12 5l7 7-7 7"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+
                 <!-- Service Areas -->
                 <h3>{{ city }} Service Areas & Neighborhoods</h3>
                 <p>{{ pageContent.serviceAreasIntro }}</p>
@@ -456,3 +496,64 @@ layout: base.njk
         </div>
     </div>
 </section>
+
+<!-- Gallery Lightbox Modal -->
+<div class="gallery-lightbox" id="galleryLightbox">
+    <button class="lightbox-close" onclick="closeLightbox()">&times;</button>
+    <button class="lightbox-nav lightbox-prev" onclick="prevImage()">&#10094;</button>
+    <button class="lightbox-nav lightbox-next" onclick="nextImage()">&#10095;</button>
+    <div class="lightbox-content">
+        <img id="lightboxImage" src="" alt="Gallery image">
+    </div>
+    <div class="lightbox-counter" id="lightboxCounter">1 / 60</div>
+</div>
+
+<script>
+const galleryImages = [
+    '/images/gallery/gallery-01.jpg','/images/gallery/gallery-02.jpg','/images/gallery/gallery-03.jpg','/images/gallery/gallery-04.jpg','/images/gallery/gallery-05.jpg','/images/gallery/gallery-06.jpg','/images/gallery/gallery-07.jpg','/images/gallery/gallery-08.jpg','/images/gallery/gallery-09.jpg','/images/gallery/gallery-10.jpg',
+    '/images/gallery/gallery-11.jpg','/images/gallery/gallery-12.jpg','/images/gallery/gallery-13.jpg','/images/gallery/gallery-14.jpg','/images/gallery/gallery-15.jpg','/images/gallery/gallery-16.jpg','/images/gallery/gallery-17.jpg','/images/gallery/gallery-18.jpg','/images/gallery/gallery-19.jpg','/images/gallery/gallery-20.jpg',
+    '/images/gallery/gallery-21.jpg','/images/gallery/gallery-22.jpg','/images/gallery/gallery-23.jpg','/images/gallery/gallery-24.jpg','/images/gallery/gallery-25.jpg','/images/gallery/gallery-26.jpg','/images/gallery/gallery-27.jpg','/images/gallery/gallery-28.jpg','/images/gallery/gallery-29.jpg','/images/gallery/gallery-30.jpg',
+    '/images/gallery/gallery-31.jpg','/images/gallery/gallery-32.jpg','/images/gallery/gallery-33.jpg','/images/gallery/gallery-34.jpg','/images/gallery/gallery-35.jpg','/images/gallery/gallery-36.jpg','/images/gallery/gallery-37.jpg','/images/gallery/gallery-38.jpg','/images/gallery/gallery-39.jpg','/images/gallery/gallery-40.jpg',
+    '/images/gallery/gallery-41.jpg','/images/gallery/gallery-42.jpg','/images/gallery/gallery-43.jpg','/images/gallery/gallery-44.jpg','/images/gallery/gallery-45.jpg','/images/gallery/gallery-46.jpg','/images/gallery/gallery-47.jpg','/images/gallery/gallery-48.jpg','/images/gallery/gallery-49.jpg','/images/gallery/gallery-50.jpg',
+    '/images/gallery/gallery-51.jpg','/images/gallery/gallery-52.jpg','/images/gallery/gallery-53.jpg','/images/gallery/gallery-54.jpg','/images/gallery/gallery-55.jpg','/images/gallery/gallery-56.jpg','/images/gallery/gallery-57.jpg','/images/gallery/gallery-58.jpg','/images/gallery/gallery-59.jpg','/images/gallery/gallery-60.jpg'
+];
+let currentIndex = 0;
+
+function openLightbox(index) {
+    currentIndex = index;
+    updateLightbox();
+    document.getElementById('galleryLightbox').classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeLightbox() {
+    document.getElementById('galleryLightbox').classList.remove('active');
+    document.body.style.overflow = '';
+}
+
+function updateLightbox() {
+    document.getElementById('lightboxImage').src = galleryImages[currentIndex];
+    document.getElementById('lightboxCounter').textContent = (currentIndex + 1) + ' / ' + galleryImages.length;
+}
+
+function nextImage() {
+    currentIndex = (currentIndex + 1) % galleryImages.length;
+    updateLightbox();
+}
+
+function prevImage() {
+    currentIndex = (currentIndex - 1 + galleryImages.length) % galleryImages.length;
+    updateLightbox();
+}
+
+document.getElementById('galleryLightbox').addEventListener('click', function(e) {
+    if (e.target === this) closeLightbox();
+});
+
+document.addEventListener('keydown', function(e) {
+    if (!document.getElementById('galleryLightbox').classList.contains('active')) return;
+    if (e.key === 'Escape') closeLightbox();
+    if (e.key === 'ArrowRight') nextImage();
+    if (e.key === 'ArrowLeft') prevImage();
+});
+</script>

@@ -1,0 +1,1115 @@
+---
+layout: base
+title: What We've Learned From Tearing Apart Over 1 Million Mattresses
+metaTitle: What We've Learned From Tearing Apart Over 1 Million Mattresses | A Bedder World
+metaDescription: "The mattress industry's dirty secrets — from people who have no reason to lie to you. After 14 years and over 1.15 million mattresses, we're sharing what we've learned."
+permalink: /research/what-we-learned-from-recycling-1-million-mattresses/
+---
+
+<style>
+/* Base Article Styles */
+.research-article {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+}
+
+/* Hero Section */
+.research-hero {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+    color: white;
+    padding: 100px 0 200px;
+    position: relative;
+}
+.research-hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+.research-hero .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 24px;
+    position: relative;
+    z-index: 1;
+}
+.research-hero .eyebrow {
+    display: inline-block;
+    background: rgba(166, 206, 57, 0.2);
+    color: var(--primary-green);
+    padding: 8px 16px;
+    border-radius: 50px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+.research-hero h1 {
+    font-size: clamp(2rem, 5vw, 3.25rem);
+    font-weight: 800;
+    line-height: 1.15;
+    margin: 0 0 20px;
+    color: white;
+    letter-spacing: -0.5px;
+}
+.research-hero .subtitle {
+    display: inline-block;
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    padding: 12px 24px;
+    background: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.25);
+    border-radius: 8px;
+    color: #fff;
+}
+.credibility-stats {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    max-width: 500px;
+}
+.stat-item {
+    text-align: center;
+    padding: 20px;
+    background: rgba(255,255,255,0.05);
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,0.1);
+}
+.stat-number {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 800;
+    color: var(--primary-green);
+    line-height: 1;
+    margin-bottom: 6px;
+}
+.stat-label {
+    font-size: 0.8rem;
+    opacity: 0.7;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Hero Image Collage */
+.hero-collage {
+    margin-top: 50px;
+    margin-bottom: -120px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 180px);
+    gap: 6px;
+    max-width: 900px;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 25px 80px rgba(0,0,0,0.4);
+}
+.hero-collage .collage-item {
+    overflow: hidden;
+    position: relative;
+}
+.hero-collage .collage-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+.hero-collage .collage-item:hover img {
+    transform: scale(1.05);
+}
+.hero-collage .collage-item.featured {
+    grid-column: span 2;
+    grid-row: span 2;
+}
+@media (max-width: 600px) {
+    .hero-collage {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(4, 120px);
+    }
+    .hero-collage .collage-item.featured {
+        grid-column: span 2;
+        grid-row: span 2;
+    }
+}
+
+/* Main Content Area */
+.article-body {
+    background: #fff;
+    padding-top: 160px;
+}
+.article-container {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 24px 80px;
+}
+
+/* Table of Contents */
+.toc-wrapper {
+    background: linear-gradient(135deg, #f8faf5 0%, #f0f4e8 100%);
+    border: 2px solid var(--primary-green);
+    border-radius: 16px;
+    padding: 32px;
+    margin-bottom: 60px;
+}
+.toc-wrapper h2 {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--gray-600);
+    margin: 0 0 20px;
+    padding: 0;
+    border: none;
+}
+.toc-wrapper ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px 32px;
+}
+.toc-wrapper li {
+    margin: 0;
+}
+.toc-wrapper a {
+    color: var(--gray-700);
+    text-decoration: none;
+    font-size: 0.95rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 8px 0;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s;
+}
+.toc-wrapper a:hover {
+    color: var(--primary-green);
+}
+.toc-wrapper a::before {
+    content: counter(toc-counter);
+    counter-increment: toc-counter;
+    background: var(--primary-green);
+    color: white;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    font-weight: 700;
+    flex-shrink: 0;
+}
+.toc-wrapper ol {
+    counter-reset: toc-counter;
+}
+
+/* Typography */
+.article-container p {
+    font-size: 1.125rem;
+    line-height: 1.85;
+    color: #374151;
+    margin-bottom: 1.75rem;
+}
+.article-container p:first-of-type {
+    font-size: 1.3rem;
+    line-height: 1.7;
+    color: #1f2937;
+}
+
+/* Section Headers */
+.article-container h2 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 700;
+    color: #111827;
+    margin: 80px 0 32px;
+    padding-top: 40px;
+    border-top: 1px solid #e5e7eb;
+    position: relative;
+}
+.article-container h2::before {
+    content: '';
+    position: absolute;
+    top: -1px;
+    left: 0;
+    width: 60px;
+    height: 3px;
+    background: var(--primary-green);
+}
+.article-container section:first-of-type h2 {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+}
+.article-container section:first-of-type h2::before {
+    display: none;
+}
+
+.article-container h3 {
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin: 48px 0 20px;
+    line-height: 1.3;
+}
+
+/* Lists */
+.article-container ul, .article-container ol {
+    margin: 0 0 2rem;
+    padding: 0 0 0 1.5rem;
+}
+.article-container li {
+    font-size: 1.1rem;
+    line-height: 1.75;
+    color: #374151;
+    margin-bottom: 12px;
+    padding-left: 8px;
+}
+.article-container li strong {
+    color: #111827;
+}
+
+/* Images */
+.article-image {
+    margin: 40px -40px;
+    position: relative;
+}
+.article-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+}
+.article-image figcaption {
+    text-align: center;
+    padding: 16px 40px;
+    font-size: 0.9rem;
+    color: #6b7280;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+/* Table */
+.data-table-wrapper {
+    margin: 32px 0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    border: 1px solid #e5e7eb;
+}
+.article-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+}
+.article-container th {
+    background: #111827;
+    color: white;
+    padding: 16px 20px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.article-container td {
+    padding: 16px 20px;
+    border-bottom: 1px solid #e5e7eb;
+    font-size: 1rem;
+}
+.article-container tr:last-child td {
+    border-bottom: none;
+}
+.article-container tr:nth-child(even) {
+    background: #f9fafb;
+}
+
+/* Callout Boxes */
+.callout {
+    background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%);
+    border-left: 4px solid var(--primary-green);
+    padding: 24px 28px;
+    margin: 32px 0;
+    border-radius: 0 12px 12px 0;
+}
+.callout p {
+    margin: 0 !important;
+    font-size: 1.05rem !important;
+    color: #166534 !important;
+}
+.callout strong {
+    color: #14532d;
+}
+
+/* Warning Box */
+.warning {
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+    border-left: 4px solid #f59e0b;
+    padding: 24px 28px;
+    margin: 32px 0;
+    border-radius: 0 12px 12px 0;
+}
+.warning p, .warning li {
+    color: #92400e !important;
+}
+.warning strong {
+    color: #78350f;
+}
+.warning ul {
+    margin-bottom: 0;
+}
+
+/* Transparency Box */
+.transparency {
+    background: #f8fafc;
+    border: 2px solid #e2e8f0;
+    padding: 28px;
+    margin: 40px 0;
+    border-radius: 12px;
+    position: relative;
+}
+.transparency::before {
+    content: '✓';
+    position: absolute;
+    top: -14px;
+    left: 24px;
+    background: var(--primary-green);
+    color: white;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+.transparency p {
+    margin: 0 !important;
+    font-size: 1rem !important;
+}
+
+/* Pull Quote */
+.pull-quote {
+    margin: 48px 0;
+    padding: 32px 40px;
+    background: #f9fafb;
+    border-radius: 16px;
+    position: relative;
+}
+.pull-quote::before {
+    content: '"';
+    position: absolute;
+    top: -10px;
+    left: 24px;
+    font-size: 80px;
+    color: var(--primary-green);
+    opacity: 0.3;
+    font-family: Georgia, serif;
+    line-height: 1;
+}
+.pull-quote p {
+    font-size: 1.4rem !important;
+    font-weight: 500;
+    color: #111827 !important;
+    line-height: 1.5 !important;
+    margin: 0 !important;
+    position: relative;
+    z-index: 1;
+}
+
+/* Section Divider */
+.section-divider {
+    border: none;
+    height: 1px;
+    background: transparent;
+    margin: 0;
+}
+
+/* Intro Section - No top border */
+#intro h2 {
+    display: none;
+}
+
+/* Footer Section */
+.article-footer {
+    background: #f8fafc;
+    border-top: 1px solid #e5e7eb;
+    padding: 40px;
+    margin-top: 60px;
+    border-radius: 16px;
+}
+.article-footer p {
+    font-size: 0.95rem !important;
+    color: #64748b !important;
+    margin-bottom: 16px !important;
+}
+.article-footer p:last-child {
+    margin-bottom: 0 !important;
+}
+.article-footer a {
+    color: var(--primary-green);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .research-hero {
+        padding: 60px 0 60px;
+    }
+    .credibility-stats {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+    }
+    .stat-item {
+        padding: 12px 8px;
+    }
+    .stat-number {
+        font-size: 1.5rem;
+    }
+    .stat-label {
+        font-size: 0.7rem;
+    }
+    .hero-collage {
+        margin-bottom: -60px;
+    }
+    .article-body {
+        padding-top: 100px;
+    }
+    .toc-wrapper ol {
+        grid-template-columns: 1fr;
+    }
+    .article-image {
+        margin: 32px -12px;
+    }
+    .article-image figcaption {
+        padding: 12px 16px;
+    }
+    .article-container h2 {
+        margin-top: 60px;
+        padding-top: 32px;
+    }
+    .pull-quote {
+        padding: 24px;
+    }
+    .pull-quote p {
+        font-size: 1.2rem !important;
+    }
+}
+</style>
+
+<div class="research-article">
+
+<div class="research-hero">
+    <div class="container">
+        <span class="eyebrow">Research Report</span>
+        <h1>What We've Learned From Tearing Apart Over 1 Million Mattresses</h1>
+        <p class="subtitle">Exposing the mattress industry's dirty secrets</p>
+
+        <div class="credibility-stats">
+            <div class="stat-item">
+                <div class="stat-number">1.15M+</div>
+                <div class="stat-label">Mattresses</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">14</div>
+                <div class="stat-label">Years</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">50</div>
+                <div class="stat-label">States</div>
+            </div>
+        </div>
+
+        <div class="hero-collage">
+            <div class="collage-item featured">
+                <img src="/images/research/1-million-mattresses/mattresses-in-trailer.jpg" alt="Mattresses loaded in trailer for recycling" loading="eager">
+            </div>
+            <div class="collage-item">
+                <img src="/images/research/1-million-mattresses/foam-layers-exposed.jpg" alt="Mattress foam layers exposed" loading="eager">
+            </div>
+            <div class="collage-item">
+                <img src="/images/research/1-million-mattresses/stained-mattress-carried.jpg" alt="Worker carrying mattress" loading="eager">
+            </div>
+            <div class="collage-item">
+                <img src="/images/research/1-million-mattresses/intro-mattress-pile.jpg" alt="Pile of mattresses at facility" loading="eager">
+            </div>
+            <div class="collage-item">
+                <img src="/images/research/1-million-mattresses/laying-on-mattress.png" alt="Founder laying on exposed mattress springs" loading="eager">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="article-body">
+<div class="article-container">
+
+    <nav class="toc-wrapper">
+        <h2>What's Inside</h2>
+        <ol>
+            <li><a href="#intro">Introduction</a></li>
+            <li><a href="#dirty-truth">The Dirty Truth</a></li>
+            <li><a href="#whats-inside">What's Inside Your Mattress</a></li>
+            <li><a href="#bed-in-box">Bed-in-a-Box Problem</a></li>
+            <li><a href="#fiberglass">The Fiberglass Nightmare</a></li>
+            <li><a href="#conflicts">Industry Conflicts</a></li>
+            <li><a href="#what-matters">What Actually Matters</a></li>
+            <li><a href="#odd-sizes">Odd-Size Mattresses</a></li>
+            <li><a href="#make-it-last">Make Your Mattress Last</a></li>
+            <li><a href="#why-matters">Why This Matters</a></li>
+        </ol>
+    </nav>
+
+    <section id="intro">
+        <p>After 14 years and over 1.15 million mattresses, we've seen things the mattress industry doesn't want you to know.</p>
+
+        <p>We've cut open $5,000 "luxury" mattresses and $300 Amazon specials. We've seen what your mattress looks like after 5 years, 10 years, 15 years. We've pulled mattresses from mansions and mobile homes, from hotels and hospitals, from RVs and semi-trucks.</p>
+
+        <div class="pull-quote">
+            <p>We have no reason to lie to you.</p>
+        </div>
+
+        <p>We don't sell mattresses. Our business is hauling them away. We make the same money whether you bought a $5,000 Tempur-Pedic or a $300 Amazon special — we're just there to pick it up when it's done.</p>
+
+        <p>That perspective matters. We're not reviewing mattresses after sleeping on them for 30 days. We're seeing which brands actually hold up after 5, 10, 15 years of real use. We know which ones get returned after 3 months and which ones last a decade. And unlike the "review" sites owned by mattress companies (more on that later), our disposal business has zero incentive to favor any particular brand.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/trucks-loaded-with-mattresses.jpg" alt="Trucks loaded with mattresses at A Bedder World recycling facility" loading="lazy">
+            <figcaption>A typical day at our facility — this is just a fraction of what we process weekly.</figcaption>
+        </figure>
+
+        <p>Let me give you three examples that show why this matters:</p>
+
+        <p>We picked up a mattress from a family who had been complaining it was itchy. This mattress was from a well-known online brand. When we tore it open, there were fiberglass particles everywhere. The fiberglass layer had disintegrated and was likely getting on their skin and being breathed in while they slept.</p>
+
+        <p>Another customer had purchased a luxury mattress and was getting rid of it after only one year due to sagging. We opened it up and the innerspring unit was just about the lowest quality you can buy. How was anyone supposed to know?</p>
+
+        <p>Then there was the hotel that had purchased a specific, very well-known mattress brand for their entire property — one of those brands that uses electronics in the mattress. About one-third of them had failed components in less than a year, so they replaced them all.</p>
+
+        <p>Here's the thing about mattresses: they're a unique item where you can't actually see the quality of the materials inside. It's like sleeping on a beautiful mystery box where all you can see is the cover. That's why it's so important to understand what is actually inside the product you're purchasing.</p>
+    </section>
+
+    <hr class="section-divider">
+
+    <section id="dirty-truth">
+        <h2>The Dirty Truth About What's Living In Your Mattress</h2>
+
+        <p>Your mattress is an ecosystem. And not the good kind.</p>
+
+        <p>Let's start with dust mites. According to researchers at Ohio State University, a typical mattress contains between 100,000 and 10 million dust mites. These microscopic arachnids survive on the dead skin cells you shed every night. Under ideal conditions, their population doubles every two weeks.</p>
+
+        <p>You've probably heard the urban legend that your mattress doubles in weight every ten years from accumulated dust mites and dead skin. This is false — the actual figure is closer to 5-10 percent. But the truth is unsettling enough without exaggeration.</p>
+
+        <p>A study published in the Journal of Allergy and Clinical Immunology found that after just six months of use, allergen levels in mattresses exceed the threshold that triggers symptoms in sensitized individuals. Eighty-four percent of American homes have detectable dust mite populations. Twenty million Americans suffer from dust mite allergies. The Institute of Medicine has established a causal link between dust mite exposure and the development of asthma in children.</p>
+
+        <p>And that's just the mites.</p>
+
+        <h3>What we actually see when we pick up old mattresses</h3>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/stained-mattress-carried.jpg" alt="Worker carrying visibly stained mattress" loading="lazy">
+            <figcaption>This mattress looked "fine" with sheets on it. This is what we see underneath.</figcaption>
+        </figure>
+
+        <p>The mattress generally smells musty — a mix of perfume, damp fabric, and the specific scents of that home. Even if you can't see stains, the daily sweat soaks in over the years.</p>
+
+        <p>If you're in the right light, you can see the dead skin, dust, and allergens poof off the mattress when you toss it around. That's why we often wear masks when picking mattresses up and when tearing them apart.</p>
+
+        <p>Older mattresses are noticeably heavier than newer ones due to all the soaking in of water, dead skin cells, and everything else that accumulates over years of use.</p>
+
+        <p>And when we tear them open, many times the foam is breaking down and coming apart into tiny particles — particles that are very likely being breathed in while you're moving around during the night.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/dirty-mattresses-truck.jpg" alt="Multiple mattresses in truck showing visible staining" loading="lazy">
+            <figcaption>Years of sweat, body oils, and dead skin cells — visible even through the mattress cover.</figcaption>
+        </figure>
+
+        <h3>Mold: The contamination you can't see</h3>
+
+        <p>According to the Mattress Recycling Council, 1 in 5 tested mattresses have concerning levels of mold contamination. And 50% of U.S. houses have dampness or fungi present — which means the conditions for mold growth are more common than most people realize.</p>
+
+        <p>Memory foam mattresses are particularly vulnerable. Their closed-cell structure traps moisture rather than allowing it to evaporate. A University of Manchester study found that pillows alone contain more than 1 million fungal spores and up to 16 different fungal species — including Aspergillus fumigatus, a pathogen that can cause serious respiratory illness.</p>
+
+        <p>Mold is most often seen in mattresses from more humid climates, but when a mattress has mold, it is very clear. You'll see it accumulating on the top layers of foam and sometimes the fabric. It smells musty.</p>
+
+        <p>The sad part is that it's usually not visible to the customer. People have no idea they're sleeping on mold.</p>
+    </section>
+
+    <hr class="section-divider">
+
+    <section id="whats-inside">
+        <h2>What's Actually Inside Your Mattress</h2>
+
+        <p>We've cut open thousands of mattresses. Here's what we've found: <strong>most of them are basically the same inside.</strong></p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/foam-layers-exposed.jpg" alt="Mattress cut open showing multiple foam layers" loading="lazy">
+            <figcaption>A typical mattress cut open — multiple foam layers, each with a different purpose.</figcaption>
+        </figure>
+
+        <p>Mattresses all have very similar construction, and the vast majority of foams are made by a few of the same manufacturers. Each company may have a different version of memory foam or latex, maybe infused with some "life-changing" material like copper or gel, but in reality the construction is almost exactly the same.</p>
+
+        <p>Memory foam, latex, and polyurethane foams make up the majority of the market, with a variety of densities to give different feels. Purple is one of the only manufacturers to come up with a genuinely new construction in their rubber-style foam. Beyond that, mattresses will either use an innerspring for support or a high-density foam support layer at the bottom.</p>
+
+        <p>Otherwise it's really just mixing and matching the same ingredients in different ways, all trying to sell you on why their product is the best.</p>
+
+        <p>Don't get me wrong — some are certainly better, and better for specific use cases, than others. But don't be fooled by the fancy branding and "new technology." It's usually a minor tweak on the existing formula and materials that have been used for years and years.</p>
+
+        <h3>The foam density reality</h3>
+
+        <p>Here's what actually determines whether a foam mattress will last or fall apart: <strong>density</strong>. It's measured in pounds per cubic foot, and it's a number most manufacturers go out of their way not to disclose.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/hand-pressing-foam.jpg" alt="Hand pressing into foam layers demonstrating density" loading="lazy">
+            <figcaption>Testing foam density — quality foam bounces back quickly and maintains its structure.</figcaption>
+        </figure>
+
+        <div class="data-table-wrapper">
+        <table>
+            <thead>
+                <tr>
+                    <th>Foam Density</th>
+                    <th>Quality Level</th>
+                    <th>Expected Lifespan</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>5+ lb/ft³</td>
+                    <td>Premium/high-end</td>
+                    <td>9-10+ years</td>
+                </tr>
+                <tr>
+                    <td>3-5 lb/ft³</td>
+                    <td>Good mid-range</td>
+                    <td>7-8 years</td>
+                </tr>
+                <tr>
+                    <td>2.5 lb/ft³</td>
+                    <td>Value sweet spot</td>
+                    <td>6-7 years</td>
+                </tr>
+                <tr>
+                    <td>1.8 lb/ft³</td>
+                    <td>Acceptable minimum</td>
+                    <td>5-6 years</td>
+                </tr>
+                <tr>
+                    <td>Under 1.5 lb/ft³</td>
+                    <td>Durability issues guaranteed</td>
+                    <td>3-5 years</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+
+        <p>Most bed-in-a-box brands use 1.6-1.8 lb/ft³ base foam — the minimum to qualify for warranty claims.</p>
+
+        <p>From the naked eye, most foams look the same. It's when you actually push your hand into them and compress them that you can feel the quality. Low-quality foams have less density and less support than higher quality foams, and you can feel them breaking down.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/torn-open-degraded-foam.png" alt="Mattress torn open showing yellowed degraded foam" loading="lazy">
+            <figcaption>What low-density foam looks like after 5 years — yellowed, compressed, and breaking down.</figcaption>
+        </figure>
+
+        <p>Many times you'll actually see the body impressions in the foam. Some impression is normal after many years, but low-quality foams will have impressions after only a year or two.</p>
+
+        <p>There are very clearly some brands that choose to use lower quality foams consistently across their products to save money, while others opt for higher quality, long-lasting foams. Some charge the exact same price to the consumer but are clearly benefiting from higher margins — and covering the cost of their higher return rates.</p>
+
+        <h3>The spring unit problem in hybrids</h3>
+
+        <p>Spring units are arguably the most important layer of any innerspring or hybrid mattress. They're the support system — what holds all the other layers up and what supports and aligns your body.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/full-spring-unit-exposed.png" alt="Full innerspring unit exposed showing hundreds of pocketed coils" loading="lazy">
+            <figcaption>A full spring unit exposed — hundreds of individually wrapped coils that provide support.</figcaption>
+        </figure>
+
+        <p>Some companies will use coils that are stretched out to make the mattress look thicker, but they're less supportive. When you push your hand into a low-quality coil, you can immediately tell: your hand usually sinks deep into the mattress and has little push back.</p>
+
+        <p>Coil count can be manipulated and isn't a reliable metric. The only true way to tell how high quality an innerspring unit is? Actually feel it. Lay on it. Test it out.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/pocketed-coils-hand.jpg" alt="Hand holding individual pocketed coil spring" loading="lazy">
+            <figcaption>A pocketed coil up close — each spring works independently for better support.</figcaption>
+        </figure>
+
+        <p>Many of the bed-in-a-box brands use low-quality innerspring units. Pocketed coils are the innerspring units used in bed-in-a-box mattresses, and they're filled with low-quality options compared to the traditional innerspring cores used in retailers.</p>
+
+        <p>High-quality innersprings from online brands are hard to find — but they do exist out there.</p>
+    </section>
+
+    <hr class="section-divider">
+
+    <section id="bed-in-box">
+        <h2>The Bed-in-a-Box Problem</h2>
+
+        <p>We see which brands get returned. And customers tell us why.</p>
+
+        <h3>Return rates the industry won't publish</h3>
+
+        <p>According to analysis of Casper's S-1 filing before they went public, their return rate was approximately 12-14%. Industry estimates for bed-in-a-box brands overall range from 20-25%, with some retailers privately reporting rates as high as 33%.</p>
+
+        <p>Compare that to traditional retail mattress returns: under 5%.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/bed-in-box-packaging.jpg" alt="Bed-in-a-box mattress in original packaging" loading="lazy">
+            <figcaption>The bed-in-a-box revolution — convenient delivery, but quality varies wildly.</figcaption>
+        </figure>
+
+        <p>The most common reason bed-in-a-box brands get returned is low-quality support. Lots of the brands use low-quality innerspring units and coils, and you can immediately tell when you sit or lay on the mattress.</p>
+
+        <p>Interestingly, all-foam mattresses actually get returned less often than hybrid models right off the bat. And low-quality foam options end up getting returned after only a couple of years, when the base layer of support foam breaks down.</p>
+
+        <h3>Where "free returns" actually go</h3>
+
+        <p>Here's something most people don't know: most returned mattresses cannot be resold. They can't be recompressed and shipped again, and some states prohibit the resale of used mattresses entirely.</p>
+
+        <p>Online mattress companies give you a free trial period. If you return that mattress, they cannot resell it because it's used. But the mattress is essentially still almost brand new. So what happens to these mattresses?</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/rolled-mattress-curb.jpg" alt="Rolled up bed-in-a-box mattress discarded at curb" loading="lazy">
+            <figcaption>A returned bed-in-a-box — the "100-night trial" means a lot of these end up with us.</figcaption>
+        </figure>
+
+        <p>Online mattress companies have deals with "reverse logistics" companies that pick up these returns and then sell them on places like Facebook Marketplace and OfferUp for 1/4 of the retail price. Sometimes the online mattress company actually gets a little of the money back after that mattress is sold.</p>
+
+        <p>If you go on Facebook Marketplace today, you'll see dozens of "like new" online mattress brands being sold. These are being sold by reps of these reverse logistics companies.</p>
+
+        <p>If you want to save some money and get a basically new mattress for a fraction of the price — and you don't mind the fact that someone slept on it for a few months — this is actually a great route to go.</p>
+
+        <p>Meanwhile, the cost of those returns has been built into the retail price. Every mattress you buy includes a surcharge to cover everyone else's returns.</p>
+
+        <h3>Memory foam and temperature confusion</h3>
+
+        <p>Here's something that causes a huge number of returns, and most consumers don't understand it: <strong>memory foam changes its feel depending on temperature.</strong></p>
+
+        <p>A cold room will make memory foam feel rock hard. A warm room will make it feel soft and smooshy. This confuses consumers who think their mattress is "defective" when really it's just physics.</p>
+
+        <p>Memory foam is viscoelastic by design — it's supposed to respond to temperature. This is why 10-15% of traditional memory foam users report sleeping hot.</p>
+
+        <p>The problem is especially bad in RVs, where people are camping in wildly different temperatures. Someone might love their RV mattress in July and hate it in October — same mattress, different feel, lots of confusion and returns.</p>
+
+        <p>The showroom trick works the same way: mattress stores keep their showrooms at controlled temperatures specifically because they know the mattress will feel different in your bedroom at home.</p>
+    </section>
+
+    <hr class="section-divider">
+
+    <section id="fiberglass">
+        <h2>The Fiberglass Nightmare</h2>
+
+        <p>We've seen the aftermath. It's as bad as you've heard.</p>
+
+        <p>Fiberglass was a major problem for a while, and many companies faced lawsuits about it. The use of low-quality fiberglass "fire socks" to help make mattresses fire resistant is where the fiberglass comes in.</p>
+
+        <p>Many manufacturers have moved away from using fiberglass, but some brands still do.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/fiberglass-barrier-layer.png" alt="Fiberglass fire barrier layer visible under mattress cover" loading="lazy">
+            <figcaption>The fiberglass fire barrier — never remove your mattress cover if you suspect this is inside.</figcaption>
+        </figure>
+
+        <p>Multiple class action lawsuits targeted Zinus mattresses — the largest bed-in-a-box seller on Amazon — with over 2,000 plaintiffs across 50 states. The allegations described fiberglass fire-retardant layers releasing harmful glass fibers through the outer covers, even without removing the cover.</p>
+
+        <p>Documented remediation costs ranged from $15,000 to $25,500 per home. That includes HVAC system contamination, electronics damage, and medical expenses.</p>
+
+        <p>The videos went viral on TikTok. One, posted by a user named Cody Jacob, racked up 8.5 million views. A follow-up by Iesha Myers, showing fiberglass spreading through a washing machine after someone laundered their mattress cover, reached 14 million.</p>
+
+        <p>Other brands implicated in fiberglass issues include Nectar, Ashley Furniture, and Lucid. Zinus quietly transitioned to rayon-based flame retardants in 2024, after the lawsuits piled up.</p>
+
+        <p>If it were me, I would stay away from sleeping right next to fiberglass that has very often been shown to break down and release particles.</p>
+
+        <div class="warning">
+            <p><strong>Red flags to watch for:</strong></p>
+            <ul>
+                <li>Price under $600</li>
+                <li>Manufactured in China</li>
+                <li>Memory foam or hybrid construction</li>
+                <li>Zipper on outer cover with a "do not remove" warning</li>
+            </ul>
+        </div>
+    </section>
+
+    <hr class="section-divider">
+
+    <section id="conflicts">
+        <h2>The Industry's Conflicts of Interest</h2>
+
+        <p>The reviews you're reading? Many are written by the companies selling you mattresses.</p>
+
+        <h3>Who owns whom</h3>
+
+        <p>The mattress industry has consolidated into a few massive conglomerates, and most consumers have no idea.</p>
+
+        <p><strong>Somnigroup International</strong> (renamed February 2025 after acquiring Mattress Firm) now controls Tempur-Pedic, Sealy, Stearns & Foster, Sleepy's, and Cocoon by Sealy. With the $4 billion Mattress Firm acquisition — that's 3,600+ retail stores — they became the world's largest bedding company with approximately $8 billion in annual revenue.</p>
+
+        <p><strong>Serta Simmons Bedding</strong> owns Serta, Simmons, Beautyrest, and BeautySleep. It also owns Tuft & Needle — the "disruptor" brand that was supposed to revolutionize the industry by cutting out the middleman.</p>
+
+        <p><strong>Casper</strong> followed a similar arc. Founded 2014, IPO'd in February 2020, taken private in January 2022 for $308 million (down from a peak valuation of $1.1 billion), then acquired by Carpenter Co. — one of the world's largest polyurethane foam manufacturers — in October 2024.</p>
+
+        <div class="pull-quote">
+            <p>The disruptors have been absorbed. The revolutionaries have joined the establishment.</p>
+        </div>
+
+        <h3>The review site capture</h3>
+
+        <p>The mattress industry as a whole is very scammy and has been for years. It lends itself to scams — massive profits, and you're selling a product that from the outside all looks very much the same.</p>
+
+        <p>Today the scamminess has evolved with the entrance of online bed-in-a-box brands and online mattress reviewers. Many of the "unbiased" review sites you see are actually owned by the mattress brands themselves, and you'll notice they always refer to their own brand as #1 and the best pick.</p>
+
+        <p>In 2017, a company called JAKK Media acquired Sleepopolis, one of the most-trafficked mattress review sites on the internet. The acquisition was financed by a $5 million loan from Casper — the bed-in-a-box startup that had, until recently, been receiving negative reviews from Sleepopolis. After the acquisition, the critical content disappeared.</p>
+
+        <p>Amerisleep operates at least ten websites that present themselves as independent review platforms: Sleep Junkie, Savvy Sleeper, Best Mattress Brand, Mattress Inquirer, The Best Mattress, Mattress Journal, Memory Foam Mattress Guide, What's the Best Bed, Consumer Mattress Reviews, and Best Mattress Online. In 2020, the National Advertising Division ruled that Sleep Junkie and Savvy Sleeper had failed to adequately disclose their relationship with Amerisleep.</p>
+
+        <p>SleepFoundation.org has a ".org" domain and the word "Foundation" in its name, suggesting a nonprofit. But it was acquired by a commercial company in December 2019 and is no longer affiliated with the National Sleep Foundation. It's an affiliate marketing operation.</p>
+
+        <p>Other review sites get affiliate commissions from brands and get paid when you click their link and purchase a mattress. They recommend the mattresses that pay them the most money.</p>
+
+        <p>The Purple vs. GhostBed case revealed that a YouTube channel called "Honest Mattress Reviews" was run by Ryan Monahan, the former Chief Brand Officer of GhostBed. He received $10,000 per month from GhostBed — totaling approximately $150,000 — while publishing videos claiming that Purple mattresses contained "toxic white powder." The court found that the defendants had "purposefully created and shared false and misleading information."</p>
+
+        <p>My advice: do your research and read real reviews from actual people. Talk to people who have actually used the mattress. Test it out whenever you can.</p>
+
+        <p>And be warned: the return process is made to be difficult. Many brands have been known to put you through the ringer when trying to return a mattress. One brand even made a customer find a bowling ball and put it on the mattress to show proof of sagging.</p>
+
+        <p>Unfortunately, cutting through the BS is extremely hard.</p>
+
+        <div class="transparency">
+            <p><strong>Full transparency:</strong> We have affiliate partnerships too. We publish buying guides that earn commissions when you purchase through our links. The difference is that our recommendations are informed by what we've seen hold up across 1.15 million mattresses — not by which brand offered us the best commission rate. We recommend brands we've seen last, and we'll tell you which ones we see fail constantly.</p>
+        </div>
+    </section>
+
+    <hr class="section-divider">
+
+    <section id="what-matters">
+        <h2>What Actually Matters (And What Doesn't)</h2>
+
+        <p>After seeing a million mattresses at end-of-life, here's what actually determines quality.</p>
+
+        <h3>Price isn't an indicator of quality</h3>
+
+        <p>What separates mattresses that hold up from ones that break down is simply quality of materials. That's pretty obvious, I guess — but just because a brand is expensive doesn't mean it's good.</p>
+
+        <p>Some low-priced brands actually just have lower margins and use decent quality materials, whereas some "luxury" brands have massive margins and use lower quality support systems or lower density foams.</p>
+
+        <p>In general, a higher priced mattress should be better quality — but just know that isn't always the case.</p>
+
+        <h3>The support system matters more than the mattress</h3>
+
+        <p>Here's something most people get wrong: your bed frame and foundation might matter more than your mattress.</p>
+
+        <p>A $1,500 mattress on a $100 bed frame will fail faster than an $800 mattress on a proper foundation. We see it constantly.</p>
+
+        <p><strong>We see the same low-quality bed frames break down over and over again.</strong></p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/under-bed-slat-support.jpg" alt="View from under bed showing proper slat spacing and center support" loading="lazy">
+            <figcaption>Proper support: slats close together, center support beam, sturdy frame.</figcaption>
+        </figure>
+
+        <p>Most often we see bed frames with low-quality construction where a center support rail breaks, a slat breaks, or a screw fails. One failed screw or a missing support bar can be devastating to the support of a mattress. Or they're made with slats that are too far apart.</p>
+
+        <p>Prioritizing frames made with solid wood — or avoiding low-quality metal frames from Amazon or Walmart — is a good start if you want anything that will last for more than a year or two.</p>
+
+        <p><strong>Slat spacing matters.</strong> Slats should be no more than 3 inches apart for foam and hybrid mattresses. Closer is better. Many cheap frames have slats spaced 4+ inches apart, which causes the mattress to sag between supports.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/quality-platform-frame.jpg" alt="Quality platform bed frame with proper slat support" loading="lazy">
+            <figcaption>A quality platform frame — this is what your mattress wants to sit on.</figcaption>
+        </figure>
+
+        <p>We've put together guides on bed frames that actually hold up — based on what we see fail and what we see last.</p>
+
+        <h3>The box spring question</h3>
+
+        <p>Platform beds are more common in the market today, but before that it was beds used with box springs. Some people still use box springs today.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/box-spring-foundation.jpg" alt="Box spring foundation showing internal construction" loading="lazy">
+            <figcaption>A modern "box spring" — actually just a wood slat foundation in a fabric cover.</figcaption>
+        </figure>
+
+        <p>Box springs will generally outlast a mattress, but it's important to check the box spring if you plan to use it with your new mattress. Run your hand across it and feel for any broken wood or warped sections, as this will make for an uneven or unsupported base for your mattress to sit on.</p>
+
+        <p>Box springs are still good options, just like platform beds, but you need to make sure whatever support system you choose for your mattress is solid, secure, and evenly supported.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/sagging-box-spring.png" alt="Sagging box spring showing wear" loading="lazy">
+            <figcaption>A worn-out box spring — when this sags, your mattress sags too.</figcaption>
+        </figure>
+
+        <p>Many box springs break from kids jumping on them, moving, storage, or just wood breaking down over time.</p>
+
+        <h3>Firm vs. supportive: The confusion that costs people money</h3>
+
+        <p>Many people think they want a firm mattress when what they actually want is a <strong>supportive</strong> mattress. These are not the same thing.</p>
+
+        <p>A firm mattress can feel hard but not actually support your alignment properly. Meanwhile, a softer mattress with proper support layers underneath can feel plusher but actually be better for back pain and spinal alignment.</p>
+
+        <p>We hear it constantly from customers: "I bought the firmest mattress they had because I thought that would help my back, and it made things worse." Firmness is about feel. Support is about whether your spine stays properly aligned. You can have one without the other.</p>
+
+        <h3>The toxicity factor</h3>
+
+        <p>Bed frames, mattresses, and pillows can be some of the most toxic things in your house. You're putting your face literally into them for 8 hours every single day — it's important to understand what's actually inside.</p>
+
+        <p>VOC (volatile organic compound) off-gassing from mattresses peaks on the first day and progressively decays over about 31 days. The most significant off-gassing occurs in the first 24-72 hours. Memory foam mattresses can emit 61 different VOCs including benzene and naphthalene.</p>
+
+        <p>CertiPUR-US certification has limitations most people don't understand. While it limits VOCs to less than 0.5 ppm and prohibits specific toxic flame retardants, it only certifies foam — not covers, fabrics, adhesives, or other components. It doesn't test for PFAS "forever chemicals" and does not guarantee "non-toxic."</p>
+
+        <p>If you're concerned about toxicity — especially for children's mattresses or if you have chemical sensitivities — look for GOTS (Global Organic Textile Standard) or GOLS (Global Organic Latex Standard) certifications, which cover the entire product.</p>
+    </section>
+
+    <hr class="section-divider">
+
+    <section id="odd-sizes">
+        <h2>The Odd-Size Mattress Trap</h2>
+
+        <p>Some of the saddest pickups we do are mattresses that didn't need to die.</p>
+
+        <h3>People hold onto bad mattresses because they don't know better</h3>
+
+        <p>Odd-size mattresses are anything that isn't regularly sold in stores — so Twin, Twin XL, Full, Queen, King, and California King are the standard sizes. But there are tons of other sizes out there used in different applications.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/rv-bunk-mattresses.jpg" alt="RV-sized mattresses in non-standard dimensions" loading="lazy">
+            <figcaption>RV and custom-sized mattresses — different dimensions, often different quality challenges.</figcaption>
+        </figure>
+
+        <p>From RV mattresses to boat mattresses, trucking mattresses, oversized Alaskan King mattresses, antique sizes, and in-between sizes — we pick up all sorts of custom-size mattresses for recycling.</p>
+
+        <p>Generally, custom-size mattresses are used <strong>well beyond their lifespan</strong> because people don't know where to purchase a new one. This means they're broken down and need to be replaced. The most common thing we hear is that customers don't know where to buy a new one.</p>
+
+        <p>And if they did buy a new one, they bought it from somewhere like an RV parts site or a low-quality retailer — cheap, with little options for quality.</p>
+
+        <p>The tragedy is that <strong>quality odd-size mattresses exist.</strong> There are actually quite a few high-quality custom and odd-size mattress manufacturers today that make mattresses the same quality as what we use in our homes. Many of them you can purchase online from the comfort of your computer.</p>
+
+        <p>You can get a proper RV Short Queen (60×75), an RV Bunk mattress (30×75), mattresses for antique three-quarter beds, oversized family beds like Wyoming King and Texas King and Alaskan King, even semi-truck sleeper mattresses in all the common cab sizes.</p>
+
+        <p>These aren't thin foam pads from an RV supply store. These are real mattresses — multiple foam layers, quality construction, proper support — that happen to come in unusual dimensions.</p>
+
+        <p>If you've been putting off replacing an odd-size mattress because you couldn't find a good replacement, we've put together guides on where to find quality options.</p>
+    </section>
+
+    <hr class="section-divider">
+
+    <section id="make-it-last">
+        <h2>How to Make Your Mattress Last</h2>
+
+        <p>Based on what we see fail and what we see last, here's what actually works.</p>
+
+        <h3>Use a mattress protector</h3>
+
+        <p>This is the single most impactful thing you can do. A quality waterproof, breathable mattress protector keeps moisture, dust mites, and debris from penetrating into the mattress where you can't clean them. The people who use protectors consistently have noticeably cleaner mattresses when we pick them up.</p>
+
+        <h3>Rotate regularly</h3>
+
+        <p>Rotate your mattress 180 degrees every 3-6 months. This distributes wear more evenly and prevents body impressions from forming in one spot.</p>
+
+        <h3>Ensure proper support</h3>
+
+        <p>Make sure your bed frame has adequate slats (no more than 3 inches apart) and that nothing is sagging or broken. Check your box spring or platform for damage. A mattress can only perform as well as what's underneath it.</p>
+
+        <h3>Control humidity</h3>
+
+        <p>High humidity accelerates mold growth and dust mite populations. If you live in a humid climate, consider a dehumidifier in the bedroom or air conditioning that controls humidity.</p>
+
+        <h3>Vacuum the surface</h3>
+
+        <p>Periodically vacuuming your mattress surface removes dust mites, dead skin cells, and debris before they can work deeper into the mattress.</p>
+
+        <h3>Replace pillows more often than you think</h3>
+
+        <p>Pillows accumulate contamination faster than mattresses and should be replaced every 1-2 years. A wrong pillow can throw off your alignment and make you think your mattress is the problem when it's actually your pillow height.</p>
+
+        <h3>Know when it's actually time to replace</h3>
+
+        <p>Based on what we've observed across a million mattresses, here are the signs it's time:</p>
+
+        <ul>
+            <li><strong>Visible sagging</strong> — body impressions that don't bounce back</li>
+            <li><strong>Waking up with pain</strong> that goes away during the day</li>
+            <li><strong>Allergies worse at night</strong> despite clean bedding</li>
+            <li><strong>Mattress is 7-10+ years old</strong> (depending on quality)</li>
+            <li><strong>You can feel springs</strong> through the surface</li>
+            <li><strong>Significant staining or odor</strong> that cleaning doesn't fix</li>
+        </ul>
+    </section>
+
+    <hr class="section-divider">
+
+    <section id="why-matters">
+        <h2>Why This Matters to Me</h2>
+
+        <p>My dad used to own a mattress factory.</p>
+
+        <p>I started this business because I saw how many old mattresses ended up in the landfill, and I knew the materials inside could be recycled. The more mattresses I cut into and recycled, the more insight I got into the mattress industry and all its tricks.</p>
+
+        <p>I realized people had no idea what they were buying or what was actually inside their mattresses.</p>
+
+        <p>So this blog is made to help shine some light on the inside of the mattress industry that nobody gets to see.</p>
+
+        <figure class="article-image">
+            <img src="/images/research/1-million-mattresses/curb-pickup-mattress.jpg" alt="Mattress at curb ready for pickup" loading="lazy">
+            <figcaption>When it's time to say goodbye — proper disposal matters for the environment.</figcaption>
+        </figure>
+
+        <p>We've hauled away mattresses from newlyweds upgrading their first apartment and from families clearing out a parent's home after they've passed. We've seen mattresses that cost more than some cars and mattresses that came free off a curb.</p>
+
+        <p>After 1.15 million of them, here's what we know:</p>
+
+        <p><strong>Most mattresses are more similar inside than the marketing wants you to believe.</strong> The same few foams and fabrics show up across price points. Brand names and celebrity endorsements don't determine quality.</p>
+
+        <p><strong>Price doesn't guarantee quality.</strong> Some budget mattresses outlast luxury ones. Some expensive mattresses use cheap materials. You have to look past the price tag.</p>
+
+        <p><strong>Your support system matters as much as your mattress.</strong> A quality mattress on a terrible frame will fail. A decent mattress on proper support will last.</p>
+
+        <p><strong>The reviews are often compromised.</strong> Mattress companies own review sites, pay for favorable coverage, and sue competitors who rate them poorly. Look for reviewers who disclose their relationships — and ideally, ones who have some experience beyond "I slept on this for a month."</p>
+
+        <p><strong>When it's time to replace, you have more options than you think.</strong> Even for odd sizes. Even on a budget. You don't have to suffer with a bad mattress because you don't know where to find a good one.</p>
+
+        <p>The mattress industry is full of marketing BS. But a good night's sleep shouldn't require a PhD in foam chemistry or a law degree to navigate the conflicts of interest.</p>
+
+        <p>We hope this helps.</p>
+    </section>
+
+    <footer class="article-footer">
+        <p><em>A Bedder World has provided mattress removal and recycling services across all 50 states since 2011. We've processed over 1.15 million mattresses and maintain an 85% recycling rate. While we do partner with mattress brands for our buying guides, our disposal business sees every brand equally — we get paid the same regardless of what mattress you bought. The observations in this article come from 14 years of seeing mattresses at end-of-life, not from sponsored partnerships.</em></p>
+
+        <p><strong>Questions or feedback?</strong> Contact us at <a href="mailto:hello@abedderworld.com">hello@abedderworld.com</a></p>
+    </footer>
+
+</div>
+</div>
+
+</div>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "What We've Learned From Tearing Apart Over 1 Million Mattresses",
+    "description": "The mattress industry's dirty secrets — from people who have no reason to lie to you. After 14 years and over 1.15 million mattresses, we share what we've learned.",
+    "image": "/images/research/1-million-mattresses/hero-truck-facility.jpg",
+    "author": {
+        "@type": "Organization",
+        "name": "A Bedder World",
+        "url": "https://abedderworld.com"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "A Bedder World",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://abedderworld.com/images/logo.png"
+        }
+    },
+    "datePublished": "2025-12-30",
+    "dateModified": "2025-12-30",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://abedderworld.com/research/what-we-learned-from-recycling-1-million-mattresses/"
+    }
+}
+</script>
