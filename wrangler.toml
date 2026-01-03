@@ -2,11 +2,18 @@ name = "abedderworld-redirects"
 compatibility_date = "2024-01-01"
 workers_dev = false
 
+# Pages configuration
+pages_build_output_dir = "dist"
+
 [[kv_namespaces]]
 binding = "REDIRECTS"
 id = "f4695384362148309e43b8455ef1379d"
 
-# Routes for your domain
+# Routes for complete redirect handling via Worker
 [[routes]]
 pattern = "abedderworld.com/*"
+zone_name = "abedderworld.com"
+
+[[routes]]
+pattern = "www.abedderworld.com/*"
 zone_name = "abedderworld.com"

@@ -1,0 +1,20 @@
+# Netlify Redirects File
+# This file handles URL redirects from the old WordPress site to the new Eleventy site
+# Format: /old-path /new-path [status-code]
+
+# Edge case redirects
+/does-salvation-army-take-mattresses.html/ /does-salvation-army-take-mattresses/ 301
+
+# Missing city redirects - catch common patterns
+/saint-charles-mn /mattress-removal/minnesota/ 301
+/saint-charles-mn/ /mattress-removal/minnesota/ 301
+/metzger-or /mattress-removal/oregon/ 301
+/metzger-or/ /mattress-removal/oregon/ 301
+/verona-ms /mattress-removal/mississippi/ 301
+/verona-ms/ /mattress-removal/mississippi/ 301
+/coolidge-nm /mattress-removal/new-mexico/ 301
+/coolidge-nm/ /mattress-removal/new-mexico/ 301
+/callao-mo /mattress-removal/missouri/ 301
+/callao-mo/ /mattress-removal/missouri/ 301
+/bedford-center-ny /mattress-removal/new-york/ 301
+/bedford-center-ny/ /mattress-removal/new-york/ 301

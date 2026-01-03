@@ -179,7 +179,7 @@ module.exports = function(eleventyConfig) {
 
   // Collection for blog posts
   eleventyConfig.addCollection("blogPosts", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("src/blog/*.md")
+    return collectionApi.getFilteredByGlob(["src/blog/*.md", "src/blog/*/index.njk"])
       .sort((a, b) => new Date(b.data.date) - new Date(a.data.date));
   });
 
