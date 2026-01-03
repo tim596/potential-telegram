@@ -54,7 +54,11 @@ permalink: /blog/
                             <a href="{{ post.url }}">{{ post.data.title }}</a>
                         </h2>
 
-                        {% if post.templateContent %}
+                        {% if post.data.excerpt %}
+                        <p class="blog-card-excerpt">
+                            {{ post.data.excerpt }}
+                        </p>
+                        {% elif post.templateContent %}
                         <p class="blog-card-excerpt">
                             {{ post.templateContent | striptags | truncate(150) }}
                         </p>

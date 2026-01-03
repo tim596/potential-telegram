@@ -21,6 +21,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/_redirects");
   eleventyConfig.addPassthroughCopy("src/.htaccess");
   eleventyConfig.addPassthroughCopy("functions");
+  eleventyConfig.addPassthroughCopy({"src/_data/disposal-directory.json": "disposal-directory.json"});
 
   // Minify HTML in production
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
@@ -118,6 +119,62 @@ module.exports = function(eleventyConfig) {
   // Helper to get cities by state
   eleventyConfig.addFilter("citiesByState", function(cities, state) {
     return cities.filter(city => city.data.state === state);
+  });
+
+  // Load disposal directory and group by state for static HTML rendering
+  const disposalData = require("./src/_data/disposal-directory.json");
+
+  // Add disposal directory as global data
+  eleventyConfig.addGlobalData("disposalDirectory", disposalData);
+
+  // Filter to group cities by state
+  eleventyConfig.addFilter("groupByState", function(cities) {
+    const grouped = {};
+    const stateOrder = [
+      'AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DE', 'FL', 'GA',
+      'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD',
+      'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ',
+      'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC',
+      'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY'
+    ];
+
+    cities.forEach(city => {
+      const state = city.state_abbrev || 'Unknown';
+      if (!grouped[state]) {
+        grouped[state] = [];
+      }
+      grouped[state].push(city);
+    });
+
+    // Sort cities within each state alphabetically
+    Object.keys(grouped).forEach(state => {
+      grouped[state].sort((a, b) => a.city.localeCompare(b.city));
+    });
+
+    // Return as ordered array of [state, cities] pairs
+    return stateOrder
+      .filter(state => grouped[state])
+      .map(state => ({ state, cities: grouped[state] }));
+  });
+
+  // Get full state name from abbreviation
+  eleventyConfig.addFilter("stateName", function(abbrev) {
+    const stateNames = {
+      'AL': 'Alabama', 'AK': 'Alaska', 'AZ': 'Arizona', 'AR': 'Arkansas',
+      'CA': 'California', 'CO': 'Colorado', 'CT': 'Connecticut', 'DE': 'Delaware',
+      'FL': 'Florida', 'GA': 'Georgia', 'HI': 'Hawaii', 'ID': 'Idaho',
+      'IL': 'Illinois', 'IN': 'Indiana', 'IA': 'Iowa', 'KS': 'Kansas',
+      'KY': 'Kentucky', 'LA': 'Louisiana', 'ME': 'Maine', 'MD': 'Maryland',
+      'MA': 'Massachusetts', 'MI': 'Michigan', 'MN': 'Minnesota', 'MS': 'Mississippi',
+      'MO': 'Missouri', 'MT': 'Montana', 'NE': 'Nebraska', 'NV': 'Nevada',
+      'NH': 'New Hampshire', 'NJ': 'New Jersey', 'NM': 'New Mexico', 'NY': 'New York',
+      'NC': 'North Carolina', 'ND': 'North Dakota', 'OH': 'Ohio', 'OK': 'Oklahoma',
+      'OR': 'Oregon', 'PA': 'Pennsylvania', 'RI': 'Rhode Island', 'SC': 'South Carolina',
+      'SD': 'South Dakota', 'TN': 'Tennessee', 'TX': 'Texas', 'UT': 'Utah',
+      'VT': 'Vermont', 'VA': 'Virginia', 'WA': 'Washington', 'WV': 'West Virginia',
+      'WI': 'Wisconsin', 'WY': 'Wyoming'
+    };
+    return stateNames[abbrev] || abbrev;
   });
 
   // Collection for blog posts
