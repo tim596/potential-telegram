@@ -7,11 +7,11 @@
     <meta name="description" content="{{ pageMetaDescription or metaDescription or description or 'Professional mattress removal and eco-friendly recycling service. Next-day pickup, licensed & insured, serving all major US cities.' }}">
     
     <!-- Open Graph -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="{{ title }}">
-    <meta property="og:description" content="{{ description }}">
-    <meta property="og:url" content="/{{ page.url }}">
-    <meta property="og:image" content="//images/og-image.jpg">
+    <meta property="og:type" content="{% if coverImage %}article{% else %}website{% endif %}">
+    <meta property="og:title" content="{{ metaTitle or title }}">
+    <meta property="og:description" content="{{ metaDescription or description or 'Professional mattress removal and eco-friendly recycling service.' }}">
+    <meta property="og:url" content="https://abedderworld.com{{ page.url }}">
+    <meta property="og:image" content="https://abedderworld.com/images/{% if coverImage %}blog/{{ coverImage }}{% else %}og-image.jpg{% endif %}">
     
     <!-- Canonical URL -->
     <link rel="canonical" href="https://abedderworld.com{{ page.url }}">
