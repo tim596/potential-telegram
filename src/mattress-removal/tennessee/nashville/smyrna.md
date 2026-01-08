@@ -10,6 +10,19 @@ parentMetro: Nashville
 coordinates:
   lat: 35.9828
   lng: -86.5186
+communityPartners:
+  - name: Town of Smyrna
+    url: https://www.townofsmyrna.org/
+    description: Official town government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Middle Tennessee State University
+    url: https://www.mtsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Rutherford County
+    url: https://www.habitatrutherford.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

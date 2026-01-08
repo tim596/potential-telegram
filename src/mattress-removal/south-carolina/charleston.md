@@ -6,9 +6,22 @@ state: "South Carolina"
 stateAbbr: "SC"
 stateSlug: "south-carolina"
 tier: 1
-coordinates: 
+coordinates:
   lat: 32.7765
   lng: -79.9311
+communityPartners:
+  - name: City of Charleston
+    url: https://www.charleston-sc.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Lowcountry
+    url: https://www.palmettogoodwill.org/
+    description: Donation and recycling partner
+  - name: College of Charleston
+    url: https://www.cofc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Berkeley County
+    url: https://www.habitatberkeleycounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

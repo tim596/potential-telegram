@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 48.7519
   lng: -122.4787
+communityPartners:
+  - name: City of Bellingham
+    url: https://cob.org/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Western Washington University
+    url: https://www.wwu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Whatcom County
+    url: https://www.habitat-whatcom.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

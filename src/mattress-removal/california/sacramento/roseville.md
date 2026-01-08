@@ -10,6 +10,19 @@ parentMetro: "Sacramento"
 coordinates:
   lat: 38.7521
   lng: -121.2880
+communityPartners:
+  - name: City of Roseville
+    url: https://www.roseville.ca.us/
+    description: Official city government
+  - name: Sacramento Valley Goodwill
+    url: https://goodwillsacto.org/
+    description: Donation and recycling partner
+  - name: Sierra College
+    url: https://www.sierracollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Sacramento
+    url: https://www.habitatgreatersac.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

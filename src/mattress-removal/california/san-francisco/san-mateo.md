@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.5630
   lng: -122.3255
+communityPartners:
+  - name: City of San Mateo
+    url: https://www.cityofsanmateo.org/
+    description: Official city government
+  - name: Goodwill of San Francisco Bay
+    url: https://sfgoodwill.org/
+    description: Donation and recycling partner
+  - name: College of San Mateo
+    url: https://collegeofsanmateo.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater San Francisco
+    url: https://habitatgsf.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

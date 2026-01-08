@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 40.0456
   lng: -86.0086
+communityPartners:
+  - name: City of Noblesville
+    url: https://www.cityofnoblesville.org/
+    description: Official city government
+  - name: Goodwill Industries of Central and Southern Indiana
+    url: https://www.goodwillindy.org/
+    description: Donation and recycling partner
+  - name: Indiana University Kokomo
+    url: https://www.iuk.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Hamilton County
+    url: https://www.hfhhamilton.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

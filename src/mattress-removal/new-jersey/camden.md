@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 39.9259
   lng: -75.1196
+communityPartners:
+  - name: City of Camden
+    url: https://www.ci.camden.nj.us/
+    description: Official city government
+  - name: Goodwill Industries of Southern New Jersey
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Rutgers University-Camden
+    url: https://www.camden.rutgers.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Camden County
+    url: https://www.habitatcamden.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 33.5779
   lng: -101.8552
+communityPartners:
+  - name: City of Lubbock
+    url: https://www.mylubbock.us/
+    description: Official city government
+  - name: Goodwill Industries of Northwest Texas
+    url: https://www.goodwillnwtexas.org/
+    description: Donation and recycling partner
+  - name: Texas Tech University
+    url: https://www.ttu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lubbock
+    url: https://www.habitatlubbock.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,9 +8,22 @@ state: Minnesota
 stateSlug: minnesota
 parentMetro: Minneapolis
 tier: 2
-coordinates: 
+coordinates:
   lat: 44.6497
   lng: -93.2427
+communityPartners:
+  - name: City of Lakeville
+    url: https://www.lakevillemn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: Dakota County Technical College
+    url: https://www.dctc.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

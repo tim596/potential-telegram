@@ -9,6 +9,19 @@ zipCodes: ['33301', '33304', '33305', '33306', '33308', '33309', '33311', '33312
 coordinates:
   lat: 26.1224
   lng: -80.1373
+communityPartners:
+  - name: City of Fort Lauderdale
+    url: https://www.fortlauderdale.gov/
+    description: Official city government
+  - name: Goodwill of South Florida
+    url: https://www.goodwillsouthflorida.org/
+    description: Donation and recycling partner
+  - name: Nova Southeastern University
+    url: https://www.nova.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Broward
+    url: https://www.habitatbroward.org/
+    description: Housing and donation partner
 parentMetro: Miami
 neighborhoods:
   - name: "Las Olas Isles"

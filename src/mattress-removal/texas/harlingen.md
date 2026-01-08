@@ -7,6 +7,19 @@ stateSlug: texas
 coordinates:
   lat: 26.1906
   lng: -97.6961
+communityPartners:
+  - name: City of Harlingen
+    url: https://www.myharlingen.us/
+    description: Official city government
+  - name: Goodwill Industries of South Texas
+    url: https://www.goodwillsouthtexas.org/
+    description: Donation and recycling partner
+  - name: Texas State Technical College
+    url: https://www.tstc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Rio Grande Valley
+    url: https://www.habitatrgv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

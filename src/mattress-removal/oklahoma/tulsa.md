@@ -8,9 +8,22 @@ stateAbbr: OK
 parentMetro: Tulsa
 tier: 2
 zipCodes: ['74101', '74102', '74103', '74104', '74105', '74106', '74107', '74108', '74110', '74112', '74114', '74115', '74116', '74117', '74119', '74120', '74121', '74126', '74127', '74128', '74129', '74130', '74131', '74132', '74133', '74134', '74135', '74136', '74137', '74141', '74145', '74146', '74148', '74149', '74150', '74152', '74153', '74156', '74158', '74159', '74169', '74170', '74171', '74172', '74182', '74184', '74186', '74187', '74192', '74193']
-coordinates: 
+coordinates:
   lat: 36.1540
   lng: -95.9928
+communityPartners:
+  - name: City of Tulsa
+    url: https://www.cityoftulsa.org/
+    description: Official city government
+  - name: Goodwill Industries of Tulsa
+    url: https://www.goodwilltulsa.org/
+    description: Donation and recycling partner
+  - name: University of Tulsa
+    url: https://www.utulsa.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Tulsa
+    url: https://www.habitattulsa.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Cherry Street Historic District"
     zipCodes: ["74104", "74120"]

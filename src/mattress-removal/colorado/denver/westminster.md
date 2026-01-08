@@ -16,6 +16,19 @@ pricing:
 coordinates:
   lat: 39.8366
   lng: -105.0372
+communityPartners:
+  - name: City of Westminster
+    url: https://www.cityofwestminster.us/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Front Range Community College
+    url: https://www.frontrange.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 zipCodes:
   - "80003"
   - "80020"

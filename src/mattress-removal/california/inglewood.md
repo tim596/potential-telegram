@@ -9,6 +9,19 @@ parentMetro: Los Angeles
 coordinates:
   lat: 33.9617
   lng: -118.3531
+communityPartners:
+  - name: City of Inglewood
+    url: https://www.cityofinglewood.org/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: El Camino College
+    url: https://www.elcamino.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Los Angeles
+    url: https://www.habitatla.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,6 +7,19 @@ stateSlug: virginia
 coordinates:
   lat: 36.8468
   lng: -76.2852
+communityPartners:
+  - name: City of Norfolk
+    url: https://www.norfolk.gov/
+    description: Official city government
+  - name: Goodwill of Central and Coastal Virginia
+    url: https://www.goodwillvirginia.org/
+    description: Donation and recycling partner
+  - name: Old Dominion University
+    url: https://www.odu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity South Hampton Roads
+    url: https://www.shrhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

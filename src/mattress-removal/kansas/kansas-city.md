@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 39.1142
   lng: -94.6275
+communityPartners:
+  - name: Unified Government of Wyandotte County
+    url: https://www.wycokck.org/
+    description: Official city government
+  - name: Goodwill of Western Missouri & Eastern Kansas
+    url: https://www.mokangoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Kansas Medical Center
+    url: https://www.kumc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Kansas City
+    url: https://www.habitatkc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

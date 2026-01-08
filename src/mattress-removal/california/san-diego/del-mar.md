@@ -10,6 +10,19 @@ parentMetro: "San Diego"
 coordinates:
   lat: 32.9595
   lng: -117.2659
+communityPartners:
+  - name: City of Del Mar
+    url: https://www.delmar.ca.us/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: UC San Diego
+    url: https://www.ucsd.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

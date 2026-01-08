@@ -12,6 +12,19 @@ tier: 1
 coordinates:
   lat: 39.7392
   lng: -104.9903
+communityPartners:
+  - name: City of Denver
+    url: https://www.denvergov.org/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: University of Colorado Denver
+    url: https://www.ucdenver.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 
 zipCodes:
   - "80202"

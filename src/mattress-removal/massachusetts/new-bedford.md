@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 41.6362
   lng: -70.9342
+communityPartners:
+  - name: City of New Bedford
+    url: https://www.newbedford-ma.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Massachusetts
+    url: https://www.goodwillsema.org/
+    description: Donation and recycling partner
+  - name: UMass Dartmouth
+    url: https://www.umassd.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater New Bedford
+    url: https://www.habitatnb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

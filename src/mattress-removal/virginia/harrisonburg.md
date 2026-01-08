@@ -6,9 +6,22 @@ state: "Virginia"
 stateAbbr: "VA"
 stateSlug: "virginia"
 tier: 2
-coordinates: 
+coordinates:
   lat: 38.4496
   lng: -78.8689
+communityPartners:
+  - name: City of Harrisonburg
+    url: https://www.harrisonburgva.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Valleys
+    url: https://www.goodwillvalleys.com/
+    description: Donation and recycling partner
+  - name: James Madison University
+    url: https://www.jmu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Harrisonburg-Rockingham
+    url: https://www.hrhfh.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 39.8386
   lng: -85.9886
+communityPartners:
+  - name: City of Lawrence
+    url: https://www.cityoflawrence.org/
+    description: Official city government
+  - name: Goodwill Industries of Central and Southern Indiana
+    url: https://www.goodwillindy.org/
+    description: Donation and recycling partner
+  - name: Indiana Wesleyan University
+    url: https://www.indwes.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Indianapolis
+    url: https://www.indyhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

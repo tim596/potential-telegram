@@ -4,9 +4,22 @@ permalink: /mattress-removal/alaska/juneau/
 city: Juneau
 state: Alaska
 stateSlug: alaska
-coordinates: 
+coordinates:
   lat: 58.3019
   lng: -134.4197
+communityPartners:
+  - name: City and Borough of Juneau
+    url: https://juneau.org/
+    description: Official city government
+  - name: Goodwill of Alaska
+    url: https://goodwill-alaska.org/
+    description: Donation and recycling partner
+  - name: University of Alaska Southeast
+    url: https://uas.alaska.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Anchorage
+    url: https://www.habitatanchorage.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

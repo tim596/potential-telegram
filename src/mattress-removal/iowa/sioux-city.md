@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 42.4999
   lng: -96.4003
+communityPartners:
+  - name: City of Sioux City
+    url: https://www.sioux-city.org/
+    description: Official city government
+  - name: Goodwill of the Great Plains
+    url: https://www.goodwillgreatplains.org/
+    description: Donation and recycling partner
+  - name: Morningside University
+    url: https://www.morningside.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Sioux City
+    url: https://www.habitatsiouxcity.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

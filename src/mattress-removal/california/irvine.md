@@ -9,6 +9,19 @@ parentMetro: Los Angeles
 coordinates:
   lat: 33.6839
   lng: -117.7947
+communityPartners:
+  - name: City of Irvine
+    url: https://cityofirvine.org/
+    description: Official city government
+  - name: Goodwill of Orange County
+    url: https://www.ocgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of California, Irvine
+    url: https://uci.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Orange County
+    url: https://habitatoc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

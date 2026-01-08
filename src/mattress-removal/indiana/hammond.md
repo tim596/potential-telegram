@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 41.5834
   lng: -87.5001
+communityPartners:
+  - name: City of Hammond
+    url: https://www.hammondindiana.com/
+    description: Official city government
+  - name: Goodwill Industries of Michiana
+    url: https://www.goodwillmichiana.org/
+    description: Donation and recycling partner
+  - name: Purdue University Northwest
+    url: https://www.pnw.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Northwest Indiana
+    url: https://www.nwihabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

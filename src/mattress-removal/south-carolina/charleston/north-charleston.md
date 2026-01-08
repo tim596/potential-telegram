@@ -9,9 +9,22 @@ stateAbbr: "SC"
 stateSlug: "south-carolina"
 parentMetro: "Charleston"
 tier: 2
-coordinates: 
+coordinates:
   lat: 32.8546
   lng: -79.9748
+communityPartners:
+  - name: City of North Charleston
+    url: https://www.northcharleston.org/
+    description: Official city government
+  - name: Goodwill Industries of Lower South Carolina
+    url: https://www.palmettogoodwill.org/
+    description: Donation and recycling partner
+  - name: Charleston Southern University
+    url: https://www.charlestonsouthern.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Charleston Tri-County Area
+    url: https://www.habitatchas.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

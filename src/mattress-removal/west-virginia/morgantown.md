@@ -7,6 +7,19 @@ stateSlug: west-virginia
 coordinates:
   lat: 39.6295
   lng: -79.9553
+communityPartners:
+  - name: City of Morgantown
+    url: https://www.morgantownwv.gov/
+    description: Official city government
+  - name: Goodwill Industries of KYOWVA Area
+    url: https://www.goodwillhunting.org/
+    description: Donation and recycling partner
+  - name: West Virginia University
+    url: https://www.wvu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mon Valley
+    url: https://www.habitatmonvalley.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

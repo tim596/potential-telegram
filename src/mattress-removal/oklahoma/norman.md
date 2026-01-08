@@ -6,9 +6,22 @@ state: "Oklahoma"
 stateAbbr: "OK"
 stateSlug: "oklahoma"
 tier: 2
-coordinates: 
+coordinates:
   lat: 35.2226
   lng: -97.4395
+communityPartners:
+  - name: City of Norman
+    url: https://www.normanok.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Oklahoma
+    url: https://www.okgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Oklahoma
+    url: https://www.ou.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central Oklahoma
+    url: https://www.habitat-okc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

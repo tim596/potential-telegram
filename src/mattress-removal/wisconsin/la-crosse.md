@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 43.8014
   lng: -91.2396
+communityPartners:
+  - name: City of La Crosse
+    url: https://www.cityoflacrosse.org/
+    description: Official city government
+  - name: Goodwill North Central Wisconsin
+    url: https://www.goodwillncw.org/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-La Crosse
+    url: https://www.uwlax.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity La Crosse
+    url: https://www.habitatlacrosse.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

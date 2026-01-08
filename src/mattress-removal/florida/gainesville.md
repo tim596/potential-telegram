@@ -7,6 +7,19 @@ zipCodes: ['32601', '32602', '32603', '32604', '32605', '32606', '32607', '32608
 coordinates:
   lat: 29.6516
   lng: -82.3248
+communityPartners:
+  - name: City of Gainesville
+    url: https://www.cityofgainesville.org/
+    description: Official city government
+  - name: Goodwill of North Central Florida
+    url: https://www.goodwillncfl.org/
+    description: Donation and recycling partner
+  - name: University of Florida
+    url: https://www.ufl.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Alachua County
+    url: https://www.alachuahabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "University Area"
     zipCodes: ["32601", "32603"]

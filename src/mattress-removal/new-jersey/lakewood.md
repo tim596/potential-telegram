@@ -9,6 +9,19 @@ citySlug: "lakewood"
 zip: "08701"
 latitude: 40.0978
 longitude: -74.2179
+communityPartners:
+  - name: Lakewood Township
+    url: https://www.lakewoodnj.gov/
+    description: Official township government
+  - name: Goodwill Industries of Southern New Jersey
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Georgian Court University
+    url: https://www.georgian.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Ocean County
+    url: https://www.habitatocean.org/
+    description: Housing and donation partner
 tier: 2
 population: 135158
 businessLicense: "NJ-LW-2025-007"

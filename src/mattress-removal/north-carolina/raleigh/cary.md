@@ -10,6 +10,19 @@ parentMetro: Raleigh
 coordinates:
   lat: 35.7915
   lng: -78.7811
+communityPartners:
+  - name: Town of Cary
+    url: https://www.carync.gov/
+    description: Official town government
+  - name: Goodwill Industries of Eastern NC
+    url: https://www.gienc.org/
+    description: Donation and recycling partner
+  - name: Wake Tech Community College
+    url: https://www.waketech.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Wake County
+    url: https://www.habitatwake.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

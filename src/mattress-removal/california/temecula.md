@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 33.4936
   lng: -117.1484
+communityPartners:
+  - name: City of Temecula
+    url: https://temeculaca.gov/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Mt. San Jacinto College
+    url: https://msjc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Inland Valley
+    url: https://habitativ.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

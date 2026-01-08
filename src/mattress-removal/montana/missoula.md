@@ -12,6 +12,19 @@ longitude: -113.9940
 tier: 2
 population: 79996
 businessLicense: "MT-MI-2025-002"
+communityPartners:
+  - name: City of Missoula
+    url: https://www.ci.missoula.mt.us/
+    description: Official city government
+  - name: Goodwill Industries of Missoula
+    url: https://www.goodwillmissoula.org/
+    description: Donation and recycling partner
+  - name: University of Montana
+    url: https://www.umt.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Missoula
+    url: https://www.habitatmsla.org/
+    description: Housing and donation partner
 pricing:
   oneItem: 125
   twoItems: 155

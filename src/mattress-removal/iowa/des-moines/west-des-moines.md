@@ -10,6 +10,19 @@ tier: 2
 coordinates:
   lat: 41.5769
   lng: -93.7118
+communityPartners:
+  - name: City of West Des Moines
+    url: https://www.wdm.iowa.gov/
+    description: Official city government
+  - name: Goodwill of Central Iowa
+    url: https://www.dmgoodwill.org/
+    description: Donation and recycling partner
+  - name: Drake University
+    url: https://www.drake.edu/
+    description: Campus community partner
+  - name: Greater Des Moines Habitat for Humanity
+    url: https://www.gdmhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

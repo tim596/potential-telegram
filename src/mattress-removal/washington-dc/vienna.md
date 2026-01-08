@@ -8,6 +8,19 @@ parentMetro: Washington DC
 coordinates:
   lat: 38.9012
   lng: -77.2653
+communityPartners:
+  - name: Town of Vienna
+    url: https://www.viennava.gov/
+    description: Official town government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: Northern Virginia Community College
+    url: https://www.nvcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northern Virginia
+    url: https://www.habitatnova.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

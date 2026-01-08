@@ -9,6 +9,19 @@ zipCodes: ['32901', '32904', '32934', '32935', '32936', '32940', '32941']
 coordinates:
   lat: 28.0836
   lng: -80.6081
+communityPartners:
+  - name: City of Melbourne
+    url: https://www.melbourneflorida.org/
+    description: Official city government
+  - name: Goodwill Industries of Central Florida
+    url: https://www.goodwillcfl.org/
+    description: Donation and recycling partner
+  - name: Florida Institute of Technology
+    url: https://www.fit.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Brevard County
+    url: https://www.habitatbrevard.org/
+    description: Housing and donation partner
 parentMetro: Palm Bay
 neighborhoods:
   - name: "Historic Downtown Melbourne"

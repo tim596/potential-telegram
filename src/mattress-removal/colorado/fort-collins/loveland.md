@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 40.3977
   lng: -105.0749
+communityPartners:
+  - name: City of Loveland
+    url: https://www.cityofloveland.org/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Front Range Community College
+    url: https://www.frontrange.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Northern Colorado
+    url: https://habitatnoco.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

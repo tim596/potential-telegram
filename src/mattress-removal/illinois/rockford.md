@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 42.2711
   lng: -89.0940
+communityPartners:
+  - name: City of Rockford
+    url: https://www.rockfordil.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northern Illinois
+    url: https://www.goodwillni.org/
+    description: Donation and recycling partner
+  - name: Rock Valley College
+    url: https://www.rockvalleycollege.edu/
+    description: Campus community partner
+  - name: Rockford Area Habitat for Humanity
+    url: https://rockfordhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

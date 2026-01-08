@@ -10,6 +10,19 @@ parentMetro: "San Diego"
 coordinates:
   lat: 33.1581
   lng: -117.3506
+communityPartners:
+  - name: City of Carlsbad
+    url: https://www.carlsbadca.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: MiraCosta College
+    url: https://www.miracosta.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

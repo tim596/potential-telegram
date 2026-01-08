@@ -9,9 +9,22 @@ stateAbbr: "OH"
 stateSlug: "ohio"
 parentMetro: "Columbus"
 tier: 3
-coordinates: 
+coordinates:
   lat: 40.1262
   lng: -82.9291
+communityPartners:
+  - name: City of Westerville
+    url: https://www.westerville.org/
+    description: Official city government
+  - name: Goodwill Columbus
+    url: https://www.goodwillcolumbus.org/
+    description: Donation and recycling partner
+  - name: Otterbein University
+    url: https://www.otterbein.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mid-Ohio
+    url: https://www.habitatmidohio.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

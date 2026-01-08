@@ -6,9 +6,22 @@ state: "Texas"
 stateAbbr: "TX"
 stateSlug: "texas"
 tier: 2
-coordinates: 
+coordinates:
   lat: 27.5306
   lng: -99.4803
+communityPartners:
+  - name: City of Laredo
+    url: https://www.ci.laredo.tx.us/
+    description: Official city government
+  - name: Goodwill Industries of South Texas
+    url: https://www.goodwillsouthtexas.org/
+    description: Donation and recycling partner
+  - name: Texas A&M International University
+    url: https://www.tamiu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Laredo
+    url: https://www.habitatlaredo.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

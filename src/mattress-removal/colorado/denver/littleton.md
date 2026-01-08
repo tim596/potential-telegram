@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 39.6133
   lng: -105.0178
+communityPartners:
+  - name: City of Littleton
+    url: https://www.littletongov.org/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Arapahoe Community College
+    url: https://www.arapahoe.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 zipCodes:
   - "80120"
   - "80123" 

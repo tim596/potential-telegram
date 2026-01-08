@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 39.5296
   lng: -119.8138
+communityPartners:
+  - name: City of Reno
+    url: https://www.reno.gov/
+    description: Official city government
+  - name: Goodwill of the Greater East Bay
+    url: https://www.eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Nevada Reno
+    url: https://www.unr.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Reno Area
+    url: https://www.renoareahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -6,9 +6,22 @@ state: "North Carolina"
 stateAbbr: "NC"
 stateSlug: "north-carolina"
 tier: 2
-coordinates: 
+coordinates:
   lat: 35.9940
   lng: -78.8986
+communityPartners:
+  - name: City of Durham
+    url: https://durhamnc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Eastern NC
+    url: https://www.gienc.org/
+    description: Donation and recycling partner
+  - name: Duke University
+    url: https://www.duke.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Durham
+    url: https://www.durhamhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

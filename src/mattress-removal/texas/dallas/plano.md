@@ -10,6 +10,19 @@ parentMetro: Dallas
 coordinates:
   lat: 33.0198
   lng: -96.6989
+communityPartners:
+  - name: City of Plano
+    url: https://www.plano.gov/
+    description: Official city government
+  - name: Goodwill Industries of Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: Collin College
+    url: https://www.collin.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Collin County
+    url: https://www.hfhcollin.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

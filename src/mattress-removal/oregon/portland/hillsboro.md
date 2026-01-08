@@ -9,9 +9,22 @@ stateAbbr: "OR"
 stateSlug: "oregon"
 parentMetro: "Portland"
 tier: 3
-coordinates: 
+coordinates:
   lat: 45.5229
   lng: -122.9898
+communityPartners:
+  - name: City of Hillsboro
+    url: https://www.hillsboro-oregon.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Pacific University
+    url: https://www.pacificu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Portland Region
+    url: https://habitatportlandregion.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

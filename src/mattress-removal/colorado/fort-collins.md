@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 40.5853
   lng: -105.0844
+communityPartners:
+  - name: City of Fort Collins
+    url: https://www.fcgov.com/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Colorado State University
+    url: https://www.colostate.edu/
+    description: Campus community partner
+  - name: Fort Collins Habitat for Humanity
+    url: https://fortcollinshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

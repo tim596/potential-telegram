@@ -7,6 +7,19 @@ stateSlug: pennsylvania
 coordinates:
   lat: 40.2732
   lng: -76.8839
+communityPartners:
+  - name: City of Harrisburg
+    url: https://harrisburgpa.gov/
+    description: Official city government
+  - name: Goodwill Keystone Area
+    url: https://www.yourgoodwill.org/
+    description: Donation and recycling partner
+  - name: Harrisburg Area Community College
+    url: https://www.hacc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Greater Harrisburg Area
+    url: https://www.hbghabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

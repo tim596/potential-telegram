@@ -8,9 +8,22 @@ stateAbbr: NY
 parentMetro: Albany
 tier: 3
 zipCodes: ['12301', '12302', '12303', '12304', '12305', '12306', '12307', '12308', '12309', '12345']
-coordinates: 
+coordinates:
   lat: 42.8142
   lng: -73.9396
+communityPartners:
+  - name: City of Schenectady
+    url: https://www.cityofschenectady.com/
+    description: Official city government
+  - name: Goodwill Industries of the Greater Capital Region
+    url: https://www.goodwillcr.org/
+    description: Donation and recycling partner
+  - name: Union College
+    url: https://www.union.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Capital District
+    url: https://www.cdhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Stockade Historic District"
     zipCodes: ["12305"]

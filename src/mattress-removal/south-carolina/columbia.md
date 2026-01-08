@@ -6,9 +6,22 @@ state: "South Carolina"
 stateAbbr: "SC"
 stateSlug: "south-carolina"
 tier: 1
-coordinates: 
+coordinates:
   lat: 34.0007
   lng: -81.0348
+communityPartners:
+  - name: City of Columbia
+    url: https://www.columbiasc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Upper South Carolina
+    url: https://www.goodwillsc.org/
+    description: Donation and recycling partner
+  - name: University of South Carolina
+    url: https://www.sc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Midlands
+    url: https://www.habitatmidlands.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

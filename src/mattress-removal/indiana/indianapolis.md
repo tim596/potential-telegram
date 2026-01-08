@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 39.7684
   lng: -86.1581
+communityPartners:
+  - name: City of Indianapolis
+    url: https://www.indy.gov/
+    description: Official city government
+  - name: Goodwill of Central & Southern Indiana
+    url: https://www.goodwillindy.org/
+    description: Donation and recycling partner
+  - name: Indiana University-Purdue University Indianapolis
+    url: https://www.iupui.edu/
+    description: Campus community partner
+  - name: Greater Indy Habitat for Humanity
+    url: https://www.indyhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

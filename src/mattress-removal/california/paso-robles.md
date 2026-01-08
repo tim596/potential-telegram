@@ -10,6 +10,19 @@ stateCode: "CA"
 coordinates:
   lat: 35.6267
   lng: -120.6914
+communityPartners:
+  - name: City of Paso Robles
+    url: https://www.prcity.com/
+    description: Official city government
+  - name: Goodwill Central Coast
+    url: https://www.ccgoodwill.org/
+    description: Donation and recycling partner
+  - name: Cuesta College
+    url: https://www.cuesta.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Luis Obispo County
+    url: https://habitatslo.org/
+    description: Housing and donation partner
 tier: 3
 neighborhoods:
   - name: "Downtown Historic District"

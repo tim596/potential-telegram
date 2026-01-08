@@ -9,9 +9,22 @@ stateAbbr: "TX"
 stateSlug: "texas"
 parentMetro: "Dallas"
 tier: 2
-coordinates: 
+coordinates:
   lat: 33.1972
   lng: -96.6397
+communityPartners:
+  - name: City of McKinney
+    url: https://www.mckinneytexas.org/
+    description: Official city government
+  - name: Goodwill Industries of Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: Collin College
+    url: https://www.collin.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Collin County
+    url: https://www.hfhcollin.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

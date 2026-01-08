@@ -6,9 +6,22 @@ state: "New York"
 stateAbbr: "NY"
 stateSlug: "new-york"
 tier: 2
-coordinates: 
+coordinates:
   lat: 42.6526
   lng: -73.7562
+communityPartners:
+  - name: City of Albany
+    url: https://www.albanyny.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Greater Capital Region
+    url: https://www.goodwillgcr.org/
+    description: Donation and recycling partner
+  - name: University at Albany SUNY
+    url: https://www.albany.edu/
+    description: Campus community partner
+  - name: Capital Region Habitat for Humanity
+    url: https://www.capitalhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

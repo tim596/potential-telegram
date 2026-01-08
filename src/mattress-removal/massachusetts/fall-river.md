@@ -5,9 +5,22 @@ city: Fall River
 state: Massachusetts
 stateSlug: massachusetts
 tier: 2
-coordinates: 
+coordinates:
   lat: 41.7015
   lng: -71.1550
+communityPartners:
+  - name: City of Fall River
+    url: https://www.fallriverma.org/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Massachusetts
+    url: https://www.goodwillsema.org/
+    description: Donation and recycling partner
+  - name: Bristol Community College
+    url: https://www.bristolcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater New Bedford
+    url: https://www.habitatnb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,10 +9,22 @@ stateSlug: "california"
 county: "Yolo"
 phone: "720-263-6094"
 tier: 3
-coordinates: 
+coordinates:
   lat: 38.5449
   lng: -121.7405
-
+communityPartners:
+  - name: City of Davis
+    url: https://www.cityofdavis.org/
+    description: Official city government
+  - name: Goodwill Sacramento Valley & Northern Nevada
+    url: https://goodwillsacto.org/
+    description: Donation and recycling partner
+  - name: University of California, Davis
+    url: https://www.ucdavis.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Sacramento
+    url: https://habitatgreatersac.org/
+    description: Housing and donation partner
 zipCodes:
   - "95616"
   - "95617"

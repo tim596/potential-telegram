@@ -6,9 +6,22 @@ state: California
 stateSlug: california
 tier: 2
 parentMetro: Los Angeles
-coordinates: 
+coordinates:
   lat: 33.7376
   lng: -117.8816
+communityPartners:
+  - name: City of Santa Ana
+    url: https://www.santa-ana.org/
+    description: Official city government
+  - name: Goodwill of Orange County
+    url: https://www.ocgoodwill.org/
+    description: Donation and recycling partner
+  - name: Santa Ana College
+    url: https://www.sac.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Orange County
+    url: https://habitatoc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

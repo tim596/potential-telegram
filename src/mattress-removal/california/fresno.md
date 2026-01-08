@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 36.7378
   lng: -119.7871
+communityPartners:
+  - name: City of Fresno
+    url: https://www.fresno.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Joaquin Valley
+    url: https://www.goodwill-sjv.org/
+    description: Donation and recycling partner
+  - name: California State University, Fresno
+    url: https://www.fresnostate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Fresno Area
+    url: https://www.habitatfresno.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

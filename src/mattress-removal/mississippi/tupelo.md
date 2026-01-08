@@ -9,6 +9,19 @@ citySlug: "tupelo"
 zip: "38801"
 latitude: 34.2576
 longitude: -88.7034
+communityPartners:
+  - name: City of Tupelo
+    url: https://www.tupeloms.gov/
+    description: Official city government
+  - name: Goodwill Industries of North Mississippi
+    url: https://www.goodwillnms.org/
+    description: Donation and recycling partner
+  - name: Itawamba Community College
+    url: https://www.iccms.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lee County
+    url: https://www.habitatleecounty.org/
+    description: Housing and donation partner
 tier: 2
 population: 38251
 businessLicense: "MS-TUP-2025-003"

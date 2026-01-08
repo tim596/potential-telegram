@@ -9,6 +9,19 @@ citySlug: "newark"
 zip: "07102"
 latitude: 40.7357
 longitude: -74.1724
+communityPartners:
+  - name: City of Newark
+    url: https://www.newarknj.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillny.org/
+    description: Donation and recycling partner
+  - name: Rutgers University-Newark
+    url: https://www.newark.rutgers.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Newark
+    url: https://www.habitatnewark.org/
+    description: Housing and donation partner
 tier: 1
 population: 311549
 businessLicense: "NJ-NK-2025-001"

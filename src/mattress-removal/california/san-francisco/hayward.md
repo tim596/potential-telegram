@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.6688
   lng: -122.0808
+communityPartners:
+  - name: City of Hayward
+    url: https://www.hayward-ca.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Greater East Bay
+    url: https://eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: California State University East Bay
+    url: https://www.csueastbay.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity East Bay/Silicon Valley
+    url: https://www.habitatebsv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

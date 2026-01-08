@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 47.2529
   lng: -122.4443
+communityPartners:
+  - name: City of Tacoma
+    url: https://www.cityoftacoma.org/
+    description: Official city government
+  - name: Goodwill of the Olympics and Rainier Region
+    url: https://www.goodwillwa.org/
+    description: Donation and recycling partner
+  - name: University of Washington Tacoma
+    url: https://www.tacoma.uw.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Pierce County
+    url: https://www.habitatpc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

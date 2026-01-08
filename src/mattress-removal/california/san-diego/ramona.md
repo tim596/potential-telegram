@@ -9,6 +9,19 @@ parentMetro: "San Diego"
 coordinates:
   lat: 33.0420
   lng: -116.8678
+communityPartners:
+  - name: San Diego County
+    url: https://www.sandiegocounty.gov/
+    description: Official county government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: Palomar College
+    url: https://www.palomar.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

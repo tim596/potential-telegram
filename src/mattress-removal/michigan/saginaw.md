@@ -5,9 +5,22 @@ city: Saginaw
 state: Michigan
 stateSlug: michigan
 tier: 2
-coordinates: 
+coordinates:
   lat: 43.4194
   lng: -83.9508
+communityPartners:
+  - name: City of Saginaw
+    url: https://www.saginaw-mi.com/
+    description: Official city government
+  - name: Goodwill Industries of Mid-Michigan
+    url: https://www.goodwillmidmichigan.org/
+    description: Donation and recycling partner
+  - name: Saginaw Valley State University
+    url: https://www.svsu.edu/
+    description: Campus community partner
+  - name: Greater Michigan Habitat for Humanity
+    url: https://www.habitatmichigan.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

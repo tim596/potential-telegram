@@ -9,6 +9,19 @@ parentMetro: "San Francisco"
 coordinates:
   lat: 37.7652
   lng: -122.2416
+communityPartners:
+  - name: City of Alameda
+    url: https://www.alamedaca.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Greater East Bay
+    url: https://eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: College of Alameda
+    url: https://alameda.peralta.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity East Bay/Silicon Valley
+    url: https://www.habitatebsv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

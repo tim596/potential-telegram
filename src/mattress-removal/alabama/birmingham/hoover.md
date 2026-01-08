@@ -7,9 +7,22 @@ city: Hoover
 state: Alabama
 stateSlug: alabama
 parentMetro: Birmingham
-coordinates: 
+coordinates:
   lat: 33.4053
   lng: -86.8113
+communityPartners:
+  - name: City of Hoover
+    url: https://hooveralabama.gov/
+    description: Official city government
+  - name: Alabama Goodwill Industries
+    url: https://www.alabamagoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Alabama at Birmingham
+    url: https://www.uab.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Birmingham
+    url: https://habitatbirmingham.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

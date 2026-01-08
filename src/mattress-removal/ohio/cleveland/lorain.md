@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Cleveland
 tier: 3
 zipCodes: ['44052', '44053', '44055']
-coordinates: 
+coordinates:
   lat: 41.4528
   lng: -82.1821
+communityPartners:
+  - name: City of Lorain
+    url: https://www.cityoflorain.org/
+    description: Official city government
+  - name: Goodwill Industries of Lorain County
+    url: https://www.lorainctygoodwill.org/
+    description: Donation and recycling partner
+  - name: Lorain County Community College
+    url: https://www.lorainccc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lorain County
+    url: https://www.habitatlorain.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Black River Landing"
     zipCodes: ["44052"]

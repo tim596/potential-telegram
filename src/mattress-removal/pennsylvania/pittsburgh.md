@@ -7,9 +7,22 @@ state: Pennsylvania
 stateAbbr: PA
 tier: 1
 zipCodes: ['15201', '15202', '15203', '15204', '15205', '15206', '15207', '15208', '15209', '15210', '15211', '15212', '15213', '15214', '15215', '15216', '15217', '15218', '15219', '15220', '15221', '15222', '15223', '15224', '15225', '15226', '15227', '15228', '15229', '15232', '15233', '15234', '15235', '15236', '15237', '15238', '15239', '15241', '15243', '15260', '15290']
-coordinates: 
+coordinates:
   lat: 40.4406
   lng: -79.9959
+communityPartners:
+  - name: City of Pittsburgh
+    url: https://pittsburghpa.gov/
+    description: Official city government
+  - name: Goodwill of Southwestern Pennsylvania
+    url: https://www.goodwillswpa.org/
+    description: Donation and recycling partner
+  - name: University of Pittsburgh
+    url: https://www.pitt.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Pittsburgh
+    url: https://habitatpittsburgh.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Oakland University District"
     zipCodes: ["15213", "15260"]

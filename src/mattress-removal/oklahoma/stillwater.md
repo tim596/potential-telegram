@@ -8,9 +8,22 @@ stateAbbr: OK
 parentMetro: Stillwater
 tier: 2
 zipCodes: ['74074', '74075', '74078']
-coordinates: 
+coordinates:
   lat: 36.1156
   lng: -97.0584
+communityPartners:
+  - name: City of Stillwater
+    url: https://www.stillwater.org/
+    description: Official city government
+  - name: Goodwill Industries of Central Oklahoma
+    url: https://www.okgoodwill.org/
+    description: Donation and recycling partner
+  - name: Oklahoma State University
+    url: https://www.okstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Stillwater
+    url: https://www.stillwaterhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Oklahoma State University Campus"
     zipCodes: ["74078"]

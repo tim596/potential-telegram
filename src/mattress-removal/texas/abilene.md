@@ -6,9 +6,22 @@ state: "Texas"
 stateAbbr: "TX"
 stateSlug: "texas"
 tier: 2
-coordinates: 
+coordinates:
   lat: 32.4487
   lng: -99.7331
+communityPartners:
+  - name: City of Abilene
+    url: https://www.abilenetx.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northwest Texas
+    url: https://www.goodwillnwtexas.org/
+    description: Donation and recycling partner
+  - name: Abilene Christian University
+    url: https://www.acu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Abilene
+    url: https://www.abilenehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

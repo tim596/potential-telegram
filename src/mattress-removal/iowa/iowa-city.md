@@ -9,6 +9,19 @@ tier: 3
 coordinates:
   lat: 41.6611
   lng: -91.5302
+communityPartners:
+  - name: City of Iowa City
+    url: https://www.icgov.org/
+    description: Official city government
+  - name: Goodwill of the Heartland
+    url: https://www.goodwillheartland.org/
+    description: Donation and recycling partner
+  - name: University of Iowa
+    url: https://www.uiowa.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Johnson County
+    url: https://www.habitatjoco.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

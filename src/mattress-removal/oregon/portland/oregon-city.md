@@ -10,6 +10,19 @@ parentMetro: "Portland"
 coordinates:
   lat: 45.3573
   lng: -122.6065
+communityPartners:
+  - name: City of Oregon City
+    url: https://www.orcity.org/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Clackamas Community College
+    url: https://www.clackamas.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Portland/Metro East
+    url: https://habitatportlandmetro.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

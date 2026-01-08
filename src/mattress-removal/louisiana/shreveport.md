@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 32.5252
   lng: -93.7502
+communityPartners:
+  - name: City of Shreveport
+    url: https://www.shreveportla.gov/
+    description: Official city government
+  - name: Goodwill Industries of North Louisiana
+    url: https://www.goodwillnla.org/
+    description: Donation and recycling partner
+  - name: Louisiana State University Shreveport
+    url: https://www.lsus.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Shreveport
+    url: https://www.habitatshreveport.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

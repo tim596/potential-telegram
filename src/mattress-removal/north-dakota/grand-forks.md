@@ -7,6 +7,19 @@ stateSlug: north-dakota
 coordinates:
   lat: 47.9253
   lng: -97.0329
+communityPartners:
+  - name: City of Grand Forks
+    url: https://www.grandforksgov.com/
+    description: Official city government
+  - name: Easter Seals Goodwill ND
+    url: https://www.esgwnd.org/
+    description: Donation and recycling partner
+  - name: University of North Dakota
+    url: https://und.edu/
+    description: Campus community partner
+  - name: Grand Forks Region Habitat for Humanity
+    url: https://www.gfhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

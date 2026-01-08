@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 36.3
   lng: -115.085
+communityPartners:
+  - name: City of Corona
+    url: https://www.coronaca.gov/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Norco College
+    url: https://www.norcocollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Riverside
+    url: https://www.habitatriverside.org/
+    description: Housing and donation partner
 pricing:
   - pieces: 1
     price: "$125"

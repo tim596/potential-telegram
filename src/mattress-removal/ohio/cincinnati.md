@@ -7,9 +7,22 @@ state: Ohio
 stateAbbr: OH
 tier: 1
 zipCodes: ['45202', '45203', '45204', '45205', '45206', '45207', '45208', '45209', '45212', '45214', '45216', '45217', '45219', '45220', '45223', '45224', '45225', '45226', '45227', '45229', '45230', '45231', '45232', '45239', '45243']
-coordinates: 
+coordinates:
   lat: 39.1031
   lng: -84.5120
+communityPartners:
+  - name: City of Cincinnati
+    url: https://www.cincinnati-oh.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Cincinnati
+    url: https://www.cincinnatigoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Cincinnati
+    url: https://www.uc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Cincinnati
+    url: https://www.habitatcincinnati.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Over-the-Rhine"
     zipCodes: ["45202"]

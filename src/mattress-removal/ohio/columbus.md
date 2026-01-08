@@ -7,6 +7,19 @@ stateSlug: ohio
 coordinates:
   lat: 39.9612
   lng: -82.9988
+communityPartners:
+  - name: City of Columbus
+    url: https://www.columbus.gov/
+    description: Official city government
+  - name: Goodwill Columbus
+    url: https://www.goodwillcolumbus.org/
+    description: Donation and recycling partner
+  - name: The Ohio State University
+    url: https://www.osu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mid-Ohio
+    url: https://www.habitatmidohio.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

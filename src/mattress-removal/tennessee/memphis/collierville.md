@@ -10,6 +10,19 @@ parentMetro: Memphis
 coordinates:
   lat: 35.0451
   lng: -89.6645
+communityPartners:
+  - name: Town of Collierville
+    url: https://www.collierville.com/
+    description: Official town government
+  - name: Goodwill Industries of the Mid-South
+    url: https://www.goodwillmidsouth.org/
+    description: Donation and recycling partner
+  - name: University of Memphis
+    url: https://www.memphis.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Memphis
+    url: https://www.memphishabitat.com/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

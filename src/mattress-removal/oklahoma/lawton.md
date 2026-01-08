@@ -7,6 +7,19 @@ stateSlug: oklahoma
 coordinates:
   lat: 34.6084
   lng: -98.3962
+communityPartners:
+  - name: City of Lawton
+    url: https://www.lawtonok.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southwest Oklahoma
+    url: https://www.goodwillswok.org/
+    description: Donation and recycling partner
+  - name: Cameron University
+    url: https://www.cameron.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Lawton
+    url: https://www.habitatlawton.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

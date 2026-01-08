@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 26.5629
   lng: -81.9495
+communityPartners:
+  - name: City of Cape Coral
+    url: https://www.capecoral.gov/
+    description: Official city government
+  - name: Goodwill of Southwest Florida
+    url: https://www.goodwillswfl.org/
+    description: Donation and recycling partner
+  - name: Florida SouthWestern State College
+    url: https://www.fsw.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lee and Hendry Counties
+    url: https://www.habitat4humanity.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

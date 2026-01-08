@@ -7,6 +7,19 @@ stateSlug: washington
 coordinates:
   lat: 45.6387
   lng: -122.6615
+communityPartners:
+  - name: City of Vancouver
+    url: https://www.cityofvancouver.us/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Washington State University Vancouver
+    url: https://www.vancouver.wsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Clark County
+    url: https://www.hfhccw.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

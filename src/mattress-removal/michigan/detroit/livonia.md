@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 42.3684
   lng: -83.3528
+communityPartners:
+  - name: City of Livonia
+    url: https://www.ci.livonia.mi.us/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Schoolcraft College
+    url: https://www.schoolcraft.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Western Wayne County
+    url: https://www.habitatwwc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

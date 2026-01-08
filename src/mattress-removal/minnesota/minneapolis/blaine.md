@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 45.1607
   lng: -93.2355
+communityPartners:
+  - name: City of Blaine
+    url: https://www.blainemn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: Anoka-Ramsey Community College
+    url: https://www.anokaramsey.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 zipCodes:
   - "55014"
   - "55449"

@@ -17,6 +17,19 @@ pricing:
 coordinates:
   lat: 42.5803
   lng: -83.0302
+communityPartners:
+  - name: City of Sterling Heights
+    url: https://www.sterling-heights.net/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Macomb Community College
+    url: https://www.macomb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Detroit
+    url: https://www.habitatdetroit.org/
+    description: Housing and donation partner
 serviceArea:
   counties: ["Macomb County", "Oakland County", "Wayne County"]
 zipCodes: 

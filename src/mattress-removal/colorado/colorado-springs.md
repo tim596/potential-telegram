@@ -14,6 +14,19 @@ pricing:
 coordinates:
   lat: 38.8339
   lng: -104.8214
+communityPartners:
+  - name: City of Colorado Springs
+    url: https://coloradosprings.gov/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: University of Colorado Colorado Springs
+    url: https://www.uccs.edu/
+    description: Campus community partner
+  - name: Pikes Peak Habitat for Humanity
+    url: https://pikespeakhabitat.org/
+    description: Housing and donation partner
 zipCodes:
   - "80901"
   - "80902"

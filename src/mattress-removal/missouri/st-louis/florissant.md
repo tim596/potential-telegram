@@ -10,6 +10,19 @@ parentMetro: "St. Louis"
 zip: "63031"
 latitude: 38.7892
 longitude: -90.3226
+communityPartners:
+  - name: City of Florissant
+    url: https://www.florissantmo.com/
+    description: Official city government
+  - name: MERS Goodwill
+    url: https://www.mersgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Missouri-St. Louis
+    url: https://www.umsl.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Saint Louis
+    url: https://www.habitatstl.org/
+    description: Housing and donation partner
 tier: 2
 population: 50247
 businessLicense: "MO-FLR-2025-001"

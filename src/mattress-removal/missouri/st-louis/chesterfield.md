@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 38.6631
   lng: -90.5770
+communityPartners:
+  - name: City of Chesterfield
+    url: https://www.chesterfield.mo.us/
+    description: Official city government
+  - name: MERS Goodwill
+    url: https://www.mersgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Missouri-St. Louis
+    url: https://www.umsl.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Saint Louis
+    url: https://www.habitatstl.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

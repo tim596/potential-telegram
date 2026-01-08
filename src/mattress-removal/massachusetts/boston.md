@@ -9,6 +9,19 @@ tier: 1
 coordinates:
   lat: 42.3601
   lng: -71.0589
+communityPartners:
+  - name: City of Boston
+    url: https://www.boston.gov/
+    description: Official city government
+  - name: Goodwill Industries (Morgan Memorial)
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: Boston University
+    url: https://www.bu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Boston
+    url: https://www.habitatgb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

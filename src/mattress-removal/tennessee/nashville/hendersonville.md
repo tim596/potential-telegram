@@ -9,9 +9,22 @@ stateAbbr: "TN"
 stateSlug: "tennessee"
 parentMetro: "Nashville"
 tier: 2
-coordinates: 
+coordinates:
   lat: 36.3047
   lng: -86.6200
+communityPartners:
+  - name: City of Hendersonville
+    url: https://www.hvilletn.org/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Volunteer State Community College
+    url: https://www.volstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Sumner County
+    url: https://www.sumnercountyhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

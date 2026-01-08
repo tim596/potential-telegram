@@ -10,6 +10,19 @@ parentMetro: "Newark"
 zip: "07748"
 latitude: 40.3473
 longitude: -74.0932
+communityPartners:
+  - name: Middletown Township
+    url: https://www.middletownnj.org/
+    description: Official township government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Brookdale Community College
+    url: https://www.brookdalecc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Monmouth County
+    url: https://www.habitatmonmouth.org/
+    description: Housing and donation partner
 tier: 3
 population: 65742
 businessLicense: "NJ-MT-2025-006"

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 47.6777
   lng: -116.7804
+communityPartners:
+  - name: City of Coeur d'Alene
+    url: https://www.cdaid.org/
+    description: Official city government
+  - name: Goodwill Industries of the Inland Northwest
+    url: https://www.discovergoodwill.org/
+    description: Donation and recycling partner
+  - name: North Idaho College
+    url: https://www.nic.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of North Idaho
+    url: https://www.hfhni.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,6 +7,19 @@ stateSlug: texas
 coordinates:
   lat: 30.2672
   lng: -97.7431
+communityPartners:
+  - name: City of Austin
+    url: https://www.austintexas.gov/
+    description: Official city government
+  - name: Goodwill Central Texas
+    url: https://www.goodwillcentraltexas.org/
+    description: Donation and recycling partner
+  - name: University of Texas at Austin
+    url: https://www.utexas.edu/
+    description: Campus community partner
+  - name: Austin Habitat for Humanity
+    url: https://austinhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

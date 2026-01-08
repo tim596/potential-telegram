@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 42.3370
   lng: -83.2732
+communityPartners:
+  - name: City of Dearborn Heights
+    url: https://www.ci.dearborn-heights.mi.us/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Henry Ford College
+    url: https://www.hfcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Western Wayne County
+    url: https://www.habitatwwc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

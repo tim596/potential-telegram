@@ -6,9 +6,22 @@ state: "Pennsylvania"
 stateAbbr: "PA"
 stateSlug: "pennsylvania"
 tier: 1
-coordinates: 
+coordinates:
   lat: 40.1164
   lng: -80.0851
+communityPartners:
+  - name: City of Erie
+    url: https://www.erie.pa.us/
+    description: Official city government
+  - name: Goodwill Industries of Northwestern Pennsylvania
+    url: https://www.goodwillnwpa.org/
+    description: Donation and recycling partner
+  - name: Penn State Behrend
+    url: https://behrend.psu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Erie County
+    url: https://www.eriehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

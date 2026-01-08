@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 33.8359
   lng: -118.3406
+communityPartners:
+  - name: City of Torrance
+    url: https://www.torranceca.gov/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: El Camino College
+    url: https://www.elcamino.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Los Angeles
+    url: https://www.habitatla.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

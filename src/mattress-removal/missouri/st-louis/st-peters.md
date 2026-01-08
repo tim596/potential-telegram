@@ -10,6 +10,19 @@ citySlug: "st-peters"
 zip: "63376"
 latitude: 38.8031
 longitude: -90.6298
+communityPartners:
+  - name: City of St. Peters
+    url: https://www.stpetersmo.net/
+    description: Official city government
+  - name: MERS Goodwill
+    url: https://www.mersgoodwill.org/
+    description: Donation and recycling partner
+  - name: St. Charles Community College
+    url: https://www.stchas.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of St. Charles County
+    url: https://www.habitatstcharles.org/
+    description: Housing and donation partner
 tier: 2
 population: 58523
 businessLicense: "MO-SP-2025-007"

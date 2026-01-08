@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 30.2266
   lng: -93.2174
+communityPartners:
+  - name: City of Lake Charles
+    url: https://www.cityoflakecharles.com/
+    description: Official city government
+  - name: Goodwill Industries of Acadiana
+    url: https://www.goodwillacadiana.org/
+    description: Donation and recycling partner
+  - name: McNeese State University
+    url: https://www.mcneese.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Southwest Louisiana
+    url: https://www.habitatswla.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

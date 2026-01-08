@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 43.6121
   lng: -116.3915
+communityPartners:
+  - name: City of Meridian
+    url: https://www.meridiancity.org/
+    description: Official city government
+  - name: Goodwill of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Boise State University
+    url: https://www.boisestate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Boise
+    url: https://www.boisehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

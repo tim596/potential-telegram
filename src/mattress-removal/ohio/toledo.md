@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Toledo
 tier: 2
 zipCodes: ['43601', '43602', '43603', '43604', '43605', '43606', '43607', '43608', '43609', '43610', '43611', '43612', '43613', '43614', '43615', '43616', '43617', '43618', '43619', '43620', '43623', '43635', '43652', '43654', '43656', '43657', '43659', '43660', '43661', '43666', '43667', '43681', '43682', '43697', '43699']
-coordinates: 
+coordinates:
   lat: 41.6528
   lng: -83.5379
+communityPartners:
+  - name: City of Toledo
+    url: https://www.toledo.oh.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northwest Ohio
+    url: https://www.goodwillnwohio.org/
+    description: Donation and recycling partner
+  - name: University of Toledo
+    url: https://www.utoledo.edu/
+    description: Campus community partner
+  - name: Maumee Valley Habitat for Humanity
+    url: https://www.habitat4maumee.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Old West End Historic District"
     zipCodes: ["43610"]

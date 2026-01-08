@@ -9,9 +9,22 @@ stateSlug: "california"
 county: "Placer"
 phone: "720-263-6094"
 tier: 3
-coordinates: 
+coordinates:
   lat: 39.1658
   lng: -120.1434
+communityPartners:
+  - name: Placer County
+    url: https://www.placer.ca.gov/
+    description: Official county government
+  - name: Goodwill Industries of Sacramento Valley
+    url: https://www.goodwillsacto.org/
+    description: Donation and recycling partner
+  - name: Sierra Nevada University
+    url: https://www.sierranevada.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Tahoe Truckee
+    url: https://www.habitatttahoetruckee.org/
+    description: Housing and donation partner
 
 zipCodes:
   - "96145"

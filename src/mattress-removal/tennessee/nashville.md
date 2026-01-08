@@ -7,6 +7,19 @@ stateSlug: tennessee
 coordinates:
   lat: 36.1627
   lng: -86.7816
+communityPartners:
+  - name: Metropolitan Government of Nashville
+    url: https://www.nashville.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Vanderbilt University
+    url: https://www.vanderbilt.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Nashville
+    url: https://www.habitatnashville.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

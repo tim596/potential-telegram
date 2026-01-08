@@ -7,9 +7,22 @@ state: New York
 stateAbbr: NY
 parentMetro: New York City
 zipCodes: ['10538', '10801', '10804', '10805']
-coordinates: 
+coordinates:
   lat: 40.9115
   lng: -73.7823
+communityPartners:
+  - name: City of New Rochelle
+    url: https://www.newrochelleny.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater NY
+    url: https://www.goodwillny.org/
+    description: Donation and recycling partner
+  - name: Iona University
+    url: https://www.iona.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Westchester
+    url: https://www.habitatwc.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Wykagyl"
     zipCodes: ["10804"]

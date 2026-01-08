@@ -7,9 +7,22 @@ stateAbbr: "OK"
 stateSlug: "oklahoma"
 parentMetro: "Tulsa"
 tier: 3
-coordinates: 
+coordinates:
   lat: 36.2695
   lng: -95.8547
+communityPartners:
+  - name: City of Owasso
+    url: https://www.cityofowasso.com/
+    description: Official city government
+  - name: Goodwill Industries of Tulsa
+    url: https://www.goodwilltulsa.org/
+    description: Donation and recycling partner
+  - name: Owasso Public Schools
+    url: https://www.owassops.org/
+    description: Community education partner
+  - name: Habitat for Humanity Tulsa
+    url: https://www.habitattulsa.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

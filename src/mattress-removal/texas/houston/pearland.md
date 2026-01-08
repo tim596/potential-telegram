@@ -10,6 +10,19 @@ parentMetro: Houston
 coordinates:
   lat: 29.5636
   lng: -95.2861
+communityPartners:
+  - name: City of Pearland
+    url: https://www.pearlandtx.gov/
+    description: Official city government
+  - name: Goodwill Industries of Houston
+    url: https://www.goodwillhouston.org/
+    description: Donation and recycling partner
+  - name: Alvin Community College
+    url: https://www.alvincollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Brazoria County
+    url: https://www.habitatbrazoria.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

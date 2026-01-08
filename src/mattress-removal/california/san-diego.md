@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 32.7157
   lng: -117.1611
+communityPartners:
+  - name: City of San Diego
+    url: https://www.sandiego.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of California San Diego
+    url: https://ucsd.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

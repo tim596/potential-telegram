@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 41.5731
   lng: -87.7845
+communityPartners:
+  - name: Village of Tinley Park
+    url: https://www.tinleypark.org/
+    description: Official village government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: South Suburban College
+    url: https://www.ssc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Chicago
+    url: https://www.habitatchicago.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

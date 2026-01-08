@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 42.3765
   lng: -71.2356
+communityPartners:
+  - name: City of Waltham
+    url: https://www.city.waltham.ma.us/
+    description: Official city government
+  - name: Goodwill Industries of Greater Boston
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: Brandeis University
+    url: https://www.brandeis.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Boston
+    url: https://www.habitatboston.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

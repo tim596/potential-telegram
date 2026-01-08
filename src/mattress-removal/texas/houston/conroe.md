@@ -11,6 +11,19 @@ tier: 4
 coordinates:
   lat: 30.3119
   lng: -95.4561
+communityPartners:
+  - name: City of Conroe
+    url: https://www.cityofconroe.org/
+    description: Official city government
+  - name: Goodwill Industries of Houston
+    url: https://www.goodwillhouston.org/
+    description: Donation and recycling partner
+  - name: Lone Star College Montgomery
+    url: https://www.lonestar.edu/montgomery
+    description: Campus community partner
+  - name: Habitat for Humanity of Montgomery County
+    url: https://www.habitatmctx.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

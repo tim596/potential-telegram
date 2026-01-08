@@ -12,6 +12,19 @@ longitude: -71.4548
 tier: 1
 population: 115644
 businessLicense: "NH-MAN-2025-001"
+communityPartners:
+  - name: City of Manchester
+    url: https://www.manchesternh.gov/
+    description: Official city government
+  - name: Goodwill Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: University of New Hampshire at Manchester
+    url: https://manchester.unh.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Manchester
+    url: https://www.manchesterhabitat.org/
+    description: Housing and donation partner
 pricing:
   oneItem: 125
   twoItems: 155

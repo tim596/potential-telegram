@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 38.1041
   lng: -122.2566
+communityPartners:
+  - name: City of Vallejo
+    url: https://www.cityofvallejo.net/
+    description: Official city government
+  - name: Goodwill Industries of the Greater East Bay
+    url: https://eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: Solano Community College
+    url: https://www.solano.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Solano County
+    url: https://www.habitatsolano.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

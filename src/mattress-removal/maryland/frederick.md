@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 39.4143
   lng: -77.4105
+communityPartners:
+  - name: City of Frederick
+    url: https://www.cityoffrederickmd.gov/
+    description: Official city government
+  - name: Goodwill Industries of Monocacy Valley
+    url: https://www.gimv.org/
+    description: Donation and recycling partner
+  - name: Hood College
+    url: https://www.hood.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Frederick County
+    url: https://www.frederickhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

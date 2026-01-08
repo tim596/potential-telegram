@@ -7,6 +7,19 @@ stateSlug: "wisconsin"
 coordinates:
   lat: 42.6828
   lng: -89.0187
+communityPartners:
+  - name: City of Janesville
+    url: https://www.janesvillegi.gov/
+    description: Official city government
+  - name: Goodwill of South Central Wisconsin
+    url: https://www.goodwillscwi.org/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-Whitewater
+    url: https://www.uww.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Rock County
+    url: https://www.habitatrockcounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

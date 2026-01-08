@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 37.6872
   lng: -97.3301
+communityPartners:
+  - name: City of Wichita
+    url: https://www.wichita.gov/
+    description: Official city government
+  - name: Goodwill Industries of Kansas
+    url: https://www.goodwillks.org/
+    description: Donation and recycling partner
+  - name: Wichita State University
+    url: https://www.wichita.edu/
+    description: Campus community partner
+  - name: Wichita Habitat for Humanity
+    url: https://www.wichitahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

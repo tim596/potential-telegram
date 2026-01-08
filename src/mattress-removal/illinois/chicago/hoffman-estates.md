@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 42.0423
   lng: -88.0956
+communityPartners:
+  - name: Village of Hoffman Estates
+    url: https://www.hoffmanestates.org/
+    description: Official village government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: Harper College
+    url: https://www.harpercollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Chicago
+    url: https://www.habitatchicago.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

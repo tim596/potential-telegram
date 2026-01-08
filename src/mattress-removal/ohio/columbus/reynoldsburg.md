@@ -10,6 +10,19 @@ parentMetro: Columbus
 coordinates:
   lat: 39.9549
   lng: -82.8121
+communityPartners:
+  - name: City of Reynoldsburg
+    url: https://www.ci.reynoldsburg.oh.us/
+    description: Official city government
+  - name: Goodwill Columbus
+    url: https://www.goodwillcolumbus.org/
+    description: Donation and recycling partner
+  - name: Columbus State Community College
+    url: https://www.cscc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mid-Ohio
+    url: https://www.habitatmidohio.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

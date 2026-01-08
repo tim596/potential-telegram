@@ -7,9 +7,22 @@ stateAbbr: "OK"
 stateSlug: "oklahoma"
 parentMetro: "Oklahoma City"
 tier: 3
-coordinates: 
+coordinates:
   lat: 35.4495
   lng: -97.3967
+communityPartners:
+  - name: City of Midwest City
+    url: https://www.midwestcityok.org/
+    description: Official city government
+  - name: Goodwill Industries of Central Oklahoma
+    url: https://www.okgoodwill.org/
+    description: Donation and recycling partner
+  - name: Rose State College
+    url: https://www.rose.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central Oklahoma
+    url: https://www.habitat-okc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

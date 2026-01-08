@@ -9,6 +9,19 @@ zipCodes: [88201, 88202, 88203]
 coordinates:
   lat: 33.3943
   lng: -104.5230
+communityPartners:
+  - name: City of Roswell
+    url: https://www.roswell-nm.gov/
+    description: Official city government
+  - name: Goodwill Industries of New Mexico
+    url: https://www.goodwillnm.org/
+    description: Donation and recycling partner
+  - name: Eastern New Mexico University-Roswell
+    url: https://www.roswell.enmu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Roswell
+    url: https://www.roswellhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

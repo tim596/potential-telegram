@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 37.9747
   lng: -87.5558
+communityPartners:
+  - name: City of Evansville
+    url: https://www.evansville.in.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southwestern Indiana
+    url: https://www.goodwillswi.org/
+    description: Donation and recycling partner
+  - name: University of Evansville
+    url: https://www.evansville.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Evansville
+    url: https://www.evansvillehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

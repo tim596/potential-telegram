@@ -6,9 +6,22 @@ state: "Texas"
 stateAbbr: "TX"
 stateSlug: "texas"
 tier: 2
-coordinates: 
+coordinates:
   lat: 31.4638
   lng: -100.4370
+communityPartners:
+  - name: City of San Angelo
+    url: https://www.cosatx.us/
+    description: Official city government
+  - name: Goodwill Industries of West Texas
+    url: https://www.goodwillwesttexas.org/
+    description: Donation and recycling partner
+  - name: Angelo State University
+    url: https://www.angelo.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Angelo
+    url: https://www.habitatsanangelo.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,6 +9,19 @@ zipCodes: ['33019', '33020', '33021', '33022', '33023', '33024', '33025', '33026
 coordinates:
   lat: 26.0112
   lng: -80.1495
+communityPartners:
+  - name: City of Hollywood
+    url: https://www.hollywoodfl.org/
+    description: Official city government
+  - name: Goodwill of South Florida
+    url: https://www.goodwillsouthflorida.org/
+    description: Donation and recycling partner
+  - name: Broward College
+    url: https://www.broward.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Broward
+    url: https://www.habitatbroward.org/
+    description: Housing and donation partner
 parentMetro: Miami
 neighborhoods:
   - name: "Hollywood Beach"

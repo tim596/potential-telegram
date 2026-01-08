@@ -10,6 +10,19 @@ parentMetro: Dallas
 coordinates:
   lat: 32.7357
   lng: -97.1081
+communityPartners:
+  - name: City of Arlington
+    url: https://www.arlingtontx.gov/
+    description: Official city government
+  - name: Goodwill Industries of Fort Worth
+    url: https://www.goodwillnorthtexas.org/
+    description: Donation and recycling partner
+  - name: University of Texas at Arlington
+    url: https://www.uta.edu/
+    description: Campus community partner
+  - name: Arlington Habitat for Humanity
+    url: https://www.arlingtonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

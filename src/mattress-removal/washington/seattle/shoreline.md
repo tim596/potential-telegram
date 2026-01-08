@@ -9,6 +9,19 @@ parentMetro: Seattle
 coordinates:
   lat: 47.7564
   lng: -122.3417
+communityPartners:
+  - name: City of Shoreline
+    url: https://www.shorelinewa.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Shoreline Community College
+    url: https://www.shoreline.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King County
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington/seattle/shoreline/
 
 neighborhoods:

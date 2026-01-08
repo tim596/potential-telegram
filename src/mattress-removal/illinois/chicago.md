@@ -5,9 +5,22 @@ city: Chicago
 state: Illinois
 stateSlug: illinois
 tier: 1
-coordinates: 
+coordinates:
   lat: 41.8781
   lng: -87.6298
+communityPartners:
+  - name: City of Chicago
+    url: https://www.chicago.gov/
+    description: Official city government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: University of Chicago
+    url: https://www.uchicago.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Chicago
+    url: https://www.habitatchicago.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -6,9 +6,22 @@ state: "Pennsylvania"
 stateAbbr: "PA"
 stateSlug: "pennsylvania"
 tier: 1
-coordinates: 
+coordinates:
   lat: 39.9526
   lng: -75.1652
+communityPartners:
+  - name: City of Philadelphia
+    url: https://www.phila.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southern NJ and Philadelphia
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: University of Pennsylvania
+    url: https://www.upenn.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Philadelphia
+    url: https://www.habitatphiladelphia.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

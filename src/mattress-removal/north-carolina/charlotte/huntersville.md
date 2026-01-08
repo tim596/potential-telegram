@@ -8,9 +8,22 @@ stateAbbr: NC
 parentMetro: Charlotte
 tier: 3
 zipCodes: ['28078']
-coordinates: 
+coordinates:
   lat: 35.4107
   lng: -80.8414
+communityPartners:
+  - name: Town of Huntersville
+    url: https://www.huntersville.org/
+    description: Official town government
+  - name: Goodwill Industries of the Southern Piedmont
+    url: https://goodwillsp.org/
+    description: Donation and recycling partner
+  - name: UNC Charlotte
+    url: https://www.charlotte.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Charlotte Region
+    url: https://www.habitatcltregion.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Birkdale Village"
     zipCodes: ["28078"]

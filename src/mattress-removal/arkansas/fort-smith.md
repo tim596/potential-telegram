@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 35.3859
   lng: -94.3985
+communityPartners:
+  - name: City of Fort Smith
+    url: https://www.fortsmithar.gov/
+    description: Official city government
+  - name: Goodwill Industries of Arkansas
+    url: https://www.goodwillar.org/
+    description: Donation and recycling partner
+  - name: University of Arkansas - Fort Smith
+    url: https://uafs.edu/
+    description: Campus community partner
+  - name: Arkansas Valley Habitat for Humanity
+    url: https://arkansasvalleyhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

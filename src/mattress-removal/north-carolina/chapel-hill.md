@@ -7,9 +7,22 @@ state: North Carolina
 stateAbbr: NC
 tier: 2
 zipCodes: ['27514', '27515', '27516', '27517', '27599']
-coordinates: 
+coordinates:
   lat: 35.9132
   lng: -79.0558
+communityPartners:
+  - name: Town of Chapel Hill
+    url: https://www.townofchapelhill.org/
+    description: Official town government
+  - name: Triad Goodwill Industries
+    url: https://www.triadgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of North Carolina at Chapel Hill
+    url: https://www.unc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Orange County
+    url: https://www.orangehabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Southern Village"
     zipCodes: ["27514"]

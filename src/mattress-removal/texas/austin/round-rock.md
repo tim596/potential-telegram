@@ -9,9 +9,22 @@ stateAbbr: "TX"
 stateSlug: "texas"
 parentMetro: "Austin"
 tier: 2
-coordinates: 
+coordinates:
   lat: 30.5083
   lng: -97.6789
+communityPartners:
+  - name: City of Round Rock
+    url: https://www.roundrocktexas.gov/
+    description: Official city government
+  - name: Goodwill Central Texas
+    url: https://www.goodwillcentraltexas.org/
+    description: Donation and recycling partner
+  - name: Texas State University Round Rock Campus
+    url: https://www.txst.edu/roundrock/
+    description: Campus community partner
+  - name: Habitat for Humanity of Williamson County
+    url: https://www.williamsonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

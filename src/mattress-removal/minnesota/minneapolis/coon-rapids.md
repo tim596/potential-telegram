@@ -8,9 +8,22 @@ state: Minnesota
 stateSlug: minnesota
 parentMetro: Minneapolis
 tier: 3
-coordinates: 
+coordinates:
   lat: 45.1733
   lng: -93.2872
+communityPartners:
+  - name: City of Coon Rapids
+    url: https://www.coonrapidsmn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: Anoka-Ramsey Community College
+    url: https://www.anokaramsey.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

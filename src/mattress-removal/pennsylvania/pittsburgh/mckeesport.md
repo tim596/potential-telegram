@@ -10,6 +10,19 @@ parentMetro: "Pittsburgh"
 coordinates:
   lat: 40.3447
   lng: -79.8647
+communityPartners:
+  - name: City of McKeesport
+    url: https://www.mckeesport.org/
+    description: Official city government
+  - name: Goodwill of Southwestern Pennsylvania
+    url: https://www.goodwillswpa.org/
+    description: Donation and recycling partner
+  - name: Community College of Allegheny County
+    url: https://www.ccac.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Pittsburgh
+    url: https://www.habitatpittsburgh.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 39.0473
   lng: -95.6890
+communityPartners:
+  - name: City of Topeka
+    url: https://www.topeka.org/
+    description: Official city government
+  - name: Goodwill Industries of Kansas
+    url: https://www.goodwillks.org/
+    description: Donation and recycling partner
+  - name: Washburn University
+    url: https://www.washburn.edu/
+    description: Campus community partner
+  - name: Topeka Habitat for Humanity
+    url: https://topekahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

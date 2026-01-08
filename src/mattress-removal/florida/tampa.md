@@ -4,6 +4,19 @@ city: Tampa
 state: Florida
 stateSlug: florida
 coordinates: [27.9506, -82.4572]
+communityPartners:
+  - name: City of Tampa
+    url: https://www.tampa.gov/
+    description: Official city government
+  - name: Goodwill Suncoast
+    url: https://www.goodwillsuncoast.org/
+    description: Donation and recycling partner
+  - name: University of South Florida
+    url: https://www.usf.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Hillsborough County
+    url: https://www.habitathillsborough.org/
+    description: Housing and donation partner
 neighborhoodCount: 18
 
 zipCodes:

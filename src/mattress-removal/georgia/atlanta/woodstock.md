@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 34.1014
   lng: -84.5194
+communityPartners:
+  - name: City of Woodstock
+    url: https://www.woodstockga.gov/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Kennesaw State University
+    url: https://www.kennesaw.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Cherokee County
+    url: https://www.habitatcherokee.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

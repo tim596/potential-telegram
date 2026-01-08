@@ -13,6 +13,19 @@ stateCode: "CO"
 coordinates:
   lat: 39.7294
   lng: -104.8319
+communityPartners:
+  - name: City of Aurora
+    url: https://www.auroragov.org/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Community College of Aurora
+    url: https://www.ccaurora.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 tier: 2
 neighborhoods:
   - name: "Aurora Highlands"

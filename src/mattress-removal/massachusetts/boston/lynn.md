@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 42.4668
   lng: -70.9495
+communityPartners:
+  - name: City of Lynn
+    url: https://www.lynnma.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Boston
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: North Shore Community College
+    url: https://www.northshore.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Boston
+    url: https://www.habitatboston.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

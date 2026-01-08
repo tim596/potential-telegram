@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 29.4241
   lng: -98.4936
+communityPartners:
+  - name: City of San Antonio
+    url: https://www.sanantonio.gov/
+    description: Official city government
+  - name: Goodwill San Antonio
+    url: https://www.goodwillsa.org/
+    description: Donation and recycling partner
+  - name: University of Texas at San Antonio
+    url: https://www.utsa.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Antonio
+    url: https://www.habitatsa.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

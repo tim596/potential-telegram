@@ -10,6 +10,19 @@ parentMetro: "Philadelphia"
 coordinates:
   lat: 39.9606
   lng: -75.6056
+communityPartners:
+  - name: Borough of West Chester
+    url: https://www.west-chester.com/
+    description: Official borough government
+  - name: Goodwill Industries of Southern New Jersey & Philadelphia
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: West Chester University
+    url: https://www.wcupa.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Chester County
+    url: https://www.hfhcc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

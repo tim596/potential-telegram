@@ -7,9 +7,22 @@ city: Scottsdale
 state: Arizona
 stateSlug: arizona
 parentMetro: Phoenix
-coordinates: 
+coordinates:
   lat: 33.4942
   lng: -111.9261
+communityPartners:
+  - name: City of Scottsdale
+    url: https://www.scottsdaleaz.gov/
+    description: Official city government
+  - name: Goodwill of Central and Northern Arizona
+    url: https://www.goodwillaz.org/
+    description: Donation and recycling partner
+  - name: Scottsdale Community College
+    url: https://www.scottsdalecc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Central Arizona
+    url: https://habitatcaz.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

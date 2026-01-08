@@ -10,6 +10,19 @@ parentMetro: Fargo
 coordinates:
   lat: 46.8747
   lng: -96.9004
+communityPartners:
+  - name: City of West Fargo
+    url: https://www.westfargond.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: North Dakota State University
+    url: https://www.ndsu.edu/
+    description: Campus community partner
+  - name: Lake Agassiz Habitat for Humanity
+    url: https://lakeagassizhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

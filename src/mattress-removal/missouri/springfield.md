@@ -9,6 +9,19 @@ citySlug: "springfield"
 zip: "65807"
 latitude: 37.2153
 longitude: -93.2982
+communityPartners:
+  - name: City of Springfield
+    url: https://www.springfieldmo.gov/
+    description: Official city government
+  - name: MERS Goodwill Industries
+    url: https://mersgoodwill.org/
+    description: Donation and recycling partner
+  - name: Missouri State University
+    url: https://www.missouristate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Springfield
+    url: https://www.habitatspringfieldmo.org/
+    description: Housing and donation partner
 tier: 2
 population: 169432
 businessLicense: "MO-SP-2025-008"

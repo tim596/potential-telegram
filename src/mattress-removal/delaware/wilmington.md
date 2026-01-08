@@ -4,6 +4,19 @@ city: Wilmington
 state: Delaware
 stateSlug: delaware
 coordinates: [39.7391, -75.5398]
+communityPartners:
+  - name: City of Wilmington
+    url: https://www.wilmingtonde.gov/
+    description: Official city government
+  - name: Goodwill Delaware & Delaware County
+    url: https://www.goodwillde.org/
+    description: Donation and recycling partner
+  - name: Wilmington University
+    url: https://www.wilmu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of New Castle County
+    url: https://www.habitatncc.org/
+    description: Housing and donation partner
 neighborhoodCount: 18
 
 zipCodes:

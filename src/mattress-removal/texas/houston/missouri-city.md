@@ -9,9 +9,22 @@ stateAbbr: "TX"
 stateSlug: "texas"
 parentMetro: "Houston"
 tier: 2
-coordinates: 
+coordinates:
   lat: 29.6186
   lng: -95.5377
+communityPartners:
+  - name: City of Missouri City
+    url: https://www.missouricitytx.gov/
+    description: Official city government
+  - name: Goodwill Industries of Houston
+    url: https://www.goodwillhouston.org/
+    description: Donation and recycling partner
+  - name: Houston Community College
+    url: https://www.hccs.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Fort Bend County
+    url: https://www.habitatfortbend.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

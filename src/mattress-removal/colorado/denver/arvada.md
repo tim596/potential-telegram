@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 39.8028
   lng: -105.0878
+communityPartners:
+  - name: City of Arvada
+    url: https://arvada.org/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Red Rocks Community College
+    url: https://www.rrcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

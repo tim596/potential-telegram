@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 42.2793
   lng: -71.4162
+communityPartners:
+  - name: City of Framingham
+    url: https://www.framinghamma.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Boston
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: Framingham State University
+    url: https://www.framingham.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Boston
+    url: https://www.habitatboston.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 37.5407
   lng: -77.4360
+communityPartners:
+  - name: City of Richmond
+    url: https://www.rva.gov/
+    description: Official city government
+  - name: Goodwill of Central and Coastal Virginia
+    url: https://www.goodwillvirginia.org/
+    description: Donation and recycling partner
+  - name: Virginia Commonwealth University
+    url: https://www.vcu.edu/
+    description: Campus community partner
+  - name: Richmond Metropolitan Habitat for Humanity
+    url: https://richmondhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 155
   single: 155

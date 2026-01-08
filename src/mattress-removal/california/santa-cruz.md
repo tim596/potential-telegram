@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 36.9741
   lng: -122.0308
+communityPartners:
+  - name: City of Santa Cruz
+    url: https://www.cityofsantacruz.com/
+    description: Official city government
+  - name: Goodwill Central Coast
+    url: https://www.ccgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of California, Santa Cruz
+    url: https://www.ucsc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Monterey Bay
+    url: https://www.habitatmontereybay.com/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

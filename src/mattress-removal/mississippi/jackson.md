@@ -5,9 +5,22 @@ city: Jackson
 state: Mississippi
 stateSlug: mississippi
 tier: 1
-coordinates: 
+coordinates:
   lat: 32.2988
   lng: -90.1848
+communityPartners:
+  - name: City of Jackson
+    url: https://www.jacksonms.gov/
+    description: Official city government
+  - name: Goodwill Industries of Mississippi
+    url: https://www.goodwillms.org/
+    description: Donation and recycling partner
+  - name: Jackson State University
+    url: https://www.jsums.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mississippi Capital Area
+    url: https://www.habitatmca.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

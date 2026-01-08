@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 26.271
   lng: -80.271
+communityPartners:
+  - name: City of Coral Springs
+    url: https://www.coralsprings.org/
+    description: Official city government
+  - name: Goodwill of South Florida
+    url: https://www.goodwillsouthflorida.org/
+    description: Donation and recycling partner
+  - name: Broward College
+    url: https://www.broward.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Broward
+    url: https://www.habitatbroward.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

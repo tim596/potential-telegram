@@ -8,9 +8,22 @@ stateAbbr: TN
 tier: 4
 parentMetro: "Memphis"
 zipCodes: ['38138', '38139']
-coordinates: 
+coordinates:
   lat: 35.0867
   lng: -89.8101
+communityPartners:
+  - name: City of Germantown
+    url: https://www.germantown-tn.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Mid-South
+    url: https://www.goodwillmidsouth.org/
+    description: Donation and recycling partner
+  - name: University of Memphis
+    url: https://www.memphis.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Memphis
+    url: https://www.memphishabitat.com/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Germantown Hills"
     zipCodes: ["38138"]

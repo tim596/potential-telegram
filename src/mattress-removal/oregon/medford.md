@@ -7,6 +7,19 @@ stateSlug: oregon
 coordinates:
   lat: 42.3265
   lng: -122.8756
+communityPartners:
+  - name: City of Medford
+    url: https://www.medfordoregon.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southern Oregon
+    url: https://sogoodwill.org/
+    description: Donation and recycling partner
+  - name: Southern Oregon University
+    url: https://sou.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Rogue Valley
+    url: https://habitatroguevalley.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

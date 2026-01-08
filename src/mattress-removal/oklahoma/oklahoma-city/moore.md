@@ -8,9 +8,22 @@ stateAbbr: OK
 parentMetro: Oklahoma City
 tier: 3
 zipCodes: ['73069', '73071', '73160', '73165', '73170']
-coordinates: 
+coordinates:
   lat: 35.3395
   lng: -97.4864
+communityPartners:
+  - name: City of Moore
+    url: https://www.cityofmoore.com/
+    description: Official city government
+  - name: Goodwill Industries of Central Oklahoma
+    url: https://www.okgoodwill.org/
+    description: Donation and recycling partner
+  - name: Rose State College
+    url: https://www.rose.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central Oklahoma
+    url: https://www.habitat-okc.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Old Town Moore Historic District"
     zipCodes: ["73160"]

@@ -7,6 +7,19 @@ stateSlug: new-york
 coordinates:
   lat: 43.1009
   lng: -75.2327
+communityPartners:
+  - name: City of Utica
+    url: https://www.cityofutica.com/
+    description: Official city government
+  - name: Goodwill Industries of Central and Northern New York
+    url: https://www.goodwillcny.org/
+    description: Donation and recycling partner
+  - name: Utica University
+    url: https://www.utica.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mohawk Valley
+    url: https://www.habitatmv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

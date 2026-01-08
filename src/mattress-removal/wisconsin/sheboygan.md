@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 43.7508
   lng: -87.7145
+communityPartners:
+  - name: City of Sheboygan
+    url: https://www.sheboyganwi.gov/
+    description: Official city government
+  - name: Goodwill North Central Wisconsin
+    url: https://www.goodwillncw.org/
+    description: Donation and recycling partner
+  - name: Lakeland University
+    url: https://www.lakeland.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Sheboygan County
+    url: https://www.habitatsheboygan.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

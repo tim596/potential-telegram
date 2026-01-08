@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 40.9264
   lng: -98.3420
+communityPartners:
+  - name: City of Grand Island
+    url: https://www.grand-island.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater Nebraska
+    url: https://www.goodwillne.org/
+    description: Donation and recycling partner
+  - name: Central Community College
+    url: https://www.cccneb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Hall County
+    url: https://www.habitathallcounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 30.3674
   lng: -89.0928
+communityPartners:
+  - name: City of Gulfport
+    url: https://www.gulfport-ms.gov/
+    description: Official city government
+  - name: Goodwill Industries of South Mississippi
+    url: https://www.goodwillsms.org/
+    description: Donation and recycling partner
+  - name: William Carey University
+    url: https://www.wmcarey.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mississippi Gulf Coast
+    url: https://www.hfhmgc.com/
+    description: Housing and donation partner
 zipCodes:
   - "39501"
   - "39503"

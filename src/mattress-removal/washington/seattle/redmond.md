@@ -10,6 +10,19 @@ parentMetro: Seattle
 coordinates:
   lat: 47.6740
   lng: -122.1215
+communityPartners:
+  - name: City of Redmond
+    url: https://www.redmond.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Lake Washington Institute of Technology
+    url: https://www.lwtech.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King County
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

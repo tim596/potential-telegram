@@ -10,6 +10,19 @@ parentMetro: Milwaukee
 coordinates:
   lat: 42.9614
   lng: -88.0134
+communityPartners:
+  - name: City of Greenfield
+    url: https://www.ci.greenfield.wi.us/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: Alverno College
+    url: https://www.alverno.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Milwaukee
+    url: https://www.milwaukeehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

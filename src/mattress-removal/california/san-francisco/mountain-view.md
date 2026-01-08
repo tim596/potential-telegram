@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.3861
   lng: -122.0839
+communityPartners:
+  - name: City of Mountain View
+    url: https://www.mountainview.gov/
+    description: Official city government
+  - name: Goodwill of Silicon Valley
+    url: https://goodwillsv.org/
+    description: Donation and recycling partner
+  - name: Foothill College
+    url: https://foothill.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater San Francisco
+    url: https://habitatgsf.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

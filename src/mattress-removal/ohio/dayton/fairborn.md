@@ -10,6 +10,19 @@ parentMetro: "Dayton"
 coordinates:
   lat: 39.8209
   lng: -84.0193
+communityPartners:
+  - name: City of Fairborn
+    url: https://www.fairborn.gov/
+    description: Official city government
+  - name: Goodwill Easter Seals Miami Valley
+    url: https://www.gesmv.org/
+    description: Donation and recycling partner
+  - name: Wright State University
+    url: https://www.wright.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Dayton
+    url: https://www.daytonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

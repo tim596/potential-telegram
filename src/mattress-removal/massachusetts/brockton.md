@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 42.0834
   lng: -71.0184
+communityPartners:
+  - name: City of Brockton
+    url: https://www.brockton.ma.us/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Massachusetts
+    url: https://www.goodwillsema.org/
+    description: Donation and recycling partner
+  - name: Massasoit Community College
+    url: https://www.massasoit.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Plymouth
+    url: https://www.habitatplymouth.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 41.3114
   lng: -105.5911
+communityPartners:
+  - name: City of Laramie
+    url: https://www.cityoflaramie.org/
+    description: Official city government
+  - name: The Salvation Army Laramie
+    url: https://laramie.salvationarmy.org/
+    description: Donation and recycling partner
+  - name: University of Wyoming
+    url: https://www.uwyo.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Albany County
+    url: https://www.habitatalbany.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

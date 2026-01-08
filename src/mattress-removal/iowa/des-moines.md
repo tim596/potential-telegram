@@ -9,6 +9,19 @@ tier: 1
 coordinates:
   lat: 41.5868
   lng: -93.6250
+communityPartners:
+  - name: City of Des Moines
+    url: https://www.dsm.city/
+    description: Official city government
+  - name: Goodwill of Central Iowa
+    url: https://www.goodwillcentraliowa.org/
+    description: Donation and recycling partner
+  - name: Drake University
+    url: https://www.drake.edu/
+    description: Campus community partner
+  - name: Greater Des Moines Habitat for Humanity
+    url: https://www.gdmhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

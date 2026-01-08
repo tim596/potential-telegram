@@ -9,6 +9,19 @@ parentMetro: Seattle
 coordinates:
   lat: 47.4698
   lng: -122.3467
+communityPartners:
+  - name: City of Burien
+    url: https://www.burienwa.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Highline College
+    url: https://www.highline.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King County
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington/seattle/burien/
 
 neighborhoods:

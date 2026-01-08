@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 41.5236
   lng: -90.5776
+communityPartners:
+  - name: City of Davenport
+    url: https://www.davenportiowa.com/
+    description: Official city government
+  - name: Goodwill of the Heartland
+    url: https://www.goodwillheartland.org/
+    description: Donation and recycling partner
+  - name: St. Ambrose University
+    url: https://www.sau.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Quad Cities
+    url: https://www.habitatqc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

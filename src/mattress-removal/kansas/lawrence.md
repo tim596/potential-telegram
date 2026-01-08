@@ -9,6 +9,19 @@ tier: 3
 coordinates:
   lat: 38.9717
   lng: -95.2353
+communityPartners:
+  - name: City of Lawrence
+    url: https://lawrenceks.org/
+    description: Official city government
+  - name: Goodwill Industries of Kansas
+    url: https://www.goodwillks.org/
+    description: Donation and recycling partner
+  - name: University of Kansas
+    url: https://www.ku.edu/
+    description: Campus community partner
+  - name: Lawrence Habitat for Humanity
+    url: https://lawrencehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

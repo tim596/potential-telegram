@@ -6,9 +6,22 @@ state: "Texas"
 stateAbbr: "TX"
 stateSlug: "texas"
 tier: 2
-coordinates: 
+coordinates:
   lat: 30.6744
   lng: -96.3700
+communityPartners:
+  - name: City of Bryan
+    url: https://www.bryantx.gov/
+    description: Official city government
+  - name: Goodwill Industries of South Central Texas
+    url: https://www.goodwillsctx.org/
+    description: Donation and recycling partner
+  - name: Texas A&M University
+    url: https://www.tamu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Bryan-College Station
+    url: https://www.habitatbcs.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

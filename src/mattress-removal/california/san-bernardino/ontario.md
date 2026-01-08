@@ -12,9 +12,22 @@ county: "San Bernardino"
 parentMetro: "San Bernardino"
 phone: "720-263-6094"
 tier: 3
-coordinates: 
+coordinates:
   lat: 34.0633
   lng: -117.6509
+communityPartners:
+  - name: City of Ontario
+    url: https://www.ontarioca.gov/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Chaffey College
+    url: https://www.chaffey.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Bernardino Area
+    url: https://www.habitatsb.org/
+    description: Housing and donation partner
 zipCodes:
   - "91701"
   - "91708"

@@ -5,9 +5,22 @@ city: Paterson
 state: New Jersey
 stateSlug: new-jersey
 tier: 2
-coordinates: 
+coordinates:
   lat: 40.9168
   lng: -74.1718
+communityPartners:
+  - name: City of Paterson
+    url: https://www.patersonnj.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: William Paterson University
+    url: https://www.wpunj.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Passaic County
+    url: https://www.habitatpassaic.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

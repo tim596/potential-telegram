@@ -10,6 +10,19 @@ citySlug: "ofallon"
 zip: "63366"
 latitude: 38.8106
 longitude: -90.6998
+communityPartners:
+  - name: City of O'Fallon
+    url: https://www.ofallon.mo.us/
+    description: Official city government
+  - name: MERS Goodwill
+    url: https://www.mersgoodwill.org/
+    description: Donation and recycling partner
+  - name: St. Charles Community College
+    url: https://www.stchas.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of St. Charles County
+    url: https://www.habitatstcharles.org/
+    description: Housing and donation partner
 tier: 2
 population: 93663
 businessLicense: "MO-OF-2025-006"

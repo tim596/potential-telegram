@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 43.0642
   lng: -88.1065
+communityPartners:
+  - name: City of Brookfield
+    url: https://www.ci.brookfield.wi.us/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-Milwaukee
+    url: https://uwm.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Waukesha County
+    url: https://www.habitatwaukesha.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

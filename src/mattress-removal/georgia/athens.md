@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 33.9519
   lng: -83.3576
+communityPartners:
+  - name: Athens-Clarke County
+    url: https://www.accgov.com/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: University of Georgia
+    url: https://www.uga.edu/
+    description: Campus community partner
+  - name: Athens Area Habitat for Humanity
+    url: https://www.athenshabitat.com/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

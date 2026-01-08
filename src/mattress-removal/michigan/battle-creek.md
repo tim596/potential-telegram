@@ -6,7 +6,19 @@ state: "Michigan"
 stateSlug: "michigan"
 tier: 2
 coordinates: { lat: 42.3211, lng: -85.1797 }
-
+communityPartners:
+  - name: City of Battle Creek
+    url: https://www.battlecreekmi.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southwestern Michigan
+    url: https://www.goodwillswmi.org/
+    description: Donation and recycling partner
+  - name: Kellogg Community College
+    url: https://www.kellogg.edu/
+    description: Campus community partner
+  - name: Calhoun County Habitat for Humanity
+    url: https://www.calhouncountyhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

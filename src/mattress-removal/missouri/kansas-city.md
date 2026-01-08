@@ -9,6 +9,19 @@ citySlug: "kansas-city"
 zip: "64108"
 latitude: 39.0997
 longitude: -94.5786
+communityPartners:
+  - name: City of Kansas City
+    url: https://www.kcmo.gov/
+    description: Official city government
+  - name: Goodwill of Western Missouri & Eastern Kansas
+    url: https://www.mokangoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Missouri-Kansas City
+    url: https://www.umkc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Kansas City
+    url: https://www.habitatkc.org/
+    description: Housing and donation partner
 tier: 1
 population: 508394
 businessLicense: "MO-KC-2025-001"

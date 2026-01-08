@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 35.0887
   lng: -92.4421
+communityPartners:
+  - name: City of Conway
+    url: https://conwayarkansas.gov/
+    description: Official city government
+  - name: Goodwill Industries of Arkansas
+    url: https://www.goodwillar.org/
+    description: Donation and recycling partner
+  - name: University of Central Arkansas
+    url: https://uca.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central Arkansas
+    url: https://www.habitatcentralar.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

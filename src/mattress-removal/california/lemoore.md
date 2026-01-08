@@ -9,9 +9,22 @@ stateSlug: "california"
 county: "Kings"
 phone: "720-263-6094"
 tier: 3
-coordinates: 
+coordinates:
   lat: 36.3002
   lng: -119.7829
+communityPartners:
+  - name: City of Lemoore
+    url: https://www.lemoore.com/
+    description: Official city government
+  - name: Goodwill Central Coast
+    url: https://www.goodwillcentralcoast.org/
+    description: Donation and recycling partner
+  - name: College of the Sequoias
+    url: https://www.cos.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Kings County
+    url: https://www.hfhkings.org/
+    description: Housing and donation partner
 
 zipCodes:
   - "93245"

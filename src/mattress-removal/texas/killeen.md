@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 31.1171
   lng: -97.7278
+communityPartners:
+  - name: City of Killeen
+    url: https://www.killeentexas.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Texas
+    url: https://www.goodwillcentraltexas.org/
+    description: Donation and recycling partner
+  - name: Central Texas College
+    url: https://www.ctcd.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Bell County
+    url: https://www.habitatbellcounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

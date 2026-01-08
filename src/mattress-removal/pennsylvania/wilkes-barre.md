@@ -6,9 +6,22 @@ state: "Pennsylvania"
 stateAbbr: "PA"
 stateSlug: "pennsylvania"
 tier: 2
-coordinates: 
+coordinates:
   lat: 41.2459
   lng: -75.8813
+communityPartners:
+  - name: City of Wilkes-Barre
+    url: https://www.wilkes-barre.city/
+    description: Official city government
+  - name: Goodwill Keystone Area
+    url: https://www.yourgoodwill.org/
+    description: Donation and recycling partner
+  - name: Wilkes University
+    url: https://www.wilkes.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Hazleton
+    url: https://www.hazletonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

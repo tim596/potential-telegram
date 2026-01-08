@@ -6,9 +6,22 @@ state: "Oklahoma"
 stateAbbr: "OK"
 stateSlug: "oklahoma"
 tier: 2
-coordinates: 
+coordinates:
   lat: 35.4676
   lng: -97.5164
+communityPartners:
+  - name: City of Oklahoma City
+    url: https://www.okc.gov/
+    description: Official city government
+  - name: Goodwill of Central Oklahoma
+    url: https://www.okgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Oklahoma
+    url: https://www.ou.edu/
+    description: Campus community partner
+  - name: Central Oklahoma Habitat for Humanity
+    url: https://www.centraloklahomahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

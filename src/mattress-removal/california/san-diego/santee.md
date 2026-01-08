@@ -9,6 +9,19 @@ parentMetro: "San Diego"
 coordinates:
   lat: 33.0394
   lng: -116.9739
+communityPartners:
+  - name: City of Santee
+    url: https://www.cityofsanteeca.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: Cuyamaca College
+    url: https://www.cuyamaca.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

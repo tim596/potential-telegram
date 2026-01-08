@@ -7,6 +7,19 @@ stateSlug: tennessee
 coordinates:
   lat: 36.5484
   lng: -82.5618
+communityPartners:
+  - name: City of Kingsport
+    url: https://www.kingsporttn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Knoxville
+    url: https://www.gwiktn.org/
+    description: Donation and recycling partner
+  - name: Northeast State Community College
+    url: https://www.northeaststate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Kingsport
+    url: https://www.habitatkpt.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

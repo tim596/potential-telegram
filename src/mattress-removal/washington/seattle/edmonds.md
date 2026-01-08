@@ -10,6 +10,19 @@ parentMetro: Seattle
 coordinates:
   lat: 47.8106
   lng: -122.3773
+communityPartners:
+  - name: City of Edmonds
+    url: https://www.edmondswa.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Edmonds College
+    url: https://www.edmonds.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Snohomish County
+    url: https://www.habitatsnohomish.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

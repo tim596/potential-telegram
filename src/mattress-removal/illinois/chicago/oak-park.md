@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 41.8850
   lng: -87.7845
+communityPartners:
+  - name: Village of Oak Park
+    url: https://www.oak-park.us/
+    description: Official village government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: Dominican University
+    url: https://www.dom.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Chicago
+    url: https://www.habitatchicago.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

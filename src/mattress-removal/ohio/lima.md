@@ -6,9 +6,22 @@ state: "Ohio"
 stateAbbr: "OH"
 stateSlug: "ohio"
 tier: 2
-coordinates: 
+coordinates:
   lat: 40.7425
   lng: -84.1052
+communityPartners:
+  - name: City of Lima
+    url: https://www.cityhall.lima.oh.us/
+    description: Official city government
+  - name: Goodwill Industries of Northwest Ohio
+    url: https://www.goodwillnwohio.org/
+    description: Donation and recycling partner
+  - name: Ohio State University Lima
+    url: https://www.lima.osu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity West Central Ohio
+    url: https://www.habitatwco.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

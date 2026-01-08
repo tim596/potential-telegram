@@ -9,10 +9,22 @@ stateSlug: "california"
 county: "Tulare"
 phone: "720-263-6094"
 tier: 3
-coordinates: 
+coordinates:
   lat: 36.0652
   lng: -119.0177
-
+communityPartners:
+  - name: City of Porterville
+    url: https://www.ci.porterville.ca.us/
+    description: Official city government
+  - name: Goodwill Industries of San Joaquin Valley
+    url: https://www.goodwill-sjv.org/
+    description: Donation and recycling partner
+  - name: Porterville College
+    url: https://www.portervillecollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Tulare/Kings Counties
+    url: https://www.hfhtkc.org/
+    description: Housing and donation partner
 zipCodes:
   - "93257"
   - "93258"

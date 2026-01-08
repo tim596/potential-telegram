@@ -5,6 +5,19 @@ state: Colorado
 stateSlug: colorado
 coordinates: [38.2544, -104.6091]
 neighborhoodCount: 20
+communityPartners:
+  - name: City of Pueblo
+    url: https://www.pueblo.us/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Colorado State University Pueblo
+    url: https://www.csupueblo.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Pueblo
+    url: https://www.hfhpueblo.org/
+    description: Housing and donation partner
 
 zipCodes:
   - "81001"

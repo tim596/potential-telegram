@@ -7,6 +7,19 @@ stateSlug: virginia
 coordinates:
   lat: 37.0298
   lng: -76.3452
+communityPartners:
+  - name: City of Hampton
+    url: https://www.hampton.gov/
+    description: Official city government
+  - name: Goodwill of Central and Coastal Virginia
+    url: https://www.goodwillvirginia.org/
+    description: Donation and recycling partner
+  - name: Hampton University
+    url: https://www.hamptonu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Peninsula and Greater Williamsburg
+    url: https://www.habitatpgw.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

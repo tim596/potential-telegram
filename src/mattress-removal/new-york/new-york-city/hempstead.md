@@ -9,6 +9,19 @@ stateSlug: new-york
 coordinates:
   lat: 40.7062
   lng: -73.6187
+communityPartners:
+  - name: Village of Hempstead
+    url: https://www.villageofhempstead.org/
+    description: Official village government
+  - name: Goodwill Industries of Greater NY
+    url: https://www.goodwillny.org/
+    description: Donation and recycling partner
+  - name: Hofstra University
+    url: https://www.hofstra.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Nassau County
+    url: https://www.habitatnassau.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

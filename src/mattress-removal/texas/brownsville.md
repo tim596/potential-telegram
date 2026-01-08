@@ -7,6 +7,19 @@ stateSlug: texas
 coordinates:
   lat: 25.9018
   lng: -97.4975
+communityPartners:
+  - name: City of Brownsville
+    url: https://www.brownsvilletx.gov/
+    description: Official city government
+  - name: Goodwill Industries of South Texas
+    url: https://www.goodwillsouthtexas.org/
+    description: Donation and recycling partner
+  - name: University of Texas Rio Grande Valley
+    url: https://www.utrgv.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Rio Grande Valley
+    url: https://www.habitatrgv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -5,9 +5,22 @@ state: "California"
 city: "Santa Rosa"
 stateSlug: "california"
 tier: 2
-coordinates: 
+coordinates:
   lat: 38.4404
   lng: -122.7144
+communityPartners:
+  - name: City of Santa Rosa
+    url: https://www.srcity.org/
+    description: Official city government
+  - name: Goodwill Redwood Empire
+    url: https://gire.org/
+    description: Donation and recycling partner
+  - name: Sonoma State University
+    url: https://www.sonoma.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Sonoma County
+    url: https://www.habitatsoco.org/
+    description: Housing and donation partner
 serviceArea: "Sonoma County"
 zipCodes: ["95401", "95403", "95404", "95405", "95407", "95409"]
 phoneNumber: "720-263-6094"

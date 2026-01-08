@@ -7,9 +7,22 @@ state: Pennsylvania
 stateAbbr: PA
 tier: 2
 zipCodes: ['16601', '16602', '16603']
-coordinates: 
+coordinates:
   lat: 40.5187
   lng: -78.3947
+communityPartners:
+  - name: City of Altoona
+    url: https://www.altoonapa.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Pennsylvania
+    url: https://www.goodwillcentralpa.org/
+    description: Donation and recycling partner
+  - name: Penn State Altoona
+    url: https://altoona.psu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Blair County
+    url: https://www.habitatblaircounty.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Altoona"
     zipCodes: ["16602"]

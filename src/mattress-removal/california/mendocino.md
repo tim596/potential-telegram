@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 39.3074
   lng: -123.7958
+communityPartners:
+  - name: County of Mendocino
+    url: https://www.mendocinocounty.org/
+    description: Official county government
+  - name: Goodwill Industries of the Redwood Empire
+    url: https://www.goodwillredwoodempire.org/
+    description: Donation and recycling partner
+  - name: Mendocino College
+    url: https://www.mendocino.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mendocino County
+    url: https://www.habitatmendocino.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 41.8994
   lng: -87.9403
+communityPartners:
+  - name: City of Elmhurst
+    url: https://www.elmhurst.org/
+    description: Official city government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: Elmhurst University
+    url: https://www.elmhurst.edu/
+    description: Campus community partner
+  - name: DuPage Habitat for Humanity
+    url: https://www.dupagehabitat.org/
+    description: Housing and donation partner
 pricing:
   single: "$125"
   queen: "$125"

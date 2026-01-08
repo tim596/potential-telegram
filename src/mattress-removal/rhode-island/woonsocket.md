@@ -7,9 +7,22 @@ state: Rhode Island
 stateAbbr: RI
 tier: 3
 zipCodes: ['02895']
-coordinates: 
+coordinates:
   lat: 42.0028
   lng: -71.5147
+communityPartners:
+  - name: City of Woonsocket
+    url: https://www.woonsocketri.org/
+    description: Official city government
+  - name: Goodwill Industries of Rhode Island
+    url: https://www.goodwillri.org/
+    description: Donation and recycling partner
+  - name: Rhode Island College
+    url: https://www.ric.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Providence
+    url: https://www.habitatprov.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Woonsocket"
     zipCodes: ["02895"]

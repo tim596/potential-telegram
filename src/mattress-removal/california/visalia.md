@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 36.3302
   lng: -119.2921
+communityPartners:
+  - name: City of Visalia
+    url: https://www.visalia.city/
+    description: Official city government
+  - name: Goodwill Industries of San Joaquin Valley
+    url: https://www.goodwill-sjv.org/
+    description: Donation and recycling partner
+  - name: College of the Sequoias
+    url: https://www.cos.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Tulare/Kings Counties
+    url: https://www.hfhtkc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,9 +7,22 @@ stateAbbr: "PA"
 stateSlug: "pennsylvania"
 parentMetro: "Pittsburgh"
 tier: 2
-coordinates: 
+coordinates:
   lat: 40.4378
   lng: -79.7881
+communityPartners:
+  - name: Municipality of Monroeville
+    url: https://www.monroeville.pa.us/
+    description: Official municipal government
+  - name: Goodwill of Southwestern Pennsylvania
+    url: https://www.goodwillswpa.org/
+    description: Donation and recycling partner
+  - name: Community College of Allegheny County
+    url: https://www.ccac.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Pittsburgh
+    url: https://www.habitatpittsburgh.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

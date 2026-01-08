@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 39.7674
   lng: -94.8467
+communityPartners:
+  - name: City of St. Joseph
+    url: https://www.stjoemo.org/
+    description: Official city government
+  - name: Goodwill of Western Missouri & Eastern Kansas
+    url: https://www.mokangoodwill.org/
+    description: Donation and recycling partner
+  - name: Missouri Western State University
+    url: https://www.missouriwestern.edu/
+    description: Campus community partner
+  - name: St. Joseph Habitat for Humanity
+    url: https://stjoehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

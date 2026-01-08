@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 41.3083
   lng: -72.9279
+communityPartners:
+  - name: City of New Haven
+    url: https://www.newhavenct.gov/
+    description: Official city government
+  - name: Goodwill of Southern New England
+    url: https://www.goodwillsne.org/
+    description: Donation and recycling partner
+  - name: Yale University
+    url: https://www.yale.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater New Haven
+    url: https://www.habitatgnh.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 155
   single: 155

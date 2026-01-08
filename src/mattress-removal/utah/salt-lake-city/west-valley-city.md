@@ -9,9 +9,22 @@ stateAbbr: "UT"
 stateSlug: "utah"
 tier: 2
 parentMetro: "salt-lake-city"
-coordinates: 
+coordinates:
   lat: 40.6916
   lng: -112.0011
+communityPartners:
+  - name: West Valley City
+    url: https://www.wvc-ut.gov/
+    description: Official city government
+  - name: Deseret Industries
+    url: https://www.deseretindustries.org/
+    description: Donation and recycling partner
+  - name: Salt Lake Community College
+    url: https://www.slcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Salt Lake Valley
+    url: https://www.habitat-slc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

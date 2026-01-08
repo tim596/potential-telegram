@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 21.4181
   lng: -157.8025
+communityPartners:
+  - name: City & County of Honolulu
+    url: https://www.honolulu.gov/
+    description: Official city government
+  - name: Goodwill Hawaii
+    url: https://www.higoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Hawaii at Manoa
+    url: https://manoa.hawaii.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Honolulu
+    url: https://www.habitathonolulu.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

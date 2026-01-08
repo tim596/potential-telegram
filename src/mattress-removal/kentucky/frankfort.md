@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 38.1970
   lng: -84.8630
+communityPartners:
+  - name: City of Frankfort
+    url: https://www.frankfort.ky.gov/
+    description: Official city government
+  - name: Goodwill Industries of Kentucky
+    url: https://www.goodwillky.org/
+    description: Donation and recycling partner
+  - name: Kentucky State University
+    url: https://www.kysu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Frankfort
+    url: https://www.hfhfrankfort.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

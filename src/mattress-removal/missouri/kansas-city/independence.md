@@ -10,6 +10,19 @@ citySlug: "independence"
 zip: "64050"
 latitude: 39.0911
 longitude: -94.4155
+communityPartners:
+  - name: City of Independence
+    url: https://www.indepmo.org/
+    description: Official city government
+  - name: Goodwill of Western Missouri & Eastern Kansas
+    url: https://www.mokangoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Missouri-Kansas City
+    url: https://www.umkc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Kansas City
+    url: https://www.habitatkc.org/
+    description: Housing and donation partner
 tier: 2
 population: 123011
 businessLicense: "MO-IND-2025-004"

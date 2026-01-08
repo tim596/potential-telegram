@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 42.3314
   lng: -84.5467
+communityPartners:
+  - name: City of Lansing
+    url: https://www.lansingmi.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Michigan
+    url: https://www.goodwillmid.org/
+    description: Donation and recycling partner
+  - name: Michigan State University
+    url: https://www.msu.edu/
+    description: Campus community partner
+  - name: Greater Lansing Habitat for Humanity
+    url: https://www.habitatlansing.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

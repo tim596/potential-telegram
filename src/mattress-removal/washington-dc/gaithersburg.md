@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 39.1434
   lng: -77.2014
+communityPartners:
+  - name: City of Gaithersburg
+    url: https://www.gaithersburgmd.gov/
+    description: Official city government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: Montgomery College
+    url: https://www.montgomerycollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Maryland
+    url: https://www.habitatmm.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

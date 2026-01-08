@@ -9,6 +9,19 @@ parentMetro: Seattle
 coordinates:
   lat: 48.0517
   lng: -122.1771
+communityPartners:
+  - name: City of Marysville
+    url: https://www.marysvillewa.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Everett Community College
+    url: https://www.everettcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Snohomish County
+    url: https://www.habitatsnohomish.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington/seattle/marysville/
 
 neighborhoods:

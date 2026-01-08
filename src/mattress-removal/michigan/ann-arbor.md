@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 42.2808
   lng: -83.7430
+communityPartners:
+  - name: City of Ann Arbor
+    url: https://www.a2gov.org/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: University of Michigan
+    url: https://www.umich.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Huron Valley
+    url: https://www.h4h.org/
+    description: Housing and donation partner
 zipCodes:
   - "48103"
   - "48104"

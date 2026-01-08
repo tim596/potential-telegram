@@ -12,6 +12,19 @@ tier: 3
 coordinates:
   lat: 42.2407
   lng: -83.2696
+communityPartners:
+  - name: City of Taylor
+    url: https://www.cityoftaylor.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Wayne County Community College
+    url: https://www.wcccd.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Western Wayne County
+    url: https://www.habitatwwc.org/
+    description: Housing and donation partner
 zipCodes: [48180]
 pricing:
   startingPrice: 125

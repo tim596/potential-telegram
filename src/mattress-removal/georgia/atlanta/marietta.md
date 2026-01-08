@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 33.9526
   lng: -84.5499
+communityPartners:
+  - name: City of Marietta
+    url: https://www.mariettaga.gov/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Kennesaw State University
+    url: https://www.kennesaw.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northwest Metro Atlanta
+    url: https://www.habitatnwma.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

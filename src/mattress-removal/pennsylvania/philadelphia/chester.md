@@ -10,6 +10,19 @@ parentMetro: "Philadelphia"
 coordinates:
   lat: 39.8498
   lng: -75.3553
+communityPartners:
+  - name: City of Chester
+    url: https://www.chestercity.com/
+    description: Official city government
+  - name: Goodwill Industries of Southern New Jersey & Philadelphia
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Widener University
+    url: https://www.widener.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Delaware County
+    url: https://www.habitatdelco.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,9 +7,22 @@ city: Tempe
 state: Arizona
 stateSlug: arizona
 parentMetro: Phoenix
-coordinates: 
+coordinates:
   lat: 33.4255
   lng: -111.9400
+communityPartners:
+  - name: City of Tempe
+    url: https://www.tempe.gov/
+    description: Official city government
+  - name: Goodwill of Central and Northern Arizona
+    url: https://www.goodwillaz.org/
+    description: Donation and recycling partner
+  - name: Arizona State University
+    url: https://www.asu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Central Arizona
+    url: https://habitatcaz.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

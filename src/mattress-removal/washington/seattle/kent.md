@@ -10,6 +10,19 @@ parentMetro: Seattle
 coordinates:
   lat: 47.3809
   lng: -122.2348
+communityPartners:
+  - name: City of Kent
+    url: https://www.kentwa.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Green River College
+    url: https://www.greenriver.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King County
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

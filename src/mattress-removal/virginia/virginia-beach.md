@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 36.8529
   lng: -75.9780
+communityPartners:
+  - name: City of Virginia Beach
+    url: https://www.virginiabeach.gov/
+    description: Official city government
+  - name: Goodwill of Central and Coastal Virginia
+    url: https://goodwillvirginia.org/
+    description: Donation and recycling partner
+  - name: Old Dominion University
+    url: https://www.odu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity South Hampton Roads
+    url: https://www.shrhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 155
   single: 155

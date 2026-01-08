@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 42.7070
   lng: -71.1631
+communityPartners:
+  - name: City of Lawrence
+    url: https://www.cityoflawrence.com/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: Merrimack College
+    url: https://www.merrimack.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Lawrence
+    url: https://www.lawrencehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -10,6 +10,19 @@ parentMetro: "Reno"
 zip: "89431"
 latitude: 39.5349
 longitude: -119.7526
+communityPartners:
+  - name: City of Sparks
+    url: https://www.cityofsparks.us/
+    description: Official city government
+  - name: Goodwill of the Greater East Bay
+    url: https://www.eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: Truckee Meadows Community College
+    url: https://www.tmcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Reno Area
+    url: https://www.renoareahabitat.org/
+    description: Housing and donation partner
 tier: 3
 population: 109106
 businessLicense: "NV-SP-2025-003"

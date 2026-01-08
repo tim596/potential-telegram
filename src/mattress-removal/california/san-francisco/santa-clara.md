@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.3541
   lng: -121.9552
+communityPartners:
+  - name: City of Santa Clara
+    url: https://www.santaclaraca.gov/
+    description: Official city government
+  - name: Goodwill of Silicon Valley
+    url: https://goodwillsv.org/
+    description: Donation and recycling partner
+  - name: Santa Clara University
+    url: https://www.scu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity East Bay/Silicon Valley
+    url: https://www.habitatebsv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

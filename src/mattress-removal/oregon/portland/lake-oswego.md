@@ -8,9 +8,22 @@ stateAbbr: OR
 parentMetro: Portland
 tier: 3
 zipCodes: ['97034', '97035']
-coordinates: 
+coordinates:
   lat: 45.4207
   lng: -122.6648
+communityPartners:
+  - name: City of Lake Oswego
+    url: https://www.lakeoswego.city/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Portland Community College
+    url: https://www.pcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Portland Region
+    url: https://habitatportlandregion.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "First Addition Historic District"
     zipCodes: ["97034"]

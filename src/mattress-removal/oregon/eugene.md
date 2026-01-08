@@ -6,9 +6,22 @@ state: "Oregon"
 stateAbbr: "OR"
 stateSlug: "oregon"
 tier: 2
-coordinates: 
+coordinates:
   lat: 44.0521
   lng: -123.0868
+communityPartners:
+  - name: City of Eugene
+    url: https://www.eugene-or.gov/
+    description: Official city government
+  - name: Goodwill Industries of Lane and Douglas Counties
+    url: https://www.goodwill-oregon.org/
+    description: Donation and recycling partner
+  - name: University of Oregon
+    url: https://www.uoregon.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central Lane
+    url: https://habitatlane.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

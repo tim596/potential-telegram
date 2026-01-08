@@ -9,6 +9,19 @@ citySlug: "hattiesburg"
 zip: "39401"
 latitude: 31.3271
 longitude: -89.2903
+communityPartners:
+  - name: City of Hattiesburg
+    url: https://www.hattiesburgms.com/
+    description: Official city government
+  - name: Goodwill Industries of South Mississippi
+    url: https://www.goodwillsms.org/
+    description: Donation and recycling partner
+  - name: University of Southern Mississippi
+    url: https://www.usm.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Pine Belt Area
+    url: https://www.habitatpinebelt.org/
+    description: Housing and donation partner
 tier: 2
 population: 48730
 businessLicense: "MS-HAT-2025-002"

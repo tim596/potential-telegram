@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 34.0032
   lng: -84.1446
+communityPartners:
+  - name: City of Duluth
+    url: https://www.duluthga.net/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Georgia Gwinnett College
+    url: https://www.ggc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity North Central Georgia
+    url: https://www.hfhncg.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

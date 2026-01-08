@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 34.1706
   lng: -118.8376
+communityPartners:
+  - name: City of Thousand Oaks
+    url: https://toaks.gov/
+    description: Official city government
+  - name: Goodwill Industries of Ventura and Santa Barbara Counties
+    url: https://gwvsb.org/
+    description: Donation and recycling partner
+  - name: California Lutheran University
+    url: https://www.callutheran.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Ventura County
+    url: https://habitatventura.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,9 +9,22 @@ stateAbbr: "TX"
 stateSlug: "texas"
 parentMetro: "Dallas"
 tier: 2
-coordinates: 
+coordinates:
   lat: 32.9483
   lng: -96.7299
+communityPartners:
+  - name: City of Richardson
+    url: https://www.cor.net/
+    description: Official city government
+  - name: Goodwill Industries of Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: University of Texas at Dallas
+    url: https://www.utdallas.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Dallas
+    url: https://www.dallasareahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

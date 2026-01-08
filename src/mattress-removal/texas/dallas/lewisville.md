@@ -11,6 +11,19 @@ tier: 4
 coordinates:
   lat: 33.0462
   lng: -97.0195
+communityPartners:
+  - name: City of Lewisville
+    url: https://www.cityoflewisville.com/
+    description: Official city government
+  - name: Goodwill Industries of Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: North Central Texas College
+    url: https://www.nctc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Denton County
+    url: https://www.habitatdenton.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

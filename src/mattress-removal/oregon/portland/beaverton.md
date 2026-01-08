@@ -8,9 +8,22 @@ stateAbbr: OR
 parentMetro: Portland
 tier: 3
 zipCodes: ['97003', '97005', '97006', '97007', '97008']
-coordinates: 
+coordinates:
   lat: 45.4871
   lng: -122.8037
+communityPartners:
+  - name: City of Beaverton
+    url: https://www.beavertonoregon.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Portland Community College
+    url: https://www.pcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Portland Region
+    url: https://habitatportlandregion.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Cedar Hills District"
     zipCodes: ["97005"]

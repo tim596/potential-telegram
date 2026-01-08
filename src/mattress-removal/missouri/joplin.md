@@ -9,6 +9,19 @@ citySlug: "joplin"
 zip: "64801"
 latitude: 37.0842
 longitude: -94.5133
+communityPartners:
+  - name: City of Joplin
+    url: https://www.joplinmo.org/
+    description: Official city government
+  - name: MERS Goodwill Industries
+    url: https://mersgoodwill.org/
+    description: Donation and recycling partner
+  - name: Missouri Southern State University
+    url: https://www.mssu.edu/
+    description: Campus community partner
+  - name: Joplin Area Habitat for Humanity
+    url: https://www.joplinhabitat.org/
+    description: Housing and donation partner
 tier: 2
 population: 53956
 businessLicense: "MO-JOP-2025-001"

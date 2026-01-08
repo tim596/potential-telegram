@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 27.7003
   lng: -97.3384
+communityPartners:
+  - name: City of Corpus Christi
+    url: https://www.cctexas.com/
+    description: Official city government
+  - name: Goodwill Industries of South Texas
+    url: https://www.goodwillsouthtexas.org/
+    description: Donation and recycling partner
+  - name: Texas A&M University-Corpus Christi
+    url: https://www.tamucc.edu/
+    description: Campus community partner
+  - name: Coastal Bend Habitat for Humanity
+    url: https://www.cbhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

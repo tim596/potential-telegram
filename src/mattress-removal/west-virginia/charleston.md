@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 38.3498
   lng: -81.6326
+communityPartners:
+  - name: City of Charleston
+    url: https://www.charlestonwv.gov/
+    description: Official city government
+  - name: Goodwill Industries of Kanawha Valley
+    url: https://www.goodwillkv.com/
+    description: Donation and recycling partner
+  - name: University of Charleston
+    url: https://www.ucwv.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Kanawha and Putnam
+    url: https://www.habitatkp.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

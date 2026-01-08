@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 34.7465
   lng: -92.2896
+communityPartners:
+  - name: City of Little Rock
+    url: https://www.littlerock.gov/
+    description: Official city government
+  - name: Goodwill Industries of Arkansas
+    url: https://www.goodwillar.org/
+    description: Donation and recycling partner
+  - name: University of Arkansas at Little Rock
+    url: https://ualr.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central Arkansas
+    url: https://www.habitatcentralar.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

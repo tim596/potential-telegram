@@ -6,9 +6,22 @@ state: "North Dakota"
 stateAbbr: "ND"
 stateSlug: "north-dakota"
 tier: 2
-coordinates: 
+coordinates:
   lat: 48.2327
   lng: -101.2965
+communityPartners:
+  - name: City of Minot
+    url: https://www.minotnd.org/
+    description: Official city government
+  - name: Easter Seals Goodwill ND
+    url: https://www.esgwnd.org/
+    description: Donation and recycling partner
+  - name: Minot State University
+    url: https://www.minotstateu.edu/
+    description: Campus community partner
+  - name: Dakota Prairie Habitat for Humanity
+    url: https://www.dakotaprairiehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

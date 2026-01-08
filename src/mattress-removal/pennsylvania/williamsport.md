@@ -7,6 +7,19 @@ stateSlug: pennsylvania
 coordinates:
   lat: 41.2412
   lng: -77.0011
+communityPartners:
+  - name: City of Williamsport
+    url: https://www.cityofwilliamsport.org/
+    description: Official city government
+  - name: Goodwill Industries of North Central Pennsylvania
+    url: https://www.goodwillncpa.org/
+    description: Donation and recycling partner
+  - name: Lycoming College
+    url: https://www.lycoming.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lycoming County
+    url: https://www.habitatlycoming.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

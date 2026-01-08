@@ -10,6 +10,19 @@ parentMetro: Seattle
 coordinates:
   lat: 47.6162
   lng: -122.0355
+communityPartners:
+  - name: City of Sammamish
+    url: https://www.sammamish.us/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Bellevue College
+    url: https://www.bellevuecollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King County
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,9 +7,22 @@ state: North Carolina
 stateAbbr: NC
 tier: 2
 zipCodes: ['27530', '27531', '27532', '27533', '27534']
-coordinates: 
+coordinates:
   lat: 35.3849
   lng: -77.9928
+communityPartners:
+  - name: City of Goldsboro
+    url: https://www.goldsboronc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Eastern NC
+    url: https://www.gienc.org/
+    description: Donation and recycling partner
+  - name: Wayne Community College
+    url: https://www.waynecc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Goldsboro-Wayne County
+    url: https://habitatgoldsboro.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Historic District"
     zipCodes: ["27530"]

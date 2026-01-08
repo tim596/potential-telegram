@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 42.8806
   lng: -71.3273
+communityPartners:
+  - name: Town of Derry
+    url: https://www.derrynh.org/
+    description: Official town government
+  - name: Goodwill Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: Southern New Hampshire University
+    url: https://www.snhu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Nashua
+    url: https://www.nashuahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

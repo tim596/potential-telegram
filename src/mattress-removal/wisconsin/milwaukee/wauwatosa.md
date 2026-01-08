@@ -8,6 +8,19 @@ stateSlug: wisconsin
 coordinates:
   lat: 43.0494
   lng: -88.0084
+communityPartners:
+  - name: City of Wauwatosa
+    url: https://www.wauwatosa.net/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: Medical College of Wisconsin
+    url: https://www.mcw.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Milwaukee
+    url: https://www.milwaukeehabitat.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/wisconsin/milwaukee/wauwatosa/
 parentMetro: Milwaukee
 

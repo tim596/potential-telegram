@@ -6,9 +6,22 @@ city: New York City
 state: New York
 stateAbbr: NY
 zipCodes: ['10001', '10002', '10003', '10004', '10005', '10006', '10007', '10009', '10011', '10012', '10013', '10014', '10016', '10017', '10018', '10019', '10021', '10023', '10024', '10025', '10026', '10027', '10028', '10030', '10032', '10033', '10034', '10036', '10037', '10040', '10065', '10075', '10128', '11101', '11102', '11103', '11104', '11105', '11106', '11109', '11120', '11201', '11202', '11203', '11204', '11205', '11206', '11209', '11210', '11211', '11213', '11214', '11215', '11216', '11219', '11220', '11221', '11222', '11224', '11225', '11226', '11231', '11232', '11233', '11237', '11238', '11249', '10451', '10452', '10453', '10454', '10455', '10456', '10457', '10458', '10460', '10462', '10463', '10465', '10467', '10468', '10471', '10473', '10474', '10475', '10301', '10302', '10304', '10306', '10307', '10308', '10309', '10314']
-coordinates: 
+coordinates:
   lat: 40.7128
   lng: -74.0060
+communityPartners:
+  - name: City of New York
+    url: https://www.nyc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillny.org/
+    description: Donation and recycling partner
+  - name: New York University
+    url: https://www.nyu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity NYC
+    url: https://www.habitatnyc.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Upper East Side"
     zipCodes: ["10021", "10028", "10065", "10075", "10128"]

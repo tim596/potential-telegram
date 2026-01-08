@@ -8,9 +8,22 @@ stateAbbr: NC
 parentMetro: Greensboro
 tier: 3
 zipCodes: ['27260', '27262', '27265', '27268']
-coordinates: 
+coordinates:
   lat: 35.9557
   lng: -80.0053
+communityPartners:
+  - name: City of High Point
+    url: https://www.highpointnc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central NC
+    url: https://www.triadgoodwill.org/
+    description: Donation and recycling partner
+  - name: High Point University
+    url: https://www.highpoint.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity High Point
+    url: https://www.habitathp.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Emerywood Historic District"
     zipCodes: ["27265"]

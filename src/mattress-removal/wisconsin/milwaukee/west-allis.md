@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 43.0167
   lng: -88.0070
+communityPartners:
+  - name: City of West Allis
+    url: https://www.westalliswi.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: Milwaukee Area Technical College
+    url: https://www.matc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Milwaukee
+    url: https://www.milwaukeehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

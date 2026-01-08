@@ -9,6 +9,19 @@ parentMetro: Los Angeles
 coordinates:
   lat: 33.8366
   lng: -117.9143
+communityPartners:
+  - name: City of Anaheim
+    url: https://www.anaheim.net/
+    description: Official city government
+  - name: Goodwill of Orange County
+    url: https://www.ocgoodwill.org/
+    description: Donation and recycling partner
+  - name: California State University, Fullerton
+    url: https://www.fullerton.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Orange County
+    url: https://habitatoc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

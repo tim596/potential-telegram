@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 47.6062
   lng: -122.3321
+communityPartners:
+  - name: City of Seattle
+    url: https://www.seattle.gov/
+    description: Official city government
+  - name: Evergreen Goodwill
+    url: https://evergreengoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Washington
+    url: https://www.washington.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King & Kittitas Counties
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

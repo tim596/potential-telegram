@@ -8,9 +8,22 @@ state: Michigan
 stateSlug: michigan
 parentMetro: Detroit
 tier: 3
-coordinates: 
+coordinates:
   lat: 42.4975
   lng: -82.8888
+communityPartners:
+  - name: City of St. Clair Shores
+    url: https://www.scsmi.net/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Macomb Community College
+    url: https://www.macomb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Macomb County
+    url: https://www.habitatmacomb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

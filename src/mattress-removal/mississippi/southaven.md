@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 34.9893
   lng: -89.9948
+communityPartners:
+  - name: City of Southaven
+    url: https://www.southaven.org/
+    description: Official city government
+  - name: Goodwill Industries of the Mid-South
+    url: https://www.goodwillmemphis.org/
+    description: Donation and recycling partner
+  - name: Northwest Mississippi Community College
+    url: https://www.northwestms.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northwest Mississippi
+    url: https://www.hfhnwms.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

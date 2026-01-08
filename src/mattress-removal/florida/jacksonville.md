@@ -4,6 +4,19 @@ city: Jacksonville
 state: Florida
 stateSlug: florida
 coordinates: [30.3322, -81.6557]
+communityPartners:
+  - name: City of Jacksonville
+    url: https://www.coj.net/
+    description: Official city government
+  - name: Goodwill of North Florida
+    url: https://www.goodwillnfl.org/
+    description: Donation and recycling partner
+  - name: University of North Florida
+    url: https://www.unf.edu/
+    description: Campus community partner
+  - name: Habijax
+    url: https://www.habijax.org/
+    description: Housing and donation partner
 neighborhoodCount: 20
 
 zipCodes:

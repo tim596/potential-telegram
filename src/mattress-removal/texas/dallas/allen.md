@@ -11,6 +11,19 @@ tier: 4
 coordinates:
   lat: 33.1031
   lng: -96.6706
+communityPartners:
+  - name: City of Allen
+    url: https://www.cityofallen.org/
+    description: Official city government
+  - name: Goodwill Industries of Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: Collin College
+    url: https://www.collin.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Collin County
+    url: https://www.hfhcollin.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

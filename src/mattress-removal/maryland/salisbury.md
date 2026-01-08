@@ -5,9 +5,22 @@ city: Salisbury
 state: Maryland
 stateSlug: maryland
 tier: 2
-coordinates: 
+coordinates:
   lat: 38.3606
   lng: -75.5994
+communityPartners:
+  - name: City of Salisbury
+    url: https://www.salisbury.md/
+    description: Official city government
+  - name: Goodwill Industries of the Chesapeake
+    url: https://www.goodwillches.org/
+    description: Donation and recycling partner
+  - name: Salisbury University
+    url: https://www.salisbury.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Wicomico County
+    url: https://www.habitatwicomico.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

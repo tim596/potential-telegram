@@ -7,9 +7,22 @@ state: South Carolina
 stateAbbr: SC
 tier: 3
 zipCodes: ['29621', '29624', '29625', '29627']
-coordinates: 
+coordinates:
   lat: 34.5034
   lng: -82.6501
+communityPartners:
+  - name: City of Anderson
+    url: https://www.cityofandersonsc.com/
+    description: Official city government
+  - name: Goodwill Industries of Upstate/Midlands SC
+    url: https://www.goodwillsc.org/
+    description: Donation and recycling partner
+  - name: Anderson University
+    url: https://www.andersonuniversity.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Anderson County
+    url: https://www.habitatanderson.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Historic Downtown District"
     zipCodes: ["29621"]

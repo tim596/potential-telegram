@@ -10,6 +10,19 @@ parentMetro: Allentown
 coordinates:
   lat: 40.6884
   lng: -75.2077
+communityPartners:
+  - name: City of Easton
+    url: https://www.easton-pa.com/
+    description: Official city government
+  - name: Goodwill Keystone Area
+    url: https://www.yourgoodwill.org/
+    description: Donation and recycling partner
+  - name: Lafayette College
+    url: https://www.lafayette.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Lehigh Valley
+    url: https://www.habitatlv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

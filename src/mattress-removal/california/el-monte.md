@@ -9,6 +9,19 @@ parentMetro: Los Angeles
 coordinates:
   lat: 34.0686
   lng: -118.0275
+communityPartners:
+  - name: City of El Monte
+    url: https://www.ci.el-monte.ca.us/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Rio Hondo College
+    url: https://www.riohondo.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Los Angeles
+    url: https://www.habitatla.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

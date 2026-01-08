@@ -6,9 +6,22 @@ state: "Ohio"
 stateAbbr: "OH"
 stateSlug: "ohio"
 tier: 1
-coordinates: 
+coordinates:
   lat: 41.4993
   lng: -81.6944
+communityPartners:
+  - name: City of Cleveland
+    url: https://www.clevelandohio.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Cleveland
+    url: https://www.goodwillgoodskills.org/
+    description: Donation and recycling partner
+  - name: Case Western Reserve University
+    url: https://www.case.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Cleveland
+    url: https://www.clevelandhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

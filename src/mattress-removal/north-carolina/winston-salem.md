@@ -6,9 +6,22 @@ state: "North Carolina"
 stateAbbr: "NC"
 stateSlug: "north-carolina"
 tier: 2
-coordinates: 
+coordinates:
   lat: 36.0999
   lng: -80.2442
+communityPartners:
+  - name: City of Winston-Salem
+    url: https://www.cityofws.org/
+    description: Official city government
+  - name: Goodwill Industries of Northwest NC
+    url: https://www.goodwillnwnc.org/
+    description: Donation and recycling partner
+  - name: Wake Forest University
+    url: https://www.wfu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Forsyth County
+    url: https://www.habitatforsyth.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,6 +7,19 @@ parentMetro: Washington DC
 coordinates:
   lat: 38.9695
   lng: -77.3857
+communityPartners:
+  - name: Town of Herndon
+    url: https://www.herndon-va.gov/
+    description: Official town government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: Northern Virginia Community College
+    url: https://www.nvcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northern Virginia
+    url: https://www.habitatnova.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington-dc/herndon/
 
 neighborhoods:

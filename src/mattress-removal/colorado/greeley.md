@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 40.4233
   lng: -104.7091
+communityPartners:
+  - name: City of Greeley
+    url: https://greeleyco.gov/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: University of Northern Colorado
+    url: https://www.unco.edu/
+    description: Campus community partner
+  - name: Greeley-Weld Habitat for Humanity
+    url: https://www.greeleyhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

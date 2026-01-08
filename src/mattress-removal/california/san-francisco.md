@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 37.7749
   lng: -122.4194
+communityPartners:
+  - name: City and County of San Francisco
+    url: https://www.sf.gov/
+    description: Official city government
+  - name: Goodwill San Francisco Bay
+    url: https://sfgoodwill.org/
+    description: Donation and recycling partner
+  - name: San Francisco State University
+    url: https://www.sfsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater San Francisco
+    url: https://habitatgsf.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

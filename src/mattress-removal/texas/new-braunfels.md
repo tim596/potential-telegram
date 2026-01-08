@@ -7,6 +7,19 @@ stateSlug: texas
 coordinates:
   lat: 29.7030
   lng: -98.1245
+communityPartners:
+  - name: City of New Braunfels
+    url: https://www.nbtexas.org/
+    description: Official city government
+  - name: Goodwill San Antonio
+    url: https://www.goodwillsa.org/
+    description: Donation and recycling partner
+  - name: Texas State University
+    url: https://www.txstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Comal County
+    url: https://www.habitatcomal.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

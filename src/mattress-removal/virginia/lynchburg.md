@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 37.4138
   lng: -79.1422
+communityPartners:
+  - name: City of Lynchburg
+    url: https://www.lynchburgva.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Valleys
+    url: https://www.goodwillvalleys.com/
+    description: Donation and recycling partner
+  - name: Liberty University
+    url: https://www.liberty.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Lynchburg
+    url: https://www.lynchburghabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 155
   single: 155

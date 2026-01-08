@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 41.9778
   lng: -91.6656
+communityPartners:
+  - name: City of Cedar Rapids
+    url: https://www.cedar-rapids.org/
+    description: Official city government
+  - name: Goodwill of the Heartland
+    url: https://www.goodwillheartland.org/
+    description: Donation and recycling partner
+  - name: Kirkwood Community College
+    url: https://www.kirkwood.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of East Central Iowa
+    url: https://www.habitateci.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

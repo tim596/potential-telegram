@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 38.2098
   lng: -84.5588
+communityPartners:
+  - name: City of Georgetown
+    url: https://www.georgetownky.gov/
+    description: Official city government
+  - name: Goodwill Industries of Kentucky
+    url: https://www.goodwillky.org/
+    description: Donation and recycling partner
+  - name: Georgetown College
+    url: https://www.georgetowncollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Bluegrass
+    url: https://www.habitatbluegrass.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

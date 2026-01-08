@@ -11,6 +11,19 @@ tier: 4
 coordinates:
   lat: 32.8343
   lng: -97.2289
+communityPartners:
+  - name: City of North Richland Hills
+    url: https://www.nrhtx.com/
+    description: Official city government
+  - name: Goodwill Industries of Fort Worth
+    url: https://www.goodwillnorthtexas.org/
+    description: Donation and recycling partner
+  - name: Tarrant County College
+    url: https://www.tccd.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Tarrant County
+    url: https://www.fwhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

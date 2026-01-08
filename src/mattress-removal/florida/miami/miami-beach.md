@@ -9,6 +9,19 @@ zipCodes: ['33139', '33140', '33141']
 coordinates:
   lat: 25.7907
   lng: -80.1300
+communityPartners:
+  - name: City of Miami Beach
+    url: https://www.miamibeachfl.gov/
+    description: Official city government
+  - name: Goodwill of South Florida
+    url: https://www.goodwillsouthflorida.org/
+    description: Donation and recycling partner
+  - name: Florida International University
+    url: https://www.fiu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Miami
+    url: https://www.miamihabitat.org/
+    description: Housing and donation partner
 parentMetro: Miami
 neighborhoods:
   - name: "South Beach"

@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 41.9584
   lng: -70.6673
+communityPartners:
+  - name: Town of Plymouth
+    url: https://www.plymouth-ma.gov/
+    description: Official town government
+  - name: Goodwill Industries of Southeastern Massachusetts
+    url: https://www.goodwillsema.org/
+    description: Donation and recycling partner
+  - name: Cape Cod Community College
+    url: https://www.capecod.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Plymouth
+    url: https://www.habitatplymouth.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

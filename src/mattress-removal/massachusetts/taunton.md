@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 41.9001
   lng: -71.0897
+communityPartners:
+  - name: City of Taunton
+    url: https://www.taunton-ma.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Massachusetts
+    url: https://www.goodwillsema.org/
+    description: Donation and recycling partner
+  - name: Bristol Community College
+    url: https://www.bristolcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater New Bedford
+    url: https://www.habitatnb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

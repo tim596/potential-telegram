@@ -8,9 +8,22 @@ state: Massachusetts
 stateSlug: massachusetts
 parentMetro: Boston
 tier: 3
-coordinates: 
+coordinates:
   lat: 42.3317
   lng: -71.1211
+communityPartners:
+  - name: Town of Brookline
+    url: https://www.brooklinema.gov/
+    description: Official town government
+  - name: Goodwill Industries of Greater Boston
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: Boston University
+    url: https://www.bu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Boston
+    url: https://www.habitatboston.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

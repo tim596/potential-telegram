@@ -10,6 +10,19 @@ citySlug: "hoboken"
 zip: "07030"
 latitude: 40.7439
 longitude: -74.0323
+communityPartners:
+  - name: City of Hoboken
+    url: https://www.hobokennj.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Stevens Institute of Technology
+    url: https://www.stevens.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Hudson County
+    url: https://www.habitathudsoncounty.org/
+    description: Housing and donation partner
 tier: 3
 population: 60417
 businessLicense: "NJ-HOB-2025-001"

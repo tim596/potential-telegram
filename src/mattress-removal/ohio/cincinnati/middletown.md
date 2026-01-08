@@ -9,9 +9,22 @@ stateAbbr: "OH"
 stateSlug: "ohio"
 parentMetro: "Cincinnati"
 tier: 3
-coordinates: 
+coordinates:
   lat: 39.5150
   lng: -84.3980
+communityPartners:
+  - name: City of Middletown
+    url: https://www.cityofmiddletown.org/
+    description: Official city government
+  - name: Goodwill Industries of Southern Ohio
+    url: https://www.cincinnatigoodwill.org/
+    description: Donation and recycling partner
+  - name: Miami University Middletown
+    url: https://www.miamioh.edu/regionals/middletown/
+    description: Campus community partner
+  - name: Habitat for Humanity of Butler County
+    url: https://www.butlercountyhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

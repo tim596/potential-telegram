@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 42.8746
   lng: -112.4455
+communityPartners:
+  - name: City of Pocatello
+    url: https://www.pocatello.us/
+    description: Official city government
+  - name: Deseret Industries
+    url: https://www.deseretindustries.org/
+    description: Donation and recycling partner
+  - name: Idaho State University
+    url: https://www.isu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Greater Teton Valley
+    url: https://www.habitatgtv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

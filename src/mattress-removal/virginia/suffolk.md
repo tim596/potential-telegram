@@ -7,6 +7,19 @@ stateSlug: virginia
 coordinates:
   lat: 36.7282
   lng: -76.5836
+communityPartners:
+  - name: City of Suffolk
+    url: https://www.suffolkva.us/
+    description: Official city government
+  - name: Goodwill of Central and Coastal Virginia
+    url: https://www.goodwillvirginia.org/
+    description: Donation and recycling partner
+  - name: Paul D. Camp Community College
+    url: https://www.pdc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity South Hampton Roads
+    url: https://www.shrhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

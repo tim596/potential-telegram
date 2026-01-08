@@ -7,9 +7,22 @@ city: Surprise
 state: Arizona
 stateSlug: arizona
 parentMetro: Phoenix
-coordinates: 
+coordinates:
   lat: 33.6292
   lng: -112.3679
+communityPartners:
+  - name: City of Surprise
+    url: https://surpriseaz.gov/
+    description: Official city government
+  - name: Goodwill of Central and Northern Arizona
+    url: https://www.goodwillaz.org/
+    description: Donation and recycling partner
+  - name: Estrella Mountain Community College
+    url: https://www.estrellamountain.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Central Arizona
+    url: https://habitatcaz.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

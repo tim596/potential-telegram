@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 41.8456
   lng: -87.7539
+communityPartners:
+  - name: Town of Cicero
+    url: https://www.thetownofcicero.com/
+    description: Official town government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: Morton College
+    url: https://www.morton.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Chicago
+    url: https://www.habitatchicago.org/
+    description: Housing and donation partner
 pricing:
   single: "$125"
   queen: "$125"

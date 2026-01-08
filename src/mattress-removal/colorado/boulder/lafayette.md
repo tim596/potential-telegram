@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 39.9936
   lng: -105.0897
+communityPartners:
+  - name: City of Lafayette
+    url: https://www.cityoflafayette.com/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Front Range Community College
+    url: https://www.frontrange.edu/
+    description: Campus community partner
+  - name: Flatirons Habitat for Humanity
+    url: https://www.flatironshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

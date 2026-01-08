@@ -7,6 +7,19 @@ stateSlug: south-carolina
 coordinates:
   lat: 34.1954
   lng: -79.7626
+communityPartners:
+  - name: City of Florence
+    url: https://www.cityofflorence.com/
+    description: Official city government
+  - name: Goodwill Industries of Lower South Carolina
+    url: https://www.palmettogoodwill.org/
+    description: Donation and recycling partner
+  - name: Francis Marion University
+    url: https://www.fmarion.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Florence County
+    url: https://www.habitatflorence.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

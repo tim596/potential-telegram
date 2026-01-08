@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 31.8457
   lng: -102.3676
+communityPartners:
+  - name: City of Odessa
+    url: https://www.odessa-tx.gov/
+    description: Official city government
+  - name: Goodwill Industries of West Texas
+    url: https://www.goodwillwesttexas.org/
+    description: Donation and recycling partner
+  - name: University of Texas Permian Basin
+    url: https://www.utpb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Permian Basin
+    url: https://www.habitatpb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

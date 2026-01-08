@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 47.9790
   lng: -122.2021
+communityPartners:
+  - name: City of Everett
+    url: https://www.everettwa.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Everett Community College
+    url: https://www.everettcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Snohomish County
+    url: https://www.habitatsnohomish.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

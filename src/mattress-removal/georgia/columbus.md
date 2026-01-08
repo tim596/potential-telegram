@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 32.4609
   lng: -84.9877
+communityPartners:
+  - name: City of Columbus
+    url: https://www.columbusga.gov/
+    description: Official city government
+  - name: Goodwill of the Southern Rivers
+    url: https://www.goodwillsr.org/
+    description: Donation and recycling partner
+  - name: Columbus State University
+    url: https://www.columbusstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Chattahoochee Valley
+    url: https://www.habitatchattahoochee.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

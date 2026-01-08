@@ -12,6 +12,19 @@ longitude: -112.5348
 tier: 2
 population: 36360
 businessLicense: "MT-BU-2025-001"
+communityPartners:
+  - name: Butte-Silver Bow Government
+    url: https://www.co.silverbow.mt.us/
+    description: Official city-county government
+  - name: Salvation Army Butte
+    url: https://centralusa.salvationarmy.org/butte/
+    description: Donation and recycling partner
+  - name: Montana Technological University
+    url: https://www.mtech.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Southwest Montana
+    url: https://www.habitatswmt.org/
+    description: Housing and donation partner
 pricing:
   oneItem: 125
   twoItems: 155

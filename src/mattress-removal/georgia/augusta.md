@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 33.4735
   lng: -82.0105
+communityPartners:
+  - name: Augusta-Richmond County
+    url: https://www.augustaga.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Georgia
+    url: https://www.goodwillworks.org/
+    description: Donation and recycling partner
+  - name: Augusta University
+    url: https://www.augusta.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Augusta
+    url: https://www.augustahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 41.8661
   lng: -88.1070
+communityPartners:
+  - name: City of Wheaton
+    url: https://www.wheaton.il.us/
+    description: Official city government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: Wheaton College
+    url: https://www.wheaton.edu/
+    description: Campus community partner
+  - name: DuPage Habitat for Humanity
+    url: https://www.dupagehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

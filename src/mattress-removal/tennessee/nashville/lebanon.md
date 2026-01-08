@@ -8,9 +8,22 @@ stateAbbr: TN
 tier: 4
 parentMetro: "Nashville"
 zipCodes: ['37087', '37090']
-coordinates: 
+coordinates:
   lat: 36.2081
   lng: -86.2911
+communityPartners:
+  - name: City of Lebanon
+    url: https://www.lebanontn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Cumberland University
+    url: https://www.cumberland.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Wilson County
+    url: https://www.habitatwilson.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Historic Downtown Square"
     zipCodes: ["37087"]

@@ -12,6 +12,19 @@ longitude: -108.5007
 tier: 1
 population: 121483
 businessLicense: "MT-BIL-2025-001"
+communityPartners:
+  - name: City of Billings
+    url: https://www.ci.billings.mt.us/
+    description: Official city government
+  - name: Goodwill of North Central States
+    url: https://www.goodwillncs.org/
+    description: Donation and recycling partner
+  - name: Montana State University Billings
+    url: https://www.msubillings.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Yellowstone Valley
+    url: https://www.habitatyv.org/
+    description: Housing and donation partner
 pricing:
   oneItem: 125
   twoItems: 155

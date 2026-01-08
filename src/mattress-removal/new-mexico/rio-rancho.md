@@ -5,9 +5,22 @@ city: Rio Rancho
 state: New Mexico
 stateSlug: new-mexico
 tier: 2
-coordinates: 
+coordinates:
   lat: 35.2327
   lng: -106.6630
+communityPartners:
+  - name: City of Rio Rancho
+    url: https://www.rrnm.gov/
+    description: Official city government
+  - name: Goodwill Industries of New Mexico
+    url: https://www.goodwillnm.org/
+    description: Donation and recycling partner
+  - name: University of New Mexico
+    url: https://www.unm.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Rio Rancho
+    url: https://www.riorancho-habitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

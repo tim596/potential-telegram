@@ -10,6 +10,19 @@ zipCodes: ['83651', '83686', '83687', '83652', '83653']
 coordinates:
   lat: 43.5407
   lng: -116.5635
+communityPartners:
+  - name: City of Nampa
+    url: https://www.cityofnampa.us/
+    description: Official city government
+  - name: Goodwill of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: College of Western Idaho
+    url: https://www.cwi.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Boise
+    url: https://www.boisehabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Central Nampa"
     zipCodes: ["83651"]

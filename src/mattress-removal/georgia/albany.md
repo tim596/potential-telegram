@@ -7,6 +7,19 @@ zipCodes: ['31701', '31705', '31707', '31721']
 coordinates:
   lat: 31.5804
   lng: -84.1557
+communityPartners:
+  - name: City of Albany
+    url: https://www.albanyga.gov/
+    description: Official city government
+  - name: Goodwill Industries of South Georgia
+    url: https://www.goodwillsg.org/
+    description: Donation and recycling partner
+  - name: Albany State University
+    url: https://www.asurams.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Albany Area
+    url: https://www.habitatalbanyarea.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Historic District"
     zipCodes: ["31701"]

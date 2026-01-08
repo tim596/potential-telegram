@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 42.3736
   lng: -71.1097
+communityPartners:
+  - name: City of Cambridge
+    url: https://www.cambridgema.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Boston
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: Harvard University
+    url: https://www.harvard.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Boston
+    url: https://www.habitatboston.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

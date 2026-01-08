@@ -9,9 +9,22 @@ stateAbbr: "OH"
 stateSlug: "ohio"
 parentMetro: "Cleveland"
 tier: 3
-coordinates: 
+coordinates:
   lat: 41.6662
   lng: -81.3395
+communityPartners:
+  - name: City of Mentor
+    url: https://www.cityofmentor.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater Cleveland and East Central Ohio
+    url: https://www.goodwillgoodskills.org/
+    description: Donation and recycling partner
+  - name: Lakeland Community College
+    url: https://www.lakelandcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Lake County
+    url: https://www.habitatlakecountyohio.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 41.2230
   lng: -111.9738
+communityPartners:
+  - name: City of Ogden
+    url: https://www.ogdencity.com/
+    description: Official city government
+  - name: Goodwill Industries of Utah
+    url: https://www.goodwillutah.org/
+    description: Donation and recycling partner
+  - name: Weber State University
+    url: https://www.weber.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Weber and Davis Counties
+    url: https://www.habitatwd.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 155
   single: 155

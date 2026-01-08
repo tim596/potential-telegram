@@ -6,9 +6,22 @@ state: "Oregon"
 stateAbbr: "OR"
 stateSlug: "oregon"
 tier: 2
-coordinates: 
+coordinates:
   lat: 44.9429
   lng: -123.0351
+communityPartners:
+  - name: City of Salem
+    url: https://www.cityofsalem.net/
+    description: Official city government
+  - name: Goodwill Industries of Lane and Douglas Counties
+    url: https://www.goodwill-oregon.org/
+    description: Donation and recycling partner
+  - name: Willamette University
+    url: https://www.willamette.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Mid-Willamette Valley
+    url: https://habitatmwv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

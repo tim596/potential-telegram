@@ -10,6 +10,19 @@ parentMetro: Dallas
 coordinates:
   lat: 32.5632
   lng: -97.1417
+communityPartners:
+  - name: City of Mansfield
+    url: https://www.mansfieldtexas.gov/
+    description: Official city government
+  - name: Goodwill Industries of Fort Worth
+    url: https://www.goodwillnorthtexas.org/
+    description: Donation and recycling partner
+  - name: Tarleton State University
+    url: https://www.tarleton.edu/
+    description: Campus community partner
+  - name: Arlington Habitat for Humanity
+    url: https://www.arlingtonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

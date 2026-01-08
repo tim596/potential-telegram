@@ -10,6 +10,19 @@ parentMetro: "Kansas City"
 zip: "64015"
 latitude: 39.0169
 longitude: -94.2816
+communityPartners:
+  - name: City of Blue Springs
+    url: https://www.bluespringsgov.com/
+    description: Official city government
+  - name: Goodwill of Western Missouri & Eastern Kansas
+    url: https://www.mokangoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Missouri-Kansas City
+    url: https://www.umkc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Kansas City
+    url: https://www.habitatkc.org/
+    description: Housing and donation partner
 tier: 2
 population: 58604
 businessLicense: "MO-BLS-2025-001"

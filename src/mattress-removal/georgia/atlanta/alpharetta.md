@@ -10,6 +10,19 @@ zipCodes: ['30004', '30005', '30009', '30022', '30076']
 coordinates:
   lat: 34.0753
   lng: -84.2940
+communityPartners:
+  - name: City of Alpharetta
+    url: https://www.alpharetta.ga.us/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Reinhardt University
+    url: https://www.reinhardt.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity North Central Georgia
+    url: https://www.hfhncg.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Windward"
     zipCodes: ["30005"]

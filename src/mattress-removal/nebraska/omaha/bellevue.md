@@ -10,6 +10,19 @@ citySlug: "bellevue"
 zip: "68005"
 latitude: 41.1370
 longitude: -95.9145
+communityPartners:
+  - name: City of Bellevue
+    url: https://www.bellevue.ne.us/
+    description: Official city government
+  - name: Goodwill Omaha
+    url: https://www.goodwillomaha.org/
+    description: Donation and recycling partner
+  - name: Bellevue University
+    url: https://www.bellevue.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Omaha
+    url: https://www.habitatomaha.org/
+    description: Housing and donation partner
 tier: 2
 population: 64777
 businessLicense: "NE-BEL-2025-001"

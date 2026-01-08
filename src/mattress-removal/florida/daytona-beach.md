@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 29.2108
   lng: -81.0228
+communityPartners:
+  - name: City of Daytona Beach
+    url: https://www.codb.us/
+    description: Official city government
+  - name: Goodwill Industries of Central Florida
+    url: https://www.goodwillcfl.org/
+    description: Donation and recycling partner
+  - name: Bethune-Cookman University
+    url: https://www.cookman.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of East & Central Volusia County
+    url: https://www.habitatofecvc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

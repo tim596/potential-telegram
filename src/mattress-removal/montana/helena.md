@@ -12,6 +12,19 @@ longitude: -112.0362
 tier: 2
 population: 35944
 businessLicense: "MT-HEL-2025-001"
+communityPartners:
+  - name: City of Helena
+    url: https://www.helenamt.gov/
+    description: Official city government
+  - name: Helena Area Habitat ReStore
+    url: https://www.helenahabitat.org/restore
+    description: Donation and recycling partner
+  - name: Carroll College
+    url: https://www.carroll.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Helena Area
+    url: https://www.helenahabitat.org/
+    description: Housing and donation partner
 pricing:
   oneItem: 125
   twoItems: 155

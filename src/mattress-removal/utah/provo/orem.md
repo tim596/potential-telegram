@@ -9,9 +9,22 @@ stateAbbr: "UT"
 stateSlug: "utah"
 tier: 2
 parentMetro: "provo"
-coordinates: 
+coordinates:
   lat: 40.2677
   lng: -111.6947
+communityPartners:
+  - name: City of Orem
+    url: https://www.orem.org/
+    description: Official city government
+  - name: Deseret Industries
+    url: https://www.deseretindustries.org/
+    description: Donation and recycling partner
+  - name: Utah Valley University
+    url: https://www.uvu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Utah County
+    url: https://www.habitatuc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

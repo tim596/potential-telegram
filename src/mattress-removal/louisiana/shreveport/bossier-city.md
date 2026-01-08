@@ -8,9 +8,22 @@ state: Louisiana
 stateSlug: louisiana
 parentMetro: Shreveport
 tier: 2
-coordinates: 
+coordinates:
   lat: 32.5160
   lng: -93.7321
+communityPartners:
+  - name: City of Bossier City
+    url: https://www.bossiercity.org/
+    description: Official city government
+  - name: Goodwill Industries of North Louisiana
+    url: https://www.goodwillnla.org/
+    description: Donation and recycling partner
+  - name: Bossier Parish Community College
+    url: https://www.bpcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Shreveport-Bossier
+    url: https://www.habitatshreveport.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,9 +8,22 @@ stateAbbr: RI
 tier: 4
 parentMetro: "Providence"
 zipCodes: ['02914', '02915', '02916']
-coordinates: 
+coordinates:
   lat: 41.8137
   lng: -71.3701
+communityPartners:
+  - name: City of East Providence
+    url: https://www.eastprovidenceri.gov/
+    description: Official city government
+  - name: Goodwill Industries of Rhode Island
+    url: https://www.goodwillri.org/
+    description: Donation and recycling partner
+  - name: Rhode Island College
+    url: https://www.ric.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Providence
+    url: https://www.habitatprov.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Rumford"
     zipCodes: ["02916"]

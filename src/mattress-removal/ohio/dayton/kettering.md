@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Dayton
 tier: 3
 zipCodes: ['45439', '45420', '45429']
-coordinates: 
+coordinates:
   lat: 39.6895
   lng: -84.1688
+communityPartners:
+  - name: City of Kettering
+    url: https://www.ketteringoh.org/
+    description: Official city government
+  - name: Goodwill Easter Seals Miami Valley
+    url: https://www.gesmv.org/
+    description: Donation and recycling partner
+  - name: Kettering Health
+    url: https://www.ketteringhealth.org/
+    description: Healthcare community partner
+  - name: Habitat for Humanity of Greater Dayton
+    url: https://www.daytonhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Kettering Health District"
     zipCodes: ["45439"]

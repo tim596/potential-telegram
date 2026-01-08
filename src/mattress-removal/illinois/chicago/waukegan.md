@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 42.3636
   lng: -87.8445
+communityPartners:
+  - name: City of Waukegan
+    url: https://www.waukeganil.gov/
+    description: Official city government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: College of Lake County
+    url: https://www.clcillinois.edu/
+    description: Campus community partner
+  - name: Lake-McHenry Habitat for Humanity
+    url: https://habitatlmc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

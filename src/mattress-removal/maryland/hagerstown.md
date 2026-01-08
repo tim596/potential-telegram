@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 39.6417
   lng: -77.7200
+communityPartners:
+  - name: City of Hagerstown
+    url: https://www.hagerstownmd.org/
+    description: Official city government
+  - name: Goodwill Industries of Monocacy Valley
+    url: https://www.gimv.org/
+    description: Donation and recycling partner
+  - name: Hagerstown Community College
+    url: https://www.hagerstowncc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Washington County
+    url: https://www.habitatwcmd.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

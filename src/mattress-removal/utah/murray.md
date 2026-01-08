@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 40.6669
   lng: -111.8880
+communityPartners:
+  - name: City of Murray
+    url: https://www.murray.utah.gov/
+    description: Official city government
+  - name: Goodwill Industries of Utah
+    url: https://www.goodwillutah.org/
+    description: Donation and recycling partner
+  - name: Salt Lake Community College
+    url: https://www.slcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Salt Lake Valley
+    url: https://www.habitatsaltlake.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

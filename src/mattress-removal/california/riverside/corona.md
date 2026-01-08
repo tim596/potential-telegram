@@ -12,9 +12,22 @@ county: "Riverside"
 parentMetro: "Riverside"
 phone: "720-263-6094"
 tier: 3
-coordinates: 
+coordinates:
   lat: 33.8753
   lng: -117.5664
+communityPartners:
+  - name: City of Corona
+    url: https://www.coronaca.gov/
+    description: Official city government
+  - name: Goodwill of Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Norco College
+    url: https://www.norcocollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Riverside
+    url: https://www.habitatriverside.org/
+    description: Housing and donation partner
 
 # Service Area Coverage
 serviceAreas:

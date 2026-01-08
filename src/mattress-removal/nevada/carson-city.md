@@ -9,6 +9,19 @@ citySlug: "carson-city"
 zip: "89701"
 latitude: 39.1638
 longitude: -119.7674
+communityPartners:
+  - name: Carson City
+    url: https://www.carson.org/
+    description: Official city government
+  - name: Goodwill of the Greater East Bay
+    url: https://www.eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: Western Nevada College
+    url: https://www.wnc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Carson City
+    url: https://www.habitatcarsoncity.org/
+    description: Housing and donation partner
 tier: 2
 population: 58639
 businessLicense: "NV-CC-2025-002"

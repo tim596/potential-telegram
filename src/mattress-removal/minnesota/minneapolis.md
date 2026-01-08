@@ -5,9 +5,22 @@ city: Minneapolis
 state: Minnesota
 stateSlug: minnesota
 tier: 1
-coordinates: 
+coordinates:
   lat: 44.9778
   lng: -93.2650
+communityPartners:
+  - name: City of Minneapolis
+    url: https://www.minneapolismn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: University of Minnesota
+    url: https://www.umn.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

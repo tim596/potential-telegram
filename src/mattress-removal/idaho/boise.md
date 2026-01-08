@@ -8,6 +8,19 @@ zipCodes: ['83702', '83703', '83704', '83705', '83706', '83709', '83714', '83716
 coordinates:
   lat: 43.6150
   lng: -116.2023
+communityPartners:
+  - name: City of Boise
+    url: https://www.cityofboise.org/
+    description: Official city government
+  - name: Idaho Youth Ranch
+    url: https://www.idahoyouthranch.org/
+    description: Donation and recycling partner
+  - name: Boise State University
+    url: https://www.boisestate.edu/
+    description: Campus community partner
+  - name: Boise Valley Habitat for Humanity
+    url: https://www.boisehabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "North End"
     zipCodes: ["83702"]

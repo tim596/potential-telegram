@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 26.7153
   lng: -80.0534
+communityPartners:
+  - name: City of West Palm Beach
+    url: https://www.wpb.org/
+    description: Official city government
+  - name: Gulfstream Goodwill Industries
+    url: https://www.gulfstreamgoodwill.org/
+    description: Donation and recycling partner
+  - name: Palm Beach Atlantic University
+    url: https://www.pba.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Palm Beach County
+    url: https://www.habitatpbc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

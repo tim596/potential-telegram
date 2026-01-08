@@ -6,7 +6,19 @@ state: "Michigan"
 stateSlug: "michigan"
 tier: 2
 coordinates: { lat: 43.0125, lng: -83.6875 }
-
+communityPartners:
+  - name: City of Flint
+    url: https://www.cityofflint.com/
+    description: Official city government
+  - name: Goodwill Industries of Mid-Michigan
+    url: https://www.goodwillmidmichigan.org/
+    description: Donation and recycling partner
+  - name: University of Michigan-Flint
+    url: https://www.umflint.edu/
+    description: Campus community partner
+  - name: Genesee County Habitat for Humanity
+    url: https://www.geneseehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

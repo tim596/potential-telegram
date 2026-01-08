@@ -10,6 +10,19 @@ parentMetro: "Gulfport"
 zip: "39530"
 latitude: 30.3960
 longitude: -88.8853
+communityPartners:
+  - name: City of Biloxi
+    url: https://www.biloxi.ms.us/
+    description: Official city government
+  - name: Goodwill Industries of South Mississippi
+    url: https://www.goodwillsms.org/
+    description: Donation and recycling partner
+  - name: University of Southern Mississippi Gulf Park
+    url: https://www.usm.edu/gulf-park/
+    description: Campus community partner
+  - name: Habitat for Humanity Mississippi Gulf Coast
+    url: https://www.hfhmgc.com/
+    description: Housing and donation partner
 tier: 2
 population: 49449
 businessLicense: "MS-BLX-2025-001"

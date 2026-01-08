@@ -5,9 +5,22 @@ city: Auburn
 state: Alabama
 stateSlug: alabama
 tier: 2
-coordinates: 
+coordinates:
   lat: 32.6010
   lng: -85.4883
+communityPartners:
+  - name: City of Auburn
+    url: https://www.auburnal.gov/
+    description: Official city government
+  - name: Alabama Goodwill Industries
+    url: https://www.alabamagoodwill.org/
+    description: Donation and recycling partner
+  - name: Auburn University
+    url: https://www.auburn.edu/
+    description: Campus community partner
+  - name: Auburn Opelika Habitat for Humanity
+    url: https://www.auburnopelikahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

@@ -6,9 +6,22 @@ state: "Ohio"
 stateAbbr: "OH"
 stateSlug: "ohio"
 tier: 2
-coordinates: 
+coordinates:
   lat: 39.9242
   lng: -83.8088
+communityPartners:
+  - name: City of Springfield
+    url: https://www.springfieldohio.gov/
+    description: Official city government
+  - name: Goodwill Easter Seals Miami Valley
+    url: https://www.gesmv.org/
+    description: Donation and recycling partner
+  - name: Wittenberg University
+    url: https://www.wittenberg.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Dayton
+    url: https://www.daytonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

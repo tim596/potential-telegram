@@ -6,9 +6,22 @@ state: "New York"
 stateAbbr: "NY"
 stateSlug: "new-york"
 tier: 2
-coordinates: 
+coordinates:
   lat: 43.0481
   lng: -76.1474
+communityPartners:
+  - name: City of Syracuse
+    url: https://www.syrgov.net/
+    description: Official city government
+  - name: Goodwill Industries of Central and Northern New York
+    url: https://www.goodwillcny.org/
+    description: Donation and recycling partner
+  - name: Syracuse University
+    url: https://www.syracuse.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central New York
+    url: https://www.habitatcny.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

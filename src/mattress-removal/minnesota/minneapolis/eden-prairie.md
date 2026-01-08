@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 44.8547
   lng: -93.4708
+communityPartners:
+  - name: City of Eden Prairie
+    url: https://www.edenprairie.org/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: University of Minnesota
+    url: https://twin-cities.umn.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 zipCodes:
   - "55344"
   - "55346"

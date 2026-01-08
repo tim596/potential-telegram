@@ -6,9 +6,22 @@ state: "South Dakota"
 stateAbbr: "SD"
 stateSlug: "south-dakota"
 tier: 2
-coordinates: 
+coordinates:
   lat: 44.3114
   lng: -96.7984
+communityPartners:
+  - name: City of Brookings
+    url: https://www.cityofbrookings.org/
+    description: Official city government
+  - name: Salvation Army Brookings
+    url: https://centralusa.salvationarmy.org/brookings/
+    description: Donation and recycling partner
+  - name: South Dakota State University
+    url: https://www.sdstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Brookings
+    url: https://www.brookingshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

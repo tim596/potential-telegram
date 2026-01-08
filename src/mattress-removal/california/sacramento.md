@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 38.5816
   lng: -121.4944
+communityPartners:
+  - name: City of Sacramento
+    url: https://www.cityofsacramento.gov/
+    description: Official city government
+  - name: Goodwill Industries Sacramento Valley
+    url: https://goodwillsacto.org/
+    description: Donation and recycling partner
+  - name: California State University, Sacramento
+    url: https://www.csus.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Sacramento
+    url: https://habitatgreatersac.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,6 +9,19 @@ zipCodes: ['34741', '34744', '34746', '34747', '34758', '34759']
 coordinates:
   lat: 28.2916
   lng: -81.4077
+communityPartners:
+  - name: City of Kissimmee
+    url: https://www.kissimmee.gov/
+    description: Official city government
+  - name: Goodwill of Central Florida
+    url: https://www.goodwillcfl.org/
+    description: Donation and recycling partner
+  - name: Valencia College
+    url: https://www.valenciacollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Osceola County
+    url: https://www.habitatosceola.org/
+    description: Housing and donation partner
 parentMetro: Orlando
 neighborhoods:
   - name: "Downtown Kissimmee"

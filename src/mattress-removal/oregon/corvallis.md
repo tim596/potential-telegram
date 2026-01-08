@@ -7,6 +7,19 @@ stateSlug: oregon
 coordinates:
   lat: 44.5646
   lng: -123.2620
+communityPartners:
+  - name: City of Corvallis
+    url: https://www.corvallisoregon.gov/
+    description: Official city government
+  - name: Goodwill Industries of Lane and Douglas Counties
+    url: https://www.goodwill-oregon.org/
+    description: Donation and recycling partner
+  - name: Oregon State University
+    url: https://oregonstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Willamette West
+    url: https://habitatwillamettewest.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

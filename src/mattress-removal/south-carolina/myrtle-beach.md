@@ -7,6 +7,19 @@ stateSlug: south-carolina
 coordinates:
   lat: 33.6891
   lng: -78.8867
+communityPartners:
+  - name: City of Myrtle Beach
+    url: https://www.cityofmyrtlebeach.com/
+    description: Official city government
+  - name: Goodwill Industries of Lower South Carolina
+    url: https://www.palmettogoodwill.org/
+    description: Donation and recycling partner
+  - name: Coastal Carolina University
+    url: https://www.coastal.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Horry County
+    url: https://www.habitathorry.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

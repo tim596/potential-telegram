@@ -7,9 +7,22 @@ state: Oregon
 stateAbbr: OR
 tier: 2
 zipCodes: ['97526', '97527', '97528']
-coordinates: 
+coordinates:
   lat: 37.5539
   lng: -123.3281
+communityPartners:
+  - name: City of Grants Pass
+    url: https://www.grantspassoregon.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southern Oregon
+    url: https://sogoodwill.org/
+    description: Donation and recycling partner
+  - name: Rogue Community College
+    url: https://www.roguecc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Rogue Valley
+    url: https://habitatroguevalley.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Historic District"
     zipCodes: ["97526"]

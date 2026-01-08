@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 40.1164
   lng: -88.2434
+communityPartners:
+  - name: City of Champaign
+    url: https://www.champaignil.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Illinois
+    url: https://www.goodwillpeo.org/
+    description: Donation and recycling partner
+  - name: University of Illinois Urbana-Champaign
+    url: https://www.illinois.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Champaign County
+    url: https://www.cuhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

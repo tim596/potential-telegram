@@ -9,6 +9,19 @@ citySlug: "lincoln"
 zip: "68506"
 latitude: 40.8136
 longitude: -96.7026
+communityPartners:
+  - name: City of Lincoln
+    url: https://www.lincoln.ne.gov/
+    description: Official city government
+  - name: Goodwill Industries of Lincoln
+    url: https://www.lincolngoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Nebraska-Lincoln
+    url: https://www.unl.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lincoln
+    url: https://www.lincolnhabitat.org/
+    description: Housing and donation partner
 tier: 1
 population: 300619
 businessLicense: "NE-LIN-2025-001"

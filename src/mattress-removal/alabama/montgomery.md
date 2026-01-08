@@ -5,9 +5,22 @@ city: Montgomery
 state: Alabama
 stateSlug: alabama
 tier: 2
-coordinates: 
+coordinates:
   lat: 32.3668
   lng: -86.3000
+communityPartners:
+  - name: City of Montgomery
+    url: https://www.montgomeryal.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Alabama
+    url: https://www.algoodwill.org/
+    description: Donation and recycling partner
+  - name: Alabama State University
+    url: https://www.alasu.edu/
+    description: Campus community partner
+  - name: Montgomery Habitat for Humanity
+    url: https://www.habitatmontal.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

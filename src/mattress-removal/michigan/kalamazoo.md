@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 42.2917
   lng: -85.5872
+communityPartners:
+  - name: City of Kalamazoo
+    url: https://www.kalamazoocity.org/
+    description: Official city government
+  - name: Goodwill Industries of Southwestern Michigan
+    url: https://www.goodwillswmi.org/
+    description: Donation and recycling partner
+  - name: Western Michigan University
+    url: https://www.wmich.edu/
+    description: Campus community partner
+  - name: Kalamazoo Habitat for Humanity
+    url: https://www.kalamazoohabitat.org/
+    description: Housing and donation partner
 zipCodes:
   - "49001"
   - "49002"

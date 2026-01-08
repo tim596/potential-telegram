@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Columbus
 tier: 3
 zipCodes: ['43123', '43146']
-coordinates: 
+coordinates:
   lat: 39.8814
   lng: -83.0930
+communityPartners:
+  - name: City of Grove City
+    url: https://www.grovecityohio.gov/
+    description: Official city government
+  - name: Goodwill Columbus
+    url: https://www.goodwillcolumbus.org/
+    description: Donation and recycling partner
+  - name: South-Western City Schools
+    url: https://www.swcsd.us/
+    description: Education community partner
+  - name: Habitat for Humanity Mid-Ohio
+    url: https://www.habitatmidohio.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Historic Town Center"
     zipCodes: ["43123"]

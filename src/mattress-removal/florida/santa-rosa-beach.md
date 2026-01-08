@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 30.3877
   lng: -86.1513
+communityPartners:
+  - name: Walton County
+    url: https://www.co.walton.fl.us/
+    description: Official county government
+  - name: Goodwill Industries-Big Bend
+    url: https://www.goodwillbigbend.org/
+    description: Donation and recycling partner
+  - name: Northwest Florida State College
+    url: https://www.nwfsc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Walton County
+    url: https://www.habitatwaltoncounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

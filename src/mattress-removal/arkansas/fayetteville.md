@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 36.0822
   lng: -94.1719
+communityPartners:
+  - name: City of Fayetteville
+    url: https://www.fayetteville-ar.gov/
+    description: Official city government
+  - name: Goodwill Industries of Arkansas
+    url: https://www.goodwillar.org/
+    description: Donation and recycling partner
+  - name: University of Arkansas
+    url: https://www.uark.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Northwest Arkansas
+    url: https://habitatnwa.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -10,6 +10,19 @@ parentMetro: Providence
 coordinates:
   lat: 41.7798
   lng: -71.4370
+communityPartners:
+  - name: City of Cranston
+    url: https://www.cranstonri.org/
+    description: Official city government
+  - name: Goodwill Industries of Rhode Island
+    url: https://www.goodwillri.org/
+    description: Donation and recycling partner
+  - name: Community College of Rhode Island
+    url: https://www.ccri.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Providence
+    url: https://www.habitatprovidence.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 37.2296
   lng: -80.4139
+communityPartners:
+  - name: Town of Blacksburg
+    url: https://www.blacksburg.gov/
+    description: Official town government
+  - name: Goodwill Industries of the Valleys
+    url: https://www.goodwillvalleys.com/
+    description: Donation and recycling partner
+  - name: Virginia Tech
+    url: https://www.vt.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity New River Valley
+    url: https://www.habitatnrv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 155
   single: 155

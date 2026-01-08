@@ -10,6 +10,19 @@ tier: 2
 coordinates:
   lat: 39.6133
   lng: -86.1067
+communityPartners:
+  - name: City of Greenwood
+    url: https://www.greenwood.in.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central and Southern Indiana
+    url: https://www.goodwillindy.org/
+    description: Donation and recycling partner
+  - name: IUPUI
+    url: https://www.iupui.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Johnson County
+    url: https://www.habitatjohnsoncounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

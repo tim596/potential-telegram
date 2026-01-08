@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Dayton
 tier: 3
 zipCodes: ['45324', '45434', '45440']
-coordinates: 
+coordinates:
   lat: 39.7290
   lng: -84.0627
+communityPartners:
+  - name: City of Beavercreek
+    url: https://www.beavercreekohio.gov/
+    description: Official city government
+  - name: Goodwill Easter Seals Miami Valley
+    url: https://www.gesmv.org/
+    description: Donation and recycling partner
+  - name: Wright State University
+    url: https://www.wright.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Dayton
+    url: https://www.daytonhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Wright-Patterson AFB Area"
     zipCodes: ["45433"]

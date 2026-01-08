@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 41.5868
   lng: -87.3467
+communityPartners:
+  - name: City of Gary
+    url: https://www.gary.gov/
+    description: Official city government
+  - name: Goodwill Industries of Michiana
+    url: https://www.goodwillmichiana.org/
+    description: Donation and recycling partner
+  - name: Indiana University Northwest
+    url: https://www.iun.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Northwest Indiana
+    url: https://www.nwihabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

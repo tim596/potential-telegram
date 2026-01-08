@@ -10,6 +10,19 @@ stateCode: "CA"
 coordinates:
   lat: 36.4761
   lng: -119.4432
+communityPartners:
+  - name: County of Tulare
+    url: https://tularecounty.ca.gov/
+    description: Official county government
+  - name: Goodwill Industries of South Central California
+    url: https://www.goodwillscc.org/
+    description: Donation and recycling partner
+  - name: College of the Sequoias
+    url: https://www.cos.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Tulare County
+    url: https://www.habitattulare.org/
+    description: Housing and donation partner
 tier: 3
 pricing:
   one: 125

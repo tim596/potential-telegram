@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 38.7509
   lng: -77.4753
+communityPartners:
+  - name: City of Manassas
+    url: https://www.manassasva.gov/
+    description: Official city government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: Northern Virginia Community College
+    url: https://www.nvcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Prince William County
+    url: https://www.habitatpwc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

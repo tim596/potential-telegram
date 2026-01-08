@@ -9,9 +9,22 @@ stateAbbr: "UT"
 stateSlug: "utah"
 tier: 2
 parentMetro: "salt-lake-city"
-coordinates: 
+coordinates:
   lat: 40.5622
   lng: -111.9297
+communityPartners:
+  - name: City of South Jordan
+    url: https://www.sjc.utah.gov/
+    description: Official city government
+  - name: Deseret Industries
+    url: https://www.deseretindustries.org/
+    description: Donation and recycling partner
+  - name: Salt Lake Community College
+    url: https://www.slcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Salt Lake Valley
+    url: https://www.habitat-slc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

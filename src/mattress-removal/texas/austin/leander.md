@@ -11,6 +11,19 @@ tier: 4
 coordinates:
   lat: 30.5788
   lng: -97.8531
+communityPartners:
+  - name: City of Leander
+    url: https://www.leandertx.gov/
+    description: Official city government
+  - name: Goodwill Central Texas
+    url: https://www.goodwillcentraltexas.org/
+    description: Donation and recycling partner
+  - name: Austin Community College
+    url: https://www.austincc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Williamson County
+    url: https://www.williamsonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

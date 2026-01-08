@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 30.4518
   lng: -84.2807
+communityPartners:
+  - name: City of Tallahassee
+    url: https://www.talgov.com/
+    description: Official city government
+  - name: Goodwill Industries of the Big Bend
+    url: https://www.goodwillbigbend.org/
+    description: Donation and recycling partner
+  - name: Florida State University
+    url: https://www.fsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Big Bend
+    url: https://www.habitatbigbend.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

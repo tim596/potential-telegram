@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 45.0725
   lng: -93.4557
+communityPartners:
+  - name: City of Maple Grove
+    url: https://www.maplegrovemn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: North Hennepin Community College
+    url: https://www.nhcc.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 zipCodes:
   - "55311"
   - "55369"

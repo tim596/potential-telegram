@@ -10,6 +10,19 @@ parentMetro: Austin
 coordinates:
   lat: 30.4396
   lng: -97.6200
+communityPartners:
+  - name: City of Pflugerville
+    url: https://www.pflugervilletx.gov/
+    description: Official city government
+  - name: Goodwill Central Texas
+    url: https://www.goodwillcentraltexas.org/
+    description: Donation and recycling partner
+  - name: Austin Community College
+    url: https://www.austincc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Travis County
+    url: https://www.austinhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

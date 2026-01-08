@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Cleveland
 tier: 3
 zipCodes: ['44136', '44149']
-coordinates: 
+coordinates:
   lat: 41.3145
   lng: -81.8357
+communityPartners:
+  - name: City of Strongsville
+    url: https://www.strongsville.org/
+    description: Official city government
+  - name: Goodwill Industries of Greater Cleveland and East Central Ohio
+    url: https://www.goodwillgoodskills.org/
+    description: Donation and recycling partner
+  - name: Cuyahoga Community College
+    url: https://www.tri-c.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Cleveland
+    url: https://www.hfhcleveland.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "High Point"
     zipCodes: ["44149"]

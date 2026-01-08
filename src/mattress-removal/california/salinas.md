@@ -5,9 +5,22 @@ state: "California"
 city: "Salinas"
 stateSlug: "california"
 tier: 2
-coordinates: 
+coordinates:
   lat: 36.6777
   lng: -121.6555
+communityPartners:
+  - name: City of Salinas
+    url: https://www.salinas.gov/
+    description: Official city government
+  - name: Goodwill Central Coast
+    url: https://www.ccgoodwill.org/
+    description: Donation and recycling partner
+  - name: California State University, Monterey Bay
+    url: https://csumb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Monterey Bay
+    url: https://www.habitatmontereybay.com/
+    description: Housing and donation partner
 serviceArea: "Monterey County"
 zipCodes: ["93901", "93902", "93905", "93906", "93907", "93908"]
 phoneNumber: "720-263-6094"

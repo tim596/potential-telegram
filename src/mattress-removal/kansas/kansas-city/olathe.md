@@ -12,6 +12,19 @@ tier: 3
 coordinates:
   lat: 38.8814
   lng: -94.8191
+communityPartners:
+  - name: City of Olathe
+    url: https://www.olatheks.gov/
+    description: Official city government
+  - name: Goodwill of Western Missouri and Eastern Kansas
+    url: https://www.mokangoodwill.org/
+    description: Donation and recycling partner
+  - name: Johnson County Community College
+    url: https://www.jccc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Kansas City
+    url: https://www.habitatkc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

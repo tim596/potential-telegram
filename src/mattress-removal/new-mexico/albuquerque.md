@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 35.0844
   lng: -106.6504
+communityPartners:
+  - name: City of Albuquerque
+    url: https://www.cabq.gov/
+    description: Official city government
+  - name: Goodwill Industries of New Mexico
+    url: https://www.goodwillnm.org/
+    description: Donation and recycling partner
+  - name: University of New Mexico
+    url: https://www.unm.edu/
+    description: Campus community partner
+  - name: Greater Albuquerque Habitat for Humanity
+    url: https://www.habitatabq.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

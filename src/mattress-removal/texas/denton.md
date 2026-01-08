@@ -7,6 +7,19 @@ stateSlug: texas
 coordinates:
   lat: 33.2148
   lng: -97.1331
+communityPartners:
+  - name: City of Denton
+    url: https://www.cityofdenton.com/
+    description: Official city government
+  - name: Goodwill Industries of North Texas
+    url: https://www.goodwillnorthtexas.org/
+    description: Donation and recycling partner
+  - name: University of North Texas
+    url: https://www.unt.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Denton County
+    url: https://www.habitatdenton.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

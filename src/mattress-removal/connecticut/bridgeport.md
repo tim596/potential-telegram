@@ -3,6 +3,19 @@ layout: location.njk
 
 permalink: "/mattress-removal/connecticut/bridgeport/"
 coordinates: [41.1792, -73.1894]
+communityPartners:
+  - name: City of Bridgeport
+    url: https://www.bridgeportct.gov/
+    description: Official city government
+  - name: Goodwill of Southern New England
+    url: https://www.goodwillsne.org/
+    description: Donation and recycling partner
+  - name: University of Bridgeport
+    url: https://www.bridgeport.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Coastal Fairfield County
+    url: https://www.habitatcfc.org/
+    description: Housing and donation partner
 city: "Bridgeport"
 state: "Connecticut"
 zipCodes: ["06601", "06602", "06604", "06605", "06606", "06607", "06608", "06610"]

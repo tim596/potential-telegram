@@ -6,9 +6,22 @@ state: "South Dakota"
 stateAbbr: "SD"
 stateSlug: "south-dakota"
 tier: 1
-coordinates: 
+coordinates:
   lat: 45.4647
   lng: -98.4865
+communityPartners:
+  - name: City of Aberdeen
+    url: https://www.aberdeen.sd.us/
+    description: Official city government
+  - name: Salvation Army Aberdeen
+    url: https://centralusa.salvationarmy.org/aberdeen/
+    description: Donation and recycling partner
+  - name: Northern State University
+    url: https://www.northern.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Aberdeen
+    url: https://www.aberdeenhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

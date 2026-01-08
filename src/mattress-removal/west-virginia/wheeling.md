@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 40.0640
   lng: -80.7209
+communityPartners:
+  - name: City of Wheeling
+    url: https://www.wheelingwv.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Ohio Valley
+    url: https://www.goodwillgoodskills.org/
+    description: Donation and recycling partner
+  - name: Wheeling University
+    url: https://www.wheeling.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Northern Panhandle
+    url: https://www.habitatnpwv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

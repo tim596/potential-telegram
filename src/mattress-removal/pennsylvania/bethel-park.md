@@ -7,9 +7,22 @@ stateAbbr: "PA"
 stateSlug: "pennsylvania"
 parentMetro: "Pittsburgh"
 tier: 2
-coordinates: 
+coordinates:
   lat: 40.3273
   lng: -80.0392
+communityPartners:
+  - name: Bethel Park Municipality
+    url: https://www.bethelpark.net/
+    description: Official municipal government
+  - name: Goodwill of Southwestern Pennsylvania
+    url: https://www.goodwillswpa.org/
+    description: Donation and recycling partner
+  - name: Community College of Allegheny County
+    url: https://www.ccac.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Pittsburgh
+    url: https://www.habitatpittsburgh.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

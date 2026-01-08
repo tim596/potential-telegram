@@ -5,9 +5,22 @@ city: Baton Rouge
 state: Louisiana
 stateSlug: louisiana
 tier: 1
-coordinates: 
+coordinates:
   lat: 30.4515
   lng: -91.1871
+communityPartners:
+  - name: City of Baton Rouge
+    url: https://www.brla.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Louisiana
+    url: https://www.goodwillno.org/
+    description: Donation and recycling partner
+  - name: Louisiana State University
+    url: https://www.lsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Baton Rouge
+    url: https://www.habitatbrla.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,6 +9,19 @@ parentMetro: Seattle
 coordinates:
   lat: 47.3223
   lng: -122.3126
+communityPartners:
+  - name: City of Federal Way
+    url: https://www.cityoffederalway.com/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Highline College
+    url: https://www.highline.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King County
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington/seattle/federal-way/
 
 neighborhoods:

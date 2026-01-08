@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Lancaster
 tier: 2
 zipCodes: ['43130']
-coordinates: 
+coordinates:
   lat: 39.7137
   lng: -82.5993
+communityPartners:
+  - name: City of Lancaster
+    url: https://www.ci.lancaster.oh.us/
+    description: Official city government
+  - name: Goodwill Columbus
+    url: https://www.goodwillcolumbus.org/
+    description: Donation and recycling partner
+  - name: Ohio University Lancaster
+    url: https://www.ohio.edu/lancaster
+    description: Campus community partner
+  - name: Fairfield County Habitat for Humanity
+    url: https://www.fchfh.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Sherman House Historic District"
     zipCodes: ["43130"]

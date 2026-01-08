@@ -10,6 +10,19 @@ parentMetro: "San Diego"
 coordinates:
   lat: 33.1192
   lng: -117.0864
+communityPartners:
+  - name: City of Escondido
+    url: https://www.escondido.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: Palomar College
+    url: https://www.palomar.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

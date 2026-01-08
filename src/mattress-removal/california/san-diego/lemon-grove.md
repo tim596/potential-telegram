@@ -9,6 +9,19 @@ parentMetro: "San Diego"
 coordinates:
   lat: 32.7428
   lng: -117.0392
+communityPartners:
+  - name: City of Lemon Grove
+    url: https://www.lemongrove.ca.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: Grossmont College
+    url: https://www.grossmont.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

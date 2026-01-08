@@ -4,9 +4,22 @@ permalink: /mattress-removal/alaska/fairbanks/
 city: Fairbanks
 state: Alaska
 stateSlug: alaska
-coordinates: 
+coordinates:
   lat: 64.8378
   lng: -147.7164
+communityPartners:
+  - name: City of Fairbanks
+    url: https://www.fairbanks.gov/
+    description: Official city government
+  - name: Goodwill of Alaska
+    url: https://goodwill-alaska.org/
+    description: Donation and recycling partner
+  - name: University of Alaska Fairbanks
+    url: https://www.uaf.edu/uaf/
+    description: Campus community partner
+  - name: Habitat for Humanity Anchorage
+    url: https://www.habitatanchorage.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

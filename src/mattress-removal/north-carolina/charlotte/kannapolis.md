@@ -9,9 +9,22 @@ stateAbbr: "NC"
 stateSlug: "north-carolina"
 parentMetro: "Charlotte"
 tier: 3
-coordinates: 
+coordinates:
   lat: 35.4874
   lng: -80.6217
+communityPartners:
+  - name: City of Kannapolis
+    url: https://www.kannapolisnc.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Southern Piedmont
+    url: https://goodwillsp.org/
+    description: Donation and recycling partner
+  - name: Rowan-Cabarrus Community College
+    url: https://www.rccc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Cabarrus County
+    url: https://www.habitatcabarrus.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -10,6 +10,19 @@ parentMetro: Houston
 coordinates:
   lat: 29.5074
   lng: -95.0949
+communityPartners:
+  - name: City of League City
+    url: https://www.leaguecity.com/
+    description: Official city government
+  - name: Goodwill Industries of Houston
+    url: https://www.goodwillhouston.org/
+    description: Donation and recycling partner
+  - name: College of the Mainland
+    url: https://www.com.edu/
+    description: Campus community partner
+  - name: Bay Area Habitat for Humanity
+    url: https://www.bahfh.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

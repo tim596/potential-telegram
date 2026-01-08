@@ -11,6 +11,19 @@ tier: 4
 coordinates:
   lat: 32.9126
   lng: -96.6389
+communityPartners:
+  - name: City of Garland
+    url: https://www.garlandtx.gov/
+    description: Official city government
+  - name: Goodwill Industries of Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: Richland College
+    url: https://www.richlandcollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Dallas
+    url: https://www.dallasareahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

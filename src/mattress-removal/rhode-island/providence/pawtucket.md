@@ -9,9 +9,22 @@ stateAbbr: "RI"
 stateSlug: "rhode-island"
 parentMetro: "Providence"
 tier: 2
-coordinates: 
+coordinates:
   lat: 41.8787
   lng: -71.3826
+communityPartners:
+  - name: City of Pawtucket
+    url: https://www.pawtucketri.com/
+    description: Official city government
+  - name: Goodwill Industries of Rhode Island
+    url: https://www.goodwillri.org/
+    description: Donation and recycling partner
+  - name: Rhode Island College
+    url: https://www.ric.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Providence
+    url: https://www.habitatprovidence.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,9 +9,22 @@ stateAbbr: "NY"
 stateSlug: "new-york"
 parentMetro: "New York City"
 tier: 3
-coordinates: 
+coordinates:
   lat: 40.6643
   lng: -73.7085
+communityPartners:
+  - name: Village of Valley Stream
+    url: https://www.vsvny.org/
+    description: Official village government
+  - name: Goodwill Industries of Greater NY
+    url: https://www.goodwillny.org/
+    description: Donation and recycling partner
+  - name: Adelphi University
+    url: https://www.adelphi.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Nassau County
+    url: https://www.habitatnassau.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

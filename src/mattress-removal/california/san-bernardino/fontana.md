@@ -12,9 +12,22 @@ county: "San Bernardino"
 parentMetro: "San Bernardino"
 phone: "720-263-6094"
 tier: 3
-coordinates: 
+coordinates:
   lat: 34.0922
   lng: -117.4353
+communityPartners:
+  - name: City of Fontana
+    url: https://www.fontana.org/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Chaffey College
+    url: https://www.chaffey.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Bernardino Area
+    url: https://www.habitatsb.org/
+    description: Housing and donation partner
 
 # Service Area Coverage
 serviceAreas:

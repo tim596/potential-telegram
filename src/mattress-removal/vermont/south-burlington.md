@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 44.4669
   lng: -73.1709
+communityPartners:
+  - name: City of South Burlington
+    url: https://www.southburlingtonvt.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: Champlain College
+    url: https://www.champlain.edu/
+    description: Campus community partner
+  - name: Champlain Valley Habitat for Humanity
+    url: https://www.cvhfh.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 155
   single: 155

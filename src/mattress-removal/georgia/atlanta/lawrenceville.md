@@ -10,6 +10,19 @@ zipCodes: ['30042', '30043', '30044', '30045', '30046', '30049']
 coordinates:
   lat: 33.9562
   lng: -83.9882
+communityPartners:
+  - name: City of Lawrenceville
+    url: https://www.lawrencevillega.org/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Georgia Gwinnett College
+    url: https://www.ggc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity North Central Georgia
+    url: https://www.hfhncg.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Arlington Point"
     zipCodes: ["30043"]

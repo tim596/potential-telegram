@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 40.0417
   lng: -74.1357
+communityPartners:
+  - name: Brick Township
+    url: https://www.bricktownship.net/
+    description: Official township government
+  - name: Goodwill Industries of Southern New Jersey
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Ocean County College
+    url: https://www.ocean.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Ocean County
+    url: https://www.habitatocean.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

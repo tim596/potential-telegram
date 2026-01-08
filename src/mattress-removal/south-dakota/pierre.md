@@ -7,9 +7,22 @@ state: South Dakota
 stateAbbr: SD
 tier: 3
 zipCodes: ['57501']
-coordinates: 
+coordinates:
   lat: 44.3683
   lng: -100.3510
+communityPartners:
+  - name: City of Pierre
+    url: https://www.pierre.sd.gov/
+    description: Official city government
+  - name: Salvation Army Pierre
+    url: https://centralusa.salvationarmy.org/pierre/
+    description: Donation and recycling partner
+  - name: University of South Dakota Community Extension
+    url: https://www.usd.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Pierre
+    url: https://www.habitat.org/us-sd
+    description: Housing and donation partner
 neighborhoods:
   - name: "Capitol District"
     zipCodes: ["57501"]

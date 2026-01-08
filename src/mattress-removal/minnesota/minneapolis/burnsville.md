@@ -8,9 +8,22 @@ state: Minnesota
 stateSlug: minnesota
 parentMetro: Minneapolis
 tier: 2
-coordinates: 
+coordinates:
   lat: 44.7677
   lng: -93.2777
+communityPartners:
+  - name: City of Burnsville
+    url: https://www.burnsvillemn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: Normandale Community College
+    url: https://www.normandale.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

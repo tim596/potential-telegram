@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Cincinnati
 tier: 3
 zipCodes: ['45011', '45012', '45013', '45015', '45030', '45040']
-coordinates: 
+coordinates:
   lat: 39.3995
   lng: -84.5613
+communityPartners:
+  - name: City of Hamilton
+    url: https://www.hamilton-city.org/
+    description: Official city government
+  - name: Goodwill Industries of Southern Ohio
+    url: https://www.cincinnatigoodwill.org/
+    description: Donation and recycling partner
+  - name: Miami University Hamilton
+    url: https://www.miamioh.edu/regionals/hamilton/
+    description: Campus community partner
+  - name: Habitat for Humanity of Butler County
+    url: https://www.butlercountyhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Hamilton"
     zipCodes: ["45011"]

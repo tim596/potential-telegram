@@ -3,6 +3,19 @@ layout: location.njk
 
 permalink: "/mattress-removal/connecticut/waterbury/"
 coordinates: [41.5581, -73.0515]
+communityPartners:
+  - name: City of Waterbury
+    url: https://www.waterburyct.org/
+    description: Official city government
+  - name: Goodwill of Southern New England
+    url: https://www.goodwillsne.org/
+    description: Donation and recycling partner
+  - name: Post University
+    url: https://www.post.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Waterbury
+    url: https://www.habitatgw.org/
+    description: Housing and donation partner
 city: "Waterbury"
 state: "Connecticut"
 zipCodes: ["06701", "06702", "06703", "06704", "06705", "06706", "06708", "06710"]

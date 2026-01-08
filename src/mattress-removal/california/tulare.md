@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 36.2077
   lng: -119.3473
+communityPartners:
+  - name: City of Tulare
+    url: https://www.tulare.ca.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Joaquin Valley
+    url: https://www.goodwill-sjv.org/
+    description: Donation and recycling partner
+  - name: College of the Sequoias
+    url: https://www.cos.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Tulare/Kings Counties
+    url: https://www.hfhtkc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

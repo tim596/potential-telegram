@@ -10,6 +10,19 @@ parentMetro: Greensboro
 coordinates:
   lat: 36.0956
   lng: -79.4378
+communityPartners:
+  - name: City of Burlington
+    url: https://www.burlingtonnc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central NC
+    url: https://www.triadgoodwill.org/
+    description: Donation and recycling partner
+  - name: Elon University
+    url: https://www.elon.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Alamance County
+    url: https://www.habitatalamance.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

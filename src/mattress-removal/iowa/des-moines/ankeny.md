@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 41.7298
   lng: -93.6055
+communityPartners:
+  - name: City of Ankeny
+    url: https://www.ankenyiowa.gov/
+    description: Official city government
+  - name: Goodwill of Central Iowa
+    url: https://www.dmgoodwill.org/
+    description: Donation and recycling partner
+  - name: Des Moines Area Community College
+    url: https://www.dmacc.edu/
+    description: Campus community partner
+  - name: Greater Des Moines Habitat for Humanity
+    url: https://www.gdmhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

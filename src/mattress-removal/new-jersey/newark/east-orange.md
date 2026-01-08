@@ -10,6 +10,19 @@ parentMetro: "Newark"
 zip: "07017"
 latitude: 40.7676
 longitude: -74.2049
+communityPartners:
+  - name: City of East Orange
+    url: https://www.eastorange-nj.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Seton Hall University
+    url: https://www.shu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Essex County
+    url: https://www.habitatessex.org/
+    description: Housing and donation partner
 tier: 3
 population: 69612
 businessLicense: "NJ-EO-2025-005"

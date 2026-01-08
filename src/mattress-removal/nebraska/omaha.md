@@ -9,6 +9,19 @@ citySlug: "omaha"
 zip: "68102"
 latitude: 41.2565
 longitude: -95.9345
+communityPartners:
+  - name: City of Omaha
+    url: https://www.cityofomaha.org/
+    description: Official city government
+  - name: Goodwill Omaha
+    url: https://www.goodwillomaha.org/
+    description: Donation and recycling partner
+  - name: University of Nebraska Omaha
+    url: https://www.unomaha.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Omaha
+    url: https://www.habitatomaha.org/
+    description: Housing and donation partner
 tier: 1
 population: 486051
 businessLicense: "NE-OM-2025-001"

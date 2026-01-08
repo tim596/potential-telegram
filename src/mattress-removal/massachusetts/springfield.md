@@ -5,9 +5,22 @@ city: Springfield
 state: Massachusetts
 stateSlug: massachusetts
 tier: 2
-coordinates: 
+coordinates:
   lat: 42.1015
   lng: -72.5898
+communityPartners:
+  - name: City of Springfield
+    url: https://www.springfield-ma.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Pioneer Valley
+    url: https://www.goodwillpioneervalley.org/
+    description: Donation and recycling partner
+  - name: Western New England University
+    url: https://www.wne.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Springfield
+    url: https://www.habitatspringfield.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

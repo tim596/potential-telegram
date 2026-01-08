@@ -7,9 +7,22 @@ stateAbbr: "PA"
 stateSlug: "pennsylvania"
 parentMetro: "Philadelphia"
 tier: 2
-coordinates: 
+coordinates:
   lat: 40.1217
   lng: -75.3418
+communityPartners:
+  - name: Municipality of Norristown
+    url: https://www.norristown.org/
+    description: Official municipal government
+  - name: Goodwill Industries of the Delaware Valley
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Montgomery County Community College
+    url: https://www.mc3.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Montgomery County
+    url: https://www.habitatmontcopa.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

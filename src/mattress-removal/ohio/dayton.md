@@ -6,9 +6,22 @@ state: "Ohio"
 stateAbbr: "OH"
 stateSlug: "ohio"
 tier: 2
-coordinates: 
+coordinates:
   lat: 39.7589
   lng: -84.1916
+communityPartners:
+  - name: City of Dayton
+    url: https://www.daytonohio.gov/
+    description: Official city government
+  - name: Goodwill Easter Seals Miami Valley
+    url: https://www.gesmv.org/
+    description: Donation and recycling partner
+  - name: University of Dayton
+    url: https://www.udayton.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Dayton
+    url: https://www.daytonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

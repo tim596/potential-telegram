@@ -9,6 +9,19 @@ zipCodes: ['33701', '33702', '33703', '33704', '33705', '33710', '33711', '33712
 coordinates:
   lat: 27.7676
   lng: -82.6403
+communityPartners:
+  - name: City of St. Petersburg
+    url: https://www.stpete.org/
+    description: Official city government
+  - name: Goodwill Suncoast
+    url: https://www.goodwillsuncoast.org/
+    description: Donation and recycling partner
+  - name: Eckerd College
+    url: https://www.eckerd.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Pinellas and West Pasco Counties
+    url: https://www.habitatpwp.org/
+    description: Housing and donation partner
 parentMetro: Tampa
 neighborhoods:
   - name: "Downtown St. Petersburg"

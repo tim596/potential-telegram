@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.4419
   lng: -122.1430
+communityPartners:
+  - name: City of Palo Alto
+    url: https://www.cityofpaloalto.org/
+    description: Official city government
+  - name: Goodwill of Silicon Valley
+    url: https://goodwillsv.org/
+    description: Donation and recycling partner
+  - name: Stanford University
+    url: https://www.stanford.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater San Francisco
+    url: https://habitatgsf.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

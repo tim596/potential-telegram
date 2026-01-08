@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 41.1400
   lng: -104.8197
+communityPartners:
+  - name: City of Cheyenne
+    url: https://www.cheyennecity.org/
+    description: Official city government
+  - name: The Salvation Army Cheyenne
+    url: https://cheyenne.salvationarmy.org/
+    description: Donation and recycling partner
+  - name: Laramie County Community College
+    url: https://www.lccc.wy.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Laramie County
+    url: https://www.habitatlaramiecounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

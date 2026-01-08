@@ -7,6 +7,19 @@ stateSlug: ohio
 coordinates:
   lat: 41.0442
   lng: -83.6499
+communityPartners:
+  - name: City of Findlay
+    url: https://www.findlayohio.com/
+    description: Official city government
+  - name: Goodwill Industries of Northwest Ohio
+    url: https://www.goodwillnwohio.org/
+    description: Donation and recycling partner
+  - name: University of Findlay
+    url: https://www.findlay.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Hancock County
+    url: https://www.hfhhc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

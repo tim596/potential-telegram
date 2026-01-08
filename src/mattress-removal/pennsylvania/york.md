@@ -7,9 +7,22 @@ state: Pennsylvania
 stateAbbr: PA
 tier: 2
 zipCodes: ['17401', '17402', '17403', '17404', '17405', '17406', '17407', '17408']
-coordinates: 
+coordinates:
   lat: 39.9626
   lng: -76.7277
+communityPartners:
+  - name: City of York
+    url: https://www.yorkcity.org/
+    description: Official city government
+  - name: Goodwill Keystone Area
+    url: https://www.yourgoodwill.org/
+    description: Donation and recycling partner
+  - name: York College of Pennsylvania
+    url: https://www.ycp.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of York County
+    url: https://www.habitatyork.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown York"
     zipCodes: ["17401"]

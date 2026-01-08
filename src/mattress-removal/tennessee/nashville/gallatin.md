@@ -8,9 +8,22 @@ stateAbbr: TN
 tier: 4
 parentMetro: "Nashville"
 zipCodes: ['37066']
-coordinates: 
+coordinates:
   lat: 36.3883
   lng: -86.4466
+communityPartners:
+  - name: City of Gallatin
+    url: https://www.gallatintn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Volunteer State Community College
+    url: https://www.volstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Sumner County
+    url: https://www.sumnercountyhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Historic Downtown Square"
     zipCodes: ["37066"]

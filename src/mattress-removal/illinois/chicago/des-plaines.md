@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 42.0334
   lng: -87.8834
+communityPartners:
+  - name: City of Des Plaines
+    url: https://www.desplainesil.gov/
+    description: Official city government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: Oakton Community College
+    url: https://www.oakton.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Chicago
+    url: https://www.habitatchicago.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

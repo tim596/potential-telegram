@@ -10,6 +10,19 @@ stateCode: "CA"
 coordinates:
   lat: 39.7285
   lng: -121.8375
+communityPartners:
+  - name: City of Chico
+    url: https://chicoca.gov/
+    description: Official city government
+  - name: Goodwill Sacramento Valley & Northern Nevada
+    url: https://goodwillsacto.org/
+    description: Donation and recycling partner
+  - name: California State University, Chico
+    url: https://www.csuchico.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Butte County
+    url: https://www.buttehabitat.org/
+    description: Housing and donation partner
 tier: 3
 neighborhoods:
   - name: "Central Chico"

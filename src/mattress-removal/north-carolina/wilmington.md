@@ -7,9 +7,22 @@ state: North Carolina
 stateAbbr: NC
 tier: 2
 zipCodes: ['28401', '28403', '28405', '28409', '28411', '28412']
-coordinates: 
+coordinates:
   lat: 34.2103
   lng: -77.8868
+communityPartners:
+  - name: City of Wilmington
+    url: https://www.wilmingtonnc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Eastern NC
+    url: https://www.gienc.org/
+    description: Donation and recycling partner
+  - name: UNC Wilmington
+    url: https://www.uncw.edu/
+    description: Campus community partner
+  - name: Cape Fear Habitat for Humanity
+    url: https://capefearhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Historic District"
     zipCodes: ["28401"]

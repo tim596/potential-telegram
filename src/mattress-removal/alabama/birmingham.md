@@ -5,9 +5,22 @@ city: Birmingham
 state: Alabama
 stateSlug: alabama
 tier: 1
-coordinates: 
+coordinates:
   lat: 33.5207
   lng: -86.8025
+communityPartners:
+  - name: City of Birmingham
+    url: https://www.birminghamal.gov/
+    description: Official city government
+  - name: Alabama Goodwill Industries
+    url: https://www.alabamagoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Alabama at Birmingham
+    url: https://www.uab.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Birmingham
+    url: https://habitatbirmingham.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

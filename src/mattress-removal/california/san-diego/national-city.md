@@ -9,6 +9,19 @@ parentMetro: "San Diego"
 coordinates:
   lat: 32.6781
   lng: -117.0992
+communityPartners:
+  - name: City of National City
+    url: https://www.nationalcityca.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: Southwestern College
+    url: https://www.swccd.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

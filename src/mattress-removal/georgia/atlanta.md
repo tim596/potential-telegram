@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 33.7490
   lng: -84.3880
+communityPartners:
+  - name: City of Atlanta
+    url: https://www.atlantaga.gov/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Georgia State University
+    url: https://www.gsu.edu/
+    description: Campus community partner
+  - name: Atlanta Habitat for Humanity
+    url: https://www.atlantahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

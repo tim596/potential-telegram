@@ -7,6 +7,19 @@ zipCodes: ['31088', '31093', '31098']
 coordinates:
   lat: 32.6130
   lng: -83.5985
+communityPartners:
+  - name: City of Warner Robins
+    url: https://www.wrga.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Georgia
+    url: https://www.goodwillworks.org/
+    description: Donation and recycling partner
+  - name: Middle Georgia State University
+    url: https://www.mga.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Houston County
+    url: https://www.habitathoustoncounty.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Quail Run North"
     zipCodes: ["31088"]

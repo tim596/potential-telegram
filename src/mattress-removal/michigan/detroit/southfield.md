@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 42.4734
   lng: -83.2219
+communityPartners:
+  - name: City of Southfield
+    url: https://www.cityofsouthfield.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Lawrence Technological University
+    url: https://www.ltu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Oakland County
+    url: https://www.habitatoakland.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

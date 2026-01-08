@@ -10,6 +10,19 @@ parentMetro: "Youngstown"
 coordinates:
   lat: 41.2376
   lng: -80.8184
+communityPartners:
+  - name: City of Warren
+    url: https://www.warren.org/
+    description: Official city government
+  - name: Goodwill Industries of Mahoning Valley
+    url: https://www.goodwillmahoning.org/
+    description: Donation and recycling partner
+  - name: Kent State University Trumbull
+    url: https://www.kent.edu/trumbull
+    description: Campus community partner
+  - name: Trumbull County Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

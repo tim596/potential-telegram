@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 39.5186
   lng: -104.7619
+communityPartners:
+  - name: Town of Parker
+    url: https://www.parkeronline.org/
+    description: Official town government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Arapahoe Community College
+    url: https://www.arapahoe.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

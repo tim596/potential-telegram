@@ -7,6 +7,19 @@ stateSlug: new-york
 coordinates:
   lat: 42.4440
   lng: -76.5019
+communityPartners:
+  - name: City of Ithaca
+    url: https://www.cityofithaca.org/
+    description: Official city government
+  - name: Goodwill of the Finger Lakes
+    url: https://www.goodwillfingerlakes.org/
+    description: Donation and recycling partner
+  - name: Cornell University
+    url: https://www.cornell.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Tompkins and Cortland Counties
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

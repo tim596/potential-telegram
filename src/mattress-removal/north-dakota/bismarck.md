@@ -7,9 +7,22 @@ state: North Dakota
 stateAbbr: ND
 tier: 2
 zipCodes: ['58501', '58502', '58503', '58504', '58505', '58506', '58507']
-coordinates: 
+coordinates:
   lat: 46.8083
   lng: -100.7837
+communityPartners:
+  - name: City of Bismarck
+    url: https://www.bismarcknd.gov/
+    description: Official city government
+  - name: Easter Seals Goodwill ND
+    url: https://www.esgwnd.org/
+    description: Donation and recycling partner
+  - name: University of Mary
+    url: https://www.umary.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Missouri Slope
+    url: https://www.hfhmissourislope.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Cathedral District"
     zipCodes: ["58501"]

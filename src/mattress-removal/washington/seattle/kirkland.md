@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 47.6815
   lng: -122.2087
+communityPartners:
+  - name: City of Kirkland
+    url: https://www.kirklandwa.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Lake Washington Institute of Technology
+    url: https://www.lwtech.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King County
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

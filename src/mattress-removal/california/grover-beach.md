@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 35.1221
   lng: -120.6213
+communityPartners:
+  - name: City of Grover Beach
+    url: https://www.groverbeach.org/
+    description: Official city government
+  - name: Goodwill Central Coast
+    url: https://www.goodwillcentralcoast.org/
+    description: Donation and recycling partner
+  - name: California Polytechnic State University
+    url: https://www.calpoly.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of San Luis Obispo County
+    url: https://www.hfhsloco.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

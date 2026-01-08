@@ -7,6 +7,19 @@ stateSlug: pennsylvania
 coordinates:
   lat: 40.6084
   lng: -75.4902
+communityPartners:
+  - name: City of Allentown
+    url: https://www.allentownpa.gov/
+    description: Official city government
+  - name: Goodwill Keystone Area
+    url: https://www.yourgoodwill.org/
+    description: Donation and recycling partner
+  - name: Lehigh University
+    url: https://www.lehigh.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Lehigh Valley
+    url: https://habitatlv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

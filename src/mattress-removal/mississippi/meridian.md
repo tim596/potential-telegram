@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 32.3643
   lng: -88.7034
+communityPartners:
+  - name: City of Meridian
+    url: https://www.meridianms.org/
+    description: Official city government
+  - name: Goodwill Industries of East Mississippi
+    url: https://www.goodwillems.org/
+    description: Donation and recycling partner
+  - name: Meridian Community College
+    url: https://www.meridiancc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lauderdale County
+    url: https://www.habitatlauderdale.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

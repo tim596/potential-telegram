@@ -9,9 +9,22 @@ stateAbbr: "TN"
 stateSlug: "tennessee"
 parentMetro: "Nashville"
 tier: 2
-coordinates: 
+coordinates:
   lat: 35.9510
   lng: -86.7816
+communityPartners:
+  - name: City of Brentwood
+    url: https://www.brentwoodtn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Belmont University
+    url: https://www.belmont.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Williamson-Maury
+    url: https://www.habitatwm.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

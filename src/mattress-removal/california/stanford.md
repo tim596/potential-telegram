@@ -10,6 +10,19 @@ stateCode: "CA"
 coordinates:
   lat: 37.4419
   lng: -122.1430
+communityPartners:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+    description: University community partner
+  - name: Goodwill of Silicon Valley
+    url: https://www.goodwillsv.org/
+    description: Donation and recycling partner
+  - name: Stanford School of Sustainability
+    url: https://sustainability.stanford.edu/
+    description: Campus sustainability partner
+  - name: Habitat for Humanity Greater San Francisco
+    url: https://www.habitatgsf.org/
+    description: Housing and donation partner
 tier: 3
 neighborhoods:
   - name: "Stanford Campus Core"

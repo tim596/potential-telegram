@@ -7,6 +7,19 @@ stateSlug: north-carolina
 coordinates:
   lat: 35.9382
   lng: -77.7905
+communityPartners:
+  - name: City of Rocky Mount
+    url: https://www.rockymountnc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Eastern NC
+    url: https://www.gienc.org/
+    description: Donation and recycling partner
+  - name: North Carolina Wesleyan University
+    url: https://ncwc.edu/
+    description: Campus community partner
+  - name: Nash Rocky Mount Habitat for Humanity
+    url: https://www.habitat.org/nc/rocky-mount/nash-rocky-mount-habitat-humanity
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

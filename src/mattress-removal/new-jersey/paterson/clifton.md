@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 40.8584
   lng: -74.1638
+communityPartners:
+  - name: City of Clifton
+    url: https://www.cliftonnj.org/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Montclair State University
+    url: https://www.montclair.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Passaic County
+    url: https://www.habitatpassaic.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,6 +7,19 @@ stateSlug: tennessee
 coordinates:
   lat: 35.6145
   lng: -88.8139
+communityPartners:
+  - name: City of Jackson
+    url: https://www.jacksontn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.goodwillmidtn.org/
+    description: Donation and recycling partner
+  - name: University of Memphis Lambuth
+    url: https://www.memphis.edu/lambuth/
+    description: Campus community partner
+  - name: Habitat for Humanity Madison County
+    url: https://www.habitatmadisoncounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

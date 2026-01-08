@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 44.1004
   lng: -70.2148
+communityPartners:
+  - name: City of Lewiston
+    url: https://www.lewistonmaine.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: Bates College
+    url: https://www.bates.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Lewiston-Auburn
+    url: https://www.habitatlahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

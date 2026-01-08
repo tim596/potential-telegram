@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 25.9420
   lng: -80.2456
+communityPartners:
+  - name: City of Miami Gardens
+    url: https://www.miamigardens-fl.gov/
+    description: Official city government
+  - name: Goodwill of South Florida
+    url: https://www.goodwillsouthflorida.org/
+    description: Donation and recycling partner
+  - name: Miami Dade College
+    url: https://www.mdc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Miami
+    url: https://www.miamihabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

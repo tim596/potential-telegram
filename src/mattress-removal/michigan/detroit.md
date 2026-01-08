@@ -5,9 +5,22 @@ city: Detroit
 state: Michigan
 stateSlug: michigan
 tier: 1
-coordinates: 
+coordinates:
   lat: 42.3314
   lng: -83.0458
+communityPartners:
+  - name: City of Detroit
+    url: https://www.detroitmi.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Wayne State University
+    url: https://www.wayne.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Detroit
+    url: https://www.habitatdetroit.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

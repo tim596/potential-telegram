@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 34.5362
   lng: -117.2911
+communityPartners:
+  - name: City of Victorville
+    url: https://www.victorvilleca.gov/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Victor Valley College
+    url: https://www.vvc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Bernardino Area
+    url: https://habitatsb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

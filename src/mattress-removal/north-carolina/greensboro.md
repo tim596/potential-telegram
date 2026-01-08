@@ -6,9 +6,22 @@ state: "North Carolina"
 stateAbbr: "NC"
 stateSlug: "north-carolina"
 tier: 2
-coordinates: 
+coordinates:
   lat: 36.0726
   lng: -79.7920
+communityPartners:
+  - name: City of Greensboro
+    url: https://www.greensboro-nc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central NC
+    url: https://www.triadgoodwill.org/
+    description: Donation and recycling partner
+  - name: UNC Greensboro
+    url: https://www.uncg.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Greensboro
+    url: https://www.habitatgreensboro.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,9 +9,22 @@ stateAbbr: "VA"
 stateSlug: "virginia"
 tier: 2
 parentMetro: "norfolk"
-coordinates: 
+coordinates:
   lat: 36.8354
   lng: -76.2983
+communityPartners:
+  - name: City of Portsmouth
+    url: https://www.portsmouthva.gov/
+    description: Official city government
+  - name: Goodwill of Central and Coastal Virginia
+    url: https://www.goodwillvirginia.org/
+    description: Donation and recycling partner
+  - name: Tidewater Community College
+    url: https://www.tcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity South Hampton Roads
+    url: https://www.shrhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

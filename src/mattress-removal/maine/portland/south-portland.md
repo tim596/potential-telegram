@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 43.6414
   lng: -70.2409
+communityPartners:
+  - name: City of South Portland
+    url: https://www.southportland.org/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: Southern Maine Community College
+    url: https://www.smccme.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Portland
+    url: https://www.habitatportlandme.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

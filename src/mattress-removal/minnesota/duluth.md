@@ -5,9 +5,22 @@ city: Duluth
 state: Minnesota
 stateSlug: minnesota
 tier: 2
-coordinates: 
+coordinates:
   lat: 46.7867
   lng: -92.1005
+communityPartners:
+  - name: City of Duluth
+    url: https://www.duluthmn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: University of Minnesota Duluth
+    url: https://www.d.umn.edu/
+    description: Campus community partner
+  - name: Duluth Habitat for Humanity
+    url: https://www.duluthhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

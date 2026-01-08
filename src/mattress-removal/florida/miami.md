@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 25.7617
   lng: -80.1918
+communityPartners:
+  - name: City of Miami
+    url: https://www.miamigov.com/
+    description: Official city government
+  - name: Goodwill of South Florida
+    url: https://www.goodwillsouthflorida.org/
+    description: Donation and recycling partner
+  - name: Florida International University
+    url: https://www.fiu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Miami
+    url: https://www.miamihabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

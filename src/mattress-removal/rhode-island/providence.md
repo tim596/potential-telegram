@@ -6,9 +6,22 @@ state: "Rhode Island"
 stateAbbr: "RI"
 stateSlug: "rhode-island"
 tier: 1
-coordinates: 
+coordinates:
   lat: 41.8240
   lng: -71.4128
+communityPartners:
+  - name: City of Providence
+    url: https://www.providenceri.gov/
+    description: Official city government
+  - name: Goodwill Industries of Rhode Island
+    url: https://www.goodwillri.org/
+    description: Donation and recycling partner
+  - name: Brown University
+    url: https://www.brown.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Providence
+    url: https://www.habitatprov.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

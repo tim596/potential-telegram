@@ -9,6 +9,19 @@ parentMetro: Seattle
 coordinates:
   lat: 47.3073
   lng: -122.2284
+communityPartners:
+  - name: City of Auburn
+    url: https://www.auburnwa.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Green River College
+    url: https://www.greenriver.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King County
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington/seattle/auburn/
 
 neighborhoods:

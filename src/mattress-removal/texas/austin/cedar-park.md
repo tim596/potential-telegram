@@ -9,9 +9,22 @@ stateAbbr: "TX"
 stateSlug: "texas"
 parentMetro: "Austin"
 tier: 2
-coordinates: 
+coordinates:
   lat: 30.5052
   lng: -97.8203
+communityPartners:
+  - name: City of Cedar Park
+    url: https://www.cedarparktexas.gov/
+    description: Official city government
+  - name: Goodwill Central Texas
+    url: https://www.goodwillcentraltexas.org/
+    description: Donation and recycling partner
+  - name: Austin Community College
+    url: https://www.austincc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Williamson County
+    url: https://www.williamsonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

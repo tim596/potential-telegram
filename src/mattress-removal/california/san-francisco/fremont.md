@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.5482
   lng: -121.9886
+communityPartners:
+  - name: City of Fremont
+    url: https://www.fremont.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Greater East Bay
+    url: https://eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: Ohlone College
+    url: https://www.ohlone.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity East Bay/Silicon Valley
+    url: https://www.habitatebsv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

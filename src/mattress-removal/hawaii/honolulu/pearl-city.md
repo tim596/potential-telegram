@@ -10,6 +10,19 @@ tier: 3
 coordinates:
   lat: 21.3972
   lng: -157.9750
+communityPartners:
+  - name: City & County of Honolulu
+    url: https://www.honolulu.gov/
+    description: Official city government
+  - name: Goodwill Hawaii
+    url: https://www.higoodwill.org/
+    description: Donation and recycling partner
+  - name: Leeward Community College
+    url: https://www.leeward.hawaii.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Honolulu
+    url: https://www.habitathonolulu.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

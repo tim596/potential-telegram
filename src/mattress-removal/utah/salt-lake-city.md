@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 40.7608
   lng: -111.8910
+communityPartners:
+  - name: Salt Lake City Government
+    url: https://www.slc.gov/
+    description: Official city government
+  - name: Goodwill of Utah
+    url: https://www.gwiut.org/
+    description: Donation and recycling partner
+  - name: University of Utah
+    url: https://www.utah.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Salt Lake
+    url: https://www.habitatsaltlake.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

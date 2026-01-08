@@ -8,6 +8,19 @@ parentMetro: Washington DC
 coordinates:
   lat: 38.8462
   lng: -77.3064
+communityPartners:
+  - name: City of Fairfax
+    url: https://www.fairfaxva.gov/
+    description: Official city government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: George Mason University
+    url: https://www.gmu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northern Virginia
+    url: https://www.habitatnova.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

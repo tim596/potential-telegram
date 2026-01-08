@@ -7,9 +7,22 @@ state: Oregon
 stateAbbr: OR
 tier: 2
 zipCodes: ['97321', '97322']
-coordinates: 
+coordinates:
   lat: 44.6365
   lng: -123.1059
+communityPartners:
+  - name: City of Albany
+    url: https://www.cityofalbany.net/
+    description: Official city government
+  - name: Goodwill Industries of Lane and Douglas Counties
+    url: https://www.goodwill-oregon.org/
+    description: Donation and recycling partner
+  - name: Oregon State University
+    url: https://oregonstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Mid-Willamette Valley
+    url: https://habitatmwv.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Historic Monteith District"
     zipCodes: ["97321"]

@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 39.9783
   lng: -86.1180
+communityPartners:
+  - name: City of Carmel
+    url: https://www.carmel.in.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central and Southern Indiana
+    url: https://www.goodwillindy.org/
+    description: Donation and recycling partner
+  - name: Butler University
+    url: https://www.butler.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Hamilton County
+    url: https://www.hfhhamilton.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

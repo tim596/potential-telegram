@@ -5,9 +5,22 @@ city: Trenton
 state: New Jersey
 stateSlug: new-jersey
 tier: 2
-coordinates: 
+coordinates:
   lat: 40.2206
   lng: -74.7564
+communityPartners:
+  - name: City of Trenton
+    url: https://www.trentonnj.org/
+    description: Official city government
+  - name: Goodwill Industries of Southern New Jersey
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Thomas Edison State University
+    url: https://www.tesu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Mercer County
+    url: https://www.habitatmercer.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

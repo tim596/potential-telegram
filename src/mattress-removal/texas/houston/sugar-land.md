@@ -10,6 +10,19 @@ parentMetro: Houston
 coordinates:
   lat: 29.6196
   lng: -95.6349
+communityPartners:
+  - name: City of Sugar Land
+    url: https://www.sugarlandtx.gov/
+    description: Official city government
+  - name: Goodwill Industries of Houston
+    url: https://www.goodwillhouston.org/
+    description: Donation and recycling partner
+  - name: Houston Community College Sugar Land
+    url: https://www.hccs.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Fort Bend County
+    url: https://www.habitatfortbend.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

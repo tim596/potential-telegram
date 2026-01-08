@@ -5,9 +5,22 @@ city: Mobile
 state: Alabama
 stateSlug: alabama
 tier: 2
-coordinates: 
+coordinates:
   lat: 30.6954
   lng: -88.0399
+communityPartners:
+  - name: City of Mobile
+    url: https://www.cityofmobile.org/
+    description: Official city government
+  - name: Alabama Goodwill Industries
+    url: https://www.alabamagoodwill.org/
+    description: Donation and recycling partner
+  - name: University of South Alabama
+    url: https://www.southalabama.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Southwest Alabama
+    url: https://www.habitatswalabama.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

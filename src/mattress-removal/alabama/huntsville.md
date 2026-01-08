@@ -5,9 +5,22 @@ city: Huntsville
 state: Alabama
 stateSlug: alabama
 tier: 2
-coordinates: 
+coordinates:
   lat: 34.7304
   lng: -86.5861
+communityPartners:
+  - name: City of Huntsville
+    url: https://www.huntsvilleal.gov/
+    description: Official city government
+  - name: Alabama Goodwill Industries
+    url: https://www.alabamagoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Alabama in Huntsville
+    url: https://www.uah.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Madison County
+    url: https://www.habitatrivervalley.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

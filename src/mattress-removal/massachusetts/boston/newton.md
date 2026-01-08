@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 42.3370
   lng: -71.2092
+communityPartners:
+  - name: City of Newton
+    url: https://www.newtonma.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Boston
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: Boston College
+    url: https://www.bc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Boston
+    url: https://www.habitatboston.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

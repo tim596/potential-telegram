@@ -6,6 +6,19 @@ stateSlug: wisconsin
 coordinates:
   lat: 43.0389
   lng: -87.9065
+communityPartners:
+  - name: City of Milwaukee
+    url: https://city.milwaukee.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-Milwaukee
+    url: https://uwm.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Milwaukee
+    url: https://www.milwaukeehabitat.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/wisconsin/milwaukee/
 
 neighborhoods:

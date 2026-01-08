@@ -10,6 +10,19 @@ parentMetro: Nashville
 coordinates:
   lat: 35.9251
   lng: -86.8689
+communityPartners:
+  - name: City of Franklin
+    url: https://www.franklintn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Columbia State Community College
+    url: https://www.columbiastate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Williamson-Maury
+    url: https://www.habitatwm.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 34.1083
   lng: -117.2898
+communityPartners:
+  - name: City of San Bernardino
+    url: https://www.sanbernardino.gov/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: California State University, San Bernardino
+    url: https://www.csusb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Bernardino Area
+    url: https://habitatsb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

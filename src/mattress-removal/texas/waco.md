@@ -6,9 +6,22 @@ state: "Texas"
 stateAbbr: "TX"
 stateSlug: "texas"
 tier: 2
-coordinates: 
+coordinates:
   lat: 31.5494
   lng: -97.1467
+communityPartners:
+  - name: City of Waco
+    url: https://www.waco-texas.com/
+    description: Official city government
+  - name: Goodwill Industries of Central Texas
+    url: https://www.goodwillcentraltexas.org/
+    description: Donation and recycling partner
+  - name: Baylor University
+    url: https://www.baylor.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Waco
+    url: https://www.wacohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

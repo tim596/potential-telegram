@@ -10,6 +10,19 @@ parentMetro: Dallas
 coordinates:
   lat: 32.7555
   lng: -97.3308
+communityPartners:
+  - name: City of Fort Worth
+    url: https://www.fortworthtexas.gov/
+    description: Official city government
+  - name: Goodwill Industries of Fort Worth
+    url: https://www.goodwillnorthtexas.org/
+    description: Donation and recycling partner
+  - name: Texas Christian University
+    url: https://www.tcu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Fort Worth
+    url: https://www.fwhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,6 +7,19 @@ stateSlug: ohio
 coordinates:
   lat: 40.7584
   lng: -82.5154
+communityPartners:
+  - name: City of Mansfield
+    url: https://www.ci.mansfield.oh.us/
+    description: Official city government
+  - name: Richland County Foundation
+    url: https://www.richlandcountyfoundation.org/
+    description: Community foundation partner
+  - name: North Central State College
+    url: https://www.ncstatecollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Richland County
+    url: https://www.habitatrichland.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

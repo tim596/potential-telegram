@@ -9,6 +9,19 @@ tier: 1
 coordinates:
   lat: 29.9511
   lng: -90.0715
+communityPartners:
+  - name: City of New Orleans
+    url: https://www.nola.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Louisiana
+    url: https://www.goodwillno.org/
+    description: Donation and recycling partner
+  - name: Tulane University
+    url: https://www.tulane.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity New Orleans
+    url: https://www.habitat-nola.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

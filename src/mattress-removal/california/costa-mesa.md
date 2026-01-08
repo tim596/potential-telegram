@@ -9,6 +9,19 @@ parentMetro: Los Angeles
 coordinates:
   lat: 33.6411
   lng: -117.9187
+communityPartners:
+  - name: City of Costa Mesa
+    url: https://www.costamesaca.gov/
+    description: Official city government
+  - name: Goodwill of Orange County
+    url: https://www.ocgoodwill.org/
+    description: Donation and recycling partner
+  - name: Orange Coast College
+    url: https://orangecoastcollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Orange County
+    url: https://habitatoc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

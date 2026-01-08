@@ -6,9 +6,22 @@ state: "North Dakota"
 stateAbbr: "ND"
 stateSlug: "north-dakota"
 tier: 2
-coordinates: 
+coordinates:
   lat: 46.8772
   lng: -96.7898
+communityPartners:
+  - name: City of Fargo
+    url: https://www.fargond.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: North Dakota State University
+    url: https://www.ndsu.edu/
+    description: Campus community partner
+  - name: Lake Agassiz Habitat for Humanity
+    url: https://lakeagassizhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

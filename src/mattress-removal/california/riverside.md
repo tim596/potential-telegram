@@ -5,9 +5,22 @@ state: "California"
 city: "Riverside"
 stateSlug: "california"
 tier: 2
-coordinates: 
+coordinates:
   lat: 33.9533
   lng: -117.3962
+communityPartners:
+  - name: City of Riverside
+    url: https://riversideca.gov/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: University of California, Riverside
+    url: https://www.ucr.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Riverside
+    url: https://www.habitatriverside.org/
+    description: Housing and donation partner
 serviceArea: "Riverside County"
 zipCodes: ["92501", "92502", "92503", "92504", "92505", "92506", "92507", "92508", "92509", "92513", "92514", "92516", "92517", "92518", "92519", "92521", "92522"]
 phoneNumber: "720-263-6094"

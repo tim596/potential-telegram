@@ -6,9 +6,22 @@ state: "Oregon"
 stateAbbr: "OR"
 stateSlug: "oregon"
 tier: 2
-coordinates: 
+coordinates:
   lat: 45.5152
   lng: -122.6784
+communityPartners:
+  - name: City of Portland
+    url: https://www.portland.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia Willamette
+    url: https://meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Portland State University
+    url: https://www.pdx.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Portland Region
+    url: https://habitatportlandregion.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,9 +9,22 @@ stateAbbr: "VA"
 stateSlug: "virginia"
 tier: 2
 parentMetro: "Virginia Beach"
-coordinates: 
+coordinates:
   lat: 36.8191
   lng: -76.2749
+communityPartners:
+  - name: City of Chesapeake
+    url: https://www.cityofchesapeake.net/
+    description: Official city government
+  - name: Goodwill of Central and Coastal Virginia
+    url: https://www.goodwillvirginia.org/
+    description: Donation and recycling partner
+  - name: Tidewater Community College
+    url: https://www.tcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity South Hampton Roads
+    url: https://www.shrhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

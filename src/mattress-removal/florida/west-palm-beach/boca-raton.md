@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 26.3683
   lng: -80.1289
+communityPartners:
+  - name: City of Boca Raton
+    url: https://www.myboca.us/
+    description: Official city government
+  - name: Gulfstream Goodwill Industries
+    url: https://www.gulfstreamgoodwill.org/
+    description: Donation and recycling partner
+  - name: Florida Atlantic University
+    url: https://www.fau.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity South Palm Beach County
+    url: https://www.habitatsouthpalmbeach.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

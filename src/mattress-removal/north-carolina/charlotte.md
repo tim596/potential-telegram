@@ -7,9 +7,22 @@ state: North Carolina
 stateAbbr: NC
 tier: 1
 zipCodes: ['28202', '28203', '28204', '28205', '28206', '28207', '28208', '28209', '28210', '28211', '28212', '28213', '28214', '28215', '28216', '28217', '28218', '28219', '28220', '28221', '28222', '28223', '28224', '28226', '28227', '28228', '28229', '28230', '28231', '28232', '28233', '28234', '28235', '28236', '28237', '28244', '28246', '28247', '28250', '28253', '28254', '28256', '28258', '28260', '28262', '28263', '28265', '28266', '28269', '28270', '28273', '28274', '28277', '28278', '28280', '28282', '28284', '28285', '28287', '28288', '28289', '28290', '28296', '28297', '28299']
-coordinates: 
+coordinates:
   lat: 35.2271
   lng: -80.8431
+communityPartners:
+  - name: City of Charlotte
+    url: https://www.charlottenc.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Southern Piedmont
+    url: https://www.goodwillsp.org/
+    description: Donation and recycling partner
+  - name: UNC Charlotte
+    url: https://www.charlotte.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Charlotte Region
+    url: https://www.habitatcltregion.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Uptown"
     zipCodes: ["28202"]

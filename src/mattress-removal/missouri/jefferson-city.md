@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 38.5720
   lng: -92.1890
+communityPartners:
+  - name: City of Jefferson City
+    url: https://www.jeffersoncitymo.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Missouri
+    url: https://www.mokangoodwill.org/
+    description: Donation and recycling partner
+  - name: Lincoln University
+    url: https://www.lincolnu.edu/
+    description: Campus community partner
+  - name: River City Habitat for Humanity
+    url: https://www.rivercityhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

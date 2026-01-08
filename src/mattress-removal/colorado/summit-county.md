@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 39.6047
   lng: -106.0384
+communityPartners:
+  - name: Summit County Government
+    url: https://www.summitcountyco.gov/
+    description: Official county government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Colorado Mountain College
+    url: https://coloradomtn.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Summit County
+    url: https://www.summithabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

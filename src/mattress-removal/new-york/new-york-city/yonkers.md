@@ -7,9 +7,22 @@ state: New York
 stateAbbr: NY
 parentMetro: New York City
 zipCodes: ['10701', '10702', '10703', '10704', '10705', '10708', '10710']
-coordinates: 
+coordinates:
   lat: 40.9312
   lng: -73.8988
+communityPartners:
+  - name: City of Yonkers
+    url: https://www.yonkersny.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater NY
+    url: https://www.goodwillny.org/
+    description: Donation and recycling partner
+  - name: Sarah Lawrence College
+    url: https://www.sarahlawrence.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Westchester
+    url: https://www.habitatwc.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Getty Square"
     zipCodes: ["10701"]

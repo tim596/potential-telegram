@@ -5,9 +5,22 @@ city: Tuscaloosa
 state: Alabama
 stateSlug: alabama
 tier: 2
-coordinates: 
+coordinates:
   lat: 33.2098
   lng: -87.5692
+communityPartners:
+  - name: City of Tuscaloosa
+    url: https://www.tuscaloosa.com/
+    description: Official city government
+  - name: Alabama Goodwill Industries
+    url: https://www.alabamagoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Alabama
+    url: https://www.ua.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Tuscaloosa
+    url: https://www.habitattuscaloosa.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

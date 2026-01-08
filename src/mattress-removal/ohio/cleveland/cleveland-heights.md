@@ -10,6 +10,19 @@ parentMetro: Cleveland
 coordinates:
   lat: 41.5201
   lng: -81.5563
+communityPartners:
+  - name: City of Cleveland Heights
+    url: https://www.clevelandheights.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Cleveland and East Central Ohio
+    url: https://www.goodwillgoodskills.org/
+    description: Donation and recycling partner
+  - name: Case Western Reserve University
+    url: https://www.case.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Cleveland
+    url: https://www.hfhcleveland.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

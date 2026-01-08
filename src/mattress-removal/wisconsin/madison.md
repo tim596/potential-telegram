@@ -7,6 +7,19 @@ stateSlug: "wisconsin"
 coordinates:
   lat: 43.0731
   lng: -89.4012
+communityPartners:
+  - name: City of Madison
+    url: https://www.cityofmadison.com/
+    description: Official city government
+  - name: Goodwill Industries of South Central Wisconsin
+    url: https://www.goodwillscwi.org/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-Madison
+    url: https://www.wisc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Dane County
+    url: https://www.habitatdane.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

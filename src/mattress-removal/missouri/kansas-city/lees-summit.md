@@ -10,6 +10,19 @@ citySlug: "lees-summit"
 zip: "64063"
 latitude: 38.9108
 longitude: -94.3822
+communityPartners:
+  - name: City of Lee's Summit
+    url: https://cityofls.net/
+    description: Official city government
+  - name: Goodwill of Western Missouri & Eastern Kansas
+    url: https://www.mokangoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Missouri-Kansas City
+    url: https://www.umkc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Kansas City
+    url: https://www.habitatkc.org/
+    description: Housing and donation partner
 tier: 2
 population: 107281
 businessLicense: "MO-LS-2025-005"

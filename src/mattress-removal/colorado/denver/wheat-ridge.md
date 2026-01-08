@@ -5,6 +5,19 @@ state: Colorado
 stateSlug: colorado
 parentMetro: Denver
 coordinates: [39.766, -105.077]
+communityPartners:
+  - name: City of Wheat Ridge
+    url: https://www.ci.wheatridge.co.us/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Red Rocks Community College
+    url: https://www.rrcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 neighborhoodCount: 20
 
 zipCodes:

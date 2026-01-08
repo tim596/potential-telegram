@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 39.8680
   lng: -104.9719
+communityPartners:
+  - name: City of Thornton
+    url: https://www.thorntonco.gov/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Front Range Community College
+    url: https://www.frontrange.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

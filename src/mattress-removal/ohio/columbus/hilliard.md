@@ -9,9 +9,22 @@ stateAbbr: "OH"
 stateSlug: "ohio"
 parentMetro: "Columbus"
 tier: 3
-coordinates: 
+coordinates:
   lat: 39.9937
   lng: -83.1585
+communityPartners:
+  - name: City of Hilliard
+    url: https://www.hilliardohio.gov/
+    description: Official city government
+  - name: Goodwill Columbus
+    url: https://www.goodwillcolumbus.org/
+    description: Donation and recycling partner
+  - name: Hilliard City Schools
+    url: https://www.hilliardschools.org/
+    description: Education community partner
+  - name: Habitat for Humanity Mid-Ohio
+    url: https://www.habitatmidohio.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

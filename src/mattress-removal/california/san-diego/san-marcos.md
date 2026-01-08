@@ -9,6 +9,19 @@ parentMetro: "San Diego"
 coordinates:
   lat: 33.1434
   lng: -117.1661
+communityPartners:
+  - name: City of San Marcos
+    url: https://www.san-marcos.net/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: California State University San Marcos
+    url: https://www.csusm.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

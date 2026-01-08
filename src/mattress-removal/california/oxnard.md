@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 34.1975
   lng: -119.1771
+communityPartners:
+  - name: City of Oxnard
+    url: https://www.oxnard.gov/
+    description: Official city government
+  - name: Goodwill Industries of Ventura and Santa Barbara Counties
+    url: https://gwvsb.org/
+    description: Donation and recycling partner
+  - name: Oxnard College
+    url: https://www.oxnardcollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Ventura County
+    url: https://habitatventura.org/
+    description: Housing and donation partner
 pricing:
   - pieces: 1
     price: 125

@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 39.9778
   lng: -105.1319
+communityPartners:
+  - name: City of Louisville
+    url: https://www.louisvilleco.gov/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: University of Colorado Boulder
+    url: https://www.colorado.edu/
+    description: Campus community partner
+  - name: Flatirons Habitat for Humanity
+    url: https://www.flatironshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

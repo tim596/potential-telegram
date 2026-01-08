@@ -5,9 +5,22 @@ city: "Buffalo"
 state: "New York"
 stateAbbr: "NY"
 stateSlug: "new-york"
-coordinates: 
+coordinates:
   lat: 42.8864
   lng: -78.8784
+communityPartners:
+  - name: City of Buffalo
+    url: https://www.buffalony.gov/
+    description: Official city government
+  - name: Goodwill of Western New York
+    url: https://www.goodwillwny.org/
+    description: Donation and recycling partner
+  - name: University at Buffalo
+    url: https://www.buffalo.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Buffalo
+    url: https://www.habitatbuffalo.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

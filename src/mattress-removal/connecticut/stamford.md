@@ -4,6 +4,19 @@ city: Stamford
 state: Connecticut
 stateSlug: connecticut
 coordinates: [41.0534, -73.5387]
+communityPartners:
+  - name: City of Stamford
+    url: https://www.stamfordct.gov/
+    description: Official city government
+  - name: Goodwill of Southern New England
+    url: https://www.goodwillsne.org/
+    description: Donation and recycling partner
+  - name: University of Connecticut Stamford
+    url: https://stamford.uconn.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Coastal Fairfield County
+    url: https://www.habitatcfc.org/
+    description: Housing and donation partner
 neighborhoodCount: 18
 
 zipCodes:

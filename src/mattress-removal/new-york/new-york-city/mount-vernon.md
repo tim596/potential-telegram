@@ -9,6 +9,19 @@ stateSlug: new-york
 coordinates:
   lat: 40.9123
   lng: -73.8370
+communityPartners:
+  - name: City of Mount Vernon
+    url: https://www.cmvny.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater NY
+    url: https://www.goodwillny.org/
+    description: Donation and recycling partner
+  - name: Mercy University
+    url: https://www.mercy.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Westchester
+    url: https://www.habitatwc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

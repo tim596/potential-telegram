@@ -13,6 +13,19 @@ longitude: -71.2011
 tier: 3
 population: 30089
 businessLicense: "NH-SL-2025-003"
+communityPartners:
+  - name: Town of Salem
+    url: https://www.townofsalemnh.org/
+    description: Official town government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: Southern New Hampshire University
+    url: https://www.snhu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Nashua
+    url: https://www.nashuahabitat.org/
+    description: Housing and donation partner
 pricing:
   oneItem: 125
   twoItems: 155

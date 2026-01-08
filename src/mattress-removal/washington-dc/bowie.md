@@ -8,6 +8,19 @@ parentMetro: Washington DC
 coordinates:
   lat: 38.9426
   lng: -76.7302
+communityPartners:
+  - name: City of Bowie
+    url: https://www.cityofbowie.org/
+    description: Official city government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: Bowie State University
+    url: https://www.bowiestate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Maryland
+    url: https://www.habitatmm.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

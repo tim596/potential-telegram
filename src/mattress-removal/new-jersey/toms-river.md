@@ -9,6 +9,19 @@ citySlug: "toms-river"
 zip: "08753"
 latitude: 39.9537
 longitude: -74.1979
+communityPartners:
+  - name: Toms River Township
+    url: https://www.tomsrivertownship.com/
+    description: Official township government
+  - name: Goodwill Industries of Southern New Jersey
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Ocean County College
+    url: https://www.ocean.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Ocean County
+    url: https://www.habitatocean.org/
+    description: Housing and donation partner
 tier: 2
 population: 95438
 businessLicense: "NJ-TR-2025-008"

@@ -4,6 +4,19 @@ city: Newark
 state: Delaware
 stateSlug: delaware
 coordinates: [39.6837, -75.7497]
+communityPartners:
+  - name: City of Newark
+    url: https://www.newarkde.gov/
+    description: Official city government
+  - name: Goodwill Delaware & Delaware County
+    url: https://www.goodwillde.org/
+    description: Donation and recycling partner
+  - name: University of Delaware
+    url: https://www.udel.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of New Castle County
+    url: https://www.habitatncc.org/
+    description: Housing and donation partner
 neighborhoodCount: 12
 
 zipCodes:

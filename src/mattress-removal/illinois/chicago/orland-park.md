@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 41.6031
   lng: -87.8539
+communityPartners:
+  - name: Village of Orland Park
+    url: https://www.orlandpark.org/
+    description: Official village government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: Moraine Valley Community College
+    url: https://www.morainevalley.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Chicago
+    url: https://www.habitatchicago.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

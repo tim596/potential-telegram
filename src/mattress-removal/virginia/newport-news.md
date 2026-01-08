@@ -6,9 +6,22 @@ state: "Virginia"
 stateAbbr: "VA"
 stateSlug: "virginia"
 tier: 2
-coordinates: 
+coordinates:
   lat: 37.0871
   lng: -76.4730
+communityPartners:
+  - name: City of Newport News
+    url: https://www.nnva.gov/
+    description: Official city government
+  - name: Goodwill of Central and Coastal Virginia
+    url: https://www.goodwillvirginia.org/
+    description: Donation and recycling partner
+  - name: Christopher Newport University
+    url: https://www.cnu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Peninsula and Greater Williamsburg
+    url: https://www.habitatpgw.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

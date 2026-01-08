@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 36.0395
   lng: -114.9817
+communityPartners:
+  - name: City of Henderson
+    url: https://www.cityofhenderson.com/
+    description: Official city government
+  - name: Goodwill of Southern Nevada
+    url: https://www.goodwillsn.org/
+    description: Donation and recycling partner
+  - name: Nevada State University
+    url: https://nsc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Las Vegas
+    url: https://www.habitatlasvegas.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

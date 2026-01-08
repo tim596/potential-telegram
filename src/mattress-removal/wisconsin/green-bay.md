@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 44.5133
   lng: -88.0133
+communityPartners:
+  - name: City of Green Bay
+    url: https://www.greenbaywi.gov/
+    description: Official city government
+  - name: Goodwill Industries of North Central Wisconsin
+    url: https://www.goodwillncw.org/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-Green Bay
+    url: https://www.uwgb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Fox Cities
+    url: https://www.foxcitieshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

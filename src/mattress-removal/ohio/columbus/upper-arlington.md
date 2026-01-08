@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Columbus
 tier: 3
 zipCodes: ['43220', '43221']
-coordinates: 
+coordinates:
   lat: 39.9912
   lng: -83.0618
+communityPartners:
+  - name: City of Upper Arlington
+    url: https://www.upperarlingtonoh.gov/
+    description: Official city government
+  - name: Goodwill Columbus
+    url: https://www.goodwillcolumbus.org/
+    description: Donation and recycling partner
+  - name: Ohio State University
+    url: https://www.osu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mid-Ohio
+    url: https://www.habitatmidohio.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Old Arlington Historic District"
     zipCodes: ["43221"]

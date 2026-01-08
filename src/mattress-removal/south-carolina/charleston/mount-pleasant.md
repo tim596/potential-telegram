@@ -8,9 +8,22 @@ stateAbbr: SC
 tier: 4
 parentMetro: "Charleston"
 zipCodes: ['29464', '29466', '29429', '29492']
-coordinates: 
+coordinates:
   lat: 32.8323
   lng: -79.8284
+communityPartners:
+  - name: Town of Mount Pleasant
+    url: https://www.tompsc.com/
+    description: Official town government
+  - name: Goodwill Industries of Lower South Carolina
+    url: https://www.palmettogoodwill.org/
+    description: Donation and recycling partner
+  - name: College of Charleston
+    url: https://www.cofc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Charleston Tri-County Area
+    url: https://www.habitatchas.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Old Village"
     zipCodes: ["29464"]

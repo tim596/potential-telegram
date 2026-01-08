@@ -8,9 +8,22 @@ stateAbbr: SC
 tier: 4
 parentMetro: "Greenville"
 zipCodes: ['29650', '29651']
-coordinates: 
+coordinates:
   lat: 34.9437
   lng: -82.2270
+communityPartners:
+  - name: City of Greer
+    url: https://www.cityofgreer.org/
+    description: Official city government
+  - name: Goodwill Industries of Upstate/Midlands South Carolina
+    url: https://www.goodwillsc.org/
+    description: Donation and recycling partner
+  - name: Furman University
+    url: https://www.furman.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greenville County
+    url: https://habitatgreenville.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Sugar Creek"
     zipCodes: ["29650"]

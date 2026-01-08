@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 28.9005
   lng: -81.2637
+communityPartners:
+  - name: City of Deltona
+    url: https://www.deltonafl.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Florida
+    url: https://www.goodwillcfl.org/
+    description: Donation and recycling partner
+  - name: Daytona State College
+    url: https://www.daytonastate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of West Volusia County
+    url: https://www.habitat-wvc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

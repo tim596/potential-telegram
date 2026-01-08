@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 38.9897
   lng: -76.9378
+communityPartners:
+  - name: City of College Park
+    url: https://www.collegeparkmd.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Maryland
+    url: https://www.umd.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Maryland
+    url: https://www.habitatmm.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

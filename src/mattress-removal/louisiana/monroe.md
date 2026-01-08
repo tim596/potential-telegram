@@ -5,9 +5,22 @@ city: Monroe
 state: Louisiana
 stateSlug: louisiana
 tier: 1
-coordinates: 
+coordinates:
   lat: 32.5093
   lng: -92.1193
+communityPartners:
+  - name: City of Monroe
+    url: https://www.monroela.us/
+    description: Official city government
+  - name: Goodwill Industries of North Louisiana
+    url: https://www.goodwillnla.org/
+    description: Donation and recycling partner
+  - name: University of Louisiana Monroe
+    url: https://www.ulm.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Ouachita
+    url: https://www.habitatouachita.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

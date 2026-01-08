@@ -7,6 +7,19 @@ stateSlug: south-carolina
 coordinates:
   lat: 34.9495
   lng: -81.9320
+communityPartners:
+  - name: City of Spartanburg
+    url: https://www.cityofspartanburg.org/
+    description: Official city government
+  - name: Goodwill Industries of Upstate/Midlands SC
+    url: https://www.goodwillsc.org/
+    description: Donation and recycling partner
+  - name: Wofford College
+    url: https://www.wofford.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Spartanburg
+    url: https://www.habitat.org/sc/spartanburg/habitat-humanity-spartanburg
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

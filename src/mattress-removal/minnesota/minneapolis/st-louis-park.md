@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 44.9483
   lng: -93.3483
+communityPartners:
+  - name: City of St. Louis Park
+    url: https://www.stlouispark.org/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: University of St. Thomas
+    url: https://www.stthomas.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 zipCodes:
   - "55426"
   - "55416"

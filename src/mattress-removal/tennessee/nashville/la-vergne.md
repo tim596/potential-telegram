@@ -10,6 +10,19 @@ parentMetro: Nashville
 coordinates:
   lat: 36.0156
   lng: -86.5397
+communityPartners:
+  - name: City of La Vergne
+    url: https://www.lavergnetn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Middle Tennessee State University
+    url: https://www.mtsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Rutherford County
+    url: https://www.habitatrutherford.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

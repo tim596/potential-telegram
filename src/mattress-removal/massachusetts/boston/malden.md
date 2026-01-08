@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 42.4251
   lng: -71.0662
+communityPartners:
+  - name: City of Malden
+    url: https://www.cityofmalden.org/
+    description: Official city government
+  - name: Goodwill Industries of Greater Boston
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: Bunker Hill Community College
+    url: https://www.bhcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Boston
+    url: https://www.habitatboston.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

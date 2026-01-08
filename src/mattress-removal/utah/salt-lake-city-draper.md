@@ -8,6 +8,19 @@ parentMetro: Salt Lake City
 coordinates:
   lat: 40.5246
   lng: -111.8638
+communityPartners:
+  - name: City of Draper
+    url: https://www.draper.ut.us/
+    description: Official city government
+  - name: Goodwill Industries of Utah
+    url: https://www.goodwillutah.org/
+    description: Donation and recycling partner
+  - name: Salt Lake Community College
+    url: https://www.slcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Salt Lake Valley
+    url: https://www.habitatsaltlake.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

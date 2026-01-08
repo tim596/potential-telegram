@@ -9,9 +9,22 @@ stateAbbr: "OH"
 stateSlug: "ohio"
 parentMetro: "Cleveland"
 tier: 3
-coordinates: 
+coordinates:
   lat: 41.5931
   lng: -81.5265
+communityPartners:
+  - name: City of Euclid
+    url: https://www.cityofeuclid.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater Cleveland and East Central Ohio
+    url: https://www.goodwillgoodskills.org/
+    description: Donation and recycling partner
+  - name: Cuyahoga Community College
+    url: https://www.tri-c.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Cleveland
+    url: https://www.hfhcleveland.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

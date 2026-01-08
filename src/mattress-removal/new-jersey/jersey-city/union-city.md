@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 40.7696
   lng: -74.0263
+communityPartners:
+  - name: City of Union City
+    url: https://www.ucnj.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Hudson County Community College
+    url: https://www.hccc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Hudson County
+    url: https://www.habitathudsoncounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

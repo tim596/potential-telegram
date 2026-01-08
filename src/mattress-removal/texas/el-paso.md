@@ -6,9 +6,22 @@ state: "Texas"
 stateAbbr: "TX"
 stateSlug: "texas"
 tier: 1
-coordinates: 
+coordinates:
   lat: 31.7619
   lng: -106.4850
+communityPartners:
+  - name: City of El Paso
+    url: https://www.elpasotexas.gov/
+    description: Official city government
+  - name: Goodwill Industries of El Paso
+    url: https://www.goodwillelpaso.org/
+    description: Donation and recycling partner
+  - name: University of Texas at El Paso
+    url: https://www.utep.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of El Paso
+    url: https://www.habitatelpaso.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

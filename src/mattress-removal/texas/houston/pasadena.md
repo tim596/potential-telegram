@@ -11,6 +11,19 @@ tier: 4
 coordinates:
   lat: 29.6911
   lng: -95.2091
+communityPartners:
+  - name: City of Pasadena
+    url: https://www.pasadenatx.gov/
+    description: Official city government
+  - name: Goodwill Industries of Houston
+    url: https://www.goodwillhouston.org/
+    description: Donation and recycling partner
+  - name: San Jacinto College
+    url: https://www.sanjac.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Southeast Texas
+    url: https://www.habitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

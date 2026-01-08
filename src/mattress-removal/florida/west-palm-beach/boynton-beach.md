@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 26.5253
   lng: -80.0931
+communityPartners:
+  - name: City of Boynton Beach
+    url: https://www.boynton-beach.org/
+    description: Official city government
+  - name: Gulfstream Goodwill Industries
+    url: https://www.gulfstreamgoodwill.org/
+    description: Donation and recycling partner
+  - name: Palm Beach State College
+    url: https://www.palmbeachstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity South Palm Beach County
+    url: https://www.habitatsouthpalmbeach.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

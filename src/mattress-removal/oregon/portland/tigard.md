@@ -9,9 +9,22 @@ stateAbbr: "OR"
 stateSlug: "oregon"
 parentMetro: "Portland"
 tier: 3
-coordinates: 
+coordinates:
   lat: 45.4312
   lng: -122.7715
+communityPartners:
+  - name: City of Tigard
+    url: https://www.tigard-or.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Portland Community College
+    url: https://www.pcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Portland Region
+    url: https://habitatportlandregion.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

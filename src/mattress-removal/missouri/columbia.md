@@ -9,6 +9,19 @@ citySlug: "columbia"
 zip: "65201"
 latitude: 38.9517
 longitude: -92.3341
+communityPartners:
+  - name: City of Columbia
+    url: https://www.como.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Missouri
+    url: https://www.mokangoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Missouri
+    url: https://www.missouri.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Boone County
+    url: https://www.boonehabitat.org/
+    description: Housing and donation partner
 tier: 2
 population: 130900
 businessLicense: "MO-CO-2025-012"

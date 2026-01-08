@@ -17,6 +17,19 @@ pricing:
 coordinates:
   lat: 42.3242
   lng: -83.4002
+communityPartners:
+  - name: City of Westland
+    url: https://www.cityofwestland.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Schoolcraft College
+    url: https://www.schoolcraft.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Detroit
+    url: https://www.habitatdetroit.org/
+    description: Housing and donation partner
 serviceArea:
   counties: ["Wayne County"]
 zipCodes: 

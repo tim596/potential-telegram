@@ -8,9 +8,22 @@ state: Massachusetts
 stateSlug: massachusetts
 parentMetro: Boston
 tier: 3
-coordinates: 
+coordinates:
   lat: 42.3876
   lng: -71.0995
+communityPartners:
+  - name: City of Somerville
+    url: https://www.somervillema.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Boston
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: Tufts University
+    url: https://www.tufts.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Boston
+    url: https://www.habitatboston.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

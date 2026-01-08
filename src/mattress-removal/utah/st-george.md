@@ -7,6 +7,19 @@ stateSlug: utah
 coordinates:
   lat: 37.0965
   lng: -113.5684
+communityPartners:
+  - name: City of St. George
+    url: https://www.sgcity.org/
+    description: Official city government
+  - name: Goodwill Industries of Southern Utah
+    url: https://www.goodwillutah.org/
+    description: Donation and recycling partner
+  - name: Utah Tech University
+    url: https://www.utahtech.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Southwest Utah
+    url: https://www.habitatswu.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

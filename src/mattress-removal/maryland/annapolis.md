@@ -5,9 +5,22 @@ city: Annapolis
 state: Maryland
 stateSlug: maryland
 tier: 2
-coordinates: 
+coordinates:
   lat: 38.9784
   lng: -76.4951
+communityPartners:
+  - name: City of Annapolis
+    url: https://www.annapolis.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Chesapeake
+    url: https://www.goodwillches.org/
+    description: Donation and recycling partner
+  - name: St. John's College
+    url: https://www.sjc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Chesapeake
+    url: https://www.habitatchesapeake.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

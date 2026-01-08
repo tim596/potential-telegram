@@ -10,6 +10,19 @@ zipCodes: ['30075', '30076', '30077']
 coordinates:
   lat: 34.0232
   lng: -84.3616
+communityPartners:
+  - name: City of Roswell
+    url: https://www.roswellgov.com/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Georgia State University
+    url: https://www.gsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity North Central Georgia
+    url: https://www.hfhncg.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Historic District"
     zipCodes: ["30075"]

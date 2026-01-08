@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 42.6584
   lng: -83.1497
+communityPartners:
+  - name: City of Rochester Hills
+    url: https://www.rochesterhills.org/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Oakland University
+    url: https://www.oakland.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Oakland County
+    url: https://www.habitatoakland.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

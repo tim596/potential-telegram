@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 25.8576
   lng: -80.2781
+communityPartners:
+  - name: City of Hialeah
+    url: https://www.hialeahfl.gov/
+    description: Official city government
+  - name: Goodwill of South Florida
+    url: https://www.goodwillsouthflorida.org/
+    description: Donation and recycling partner
+  - name: Miami Dade College
+    url: https://www.mdc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Miami
+    url: https://www.miamihabitat.org/
+    description: Housing and donation partner
 serviceAreas:
   - name: "Hialeah Gardens"
     zipCode: "33016"

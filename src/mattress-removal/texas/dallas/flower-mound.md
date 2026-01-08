@@ -11,6 +11,19 @@ tier: 4
 coordinates:
   lat: 33.0143
   lng: -97.0969
+communityPartners:
+  - name: Town of Flower Mound
+    url: https://www.flower-mound.com/
+    description: Official city government
+  - name: Goodwill Industries of Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: University of North Texas
+    url: https://www.unt.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Denton County
+    url: https://www.habitatdenton.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

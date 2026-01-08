@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 47.4941
   lng: -111.2833
+communityPartners:
+  - name: City of Great Falls
+    url: https://www.greatfallsmt.net/
+    description: Official city government
+  - name: Salvation Army Great Falls
+    url: https://centralusa.salvationarmy.org/greatfalls/
+    description: Donation and recycling partner
+  - name: University of Providence
+    url: https://www.uprovidence.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Great Falls
+    url: https://www.habitatgreatfalls.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

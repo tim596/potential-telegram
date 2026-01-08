@@ -10,6 +10,19 @@ zipCodes: ['96825']
 coordinates:
   lat: 21.2777
   lng: -157.7181
+communityPartners:
+  - name: City & County of Honolulu
+    url: https://www.honolulu.gov/
+    description: Official city government
+  - name: Goodwill Hawaii
+    url: https://www.higoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Hawaii at Manoa
+    url: https://manoa.hawaii.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Honolulu
+    url: https://www.habitathonolulu.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Hawaii Kai"
     zipCodes: ["96825"]

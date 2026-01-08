@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 26.6406
   lng: -81.8723
+communityPartners:
+  - name: City of Fort Myers
+    url: https://www.cityftmyers.com/
+    description: Official city government
+  - name: Goodwill of Southwest Florida
+    url: https://www.goodwillswfl.org/
+    description: Donation and recycling partner
+  - name: Florida Gulf Coast University
+    url: https://www.fgcu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lee and Hendry Counties
+    url: https://www.habitat4humanity.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

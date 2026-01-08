@@ -9,6 +9,19 @@ tier: 1
 coordinates:
   lat: 40.6936
   lng: -89.5890
+communityPartners:
+  - name: City of Peoria
+    url: https://www.peoriagov.org/
+    description: Official city government
+  - name: Goodwill Industries of Central Illinois
+    url: https://www.goodwillpeo.org/
+    description: Donation and recycling partner
+  - name: Bradley University
+    url: https://www.bradley.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Peoria Area
+    url: https://habitatpeoria.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

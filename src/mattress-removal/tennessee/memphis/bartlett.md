@@ -9,9 +9,22 @@ stateAbbr: "TN"
 stateSlug: "tennessee"
 parentMetro: "Memphis"
 tier: 2
-coordinates: 
+coordinates:
   lat: 35.2045
   lng: -89.8740
+communityPartners:
+  - name: City of Bartlett
+    url: https://www.cityofbartlett.org/
+    description: Official city government
+  - name: Goodwill Industries of the Mid-South
+    url: https://www.goodwillmidsouth.org/
+    description: Donation and recycling partner
+  - name: University of Memphis
+    url: https://www.memphis.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Memphis
+    url: https://www.memphishabitat.com/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

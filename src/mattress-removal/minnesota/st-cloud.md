@@ -5,9 +5,22 @@ city: St. Cloud
 state: Minnesota
 stateSlug: minnesota
 tier: 2
-coordinates: 
+coordinates:
   lat: 45.5608
   lng: -94.1622
+communityPartners:
+  - name: City of St. Cloud
+    url: https://www.ci.stcloud.mn.us/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: St. Cloud State University
+    url: https://www.stcloudstate.edu/
+    description: Campus community partner
+  - name: Central Minnesota Habitat for Humanity
+    url: https://www.cmnhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

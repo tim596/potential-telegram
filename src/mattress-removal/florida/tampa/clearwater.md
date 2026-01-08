@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 27.9659
   lng: -82.8001
+communityPartners:
+  - name: City of Clearwater
+    url: https://www.myclearwater.com/
+    description: Official city government
+  - name: Goodwill Suncoast
+    url: https://www.goodwillsuncoast.org/
+    description: Donation and recycling partner
+  - name: St. Petersburg College
+    url: https://www.spcollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Pinellas and West Pasco Counties
+    url: https://www.habitatpwp.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

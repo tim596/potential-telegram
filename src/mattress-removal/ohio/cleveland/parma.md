@@ -10,6 +10,19 @@ parentMetro: Cleveland
 coordinates:
   lat: 41.4048
   lng: -81.7229
+communityPartners:
+  - name: City of Parma
+    url: https://www.cityofparma-oh.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Cleveland and East Central Ohio
+    url: https://www.goodwillgoodskills.org/
+    description: Donation and recycling partner
+  - name: Cuyahoga Community College
+    url: https://www.tri-c.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Cleveland
+    url: https://www.hfhcleveland.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

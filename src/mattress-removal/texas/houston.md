@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 29.7604
   lng: -95.3698
+communityPartners:
+  - name: City of Houston
+    url: https://www.houstontx.gov/
+    description: Official city government
+  - name: Goodwill Houston
+    url: https://www.goodwillhouston.org/
+    description: Donation and recycling partner
+  - name: University of Houston
+    url: https://www.uh.edu/
+    description: Campus community partner
+  - name: Houston Habitat for Humanity
+    url: https://www.houstonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

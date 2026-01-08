@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 30.2241
   lng: -92.0198
+communityPartners:
+  - name: City of Lafayette
+    url: https://www.lafayettela.gov/
+    description: Official city government
+  - name: Goodwill Industries of Acadiana
+    url: https://www.goodwillacadiana.org/
+    description: Donation and recycling partner
+  - name: University of Louisiana at Lafayette
+    url: https://www.louisiana.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Acadiana
+    url: https://www.habitat4humanity.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

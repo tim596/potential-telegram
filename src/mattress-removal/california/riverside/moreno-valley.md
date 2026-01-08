@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 33.9425
   lng: -117.2297
+communityPartners:
+  - name: City of Moreno Valley
+    url: https://www.moval.org/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Moreno Valley College
+    url: https://mvc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Riverside
+    url: https://www.habitatriverside.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

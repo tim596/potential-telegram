@@ -5,9 +5,22 @@ city: Passaic
 state: New Jersey
 stateSlug: new-jersey
 tier: 3
-coordinates: 
+coordinates:
   lat: 40.8568
   lng: -74.1284
+communityPartners:
+  - name: City of Passaic
+    url: https://www.cityofpassaic.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Passaic County Community College
+    url: https://www.pccc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Passaic County
+    url: https://www.habitatpassaic.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

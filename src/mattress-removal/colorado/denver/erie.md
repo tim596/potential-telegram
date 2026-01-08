@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 40.0504
   lng: -105.0499
+communityPartners:
+  - name: Town of Erie
+    url: https://www.erieco.gov/
+    description: Official town government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Front Range Community College
+    url: https://www.frontrange.edu/
+    description: Campus community partner
+  - name: Flatirons Habitat for Humanity
+    url: https://www.flatironshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

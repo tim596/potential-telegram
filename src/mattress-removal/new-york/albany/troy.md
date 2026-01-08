@@ -9,9 +9,22 @@ stateAbbr: "NY"
 stateSlug: "new-york"
 parentMetro: "Albany"
 tier: 3
-coordinates: 
+coordinates:
   lat: 42.7284
   lng: -73.6918
+communityPartners:
+  - name: City of Troy
+    url: https://www.troyny.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Greater Capital Region
+    url: https://www.goodwillcr.org/
+    description: Donation and recycling partner
+  - name: Rensselaer Polytechnic Institute
+    url: https://www.rpi.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Capital District
+    url: https://www.cdhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

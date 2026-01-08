@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 44.0247
   lng: -88.5426
+communityPartners:
+  - name: City of Oshkosh
+    url: https://www.ci.oshkosh.wi.us/
+    description: Official city government
+  - name: Goodwill North Central Wisconsin
+    url: https://www.goodwillncw.org/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-Oshkosh
+    url: https://www.uwosh.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Oshkosh
+    url: https://www.habitatoshkosh.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

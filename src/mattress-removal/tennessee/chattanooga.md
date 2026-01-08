@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 35.0456
   lng: -85.3097
+communityPartners:
+  - name: City of Chattanooga
+    url: https://www.chattanooga.gov/
+    description: Official city government
+  - name: Goodwill Industries of Chattanooga
+    url: https://www.goodwillchatt.org/
+    description: Donation and recycling partner
+  - name: University of Tennessee at Chattanooga
+    url: https://www.utc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Chattanooga
+    url: https://www.habichatt.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

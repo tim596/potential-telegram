@@ -10,6 +10,19 @@ parentMetro: Tacoma
 coordinates:
   lat: 47.1718
   lng: -122.5182
+communityPartners:
+  - name: City of Lakewood
+    url: https://cityoflakewood.us/
+    description: Official city government
+  - name: Goodwill of the Olympics and Rainier Region
+    url: https://www.goodwillwa.org/
+    description: Donation and recycling partner
+  - name: Pierce College
+    url: https://www.pierce.ctc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Pierce County
+    url: https://www.habitatpc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

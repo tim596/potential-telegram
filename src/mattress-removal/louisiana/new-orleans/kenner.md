@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 29.9966
   lng: -90.2417
+communityPartners:
+  - name: City of Kenner
+    url: https://www.kenner.la.us/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Louisiana
+    url: https://www.goodwillno.org/
+    description: Donation and recycling partner
+  - name: Delgado Community College
+    url: https://www.dcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity New Orleans
+    url: https://www.habitat-nola.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

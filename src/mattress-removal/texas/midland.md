@@ -6,9 +6,22 @@ state: "Texas"
 stateAbbr: "TX"
 stateSlug: "texas"
 tier: 2
-coordinates: 
+coordinates:
   lat: 31.9973
   lng: -102.0779
+communityPartners:
+  - name: City of Midland
+    url: https://www.midlandtexas.gov/
+    description: Official city government
+  - name: Goodwill Industries of West Texas
+    url: https://www.goodwillwesttexas.org/
+    description: Donation and recycling partner
+  - name: Midland College
+    url: https://www.midland.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Permian Basin
+    url: https://www.habitatpb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,6 +7,19 @@ stateSlug: wisconsin
 coordinates:
   lat: 44.2619
   lng: -88.4154
+communityPartners:
+  - name: City of Appleton
+    url: https://www.appleton.org/
+    description: Official city government
+  - name: Goodwill North Central Wisconsin
+    url: https://www.goodwillncw.org/
+    description: Donation and recycling partner
+  - name: Lawrence University
+    url: https://www.lawrence.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Fox Cities
+    url: https://www.habitatfoxcities.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

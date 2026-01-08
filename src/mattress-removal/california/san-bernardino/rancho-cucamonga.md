@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 34.1064
   lng: -117.5931
+communityPartners:
+  - name: City of Rancho Cucamonga
+    url: https://www.cityofrc.us/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Chaffey College
+    url: https://www.chaffey.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Bernardino Area
+    url: https://www.habitatsb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

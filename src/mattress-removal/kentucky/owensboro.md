@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 37.7719
   lng: -87.1111
+communityPartners:
+  - name: City of Owensboro
+    url: https://www.owensboro.org/
+    description: Official city government
+  - name: Goodwill Industries of Kentucky
+    url: https://www.goodwillky.org/
+    description: Donation and recycling partner
+  - name: Brescia University
+    url: https://www.brescia.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Owensboro-Daviess County
+    url: https://www.owensborohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

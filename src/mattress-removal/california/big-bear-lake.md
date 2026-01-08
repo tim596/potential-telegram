@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 34.2439
   lng: -116.9114
+communityPartners:
+  - name: City of Big Bear Lake
+    url: https://www.citybigbearlake.com/
+    description: Official city government
+  - name: Goodwill of Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: San Bernardino Valley College
+    url: https://www.valleycollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Bernardino Area
+    url: https://www.habitatsb.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

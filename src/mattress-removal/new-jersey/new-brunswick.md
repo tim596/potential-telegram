@@ -5,9 +5,22 @@ city: New Brunswick
 state: New Jersey
 stateSlug: new-jersey
 tier: 2
-coordinates: 
+coordinates:
   lat: 40.4862
   lng: -74.4518
+communityPartners:
+  - name: City of New Brunswick
+    url: https://www.thecityofnewbrunswick.org/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Rutgers University-New Brunswick
+    url: https://www.rutgers.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Middlesex County
+    url: https://www.habitatmiddlesex.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

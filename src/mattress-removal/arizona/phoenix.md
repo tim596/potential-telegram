@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 33.4484
   lng: -112.0740
+communityPartners:
+  - name: City of Phoenix
+    url: https://www.phoenix.gov/
+    description: Official city government
+  - name: Goodwill of Central and Northern Arizona
+    url: https://www.goodwillaz.org/
+    description: Donation and recycling partner
+  - name: Arizona State University
+    url: https://www.asu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Central Arizona
+    url: https://habitatcaz.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

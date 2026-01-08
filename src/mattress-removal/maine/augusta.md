@@ -5,9 +5,22 @@ city: Augusta
 state: Maine
 stateSlug: maine
 tier: 2
-coordinates: 
+coordinates:
   lat: 44.3106
   lng: -69.7795
+communityPartners:
+  - name: City of Augusta
+    url: https://www.augustamaine.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: University of Maine at Augusta
+    url: https://www.uma.edu/
+    description: Campus community partner
+  - name: Mid-Maine Habitat for Humanity
+    url: https://www.midmainehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

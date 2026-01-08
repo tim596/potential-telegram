@@ -7,6 +7,19 @@ stateSlug: utah
 coordinates:
   lat: 40.2338
   lng: -111.6585
+communityPartners:
+  - name: City of Provo
+    url: https://www.provo.org/
+    description: Official city government
+  - name: Goodwill Industries of Utah
+    url: https://www.goodwillutah.org/
+    description: Donation and recycling partner
+  - name: Brigham Young University
+    url: https://www.byu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Utah Valley
+    url: https://www.habitatutahvalley.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

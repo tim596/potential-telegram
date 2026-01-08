@@ -9,6 +9,19 @@ citySlug: "jersey-city"
 zip: "07302"
 latitude: 40.7281
 longitude: -74.0776
+communityPartners:
+  - name: City of Jersey City
+    url: https://www.jerseycitynj.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Saint Peter's University
+    url: https://www.saintpeters.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Hudson County
+    url: https://www.habitathudsoncounty.org/
+    description: Housing and donation partner
 tier: 1
 population: 292449
 businessLicense: "NJ-JC-2025-001"

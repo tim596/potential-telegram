@@ -7,6 +7,19 @@ stateSlug: vermont
 coordinates:
   lat: 43.6106
   lng: -72.9726
+communityPartners:
+  - name: City of Rutland
+    url: https://www.rutlandcity.org/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: Castleton University
+    url: https://www.castleton.edu/
+    description: Campus community partner
+  - name: Rutland County Habitat for Humanity
+    url: https://www.rutlandhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

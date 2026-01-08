@@ -7,6 +7,19 @@ stateSlug: virginia
 coordinates:
   lat: 36.5859
   lng: -79.3950
+communityPartners:
+  - name: City of Danville
+    url: https://www.danvilleva.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Valleys
+    url: https://www.goodwillvalleys.com/
+    description: Donation and recycling partner
+  - name: Averett University
+    url: https://www.averett.edu/
+    description: Campus community partner
+  - name: Danville-Pittsylvania County Habitat for Humanity
+    url: https://www.danvillehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

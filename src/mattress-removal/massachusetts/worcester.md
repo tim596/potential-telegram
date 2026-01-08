@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 42.2626
   lng: -71.8023
+communityPartners:
+  - name: City of Worcester
+    url: https://www.worcesterma.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Massachusetts
+    url: https://www.goodwillmass.org/
+    description: Donation and recycling partner
+  - name: Worcester Polytechnic Institute
+    url: https://www.wpi.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity MetroWest/Greater Worcester
+    url: https://www.habitatmwgw.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

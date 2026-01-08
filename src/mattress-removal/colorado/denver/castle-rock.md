@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 39.3722
   lng: -104.8561
+communityPartners:
+  - name: Town of Castle Rock
+    url: https://www.crgov.com/
+    description: Official town government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Arapahoe Community College
+    url: https://www.arapahoe.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

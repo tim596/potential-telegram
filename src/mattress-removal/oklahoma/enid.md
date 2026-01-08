@@ -8,9 +8,22 @@ stateAbbr: OK
 parentMetro: Enid
 tier: 2
 zipCodes: ['73701', '73702', '73703']
-coordinates: 
+coordinates:
   lat: 36.3956
   lng: -97.8784
+communityPartners:
+  - name: City of Enid
+    url: https://www.enid.org/
+    description: Official city government
+  - name: Goodwill Industries of Central Oklahoma
+    url: https://www.okgoodwill.org/
+    description: Donation and recycling partner
+  - name: Northern Oklahoma College
+    url: https://www.noc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Enid
+    url: https://www.habitatenid.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Waverley Historic District"
     zipCodes: ["73701"]

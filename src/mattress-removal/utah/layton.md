@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 41.0602
   lng: -111.9711
+communityPartners:
+  - name: City of Layton
+    url: https://www.laytoncity.org/
+    description: Official city government
+  - name: Goodwill Industries of Utah
+    url: https://www.goodwillutah.org/
+    description: Donation and recycling partner
+  - name: Davis Technical College
+    url: https://www.davistech.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Weber and Davis Counties
+    url: https://www.habitatwd.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

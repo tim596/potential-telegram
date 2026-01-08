@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 40.7267
   lng: -92.3426
+communityPartners:
+  - name: City of Waterloo
+    url: https://www.waterloo-ia.gov/
+    description: Official city government
+  - name: Goodwill of Northeast Iowa
+    url: https://www.goodwillneia.org/
+    description: Donation and recycling partner
+  - name: University of Northern Iowa
+    url: https://www.uni.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Cedar Valley
+    url: https://www.habitatcedarvalley.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

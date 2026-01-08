@@ -10,6 +10,19 @@ stateCode: "CA"
 coordinates:
   lat: 35.4894
   lng: -120.6707
+communityPartners:
+  - name: City of Atascadero
+    url: https://www.atascadero.org/
+    description: Official city government
+  - name: Goodwill Central Coast
+    url: https://www.goodwillcentralcoast.org/
+    description: Donation and recycling partner
+  - name: Cuesta College
+    url: https://www.cuesta.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of San Luis Obispo County
+    url: https://www.hfhsloco.org/
+    description: Housing and donation partner
 tier: 3
 pricing:
   one: 125

@@ -6,6 +6,19 @@ stateSlug: west-virginia
 coordinates:
   lat: 39.2667
   lng: -81.5615
+communityPartners:
+  - name: City of Parkersburg
+    url: https://www.parkersburgcity.com/
+    description: Official city government
+  - name: Goodwill Industries of KYOWVA Area
+    url: https://www.goodwillhunting.org/
+    description: Donation and recycling partner
+  - name: West Virginia University at Parkersburg
+    url: https://www.wvup.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Greater Parkersburg
+    url: https://www.parkersburghabitat.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/west-virginia/parkersburg/
 
 neighborhoods:

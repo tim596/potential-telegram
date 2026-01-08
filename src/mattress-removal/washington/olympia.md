@@ -6,6 +6,19 @@ stateSlug: washington
 coordinates:
   lat: 47.0379
   lng: -122.9015
+communityPartners:
+  - name: City of Olympia
+    url: https://www.olympiawa.gov/
+    description: Official city government
+  - name: Goodwill of the Olympics and Rainier Region
+    url: https://www.goodwillwa.org/
+    description: Donation and recycling partner
+  - name: The Evergreen State College
+    url: https://www.evergreen.edu/
+    description: Campus community partner
+  - name: South Puget Sound Habitat for Humanity
+    url: https://www.spshabitat.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington/olympia/
 
 neighborhoods:

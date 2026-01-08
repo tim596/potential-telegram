@@ -6,9 +6,22 @@ state: "South Carolina"
 stateAbbr: "SC"
 stateSlug: "south-carolina"
 tier: 1
-coordinates: 
+coordinates:
   lat: 34.9249
   lng: -81.0257
+communityPartners:
+  - name: City of Rock Hill
+    url: https://www.cityofrockhill.com/
+    description: Official city government
+  - name: Goodwill Industries of Lower South Carolina
+    url: https://www.palmettogoodwill.org/
+    description: Donation and recycling partner
+  - name: Winthrop University
+    url: https://www.winthrop.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity York County
+    url: https://www.habitatyc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

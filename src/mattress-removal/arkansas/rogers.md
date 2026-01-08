@@ -9,6 +9,19 @@ parentMetro: Fayetteville
 coordinates:
   lat: 36.3320
   lng: -94.1185
+communityPartners:
+  - name: City of Rogers
+    url: https://www.rogersar.gov/
+    description: Official city government
+  - name: Goodwill Industries of Arkansas
+    url: https://www.goodwillar.org/
+    description: Donation and recycling partner
+  - name: University of Arkansas
+    url: https://www.uark.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Northwest Arkansas
+    url: https://habitatnwa.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

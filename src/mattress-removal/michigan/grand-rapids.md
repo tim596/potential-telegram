@@ -5,9 +5,22 @@ city: Grand Rapids
 state: Michigan
 stateSlug: michigan
 tier: 2
-coordinates: 
+coordinates:
   lat: 42.9634
   lng: -85.6681
+communityPartners:
+  - name: City of Grand Rapids
+    url: https://www.grandrapidsmi.gov/
+    description: Official city government
+  - name: Goodwill Industries of West Michigan
+    url: https://www.goodwillwm.org/
+    description: Donation and recycling partner
+  - name: Grand Valley State University
+    url: https://www.gvsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Kent County
+    url: https://www.habitatkent.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

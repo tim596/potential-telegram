@@ -8,9 +8,22 @@ state: Michigan
 stateSlug: michigan
 parentMetro: Grand Rapids
 tier: 3
-coordinates: 
+coordinates:
   lat: 42.9133
   lng: -85.7053
+communityPartners:
+  - name: City of Wyoming
+    url: https://www.wyomingmi.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Grand Rapids
+    url: https://www.goodwillgr.org/
+    description: Donation and recycling partner
+  - name: Grand Rapids Community College
+    url: https://www.grcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Kent County
+    url: https://www.habitatkent.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

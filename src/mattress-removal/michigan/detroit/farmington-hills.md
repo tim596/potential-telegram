@@ -8,9 +8,22 @@ state: Michigan
 stateSlug: michigan
 parentMetro: Detroit
 tier: 3
-coordinates: 
+coordinates:
   lat: 42.4989
   lng: -83.3677
+communityPartners:
+  - name: City of Farmington Hills
+    url: https://www.fhgov.com/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Oakland Community College
+    url: https://www.oaklandcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Oakland County
+    url: https://www.habitatoakland.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,9 +7,22 @@ state: South Carolina
 stateAbbr: SC
 tier: 2
 zipCodes: ['29601', '29605', '29607', '29609', '29611', '29612', '29613', '29614', '29615', '29616', '29617']
-coordinates: 
+coordinates:
   lat: 34.8526
   lng: -82.3940
+communityPartners:
+  - name: City of Greenville
+    url: https://www.greenvillesc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Upstate/Midlands SC
+    url: https://www.goodwillsc.org/
+    description: Donation and recycling partner
+  - name: Furman University
+    url: https://www.furman.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greenville County
+    url: https://habitatgreenville.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Hampton-Pinckney Historic District"
     zipCodes: ["29601"]

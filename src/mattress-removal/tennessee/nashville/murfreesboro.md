@@ -9,9 +9,22 @@ stateAbbr: "TN"
 stateSlug: "tennessee"
 parentMetro: "Nashville"
 tier: 2
-coordinates: 
+coordinates:
   lat: 35.8456
   lng: -86.3903
+communityPartners:
+  - name: City of Murfreesboro
+    url: https://www.murfreesborotn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Middle Tennessee State University
+    url: https://www.mtsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Rutherford County
+    url: https://www.habitatrutherford.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

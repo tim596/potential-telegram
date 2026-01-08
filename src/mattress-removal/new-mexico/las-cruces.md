@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 32.3199
   lng: -106.7637
+communityPartners:
+  - name: City of Las Cruces
+    url: https://www.lascruces.gov/
+    description: Official city government
+  - name: Goodwill Industries of New Mexico
+    url: https://www.goodwillnm.org/
+    description: Donation and recycling partner
+  - name: New Mexico State University
+    url: https://www.nmsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Mesilla Valley
+    url: https://www.lascruceshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

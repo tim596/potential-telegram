@@ -8,9 +8,22 @@ stateAbbr: OR
 parentMetro: Eugene
 tier: 3
 zipCodes: ['97477', '97478']
-coordinates: 
+coordinates:
   lat: 44.0462
   lng: -123.0220
+communityPartners:
+  - name: City of Springfield
+    url: https://www.springfield-or.gov/
+    description: Official city government
+  - name: Goodwill Industries of Lane and Douglas Counties
+    url: https://www.goodwill-oregon.org/
+    description: Donation and recycling partner
+  - name: Lane Community College
+    url: https://www.lanecc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central Lane
+    url: https://habitatlane.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Springfield"
     zipCodes: ["97477"]

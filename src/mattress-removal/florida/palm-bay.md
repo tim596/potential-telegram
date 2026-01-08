@@ -7,6 +7,19 @@ zipCodes: ['32905', '32906', '32907', '32908', '32909', '32950']
 coordinates:
   lat: 28.0345
   lng: -80.5887
+communityPartners:
+  - name: City of Palm Bay
+    url: https://www.palmbayflorida.org/
+    description: Official city government
+  - name: Goodwill Industries of Central Florida
+    url: https://www.goodwillcfl.org/
+    description: Donation and recycling partner
+  - name: Florida Institute of Technology
+    url: https://www.fit.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Brevard County
+    url: https://www.habitatbrevard.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Port Malabar Units 1-10"
     zipCodes: ["32909"]

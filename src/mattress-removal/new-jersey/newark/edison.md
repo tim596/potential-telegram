@@ -10,6 +10,19 @@ citySlug: "edison"
 zip: "08837"
 latitude: 40.5187
 longitude: -74.4121
+communityPartners:
+  - name: Edison Township
+    url: https://www.edisonnj.org/
+    description: Official township government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Middlesex College
+    url: https://www.middlesexcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Middlesex County
+    url: https://www.habitatmiddlesex.org/
+    description: Housing and donation partner
 tier: 3
 population: 107588
 businessLicense: "NJ-EDS-2025-001"

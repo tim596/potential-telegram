@@ -7,6 +7,19 @@ zipCodes: ['34945', '34952', '34953', '34983', '34984', '34986', '34987', '34990
 coordinates:
   lat: 27.2937
   lng: -80.3530
+communityPartners:
+  - name: City of Port St. Lucie
+    url: https://www.cityofpsl.com/
+    description: Official city government
+  - name: Gulfstream Goodwill Industries
+    url: https://www.gulfstreamgoodwill.org/
+    description: Donation and recycling partner
+  - name: Indian River State College
+    url: https://www.irsc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of St. Lucie County
+    url: https://www.habitatstlucie.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "St. Lucie West"
     zipCodes: ["34986"]

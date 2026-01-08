@@ -9,6 +9,19 @@ tier: 1
 coordinates:
   lat: 39.2904
   lng: -76.6122
+communityPartners:
+  - name: City of Baltimore
+    url: https://www.baltimorecity.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Chesapeake
+    url: https://www.goodwillches.org/
+    description: Donation and recycling partner
+  - name: Johns Hopkins University
+    url: https://www.jhu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Chesapeake
+    url: https://www.habitatchesapeake.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

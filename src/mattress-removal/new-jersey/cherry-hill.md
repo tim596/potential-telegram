@@ -5,9 +5,22 @@ city: Cherry Hill
 state: New Jersey
 stateSlug: new-jersey
 tier: 2
-coordinates: 
+coordinates:
   lat: 39.9349
   lng: -75.0307
+communityPartners:
+  - name: Cherry Hill Township
+    url: https://www.cherryhill-nj.com/
+    description: Official township government
+  - name: Goodwill Industries of Southern New Jersey
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Camden County College
+    url: https://www.camdencc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Camden County
+    url: https://www.habitatcamden.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

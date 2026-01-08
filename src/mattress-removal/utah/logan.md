@@ -7,6 +7,19 @@ stateSlug: utah
 coordinates:
   lat: 41.7370
   lng: -111.8338
+communityPartners:
+  - name: City of Logan
+    url: https://www.loganutah.org/
+    description: Official city government
+  - name: Goodwill Industries of Utah
+    url: https://www.goodwillutah.org/
+    description: Donation and recycling partner
+  - name: Utah State University
+    url: https://www.usu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Cache Valley
+    url: https://www.cachehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

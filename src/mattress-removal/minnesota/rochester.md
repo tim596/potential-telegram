@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 44.0121
   lng: -92.4802
+communityPartners:
+  - name: City of Rochester
+    url: https://www.rochestermn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: Mayo Clinic College of Medicine
+    url: https://college.mayo.edu/
+    description: Campus community partner
+  - name: Rochester Area Habitat for Humanity
+    url: https://www.rahfh.org/
+    description: Housing and donation partner
 zipCodes:
   - "55901"
   - "55902"

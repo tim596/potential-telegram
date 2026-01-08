@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.9780
   lng: -122.0311
+communityPartners:
+  - name: City of Concord
+    url: https://www.cityofconcord.org/
+    description: Official city government
+  - name: Goodwill Industries of the Greater East Bay
+    url: https://eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: Diablo Valley College
+    url: https://www.dvc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity East Bay/Silicon Valley
+    url: https://www.habitatebsv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

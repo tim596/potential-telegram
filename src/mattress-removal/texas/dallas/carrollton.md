@@ -9,9 +9,22 @@ stateAbbr: "TX"
 stateSlug: "texas"
 parentMetro: "Dallas"
 tier: 2
-coordinates: 
+coordinates:
   lat: 32.9537
   lng: -96.8903
+communityPartners:
+  - name: City of Carrollton
+    url: https://www.cityofcarrollton.com/
+    description: Official city government
+  - name: Goodwill Industries of Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: Brookhaven College
+    url: https://www.dallascollege.edu/brookhaven
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Dallas
+    url: https://www.dallasareahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,9 +8,22 @@ stateAbbr: PA
 parentMetro: Philadelphia
 tier: 3
 zipCodes: ['19082', '19026']
-coordinates: 
+coordinates:
   lat: 39.9568
   lng: -75.2730
+communityPartners:
+  - name: Upper Darby Township
+    url: https://www.upperdarby.org/
+    description: Official township government
+  - name: Goodwill Industries of Southern New Jersey & Philadelphia
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Drexel University
+    url: https://www.drexel.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Philadelphia
+    url: https://www.habitatphiladelphia.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Drexel Hill"
     zipCodes: ["19026"]

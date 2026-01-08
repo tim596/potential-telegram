@@ -9,6 +9,19 @@ zipCodes: ['33311', '33312', '33313', '33317', '33322', '33323', '33324', '33325
 coordinates:
   lat: 26.1265
   lng: -80.2331
+communityPartners:
+  - name: City of Plantation
+    url: https://www.plantation.org/
+    description: Official city government
+  - name: Goodwill of South Florida
+    url: https://www.goodwillsouthflorida.org/
+    description: Donation and recycling partner
+  - name: Broward College
+    url: https://www.broward.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Broward
+    url: https://www.habitatbroward.org/
+    description: Housing and donation partner
 parentMetro: Miami
 neighborhoods:
   - name: "Plantation Midtown"

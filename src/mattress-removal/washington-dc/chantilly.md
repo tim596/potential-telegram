@@ -7,6 +7,19 @@ parentMetro: Washington DC
 coordinates:
   lat: 38.8871
   lng: -77.4311
+communityPartners:
+  - name: Fairfax County Government
+    url: https://www.fairfaxcounty.gov/
+    description: Official county government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: Northern Virginia Community College
+    url: https://www.nvcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northern Virginia
+    url: https://www.habitatnova.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington-dc/chantilly/
 
 neighborhoods:

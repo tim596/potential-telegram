@@ -8,9 +8,22 @@ stateAbbr: PA
 parentMetro: Pittsburgh
 tier: 3
 zipCodes: ['15601', '15605', '15606']
-coordinates: 
+coordinates:
   lat: 40.3015
   lng: -79.5389
+communityPartners:
+  - name: City of Greensburg
+    url: https://www.greensburgpa.org/
+    description: Official city government
+  - name: Goodwill of Southwestern Pennsylvania
+    url: https://www.goodwillswpa.org/
+    description: Donation and recycling partner
+  - name: Seton Hill University
+    url: https://www.setonhill.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Westmoreland County
+    url: https://www.westmorelandhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Academy Hill Historic District"
     zipCodes: ["15601"]

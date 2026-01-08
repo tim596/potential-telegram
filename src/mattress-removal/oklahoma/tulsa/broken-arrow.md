@@ -10,6 +10,19 @@ parentMetro: "Tulsa"
 coordinates:
   lat: 36.0526
   lng: -95.7905
+communityPartners:
+  - name: City of Broken Arrow
+    url: https://www.brokenarrowok.gov/
+    description: Official city government
+  - name: Goodwill Industries of Tulsa
+    url: https://www.goodwilltulsa.org/
+    description: Donation and recycling partner
+  - name: Northeastern State University Broken Arrow
+    url: https://www.nsuok.edu/BrokenArrow/
+    description: Campus community partner
+  - name: Habitat for Humanity Tulsa
+    url: https://www.habitattulsa.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

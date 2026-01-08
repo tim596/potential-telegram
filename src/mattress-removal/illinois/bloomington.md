@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 40.4842
   lng: -88.9937
+communityPartners:
+  - name: City of Bloomington
+    url: https://www.bloomingtonil.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Illinois
+    url: https://www.goodwillpeo.org/
+    description: Donation and recycling partner
+  - name: Illinois State University
+    url: https://www.ilstu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of McLean County
+    url: https://habitatmclean.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

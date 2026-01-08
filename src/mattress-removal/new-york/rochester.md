@@ -6,9 +6,22 @@ city: Rochester
 state: New York
 stateAbbr: NY
 zipCodes: ['14601', '14602', '14603', '14604', '14605', '14606', '14607', '14608', '14609', '14610', '14611', '14612', '14613', '14614', '14615', '14616', '14617', '14618', '14619', '14620', '14621', '14622', '14623', '14624', '14625', '14626', '14627', '14692', '14694']
-coordinates: 
+coordinates:
   lat: 43.1566
   lng: -77.6088
+communityPartners:
+  - name: City of Rochester
+    url: https://www.cityofrochester.gov/
+    description: Official city government
+  - name: Goodwill of the Finger Lakes
+    url: https://www.goodwillfingerlakes.org/
+    description: Donation and recycling partner
+  - name: University of Rochester
+    url: https://www.rochester.edu/
+    description: Campus community partner
+  - name: Flower City Habitat for Humanity
+    url: https://www.flowercityhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "South Wedge"
     zipCodes: ["14620"]

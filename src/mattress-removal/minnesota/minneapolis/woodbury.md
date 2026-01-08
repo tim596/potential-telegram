@@ -8,9 +8,22 @@ state: Minnesota
 stateSlug: minnesota
 parentMetro: Minneapolis
 tier: 2
-coordinates: 
+coordinates:
   lat: 44.9239
   lng: -92.9594
+communityPartners:
+  - name: City of Woodbury
+    url: https://www.woodburymn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: Century College
+    url: https://www.century.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

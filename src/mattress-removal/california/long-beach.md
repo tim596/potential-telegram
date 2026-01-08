@@ -6,9 +6,22 @@ state: California
 stateSlug: california
 tier: 2
 parentMetro: Los Angeles
-coordinates: 
+coordinates:
   lat: 33.7701
   lng: -118.1937
+communityPartners:
+  - name: City of Long Beach
+    url: https://www.longbeach.gov/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: California State University, Long Beach
+    url: https://www.csulb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Los Angeles
+    url: https://www.habitatla.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

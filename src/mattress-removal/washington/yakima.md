@@ -6,6 +6,19 @@ stateSlug: washington
 coordinates:
   lat: 46.6021
   lng: -120.5059
+communityPartners:
+  - name: City of Yakima
+    url: https://www.yakimawa.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia
+    url: https://goodwillotc.org/
+    description: Donation and recycling partner
+  - name: Yakima Valley College
+    url: https://www.yvcc.edu/
+    description: Campus community partner
+  - name: Yakima Valley Habitat for Humanity
+    url: https://www.yakimahabitat.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington/yakima/
 
 neighborhoods:

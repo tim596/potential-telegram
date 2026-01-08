@@ -7,6 +7,19 @@ stateSlug: south-dakota
 coordinates:
   lat: 44.0805
   lng: -103.2310
+communityPartners:
+  - name: City of Rapid City
+    url: https://www.rcgov.org/
+    description: Official city government
+  - name: Salvation Army Rapid City
+    url: https://centralusa.salvationarmy.org/rapidcity/
+    description: Donation and recycling partner
+  - name: South Dakota School of Mines and Technology
+    url: https://www.sdsmt.edu/
+    description: Campus community partner
+  - name: Black Hills Area Habitat for Humanity
+    url: https://www.blackhillshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

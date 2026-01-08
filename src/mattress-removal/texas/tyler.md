@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 32.3513
   lng: -95.3011
+communityPartners:
+  - name: City of Tyler
+    url: https://www.tylertexas.com/
+    description: Official city government
+  - name: Goodwill Industries of East Texas
+    url: https://www.goodwilleasttexas.com/
+    description: Donation and recycling partner
+  - name: University of Texas at Tyler
+    url: https://www.uttyler.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Smith County
+    url: https://www.habitat-smithcounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -10,6 +10,19 @@ parentMetro: "Oklahoma City"
 coordinates:
   lat: 35.6528
   lng: -97.4781
+communityPartners:
+  - name: City of Edmond
+    url: https://www.edmondok.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Oklahoma
+    url: https://www.okgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Central Oklahoma
+    url: https://www.uco.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central Oklahoma
+    url: https://www.habitat-okc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

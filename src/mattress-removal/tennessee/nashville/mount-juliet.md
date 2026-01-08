@@ -10,6 +10,19 @@ parentMetro: Nashville
 coordinates:
   lat: 36.2009
   lng: -86.5186
+communityPartners:
+  - name: City of Mount Juliet
+    url: https://www.mountjuliettn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.giveit2goodwill.org/
+    description: Donation and recycling partner
+  - name: Cumberland University
+    url: https://www.cumberland.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Wilson County
+    url: https://www.habitatwilson.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

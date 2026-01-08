@@ -7,6 +7,19 @@ zipCodes: ['33801', '33802', '33803', '33805', '33806', '33807', '33809', '33810
 coordinates:
   lat: 28.0395
   lng: -81.9498
+communityPartners:
+  - name: City of Lakeland
+    url: https://www.lakelandgov.net/
+    description: Official city government
+  - name: Goodwill Industries of Central Florida
+    url: https://www.goodwillcfl.org/
+    description: Donation and recycling partner
+  - name: Florida Southern College
+    url: https://www.flsouthern.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Polk County
+    url: https://www.habitatpolk.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Lakeland"
     zipCodes: ["33801"]

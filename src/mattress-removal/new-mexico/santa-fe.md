@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 35.6870
   lng: -105.9378
+communityPartners:
+  - name: City of Santa Fe
+    url: https://www.santafenm.gov/
+    description: Official city government
+  - name: Goodwill Industries of New Mexico
+    url: https://www.goodwillnm.org/
+    description: Donation and recycling partner
+  - name: Santa Fe Community College
+    url: https://www.sfcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Santa Fe
+    url: https://www.santafehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

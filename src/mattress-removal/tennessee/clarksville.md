@@ -7,6 +7,19 @@ stateSlug: tennessee
 coordinates:
   lat: 36.5298
   lng: -87.3595
+communityPartners:
+  - name: City of Clarksville
+    url: https://www.cityofclarksville.com/
+    description: Official city government
+  - name: Goodwill Industries of Middle Tennessee
+    url: https://www.goodwillmidtn.org/
+    description: Donation and recycling partner
+  - name: Austin Peay State University
+    url: https://www.apsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Clarksville
+    url: https://www.clarksvillehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

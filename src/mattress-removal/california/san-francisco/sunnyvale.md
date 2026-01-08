@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.3688
   lng: -122.0363
+communityPartners:
+  - name: City of Sunnyvale
+    url: https://sunnyvale.ca.gov/
+    description: Official city government
+  - name: Goodwill of Silicon Valley
+    url: https://goodwillsv.org/
+    description: Donation and recycling partner
+  - name: De Anza College
+    url: https://www.deanza.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity East Bay/Silicon Valley
+    url: https://www.habitatebsv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

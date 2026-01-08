@@ -8,6 +8,19 @@ parentMetro: Washington DC
 coordinates:
   lat: 39.0840
   lng: -77.1528
+communityPartners:
+  - name: City of Rockville
+    url: https://www.rockvillemd.gov/
+    description: Official city government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: Montgomery College
+    url: https://www.montgomerycollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Maryland
+    url: https://www.habitatmm.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

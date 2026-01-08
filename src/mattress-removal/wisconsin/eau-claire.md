@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 44.8113
   lng: -91.4985
+communityPartners:
+  - name: City of Eau Claire
+    url: https://www.eauclairewi.gov/
+    description: Official city government
+  - name: Goodwill North Central Wisconsin
+    url: https://www.goodwillncw.org/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-Eau Claire
+    url: https://www.uwec.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Eau Claire
+    url: https://www.habitateauclaire.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

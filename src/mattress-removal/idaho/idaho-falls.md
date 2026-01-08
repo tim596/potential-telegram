@@ -8,6 +8,19 @@ zipCodes: ['83401', '83402', '83404', '83406']
 coordinates:
   lat: 43.4943
   lng: -112.0362
+communityPartners:
+  - name: City of Idaho Falls
+    url: https://www.idahofallsidaho.gov/
+    description: Official city government
+  - name: Deseret Industries
+    url: https://www.deseretindustries.org/
+    description: Donation and recycling partner
+  - name: Idaho State University Idaho Falls
+    url: https://www.isu.edu/idahofalls/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Upper Snake River Valley
+    url: https://www.usrvhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Idaho Falls"
     zipCodes: ["83401"]

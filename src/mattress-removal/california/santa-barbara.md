@@ -5,9 +5,22 @@ state: "California"
 city: "Santa Barbara"
 stateSlug: "california"
 tier: 2
-coordinates: 
+coordinates:
   lat: 34.4208
   lng: -119.6982
+communityPartners:
+  - name: City of Santa Barbara
+    url: https://santabarbaraca.gov/
+    description: Official city government
+  - name: Goodwill Industries of Ventura and Santa Barbara Counties
+    url: https://gwvsb.org/
+    description: Donation and recycling partner
+  - name: University of California, Santa Barbara
+    url: https://www.ucsb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Southern Santa Barbara County
+    url: https://www.sbhabitat.org/
+    description: Housing and donation partner
 serviceArea: "Santa Barbara County"
 zipCodes: ["93101", "93102", "93103", "93105", "93108", "93109", "93110", "93111"]
 phoneNumber: "720-263-6094"

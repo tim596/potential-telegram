@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 39.9568
   lng: -86.0139
+communityPartners:
+  - name: City of Fishers
+    url: https://www.fishers.in.us/
+    description: Official city government
+  - name: Goodwill Industries of Central and Southern Indiana
+    url: https://www.goodwillindy.org/
+    description: Donation and recycling partner
+  - name: Butler University
+    url: https://www.butler.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Hamilton County
+    url: https://www.hfhhamilton.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

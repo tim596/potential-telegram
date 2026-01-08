@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Newark
 tier: 2
 zipCodes: ['43055']
-coordinates: 
+coordinates:
   lat: 40.0581
   lng: -82.4013
+communityPartners:
+  - name: City of Newark
+    url: https://www.newarkohio.net/
+    description: Official city government
+  - name: Goodwill Columbus
+    url: https://www.goodwillcolumbus.org/
+    description: Donation and recycling partner
+  - name: Ohio State University Newark
+    url: https://www.newark.osu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Licking County
+    url: https://www.habitatlc.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Newark Earthworks UNESCO Site"
     zipCodes: ["43055"]

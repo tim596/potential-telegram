@@ -7,9 +7,22 @@ state: Pennsylvania
 stateAbbr: PA
 tier: 3
 zipCodes: ['16801', '16802', '16803', '16804', '16827']
-coordinates: 
+coordinates:
   lat: 40.7934
   lng: -77.8600
+communityPartners:
+  - name: Borough of State College
+    url: https://www.statecollegepa.us/
+    description: Official borough government
+  - name: Goodwill Industries of Central Pennsylvania
+    url: https://www.goodwillcentralpa.org/
+    description: Donation and recycling partner
+  - name: Penn State University
+    url: https://www.psu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Centre County
+    url: https://www.habitatcentrecounty.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "The Highlands"
     zipCodes: ["16803"]

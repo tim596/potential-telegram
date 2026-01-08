@@ -9,9 +9,22 @@ stateAbbr: "UT"
 stateSlug: "utah"
 tier: 2
 parentMetro: "salt-lake-city"
-coordinates: 
+coordinates:
   lat: 40.3916
   lng: -111.8508
+communityPartners:
+  - name: City of Lehi
+    url: https://www.lehi-ut.gov/
+    description: Official city government
+  - name: Deseret Industries
+    url: https://www.deseretindustries.org/
+    description: Donation and recycling partner
+  - name: Utah Valley University
+    url: https://www.uvu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Utah County
+    url: https://www.habitatuc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

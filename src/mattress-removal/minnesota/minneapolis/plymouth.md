@@ -8,9 +8,22 @@ state: Minnesota
 stateSlug: minnesota
 parentMetro: Minneapolis
 tier: 3
-coordinates: 
+coordinates:
   lat: 45.0105
   lng: -93.4555
+communityPartners:
+  - name: City of Plymouth
+    url: https://www.plymouthmn.gov/
+    description: Official city government
+  - name: Goodwill-Easter Seals Minnesota
+    url: https://www.goodwilleasterseals.org/
+    description: Donation and recycling partner
+  - name: University of Minnesota
+    url: https://twin-cities.umn.edu/
+    description: Campus community partner
+  - name: Twin Cities Habitat for Humanity
+    url: https://www.tchabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

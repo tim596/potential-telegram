@@ -7,9 +7,22 @@ city: Peoria
 state: Arizona
 stateSlug: arizona
 parentMetro: Phoenix
-coordinates: 
+coordinates:
   lat: 33.5806
   lng: -112.2374
+communityPartners:
+  - name: City of Peoria
+    url: https://www.peoriaaz.gov/
+    description: Official city government
+  - name: Goodwill of Central and Northern Arizona
+    url: https://www.goodwillaz.org/
+    description: Donation and recycling partner
+  - name: Glendale Community College
+    url: https://www.gccaz.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Central Arizona
+    url: https://habitatcaz.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

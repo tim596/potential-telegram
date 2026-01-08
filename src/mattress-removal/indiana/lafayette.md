@@ -8,6 +8,19 @@ tier: college-town
 coordinates:
   lat: 40.4167
   lng: -86.8753
+communityPartners:
+  - name: City of Lafayette
+    url: https://www.lafayette.in.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central and Southern Indiana
+    url: https://www.goodwillindy.org/
+    description: Donation and recycling partner
+  - name: Purdue University
+    url: https://www.purdue.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Lafayette
+    url: https://www.lafayettehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 35.3733
   lng: -119.0187
+communityPartners:
+  - name: City of Bakersfield
+    url: https://www.bakersfieldcity.us/
+    description: Official city government
+  - name: Goodwill Industries of South Central California
+    url: https://thegoodwill.org/
+    description: Donation and recycling partner
+  - name: California State University, Bakersfield
+    url: https://www.csub.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Golden Empire
+    url: https://www.habitat.org/ca/bakersfield/habitat-humanity-golden-empire
+    description: Housing and donation partner
 pricing:
   - pieces: 1
     price: "$125"

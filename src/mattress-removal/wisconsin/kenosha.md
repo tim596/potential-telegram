@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 42.5847
   lng: -87.8212
+communityPartners:
+  - name: City of Kenosha
+    url: https://www.kenosha.org/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-Parkside
+    url: https://www.uwp.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Kenosha
+    url: https://www.habitatkenosha.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

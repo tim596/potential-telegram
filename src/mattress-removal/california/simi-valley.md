@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 34.2694
   lng: -118.7815
+communityPartners:
+  - name: City of Simi Valley
+    url: https://www.simivalley.org/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Moorpark College
+    url: https://www.moorparkcollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Ventura County
+    url: https://habitatventura.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

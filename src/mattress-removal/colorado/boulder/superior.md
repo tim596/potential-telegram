@@ -5,6 +5,19 @@ state: Colorado
 stateSlug: colorado
 parentMetro: Boulder
 coordinates: [39.9528, -105.1686]
+communityPartners:
+  - name: Town of Superior
+    url: https://www.superiorcolorado.gov/
+    description: Official town government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: University of Colorado Boulder
+    url: https://www.colorado.edu/
+    description: Campus community partner
+  - name: Flatirons Habitat for Humanity
+    url: https://www.flatironshabitat.org/
+    description: Housing and donation partner
 neighborhoodCount: 18
 
 zipCodes:

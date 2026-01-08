@@ -7,6 +7,19 @@ stateSlug: ohio
 coordinates:
   lat: 41.0998
   lng: -80.6495
+communityPartners:
+  - name: City of Youngstown
+    url: https://www.youngstownohio.gov/
+    description: Official city government
+  - name: Goodwill Industries of Mahoning Valley
+    url: https://www.goodwillmahoning.org/
+    description: Donation and recycling partner
+  - name: Youngstown State University
+    url: https://www.ysu.edu/
+    description: Campus community partner
+  - name: Mahoning Valley Habitat for Humanity
+    url: https://www.mvhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

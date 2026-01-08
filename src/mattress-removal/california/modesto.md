@@ -5,9 +5,22 @@ state: "California"
 city: "Modesto"
 stateSlug: "california"
 tier: 2
-coordinates: 
+coordinates:
   lat: 37.6391
   lng: -120.9969
+communityPartners:
+  - name: City of Modesto
+    url: https://www.modestogov.com/
+    description: Official city government
+  - name: Goodwill Industries of San Joaquin Valley
+    url: https://www.goodwill-sjv.org/
+    description: Donation and recycling partner
+  - name: California State University, Stanislaus
+    url: https://www.csustan.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Stanislaus/Merced Counties
+    url: https://www.hfhmsc.org/
+    description: Housing and donation partner
 serviceArea: "Stanislaus County"
 zipCodes: ["95350", "95351", "95352", "95353", "95354", "95355", "95356", "95357", "95358", "95397"]
 phoneNumber: "720-263-6094"

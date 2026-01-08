@@ -6,9 +6,22 @@ state: California
 stateSlug: california
 tier: 2
 parentMetro: Los Angeles
-coordinates: 
+coordinates:
   lat: 33.7879
   lng: -117.8531
+communityPartners:
+  - name: City of Orange
+    url: https://www.cityoforange.org/
+    description: Official city government
+  - name: Goodwill of Orange County
+    url: https://www.ocgoodwill.org/
+    description: Donation and recycling partner
+  - name: Chapman University
+    url: https://www.chapman.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Orange County
+    url: https://habitatoc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

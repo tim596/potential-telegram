@@ -8,9 +8,22 @@ state: Michigan
 stateSlug: michigan
 parentMetro: Detroit
 tier: 3
-coordinates: 
+coordinates:
   lat: 42.6064
   lng: -83.1498
+communityPartners:
+  - name: City of Troy
+    url: https://www.troymi.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Walsh College
+    url: https://www.walshcollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Oakland County
+    url: https://www.habitatoakland.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -6,9 +6,22 @@ state: California
 stateSlug: california
 tier: 2
 parentMetro: Los Angeles
-coordinates: 
+coordinates:
   lat: 34.1478
   lng: -118.1445
+communityPartners:
+  - name: City of Pasadena
+    url: https://www.cityofpasadena.net/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Pasadena City College
+    url: https://pasadena.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Los Angeles
+    url: https://www.habitatla.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 39.1836
   lng: -96.5717
+communityPartners:
+  - name: City of Manhattan
+    url: https://cityofmhk.com/
+    description: Official city government
+  - name: Goodwill Industries of Kansas
+    url: https://www.goodwillks.org/
+    description: Donation and recycling partner
+  - name: Kansas State University
+    url: https://www.k-state.edu/
+    description: Campus community partner
+  - name: Manhattan Area Habitat for Humanity
+    url: https://mahfh.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

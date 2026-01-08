@@ -4,9 +4,22 @@ permalink: /mattress-removal/arizona/flagstaff/
 city: Flagstaff
 state: Arizona
 stateSlug: arizona
-coordinates: 
+coordinates:
   lat: 35.1983
   lng: -111.6513
+communityPartners:
+  - name: City of Flagstaff
+    url: https://www.flagstaff.az.gov/
+    description: Official city government
+  - name: Goodwill of Central and Northern Arizona
+    url: https://www.goodwillaz.org/
+    description: Donation and recycling partner
+  - name: Northern Arizona University
+    url: https://nau.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Northern Arizona
+    url: https://www.habitatflagstaff.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

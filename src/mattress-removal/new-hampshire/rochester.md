@@ -12,6 +12,19 @@ longitude: -70.9756
 tier: 2
 population: 32492
 businessLicense: "NH-RC-2025-004"
+communityPartners:
+  - name: City of Rochester
+    url: https://www.rochesternh.gov/
+    description: Official city government
+  - name: Goodwill Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: University of New Hampshire
+    url: https://www.unh.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Seacoast
+    url: https://www.seacoasthabitat.org/
+    description: Housing and donation partner
 pricing:
   oneItem: 125
   twoItems: 155

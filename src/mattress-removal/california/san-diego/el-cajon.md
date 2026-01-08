@@ -10,6 +10,19 @@ parentMetro: "San Diego"
 coordinates:
   lat: 32.7947
   lng: -116.9625
+communityPartners:
+  - name: City of El Cajon
+    url: https://www.elcajon.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: Grossmont College
+    url: https://www.grossmont.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

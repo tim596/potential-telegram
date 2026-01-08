@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 39.0067
   lng: -84.6341
+communityPartners:
+  - name: City of Florence
+    url: https://www.florence-ky.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northern Kentucky
+    url: https://www.goodwillnky.org/
+    description: Donation and recycling partner
+  - name: Northern Kentucky University
+    url: https://www.nku.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Northern Kentucky
+    url: https://habitatnky.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

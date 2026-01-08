@@ -6,6 +6,19 @@ stateSlug: washington
 coordinates:
   lat: 47.6588
   lng: -117.4260
+communityPartners:
+  - name: City of Spokane
+    url: https://my.spokanecity.org/
+    description: Official city government
+  - name: Goodwill Industries of the Inland Northwest
+    url: https://www.discovergoodwill.org/
+    description: Donation and recycling partner
+  - name: Gonzaga University
+    url: https://www.gonzaga.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Spokane
+    url: https://www.habitat-spokane.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington/spokane/
 
 neighborhoods:

@@ -7,6 +7,19 @@ stateSlug: north-carolina
 coordinates:
   lat: 35.0527
   lng: -78.8784
+communityPartners:
+  - name: City of Fayetteville
+    url: https://www.fayettevillenc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Eastern NC
+    url: https://www.gienc.org/
+    description: Donation and recycling partner
+  - name: Fayetteville State University
+    url: https://www.uncfsu.edu/
+    description: Campus community partner
+  - name: Sandhills Habitat for Humanity
+    url: https://sandhillshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

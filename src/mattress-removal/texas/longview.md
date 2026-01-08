@@ -7,6 +7,19 @@ stateSlug: texas
 coordinates:
   lat: 32.5007
   lng: -94.7405
+communityPartners:
+  - name: City of Longview
+    url: https://www.longviewtexas.gov/
+    description: Official city government
+  - name: Goodwill Industries of East Texas
+    url: https://www.goodwilleasttexas.com/
+    description: Donation and recycling partner
+  - name: LeTourneau University
+    url: https://www.letu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Gregg County
+    url: https://www.habitatgreggcounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

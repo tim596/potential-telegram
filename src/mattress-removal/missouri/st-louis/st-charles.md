@@ -10,6 +10,19 @@ parentMetro: "St. Louis"
 zip: "63301"
 latitude: 38.7883
 longitude: -90.4974
+communityPartners:
+  - name: City of St. Charles
+    url: https://www.stcharlescitymo.gov/
+    description: Official city government
+  - name: MERS Goodwill
+    url: https://www.mersgoodwill.org/
+    description: Donation and recycling partner
+  - name: Lindenwood University
+    url: https://www.lindenwood.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of St. Charles County
+    url: https://www.habitatstcharles.org/
+    description: Housing and donation partner
 tier: 2
 population: 72480
 businessLicense: "MO-STC-2025-001"

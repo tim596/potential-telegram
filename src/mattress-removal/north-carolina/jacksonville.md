@@ -7,9 +7,22 @@ state: North Carolina
 stateAbbr: NC
 tier: 2
 zipCodes: ['28540', '28546']
-coordinates: 
+coordinates:
   lat: 34.7540
   lng: -77.4030
+communityPartners:
+  - name: City of Jacksonville
+    url: https://www.jacksonvillenc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Eastern NC
+    url: https://www.gienc.org/
+    description: Donation and recycling partner
+  - name: Coastal Carolina Community College
+    url: https://www.coastalcarolina.edu/
+    description: Campus community partner
+  - name: Crystal Coast Habitat for Humanity
+    url: https://habitatcrystalcoast.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Jacksonville"
     zipCodes: ["28540"]

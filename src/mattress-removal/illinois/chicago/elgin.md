@@ -12,6 +12,19 @@ tier: 2
 coordinates:
   lat: 42.0354
   lng: -88.2826
+communityPartners:
+  - name: City of Elgin
+    url: https://www.cityofelgin.org/
+    description: Official city government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: Elgin Community College
+    url: https://www.elgin.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Northern Fox Valley
+    url: https://habitatnfv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

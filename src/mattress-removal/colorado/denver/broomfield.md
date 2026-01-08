@@ -12,9 +12,22 @@ parentMetro: "Denver"
 county: "Broomfield"
 phone: "720-263-6094"
 tier: 3
-coordinates: 
+coordinates:
   lat: 39.9206
   lng: -105.0867
+communityPartners:
+  - name: City and County of Broomfield
+    url: https://www.broomfield.org/
+    description: Official city-county government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Front Range Community College
+    url: https://www.frontrange.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 
 zipCodes:
   - "80020"

@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 38.2527
   lng: -85.7585
+communityPartners:
+  - name: Louisville Metro Government
+    url: https://www.louisvilleky.gov/
+    description: Official city government
+  - name: Goodwill Industries of Kentucky
+    url: https://www.goodwillky.org/
+    description: Donation and recycling partner
+  - name: University of Louisville
+    url: https://www.louisville.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Louisville
+    url: https://www.louisvillehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

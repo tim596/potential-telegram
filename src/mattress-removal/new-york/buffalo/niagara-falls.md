@@ -9,6 +9,19 @@ stateSlug: new-york
 coordinates:
   lat: 43.0962
   lng: -79.0377
+communityPartners:
+  - name: City of Niagara Falls
+    url: https://www.niagarafallsusa.org/
+    description: Official city government
+  - name: Goodwill of Western New York
+    url: https://www.goodwillwny.org/
+    description: Donation and recycling partner
+  - name: Niagara University
+    url: https://www.niagara.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Niagara Frontier
+    url: https://www.habitatbuffalo.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

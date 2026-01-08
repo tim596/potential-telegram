@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 39.1612
   lng: -86.5264
+communityPartners:
+  - name: City of Bloomington
+    url: https://www.bloomington.in.gov/
+    description: Official city government
+  - name: Hoosier Hills Goodwill Industries
+    url: https://www.hoosierhillsgoodwill.org/
+    description: Donation and recycling partner
+  - name: Indiana University
+    url: https://www.indiana.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Monroe County
+    url: https://www.monroecountyhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

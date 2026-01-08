@@ -9,6 +9,19 @@ zipCodes: ['33314', '33317', '33324', '33325', '33326', '33328', '33329', '33330
 coordinates:
   lat: 26.0765
   lng: -80.2553
+communityPartners:
+  - name: Town of Davie
+    url: https://www.davie-fl.gov/
+    description: Official town government
+  - name: Goodwill of South Florida
+    url: https://www.goodwillsouthflorida.org/
+    description: Donation and recycling partner
+  - name: Nova Southeastern University
+    url: https://www.nova.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Broward
+    url: https://www.habitatbroward.org/
+    description: Housing and donation partner
 parentMetro: Miami
 neighborhoods:
   - name: "Pine Island Ridge"

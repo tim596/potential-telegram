@@ -8,6 +8,19 @@ stateSlug: wisconsin
 coordinates:
   lat: 43.0639
   lng: -88.1084
+communityPartners:
+  - name: City of New Berlin
+    url: https://www.newberlin.org/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: Waukesha County Technical College
+    url: https://www.wctc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Waukesha County
+    url: https://www.habitatwaukesha.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/wisconsin/milwaukee/new-berlin/
 parentMetro: Milwaukee
 

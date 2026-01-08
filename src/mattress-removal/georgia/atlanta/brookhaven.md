@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 33.8651
   lng: -84.3390
+communityPartners:
+  - name: City of Brookhaven
+    url: https://www.brookhavenga.gov/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Oglethorpe University
+    url: https://www.oglethorpe.edu/
+    description: Campus community partner
+  - name: Atlanta Habitat for Humanity
+    url: https://www.atlantahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 33.9137
   lng: -98.4934
+communityPartners:
+  - name: City of Wichita Falls
+    url: https://www.wichitafallstx.gov/
+    description: Official city government
+  - name: Goodwill Industries of North Texas
+    url: https://www.goodwillnorthtexas.org/
+    description: Donation and recycling partner
+  - name: Midwestern State University
+    url: https://www.msutexas.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Wichita Falls
+    url: https://www.habitatwf.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

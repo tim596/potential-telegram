@@ -7,6 +7,19 @@ stateSlug: texas
 coordinates:
   lat: 31.0982
   lng: -97.3428
+communityPartners:
+  - name: City of Temple
+    url: https://www.templetx.gov/
+    description: Official city government
+  - name: Goodwill Industries of Central Texas
+    url: https://www.goodwillcentraltexas.org/
+    description: Donation and recycling partner
+  - name: Temple College
+    url: https://www.templejc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Bell County
+    url: https://www.habitatbellcounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

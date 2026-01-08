@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 36.9685
   lng: -86.4808
+communityPartners:
+  - name: City of Bowling Green
+    url: https://www.bgky.org/
+    description: Official city government
+  - name: Goodwill Industries of Kentucky
+    url: https://www.goodwillky.org/
+    description: Donation and recycling partner
+  - name: Western Kentucky University
+    url: https://www.wku.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Bowling Green
+    url: https://www.bghabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

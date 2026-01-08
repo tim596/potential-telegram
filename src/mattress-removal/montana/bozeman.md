@@ -12,6 +12,19 @@ longitude: -111.0429
 tier: 2
 population: 57000
 businessLicense: "MT-BOZ-2025-001"
+communityPartners:
+  - name: City of Bozeman
+    url: https://www.bozeman.net/
+    description: Official city government
+  - name: THRIFT Bozeman
+    url: https://www.thriftbozeman.org/
+    description: Donation and recycling partner
+  - name: Montana State University
+    url: https://www.montana.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Gallatin Valley
+    url: https://www.habitatgv.org/
+    description: Housing and donation partner
 pricing:
   oneItem: 125
   twoItems: 155

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 44.8016
   lng: -68.7712
+communityPartners:
+  - name: City of Bangor
+    url: https://www.bangormaine.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: University of Maine
+    url: https://www.umaine.edu/
+    description: Campus community partner
+  - name: Bangor Area Habitat for Humanity
+    url: https://www.bangorhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

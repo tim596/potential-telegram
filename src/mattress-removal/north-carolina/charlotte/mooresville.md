@@ -10,6 +10,19 @@ parentMetro: Charlotte
 coordinates:
   lat: 35.5851
   lng: -80.8098
+communityPartners:
+  - name: Town of Mooresville
+    url: https://www.mooresvillenc.gov/
+    description: Official town government
+  - name: Goodwill Industries of the Southern Piedmont
+    url: https://goodwillsp.org/
+    description: Donation and recycling partner
+  - name: Mitchell Community College
+    url: https://www.mitchellcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Charlotte Region
+    url: https://www.habitatcltregion.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

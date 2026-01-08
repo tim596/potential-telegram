@@ -7,6 +7,19 @@ stateSlug: tennessee
 coordinates:
   lat: 35.9606
   lng: -83.9207
+communityPartners:
+  - name: City of Knoxville
+    url: https://www.knoxvilletn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Knoxville
+    url: https://www.gwiktn.org/
+    description: Donation and recycling partner
+  - name: University of Tennessee
+    url: https://www.utk.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Knoxville
+    url: https://www.habitatgk.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

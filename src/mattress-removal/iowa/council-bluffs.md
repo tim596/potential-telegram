@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 41.2619
   lng: -95.8608
+communityPartners:
+  - name: City of Council Bluffs
+    url: https://www.councilbluffs-ia.gov/
+    description: Official city government
+  - name: Goodwill Omaha
+    url: https://www.goodwillomaha.org/
+    description: Donation and recycling partner
+  - name: Iowa Western Community College
+    url: https://www.iwcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Council Bluffs
+    url: https://www.councilbluffshabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

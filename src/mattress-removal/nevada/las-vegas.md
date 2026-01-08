@@ -9,6 +9,19 @@ citySlug: "las-vegas"
 zip: "89101"
 latitude: 36.1699
 longitude: -115.1398
+communityPartners:
+  - name: City of Las Vegas
+    url: https://www.lasvegasnevada.gov/
+    description: Official city government
+  - name: Goodwill of Southern Nevada
+    url: https://www.goodwillvegas.org/
+    description: Donation and recycling partner
+  - name: University of Nevada Las Vegas
+    url: https://www.unlv.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Las Vegas
+    url: https://lasvegashabitat.org/
+    description: Housing and donation partner
 tier: 1
 population: 665640
 businessLicense: "NV-LV-2025-001"

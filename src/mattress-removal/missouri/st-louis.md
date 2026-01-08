@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 38.6270
   lng: -90.1994
+communityPartners:
+  - name: City of St. Louis
+    url: https://www.stlouis-mo.gov/
+    description: Official city government
+  - name: MERS Goodwill Industries
+    url: https://www.mersgoodwill.org/
+    description: Donation and recycling partner
+  - name: Washington University in St. Louis
+    url: https://www.wustl.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Saint Louis
+    url: https://www.habitatstl.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

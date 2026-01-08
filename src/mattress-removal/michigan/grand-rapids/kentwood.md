@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 42.8694
   lng: -85.6447
+communityPartners:
+  - name: City of Kentwood
+    url: https://www.kentwood.us/
+    description: Official city government
+  - name: Goodwill Industries of Greater Grand Rapids
+    url: https://www.goodwillgr.org/
+    description: Donation and recycling partner
+  - name: Grand Rapids Community College
+    url: https://www.grcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Kent County
+    url: https://www.habitatkent.org/
+    description: Housing and donation partner
 zipCodes:
   - "49508"
   - "49512"

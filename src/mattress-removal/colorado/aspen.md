@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 39.1911
   lng: -106.8175
+communityPartners:
+  - name: City of Aspen
+    url: https://aspen.gov/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Colorado Mountain College
+    url: https://coloradomtn.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Roaring Fork
+    url: https://www.roaringforkhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 155
   single: 155

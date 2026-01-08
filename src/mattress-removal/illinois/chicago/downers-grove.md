@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 41.8089
   lng: -88.0112
+communityPartners:
+  - name: Village of Downers Grove
+    url: https://www.downers.us/
+    description: Official village government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: College of DuPage
+    url: https://www.cod.edu/
+    description: Campus community partner
+  - name: DuPage Habitat for Humanity
+    url: https://www.dupagehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 19.5429
   lng: -155.6659
+communityPartners:
+  - name: County of Hawaii
+    url: https://www.hawaiicounty.gov/
+    description: Official county government
+  - name: Goodwill Hawaii
+    url: https://www.higoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Hawaii at Hilo
+    url: https://hilo.hawaii.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Honolulu
+    url: https://www.habitathonolulu.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

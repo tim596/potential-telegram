@@ -10,6 +10,19 @@ parentMetro: Austin
 coordinates:
   lat: 30.6327
   lng: -97.6779
+communityPartners:
+  - name: City of Georgetown
+    url: https://www.georgetown.org/
+    description: Official city government
+  - name: Goodwill Central Texas
+    url: https://www.goodwillcentraltexas.org/
+    description: Donation and recycling partner
+  - name: Southwestern University
+    url: https://www.southwestern.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Williamson County
+    url: https://www.williamsonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

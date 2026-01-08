@@ -6,9 +6,22 @@ state: "Tennessee"
 stateAbbr: "TN"
 stateSlug: "tennessee"
 tier: 2
-coordinates: 
+coordinates:
   lat: 35.1595
   lng: -84.8766
+communityPartners:
+  - name: City of Cleveland
+    url: https://www.clevelandtn.gov/
+    description: Official city government
+  - name: Goodwill Industries of Chattanooga
+    url: https://www.goodwillchatt.org/
+    description: Donation and recycling partner
+  - name: Lee University
+    url: https://www.leeuniversity.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Bradley County
+    url: https://www.habitatbradley.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

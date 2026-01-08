@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 42.6334
   lng: -71.3162
+communityPartners:
+  - name: City of Lowell
+    url: https://www.lowellma.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: UMass Lowell
+    url: https://www.uml.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Lowell
+    url: https://www.lowellhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

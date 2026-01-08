@@ -7,6 +7,19 @@ stateSlug: pennsylvania
 coordinates:
   lat: 40.3356
   lng: -75.9269
+communityPartners:
+  - name: City of Reading
+    url: https://www.readingpa.gov/
+    description: Official city government
+  - name: Goodwill Keystone Area
+    url: https://www.yourgoodwill.org/
+    description: Donation and recycling partner
+  - name: Albright College
+    url: https://www.albright.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Berks County
+    url: https://www.habitatberks.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

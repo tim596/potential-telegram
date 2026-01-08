@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 39.4863
   lng: -75.0260
+communityPartners:
+  - name: City of Vineland
+    url: https://www.vinelandcity.org/
+    description: Official city government
+  - name: Goodwill Industries of Southern New Jersey
+    url: https://www.goodwillnj.org/
+    description: Donation and recycling partner
+  - name: Cumberland County College
+    url: https://www.rcsj.edu/cumberland
+    description: Campus community partner
+  - name: Habitat for Humanity of Cumberland County
+    url: https://www.habitatcumberland.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

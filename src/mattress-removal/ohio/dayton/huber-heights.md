@@ -9,9 +9,22 @@ stateAbbr: "OH"
 stateSlug: "ohio"
 parentMetro: "Dayton"
 tier: 3
-coordinates: 
+coordinates:
   lat: 39.8440
   lng: -84.1247
+communityPartners:
+  - name: City of Huber Heights
+    url: https://www.hhoh.org/
+    description: Official city government
+  - name: Goodwill Easter Seals Miami Valley
+    url: https://www.gesmv.org/
+    description: Donation and recycling partner
+  - name: Wright State University
+    url: https://www.wright.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Dayton
+    url: https://www.daytonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

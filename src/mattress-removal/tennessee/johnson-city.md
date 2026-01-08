@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 36.3134
   lng: -82.3534
+communityPartners:
+  - name: City of Johnson City
+    url: https://www.johnsoncitytn.org/
+    description: Official city government
+  - name: Goodwill Industries of Knoxville
+    url: https://www.gwiktn.org/
+    description: Donation and recycling partner
+  - name: East Tennessee State University
+    url: https://www.etsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Kingsport
+    url: https://www.habitatkpt.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

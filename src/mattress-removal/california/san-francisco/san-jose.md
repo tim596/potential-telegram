@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 37.3382
   lng: -121.8863
+communityPartners:
+  - name: City of San Jose
+    url: https://www.sanjoseca.gov/
+    description: Official city government
+  - name: Goodwill of Silicon Valley
+    url: https://goodwillsv.org/
+    description: Donation and recycling partner
+  - name: San Jose State University
+    url: https://www.sjsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity East Bay/Silicon Valley
+    url: https://www.habitatebsv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -6,9 +6,22 @@ state: "Pennsylvania"
 stateAbbr: "PA"
 stateSlug: "pennsylvania"
 tier: 2
-coordinates: 
+coordinates:
   lat: 40.3409
   lng: -76.4113
+communityPartners:
+  - name: City of Lebanon
+    url: https://www.lebanonpa.org/
+    description: Official city government
+  - name: Goodwill Keystone Area
+    url: https://www.yourgoodwill.org/
+    description: Donation and recycling partner
+  - name: Lebanon Valley College
+    url: https://www.lvc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lebanon County
+    url: https://www.lebanonhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

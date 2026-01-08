@@ -5,9 +5,22 @@ state: "California"
 city: "Stockton"
 stateSlug: "california"
 tier: 2
-coordinates: 
+coordinates:
   lat: 39.2982
   lng: -121.2437
+communityPartners:
+  - name: City of Stockton
+    url: https://www.stocktonca.gov/
+    description: Official city government
+  - name: Goodwill Industries of San Joaquin Valley
+    url: https://www.goodwill-sjv.org/
+    description: Donation and recycling partner
+  - name: University of the Pacific
+    url: https://www.pacific.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of San Joaquin County
+    url: https://www.habitat.org/us/ca/stockton
+    description: Housing and donation partner
 serviceArea: "San Joaquin County"
 zipCodes: ["95201", "95202", "95203", "95204", "95205", "95206", "95207", "95208", "95209", "95210", "95211", "95212", "95213", "95215", "95219", "95220", "95267", "95269", "95296", "95297", "95376", "95377", "95391"]
 phoneNumber: "720-263-6094"

@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.9358
   lng: -122.3477
+communityPartners:
+  - name: City of Richmond
+    url: https://www.ci.richmond.ca.us/
+    description: Official city government
+  - name: Goodwill Industries of the Greater East Bay
+    url: https://eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: Contra Costa College
+    url: https://www.contracosta.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity East Bay/Silicon Valley
+    url: https://www.habitatebsv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

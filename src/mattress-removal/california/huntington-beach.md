@@ -9,6 +9,19 @@ parentMetro: Los Angeles
 coordinates:
   lat: 33.6595
   lng: -117.9988
+communityPartners:
+  - name: City of Huntington Beach
+    url: https://www.huntingtonbeachca.gov/
+    description: Official city government
+  - name: Goodwill of Orange County
+    url: https://www.ocgoodwill.org/
+    description: Donation and recycling partner
+  - name: Golden West College
+    url: https://goldenwestcollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Orange County
+    url: https://habitatoc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

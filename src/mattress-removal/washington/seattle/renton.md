@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 47.4829
   lng: -122.2171
+communityPartners:
+  - name: City of Renton
+    url: https://rentonwa.gov/
+    description: Official city government
+  - name: Seattle Goodwill
+    url: https://www.seattlegoodwill.org/
+    description: Donation and recycling partner
+  - name: Renton Technical College
+    url: https://www.rtc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Seattle-King County
+    url: https://www.habitatskc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

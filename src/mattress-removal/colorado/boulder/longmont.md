@@ -3,6 +3,19 @@ layout: location.njk
 
 permalink: "/mattress-removal/colorado/boulder/longmont/"
 coordinates: [40.1672, -105.1019]
+communityPartners:
+  - name: City of Longmont
+    url: https://www.longmontcolorado.gov/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Front Range Community College
+    url: https://www.frontrange.edu/
+    description: Campus community partner
+  - name: Flatirons Habitat for Humanity
+    url: https://www.flatironshabitat.org/
+    description: Housing and donation partner
 city: "Longmont"
 state: "Colorado"
 zipCodes: ["80501", "80502", "80503", "80504"]

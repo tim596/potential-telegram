@@ -10,6 +10,19 @@ citySlug: "woodbridge"
 zip: "07095"
 latitude: 40.5576
 longitude: -74.2846
+communityPartners:
+  - name: Woodbridge Township
+    url: https://www.twp.woodbridge.nj.us/
+    description: Official township government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Middlesex College
+    url: https://www.middlesexcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Middlesex County
+    url: https://www.habitatmiddlesex.org/
+    description: Housing and donation partner
 tier: 2
 population: 103639
 businessLicense: "NJ-WDB-2025-001"

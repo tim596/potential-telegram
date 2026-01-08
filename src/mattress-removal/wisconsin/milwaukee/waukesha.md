@@ -10,6 +10,19 @@ parentMetro: Milwaukee
 coordinates:
   lat: 43.0117
   lng: -88.2315
+communityPartners:
+  - name: City of Waukesha
+    url: https://www.waukesha-wi.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: Carroll University
+    url: https://www.carrollu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Waukesha County
+    url: https://www.habitatwaukesha.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

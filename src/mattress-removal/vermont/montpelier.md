@@ -6,9 +6,22 @@ state: "Vermont"
 stateAbbr: "VT"
 stateSlug: "vermont"
 tier: 2
-coordinates: 
+coordinates:
   lat: 44.2601
   lng: -72.5806
+communityPartners:
+  - name: City of Montpelier
+    url: https://www.montpelier-vt.org/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: Community College of Vermont
+    url: https://www.ccv.edu/
+    description: Campus community partner
+  - name: Green Mountain Habitat for Humanity
+    url: https://www.vermonthabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

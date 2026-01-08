@@ -7,6 +7,19 @@ stateSlug: north-carolina
 coordinates:
   lat: 35.7344
   lng: -81.3412
+communityPartners:
+  - name: City of Hickory
+    url: https://www.hickorync.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northwest NC
+    url: https://www.goodwillnwnc.org/
+    description: Donation and recycling partner
+  - name: Lenoir-Rhyne University
+    url: https://www.lr.edu/
+    description: Campus community partner
+  - name: Catawba Valley Habitat for Humanity
+    url: https://habitatcatawbavalley.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

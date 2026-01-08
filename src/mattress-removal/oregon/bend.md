@@ -7,6 +7,19 @@ stateSlug: oregon
 coordinates:
   lat: 44.0582
   lng: -121.3153
+communityPartners:
+  - name: City of Bend
+    url: https://www.bendoregon.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Oregon State University-Cascades
+    url: https://osucascades.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Central Oregon
+    url: https://www.habitatcentraloregon.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

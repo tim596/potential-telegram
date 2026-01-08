@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 41.5250
   lng: -88.0817
+communityPartners:
+  - name: City of Joliet
+    url: https://www.joliet.gov/
+    description: Official city government
+  - name: Goodwill Industries of Metropolitan Chicago
+    url: https://www.goodwillchicago.org/
+    description: Donation and recycling partner
+  - name: University of St. Francis
+    url: https://www.stfrancis.edu/
+    description: Campus community partner
+  - name: Will County Habitat for Humanity
+    url: https://habitatwill.org/
+    description: Housing and donation partner
 pricing:
   single: "$125"
   queen: "$125"

@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 40.6640
   lng: -74.2107
+communityPartners:
+  - name: City of Elizabeth
+    url: https://www.elizabethnj.org/
+    description: Official city government
+  - name: Goodwill Industries of Greater New York
+    url: https://www.goodwillnynj.org/
+    description: Donation and recycling partner
+  - name: Kean University
+    url: https://www.kean.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Union County
+    url: https://www.habitatuc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

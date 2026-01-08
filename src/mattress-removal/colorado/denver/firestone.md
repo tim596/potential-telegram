@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 40.1158
   lng: -104.9439
+communityPartners:
+  - name: Town of Firestone
+    url: https://www.firestoneco.gov/
+    description: Official town government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Aims Community College
+    url: https://www.aims.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Weld County
+    url: https://www.hfhweld.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

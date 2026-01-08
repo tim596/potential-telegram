@@ -7,6 +7,19 @@ stateSlug: texas
 coordinates:
   lat: 30.0860
   lng: -94.1018
+communityPartners:
+  - name: City of Beaumont
+    url: https://www.beaumonttexas.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southeast Texas
+    url: https://www.goodwillsetx.org/
+    description: Donation and recycling partner
+  - name: Lamar University
+    url: https://www.lamar.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Jefferson County
+    url: https://www.habitatjc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

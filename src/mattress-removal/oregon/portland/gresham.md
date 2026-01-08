@@ -10,6 +10,19 @@ parentMetro: "Portland"
 coordinates:
   lat: 45.4982
   lng: -122.4317
+communityPartners:
+  - name: City of Gresham
+    url: https://www.greshamoregon.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia Willamette
+    url: https://www.meetgoodwill.org/
+    description: Donation and recycling partner
+  - name: Mount Hood Community College
+    url: https://www.mhcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Portland/Metro East
+    url: https://habitatportlandmetro.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

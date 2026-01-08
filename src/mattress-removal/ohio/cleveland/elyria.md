@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Cleveland
 tier: 3
 zipCodes: ['44035', '44036', '44039', '44074']
-coordinates: 
+coordinates:
   lat: 41.3683
   lng: -82.1076
+communityPartners:
+  - name: City of Elyria
+    url: https://www.cityofelyria.org/
+    description: Official city government
+  - name: Goodwill Industries of Lorain County
+    url: https://www.lorainctygoodwill.org/
+    description: Donation and recycling partner
+  - name: Lorain County Community College
+    url: https://www.lorainccc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lorain County
+    url: https://www.habitatlorain.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Courthouse District"
     zipCodes: ["44035"]

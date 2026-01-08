@@ -9,9 +9,22 @@ stateAbbr: "OH"
 stateSlug: "ohio"
 parentMetro: "Akron"
 tier: 3
-coordinates: 
+coordinates:
   lat: 41.1407
   lng: -81.4913
+communityPartners:
+  - name: City of Cuyahoga Falls
+    url: https://www.cityofcf.com/
+    description: Official city government
+  - name: Goodwill Industries of Akron
+    url: https://www.goodwillakron.org/
+    description: Donation and recycling partner
+  - name: Kent State University
+    url: https://www.kent.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Summit County
+    url: https://www.hfhsummitcounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

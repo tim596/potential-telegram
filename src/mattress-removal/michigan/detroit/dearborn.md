@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 42.3223
   lng: -83.1763
+communityPartners:
+  - name: City of Dearborn
+    url: https://www.cityofdearborn.org/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: University of Michigan-Dearborn
+    url: https://umdearborn.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Western Wayne County
+    url: https://www.habitatwwc.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

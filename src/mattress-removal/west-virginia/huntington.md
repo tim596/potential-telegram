@@ -7,6 +7,19 @@ stateSlug: west-virginia
 coordinates:
   lat: 38.4192
   lng: -82.4452
+communityPartners:
+  - name: City of Huntington
+    url: https://www.cityofhuntington.com/
+    description: Official city government
+  - name: Goodwill Industries of KYOWVA Area
+    url: https://www.goodwillhunting.org/
+    description: Donation and recycling partner
+  - name: Marshall University
+    url: https://www.marshall.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Tri-State
+    url: https://www.habitattristate.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

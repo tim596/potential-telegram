@@ -80,6 +80,14 @@ layout: base.njk
             <!-- Right Image Collage -->
             <div class="hero-image-location">
                 <div class="image-collage-location">
+                    {% if cityImage %}
+                    <div class="collage-item-location collage-main-location">
+                        <img src="{{ cityImage.src }}" alt="{{ cityImage.alt }}" width="400" height="300" loading="eager">
+                    </div>
+                    <div class="collage-item-location collage-secondary-location">
+                        <img src="/images/lifestyle/mattress-recycling-facility.webp" alt="Eco-friendly mattress recycling facility" width="400" height="300" loading="eager">
+                    </div>
+                    {% else %}
                     <div class="collage-item-location collage-main-location">
                         <img src="/images/lifestyle/mattress-pickup-team-1-400.png"
                              srcset="/images/lifestyle/mattress-pickup-team-1-200.png 200w, /images/lifestyle/mattress-pickup-team-1-400.png 400w, /images/lifestyle/mattress-pickup-team-1.png 720w"
@@ -89,6 +97,7 @@ layout: base.njk
                     <div class="collage-item-location collage-secondary-location">
                         <img src="/images/lifestyle/mattress-recycling-facility.webp" alt="Eco-friendly recycling facility" width="400" height="300" loading="eager">
                     </div>
+                    {% endif %}
                     <div class="collage-item-location collage-tertiary-location">
                         <img src="/images/lifestyle/mattress-removal-3-400.png"
                              srcset="/images/lifestyle/mattress-removal-3-200.png 200w, /images/lifestyle/mattress-removal-3-400.png 400w, /images/lifestyle/mattress-removal-3.png 720w"
@@ -333,6 +342,117 @@ layout: base.njk
         </div>
     </div>
 </section>
+
+<!-- Community Partners Section (conditional) -->
+{% if communityPartners %}
+<section class="community-partners-section">
+    <div class="container">
+        <h2>Our {{ city }} Community Partners</h2>
+        <p>We work alongside these trusted local organizations to serve the {{ city }} community:</p>
+        <div class="community-partners-grid">
+            {% for partner in communityPartners %}
+            <a href="{{ partner.url }}" class="community-partner-item" target="_blank" rel="noopener noreferrer">
+                <div class="partner-name">{{ partner.name }}</div>
+                <div class="partner-description">{{ partner.description }}</div>
+                <span class="partner-link-icon">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                        <polyline points="15 3 21 3 21 9"></polyline>
+                        <line x1="10" y1="14" x2="21" y2="3"></line>
+                    </svg>
+                </span>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<style>
+.community-partners-section {
+    background: var(--gray-50);
+    padding: 3rem 0;
+    margin: 2rem 0;
+}
+
+.community-partners-section h2 {
+    color: var(--gray-900);
+    margin-bottom: 0.5rem;
+    font-size: 1.75rem;
+}
+
+.community-partners-section > .container > p {
+    color: var(--gray-600);
+    margin-bottom: 1.5rem;
+}
+
+.community-partners-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+}
+
+.community-partner-item {
+    background: white;
+    border: 1px solid var(--gray-200);
+    border-radius: var(--border-radius);
+    padding: 1.25rem;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.community-partner-item:hover {
+    border-color: var(--primary-green);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.partner-name {
+    font-weight: 600;
+    color: var(--gray-900);
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+}
+
+.partner-description {
+    font-size: 0.875rem;
+    color: var(--gray-600);
+}
+
+.partner-link-icon {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    color: var(--gray-400);
+}
+
+.community-partner-item:hover .partner-name {
+    color: var(--primary-green);
+}
+
+.community-partner-item:hover .partner-link-icon {
+    color: var(--primary-green);
+}
+
+@media (max-width: 768px) {
+    .community-partners-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .community-partners-section {
+        padding: 2rem 0;
+    }
+}
+
+@media (max-width: 480px) {
+    .community-partners-grid {
+        grid-template-columns: 1fr;
+    }
+}
+</style>
+{% endif %}
 
 <!-- DC Exception: Special suburb linking section -->
 {% if city == "Washington DC" %}

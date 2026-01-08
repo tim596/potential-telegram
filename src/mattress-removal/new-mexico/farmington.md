@@ -7,6 +7,19 @@ zipCodes: [87401, 87402, 87415]
 coordinates:
   lat: 36.7281
   lng: -108.2187
+communityPartners:
+  - name: City of Farmington
+    url: https://www.fmtn.org/
+    description: Official city government
+  - name: Goodwill Industries of New Mexico
+    url: https://www.goodwillnm.org/
+    description: Donation and recycling partner
+  - name: San Juan College
+    url: https://www.sanjuancollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity San Juan County
+    url: https://www.habitatsanjuan.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -10,6 +10,19 @@ zipCodes: ['30080', '30081', '30082']
 coordinates:
   lat: 33.8839
   lng: -84.5141
+communityPartners:
+  - name: City of Smyrna
+    url: https://www.smyrnaga.gov/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Kennesaw State University
+    url: https://www.kennesaw.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northwest Metro Atlanta
+    url: https://www.habitatnwma.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Belmont"
     zipCodes: ["30080"]

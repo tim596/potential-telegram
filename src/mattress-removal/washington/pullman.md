@@ -6,6 +6,19 @@ stateSlug: washington
 coordinates:
   lat: 46.7298
   lng: -117.1817
+communityPartners:
+  - name: City of Pullman
+    url: https://www.pullman-wa.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Inland Northwest
+    url: https://www.discovergoodwill.org/
+    description: Donation and recycling partner
+  - name: Washington State University
+    url: https://wsu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Palouse
+    url: https://www.palousehabitat.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington/pullman/
 
 neighborhoods:

@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 39.7555
   lng: -105.2211
+communityPartners:
+  - name: City of Golden
+    url: https://www.cityofgolden.net/
+    description: Official city government
+  - name: Goodwill of Colorado
+    url: https://goodwillcolorado.org/
+    description: Donation and recycling partner
+  - name: Colorado School of Mines
+    url: https://www.mines.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Metro Denver
+    url: https://habitatmetrodenver.org/
+    description: Housing and donation partner
 zipCodes:
   - "80401"
   - "80403"

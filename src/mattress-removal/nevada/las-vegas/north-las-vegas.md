@@ -10,6 +10,19 @@ citySlug: "north-las-vegas"
 zip: "89031"
 latitude: 36.2890
 longitude: -115.1175
+communityPartners:
+  - name: City of North Las Vegas
+    url: https://www.cityofnorthlasvegas.com/
+    description: Official city government
+  - name: Goodwill of Southern Nevada
+    url: https://www.goodwillsn.org/
+    description: Donation and recycling partner
+  - name: College of Southern Nevada
+    url: https://www.csn.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Las Vegas
+    url: https://www.habitatlasvegas.org/
+    description: Housing and donation partner
 tier: 2
 population: 270773
 businessLicense: "NV-NLV-2025-001"

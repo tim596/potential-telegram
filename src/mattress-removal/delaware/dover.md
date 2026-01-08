@@ -8,6 +8,19 @@ tier: 3
 coordinates:
   lat: 39.1612
   lng: -75.5264
+communityPartners:
+  - name: City of Dover
+    url: https://www.dover.de.us/
+    description: Official city government
+  - name: Goodwill Delaware & Delaware County
+    url: https://www.goodwillde.org/
+    description: Donation and recycling partner
+  - name: Delaware State University
+    url: https://www.desu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Kent County Delaware
+    url: https://www.habitatkentde.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 180
   single: 180

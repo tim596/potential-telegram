@@ -9,6 +9,19 @@ tier: suburb
 coordinates:
   lat: 43.0936
   lng: -89.5126
+communityPartners:
+  - name: City of Middleton
+    url: https://www.cityofmiddleton.us/
+    description: Official city government
+  - name: Goodwill of South Central Wisconsin
+    url: https://www.goodwillscwi.org/
+    description: Donation and recycling partner
+  - name: University of Wisconsin-Madison
+    url: https://www.wisc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Dane County
+    url: https://www.habitatdane.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

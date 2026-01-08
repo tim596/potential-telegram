@@ -10,6 +10,19 @@ parentMetro: Charleston
 coordinates:
   lat: 32.9807
   lng: -80.0326
+communityPartners:
+  - name: City of Goose Creek
+    url: https://www.cityofgoosecreek.com/
+    description: Official city government
+  - name: Goodwill Industries of Lower South Carolina
+    url: https://www.palmettogoodwill.org/
+    description: Donation and recycling partner
+  - name: Trident Technical College
+    url: https://www.tridenttech.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Charleston Tri-County Area
+    url: https://www.habitatchas.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

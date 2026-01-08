@@ -4,9 +4,25 @@ permalink: /mattress-removal/arizona/tucson/
 city: Tucson
 state: Arizona
 stateSlug: arizona
-coordinates: 
+coordinates:
   lat: 32.2226
   lng: -110.9747
+cityImage:
+  src: /images/tucson_01_5054_up.jpg
+  alt: Downtown Tucson, Arizona skyline with mountain views
+communityPartners:
+  - name: City of Tucson
+    url: https://www.tucsonaz.gov/
+    description: Official city government
+  - name: Goodwill of Southern Arizona
+    url: https://www.goodwillsouthernaz.org/
+    description: Donation and recycling partner
+  - name: University of Arizona
+    url: https://www.arizona.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Tucson
+    url: https://www.habitattucson.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

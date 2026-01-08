@@ -10,6 +10,19 @@ parentMetro: Dallas
 coordinates:
   lat: 32.7460
   lng: -97.0280
+communityPartners:
+  - name: City of Grand Prairie
+    url: https://www.gptx.org/
+    description: Official city government
+  - name: Goodwill Industries of Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: Mountain View College
+    url: https://www.dallascollege.edu/mountainview
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Dallas
+    url: https://www.dallasareahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

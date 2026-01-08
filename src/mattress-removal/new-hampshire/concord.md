@@ -12,6 +12,19 @@ longitude: -71.5376
 tier: 2
 population: 43976
 businessLicense: "NH-CON-2025-001"
+communityPartners:
+  - name: City of Concord
+    url: https://www.concordnh.gov/
+    description: Official city government
+  - name: Goodwill Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: NHTI-Concord's Community College
+    url: https://www.ccsnh.edu/nhti/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Concord
+    url: https://www.concordhabitat.org/
+    description: Housing and donation partner
 pricing:
   oneItem: 125
   twoItems: 155

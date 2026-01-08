@@ -9,6 +9,19 @@ tier: 1
 coordinates:
   lat: 38.0406
   lng: -84.5037
+communityPartners:
+  - name: Lexington-Fayette Urban County Government
+    url: https://www.lexingtonky.gov/
+    description: Official city government
+  - name: Goodwill Industries of Kentucky
+    url: https://www.goodwillky.org/
+    description: Donation and recycling partner
+  - name: University of Kentucky
+    url: https://www.uky.edu/
+    description: Campus community partner
+  - name: Lexington Habitat for Humanity
+    url: https://www.lexhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

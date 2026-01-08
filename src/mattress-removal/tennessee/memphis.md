@@ -7,9 +7,22 @@ state: Tennessee
 stateAbbr: TN
 tier: 1
 zipCodes: ['38104', '38105', '38106', '38107', '38108', '38109', '38111', '38112', '38115', '38116', '38117', '38118', '38119', '38120', '38122', '38125', '38127', '38128', '38133', '38134', '38135']
-coordinates: 
+coordinates:
   lat: 35.1495
   lng: -90.0490
+communityPartners:
+  - name: City of Memphis
+    url: https://www.memphistn.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Mid-South
+    url: https://www.goodwillmemphis.org/
+    description: Donation and recycling partner
+  - name: University of Memphis
+    url: https://www.memphis.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Memphis
+    url: https://www.memphishabitat.com/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Beale Street Historic District"
     zipCodes: ["38103", "38105"]

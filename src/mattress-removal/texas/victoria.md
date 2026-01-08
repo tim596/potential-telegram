@@ -7,6 +7,19 @@ stateSlug: texas
 coordinates:
   lat: 28.8053
   lng: -97.0036
+communityPartners:
+  - name: City of Victoria
+    url: https://www.victoriatx.gov/
+    description: Official city government
+  - name: Goodwill Industries of South Central Texas
+    url: https://www.goodwillsctx.org/
+    description: Donation and recycling partner
+  - name: University of Houston-Victoria
+    url: https://www.uhv.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Victoria
+    url: https://www.habitatvictoria.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

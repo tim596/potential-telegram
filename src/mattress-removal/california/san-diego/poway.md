@@ -6,9 +6,22 @@ city: Poway
 state: California
 stateAbbr: CA
 zipCodes: ['92064', '92074']
-coordinates: 
+coordinates:
   lat: 32.9628
   lng: -117.0359
+communityPartners:
+  - name: City of Poway
+    url: https://poway.org/
+    description: Official city government
+  - name: Goodwill Industries of San Diego County
+    url: https://sdgoodwill.org/
+    description: Donation and recycling partner
+  - name: Palomar College
+    url: https://www.palomar.edu/
+    description: Campus community partner
+  - name: San Diego Habitat for Humanity
+    url: https://www.sandiegohabitat.org/
+    description: Housing and donation partner
 parentMetro: San Diego
 neighborhoods:
   - name: "Rancho Bernardo"

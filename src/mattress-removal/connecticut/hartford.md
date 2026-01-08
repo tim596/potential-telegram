@@ -3,6 +3,19 @@ layout: location.njk
 
 permalink: "/mattress-removal/connecticut/hartford/"
 coordinates: [41.7658, -72.6734]
+communityPartners:
+  - name: City of Hartford
+    url: https://www.hartfordct.gov/
+    description: Official city government
+  - name: Goodwill of Southern New England
+    url: https://www.goodwillsne.org/
+    description: Donation and recycling partner
+  - name: University of Hartford
+    url: https://www.hartford.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of North Central Connecticut
+    url: https://www.habitatncc.org/
+    description: Housing and donation partner
 city: "Hartford"
 state: "Connecticut"
 zipCodes: ["06101", "06102", "06103", "06104", "06105", "06106", "06112", "06120"]

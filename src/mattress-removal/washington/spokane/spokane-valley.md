@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 47.6730
   lng: -117.2396
+communityPartners:
+  - name: City of Spokane Valley
+    url: https://www.spokanevalley.org/
+    description: Official city government
+  - name: Goodwill Industries of the Inland Northwest
+    url: https://www.discovergoodwill.org/
+    description: Donation and recycling partner
+  - name: Spokane Falls Community College
+    url: https://www.sfcc.spokane.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Spokane
+    url: https://www.habitat-spokane.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

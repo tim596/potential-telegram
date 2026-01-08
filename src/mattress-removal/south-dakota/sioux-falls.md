@@ -7,6 +7,19 @@ stateSlug: south-dakota
 coordinates:
   lat: 43.5460
   lng: -96.7313
+communityPartners:
+  - name: City of Sioux Falls
+    url: https://www.siouxfalls.org/
+    description: Official city government
+  - name: Salvation Army Sioux Falls
+    url: https://www.siouxfallssalvationarmy.org/
+    description: Donation and recycling partner
+  - name: Augustana University
+    url: https://www.augie.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Sioux Falls
+    url: https://www.sfhabitat.com/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

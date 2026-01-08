@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 32.0835
   lng: -81.0998
+communityPartners:
+  - name: City of Savannah
+    url: https://www.savannahga.gov/
+    description: Official city government
+  - name: Goodwill Southeast Georgia
+    url: https://www.goodwillsega.org/
+    description: Donation and recycling partner
+  - name: Savannah State University
+    url: https://www.savannahstate.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of the Coastal Empire
+    url: https://www.habitatsavannah.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

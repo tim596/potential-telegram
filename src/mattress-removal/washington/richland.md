@@ -7,6 +7,19 @@ stateSlug: washington
 coordinates:
   lat: 46.2857
   lng: -119.2845
+communityPartners:
+  - name: City of Richland
+    url: https://www.ci.richland.wa.us/
+    description: Official city government
+  - name: Goodwill Industries of the Columbia
+    url: https://goodwillotc.org/
+    description: Donation and recycling partner
+  - name: Columbia Basin College
+    url: https://www.columbiabasin.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Tri-County Partners
+    url: https://www.habitatbuilds.com/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

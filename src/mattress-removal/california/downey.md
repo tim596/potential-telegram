@@ -9,6 +9,19 @@ parentMetro: Los Angeles
 coordinates:
   lat: 33.9401
   lng: -118.1326
+communityPartners:
+  - name: City of Downey
+    url: https://www.downeyca.org/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: Cerritos College
+    url: https://www.cerritos.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Los Angeles
+    url: https://www.habitatla.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

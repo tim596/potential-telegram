@@ -6,9 +6,22 @@ state: "Virginia"
 stateAbbr: "VA"
 stateSlug: "virginia"
 tier: 2
-coordinates: 
+coordinates:
   lat: 37.2710
   lng: -79.9414
+communityPartners:
+  - name: City of Roanoke
+    url: https://www.roanokeva.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Valleys
+    url: https://www.goodwillvalleys.com/
+    description: Donation and recycling partner
+  - name: Virginia Western Community College
+    url: https://www.virginiawestern.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity in the Roanoke Valley
+    url: https://habitat-roanoke.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

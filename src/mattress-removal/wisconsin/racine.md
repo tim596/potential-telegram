@@ -7,6 +7,19 @@ stateSlug: "wisconsin"
 coordinates:
   lat: 42.7261
   lng: -87.7829
+communityPartners:
+  - name: City of Racine
+    url: https://www.cityofracine.org/
+    description: Official city government
+  - name: Goodwill of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: Gateway Technical College
+    url: https://www.gtc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Racine
+    url: https://www.habitatracine.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

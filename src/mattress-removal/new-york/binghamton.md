@@ -7,6 +7,19 @@ stateSlug: new-york
 coordinates:
   lat: 42.0987
   lng: -75.9179
+communityPartners:
+  - name: City of Binghamton
+    url: https://www.binghamton-ny.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Southern Tier
+    url: https://www.goodwillsoutherntier.org/
+    description: Donation and recycling partner
+  - name: Binghamton University
+    url: https://www.binghamton.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Broome County
+    url: https://www.habitatbroome.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

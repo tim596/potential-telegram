@@ -4,9 +4,22 @@ permalink: /mattress-removal/alaska/anchorage/
 city: Anchorage
 state: Alaska
 stateSlug: alaska
-coordinates: 
+coordinates:
   lat: 61.2181
   lng: -149.9003
+communityPartners:
+  - name: Municipality of Anchorage
+    url: https://www.muni.org/
+    description: Official city government
+  - name: Goodwill of Alaska
+    url: https://goodwill-alaska.org/
+    description: Donation and recycling partner
+  - name: University of Alaska Anchorage
+    url: https://www.uaa.alaska.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Anchorage
+    url: https://www.habitatanchorage.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 115
   single: 115

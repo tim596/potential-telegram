@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 34.0234
   lng: -84.6155
+communityPartners:
+  - name: City of Kennesaw
+    url: https://www.kennesaw-ga.gov/
+    description: Official city government
+  - name: Goodwill of North Georgia
+    url: https://www.goodwillng.org/
+    description: Donation and recycling partner
+  - name: Kennesaw State University
+    url: https://www.kennesaw.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northwest Metro Atlanta
+    url: https://www.habitatnwma.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

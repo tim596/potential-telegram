@@ -8,6 +8,19 @@ tier: 2
 coordinates:
   lat: 35.1992
   lng: -101.8453
+communityPartners:
+  - name: City of Amarillo
+    url: https://www.amarillo.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northwest Texas
+    url: https://www.goodwillnwtexas.org/
+    description: Donation and recycling partner
+  - name: West Texas A&M University
+    url: https://www.wtamu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Amarillo
+    url: https://www.amarillohabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,9 +7,22 @@ state: Pennsylvania
 stateAbbr: PA
 tier: 2
 zipCodes: ['18501', '18503', '18504', '18505', '18508', '18510']
-coordinates: 
+coordinates:
   lat: 41.4090
   lng: -75.6624
+communityPartners:
+  - name: City of Scranton
+    url: https://www.scrantonpa.gov/
+    description: Official city government
+  - name: Goodwill Keystone Area
+    url: https://www.yourgoodwill.org/
+    description: Donation and recycling partner
+  - name: University of Scranton
+    url: https://www.scranton.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lackawanna County
+    url: https://www.habitatlackawanna.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown/Central City"
     zipCodes: ["18501"]

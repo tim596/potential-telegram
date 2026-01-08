@@ -7,9 +7,22 @@ state: North Carolina
 stateAbbr: NC
 tier: 2
 zipCodes: ['28801', '28802', '28803', '28804', '28805', '28806']
-coordinates: 
+coordinates:
   lat: 35.5951
   lng: -82.5515
+communityPartners:
+  - name: City of Asheville
+    url: https://www.ashevillenc.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northwest NC
+    url: https://www.goodwillnwnc.org/
+    description: Donation and recycling partner
+  - name: UNC Asheville
+    url: https://www.unca.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Asheville Area
+    url: https://www.ashevillehabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Montford Historic District"
     zipCodes: ["28801"]

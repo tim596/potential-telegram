@@ -7,6 +7,19 @@ stateSlug: "michigan"
 parentMetro: "Detroit"
 tier: 3
 coordinates: { lat: 42.4834, lng: -83.0277 }
+communityPartners:
+  - name: City of Warren
+    url: https://www.cityofwarren.org/
+    description: Official city government
+  - name: Goodwill Industries of Greater Detroit
+    url: https://www.goodwilldetroit.org/
+    description: Donation and recycling partner
+  - name: Macomb Community College
+    url: https://www.macomb.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Macomb County
+    url: https://www.habitatmacomb.org/
+    description: Housing and donation partner
 
 pricing:
   startingPrice: 125

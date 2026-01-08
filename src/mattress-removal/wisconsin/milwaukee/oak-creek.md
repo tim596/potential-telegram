@@ -11,6 +11,19 @@ tier: 2
 coordinates:
   lat: 42.8861
   lng: -87.8634
+communityPartners:
+  - name: City of Oak Creek
+    url: https://www.oakcreekwi.gov/
+    description: Official city government
+  - name: Goodwill Industries of Southeastern Wisconsin
+    url: https://www.goodwillsew.com/
+    description: Donation and recycling partner
+  - name: Milwaukee Area Technical College
+    url: https://www.matc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Milwaukee
+    url: https://www.milwaukeehabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

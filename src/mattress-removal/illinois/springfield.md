@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 39.7817
   lng: -89.6501
+communityPartners:
+  - name: City of Springfield
+    url: https://www.springfield.il.us/
+    description: Official city government
+  - name: Land of Lincoln Goodwill Industries
+    url: https://www.llgi.org/
+    description: Donation and recycling partner
+  - name: University of Illinois Springfield
+    url: https://www.uis.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Sangamon County
+    url: https://www.habitatsangamon.com/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

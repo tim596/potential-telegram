@@ -9,9 +9,22 @@ stateAbbr: "NC"
 stateSlug: "north-carolina"
 parentMetro: "Raleigh"
 tier: 3
-coordinates: 
+coordinates:
   lat: 35.7321
   lng: -78.8503
+communityPartners:
+  - name: Town of Apex
+    url: https://www.apexnc.org/
+    description: Official town government
+  - name: Goodwill Industries of Eastern NC
+    url: https://www.gienc.org/
+    description: Donation and recycling partner
+  - name: Wake Tech Community College
+    url: https://www.waketech.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Wake County
+    url: https://www.habitatwake.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

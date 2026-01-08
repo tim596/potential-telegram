@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 32.7767
   lng: -96.7970
+communityPartners:
+  - name: City of Dallas
+    url: https://dallascityhall.com/
+    description: Official city government
+  - name: Goodwill Dallas
+    url: https://www.goodwilldallas.org/
+    description: Donation and recycling partner
+  - name: Southern Methodist University
+    url: https://www.smu.edu/
+    description: Campus community partner
+  - name: Dallas Area Habitat for Humanity
+    url: https://dallasareahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

@@ -7,6 +7,19 @@ parentMetro: Washington DC
 coordinates:
   lat: 39.0061
   lng: -77.4286
+communityPartners:
+  - name: Loudoun County Government
+    url: https://www.loudoun.gov/
+    description: Official county government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: Northern Virginia Community College
+    url: https://www.nvcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northern Virginia
+    url: https://www.habitatnova.org/
+    description: Housing and donation partner
 permalink: /mattress-removal/washington-dc/sterling/
 
 neighborhoods:

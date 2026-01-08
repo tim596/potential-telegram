@@ -7,9 +7,22 @@ state: Pennsylvania
 stateAbbr: PA
 tier: 2
 zipCodes: ['17601', '17602', '17603', '17604', '17605', '17606', '17607', '17608']
-coordinates: 
+coordinates:
   lat: 40.0379
   lng: -76.3055
+communityPartners:
+  - name: City of Lancaster
+    url: https://www.cityoflancasterpa.com/
+    description: Official city government
+  - name: Goodwill Keystone Area
+    url: https://www.yourgoodwill.org/
+    description: Donation and recycling partner
+  - name: Franklin & Marshall College
+    url: https://www.fandm.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Lancaster County
+    url: https://www.lancasterhabitat.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Cabbage Hill"
     zipCodes: ["17603"]

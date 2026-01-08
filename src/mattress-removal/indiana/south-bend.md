@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 41.6764
   lng: -86.2520
+communityPartners:
+  - name: City of South Bend
+    url: https://www.southbendin.gov/
+    description: Official city government
+  - name: Goodwill Industries of Michiana
+    url: https://www.goodwillni.org/
+    description: Donation and recycling partner
+  - name: University of Notre Dame
+    url: https://www.nd.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of St. Joseph County
+    url: https://www.habitatstjoe.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

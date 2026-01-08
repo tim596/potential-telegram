@@ -8,9 +8,22 @@ state: Maine
 stateSlug: maine
 parentMetro: Lewiston
 tier: 3
-coordinates: 
+coordinates:
   lat: 44.0906
   lng: -70.2309
+communityPartners:
+  - name: City of Auburn
+    url: https://www.auburnmaine.gov/
+    description: Official city government
+  - name: Goodwill Industries of Northern New England
+    url: https://www.goodwillnne.org/
+    description: Donation and recycling partner
+  - name: Central Maine Community College
+    url: https://www.cmcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Lewiston-Auburn
+    url: https://www.habitatlahabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

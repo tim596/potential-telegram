@@ -10,6 +10,19 @@ citySlug: "ashburn"
 zip: "20147"
 latitude: 39.0437
 longitude: -77.4875
+communityPartners:
+  - name: Loudoun County Government
+    url: https://www.loudoun.gov/
+    description: Official county government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: George Mason University
+    url: https://www.gmu.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northern Virginia
+    url: https://www.habitatnova.org/
+    description: Housing and donation partner
 tier: 2
 population: 46349
 businessLicense: "VA-AS-2025-008"

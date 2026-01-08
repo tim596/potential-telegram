@@ -7,6 +7,19 @@ stateSlug: ohio
 coordinates:
   lat: 41.0732
   lng: -81.5179
+communityPartners:
+  - name: City of Akron
+    url: https://www.akronohio.gov/
+    description: Official city government
+  - name: Goodwill Industries of Akron
+    url: https://www.goodwillakron.org/
+    description: Donation and recycling partner
+  - name: University of Akron
+    url: https://www.uakron.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Summit County
+    url: https://www.hfhsummitcounty.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

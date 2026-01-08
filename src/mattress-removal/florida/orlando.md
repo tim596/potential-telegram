@@ -8,6 +8,19 @@ tier: 1
 coordinates:
   lat: 28.5383
   lng: -81.3792
+communityPartners:
+  - name: City of Orlando
+    url: https://www.orlando.gov/
+    description: Official city government
+  - name: Goodwill of Central Florida
+    url: https://www.goodwillcfl.org/
+    description: Donation and recycling partner
+  - name: University of Central Florida
+    url: https://www.ucf.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Orlando
+    url: https://www.habitat-orlando.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

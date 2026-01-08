@@ -7,6 +7,19 @@ stateSlug: "wyoming"
 coordinates:
   lat: 42.8666
   lng: -106.3131
+communityPartners:
+  - name: City of Casper
+    url: https://www.casperwy.gov/
+    description: Official city government
+  - name: The Salvation Army Casper
+    url: https://casper.salvationarmy.org/
+    description: Donation and recycling partner
+  - name: Casper College
+    url: https://www.caspercollege.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Natrona County
+    url: https://www.habitatnatrona.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

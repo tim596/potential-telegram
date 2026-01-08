@@ -9,6 +9,19 @@ tier: 2
 coordinates:
   lat: 41.0793
   lng: -85.1394
+communityPartners:
+  - name: City of Fort Wayne
+    url: https://www.cityoffortwayne.org/
+    description: Official city government
+  - name: Goodwill Industries of Northeast Indiana
+    url: https://www.goodwillneindiana.org/
+    description: Donation and recycling partner
+  - name: Purdue University Fort Wayne
+    url: https://www.pfw.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Fort Wayne
+    url: https://www.fwhabitat.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

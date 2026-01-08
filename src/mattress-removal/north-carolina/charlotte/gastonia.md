@@ -10,6 +10,19 @@ parentMetro: Charlotte
 coordinates:
   lat: 35.2621
   lng: -81.1873
+communityPartners:
+  - name: City of Gastonia
+    url: https://www.gastonianc.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Southern Piedmont
+    url: https://goodwillsp.org/
+    description: Donation and recycling partner
+  - name: Gaston College
+    url: https://www.gaston.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Gaston County
+    url: https://www.habitatgaston.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

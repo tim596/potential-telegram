@@ -11,6 +11,19 @@ tier: 3
 coordinates:
   lat: 37.8044
   lng: -122.2712
+communityPartners:
+  - name: City of Oakland
+    url: https://www.oaklandca.gov/
+    description: Official city government
+  - name: Goodwill Industries of the Greater East Bay
+    url: https://eastbaygoodwill.org/
+    description: Donation and recycling partner
+  - name: Mills College at Northeastern University
+    url: https://www.northeastern.edu/mills/
+    description: Campus community partner
+  - name: Habitat for Humanity East Bay/Silicon Valley
+    url: https://www.habitatebsv.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

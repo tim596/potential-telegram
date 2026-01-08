@@ -8,9 +8,22 @@ stateAbbr: OH
 parentMetro: Canton
 tier: 2
 zipCodes: ['44702', '44703', '44704', '44705', '44706', '44707', '44708', '44709', '44710', '44714', '44718', '44720', '44721']
-coordinates: 
+coordinates:
   lat: 40.7989
   lng: -81.3781
+communityPartners:
+  - name: City of Canton
+    url: https://www.cantonohio.gov/
+    description: Official city government
+  - name: Goodwill Industries of Greater Cleveland and East Central Ohio
+    url: https://www.goodwillgoodskills.org/
+    description: Donation and recycling partner
+  - name: Walsh University
+    url: https://www.walsh.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity East Central Ohio
+    url: https://www.habitateco.org/
+    description: Housing and donation partner
 neighborhoods:
   - name: "Downtown Arts District"
     zipCodes: ["44702"]

@@ -5,9 +5,22 @@ city: Los Angeles
 state: California
 stateSlug: california
 tier: 1
-coordinates: 
+coordinates:
   lat: 34.0522
   lng: -118.2437
+communityPartners:
+  - name: City of Los Angeles
+    url: https://lacity.gov/
+    description: Official city government
+  - name: Goodwill Southern California
+    url: https://www.goodwillsocal.org/
+    description: Donation and recycling partner
+  - name: University of California, Los Angeles
+    url: https://www.ucla.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity of Greater Los Angeles
+    url: https://www.habitatla.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125

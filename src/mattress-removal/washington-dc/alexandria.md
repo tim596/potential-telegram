@@ -8,6 +8,19 @@ parentMetro: Washington DC
 coordinates:
   lat: 38.8048
   lng: -77.0469
+communityPartners:
+  - name: City of Alexandria
+    url: https://www.alexandriava.gov/
+    description: Official city government
+  - name: Goodwill of Greater Washington
+    url: https://www.dcgoodwill.org/
+    description: Donation and recycling partner
+  - name: Northern Virginia Community College
+    url: https://www.nvcc.edu/
+    description: Campus community partner
+  - name: Habitat for Humanity Northern Virginia
+    url: https://www.habitatnova.org/
+    description: Housing and donation partner
 pricing:
   startingPrice: 125
   single: 125
